@@ -1,0 +1,483 @@
+#NAME IPTV OPD 03.11.2025_mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fdance%2f004_ATB%20-%20Ecstasy%20(radio%20cut).mp3:004_ATB - Ecstasy (radio cut).mp3
+#DESCRIPTION 004_ATB - Ecstasy (radio cut).mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fdance%2f005_Magic%20Affair%20-%20Fly%20Away%20(La%20Serenissima%20Yanuo%20remix).mp3:005_Magic Affair - Fly Away (La Serenissima Yanuo remix).mp3
+#DESCRIPTION 005_Magic Affair - Fly Away (La Serenissima Yanuo remix).mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fdance%2f006_Cappella%20-%20U%20Got%202%20Let%20The%20Music%20(Unreleased%20Original%20re.mp3:006_Cappella - U Got 2 Let The Music (Unreleased Original re.mp3
+#DESCRIPTION 006_Cappella - U Got 2 Let The Music (Unreleased Original re.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fdance%2f007_Dee%20Robert%20-%20I%20Believe%20(Albert%20Cs%20Breakin%20It%20Up%20radio%20ed.mp3:007_Dee Robert - I Believe (Albert Cs Breakin It Up radio ed.mp3
+#DESCRIPTION 007_Dee Robert - I Believe (Albert Cs Breakin It Up radio ed.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fdance%2f008_Pulsedriver%20-%20Slammin%20(extended%20mix).mp3:008_Pulsedriver - Slammin (extended mix).mp3
+#DESCRIPTION 008_Pulsedriver - Slammin (extended mix).mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fdance%2f011_Heaven%20And%20Sky%20-%20Panorama%20(Original%20mix).mp3:011_Heaven And Sky - Panorama (Original mix).mp3
+#DESCRIPTION 011_Heaven And Sky - Panorama (Original mix).mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fdance%2f012_Joel%20Kalsi%20-%20Flying%20High%20(radio%20edit).mp3:012_Joel Kalsi - Flying High (radio edit).mp3
+#DESCRIPTION 012_Joel Kalsi - Flying High (radio edit).mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fdance%2f013_Dreamwave%20-%20Our%20Reality%20(Trance%20Maniax%20remix).mp3:013_Dreamwave - Our Reality (Trance Maniax remix).mp3
+#DESCRIPTION 013_Dreamwave - Our Reality (Trance Maniax remix).mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fdance%2f014_Randy%20Katana%20-%20In%20Silence.mp3:014_Randy Katana - In Silence.mp3
+#DESCRIPTION 014_Randy Katana - In Silence.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fdance%2f016_Trance%20Rockers%20-%20Behind%20Blue%20Eyes%20(Naksi%20vs.%20Brunner%20rad.mp3:016_Trance Rockers - Behind Blue Eyes (Naksi vs. Brunner rad.mp3
+#DESCRIPTION 016_Trance Rockers - Behind Blue Eyes (Naksi vs. Brunner rad.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fdance%2f017_Jan%20Wayne%20feat.%20Charlene%20-%20Here%20I%20Am%20(radio%20edit).mp3:017_Jan Wayne feat. Charlene - Here I Am (radio edit).mp3
+#DESCRIPTION 017_Jan Wayne feat. Charlene - Here I Am (radio edit).mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fdance%2f019_D-Code%20-%20My%20Immortal.mp3:019_D-Code - My Immortal.mp3
+#DESCRIPTION 019_D-Code - My Immortal.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fdance%2f020_DJ%20Tatana%20feat.%20Jael%20-%20Always%20On%20My%20Mind%20(radio%20edit).mp3:020_DJ Tatana feat. Jael - Always On My Mind (radio edit).mp3
+#DESCRIPTION 020_DJ Tatana feat. Jael - Always On My Mind (radio edit).mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fdance%2f021_Plummet%20-%20Cherish%20The%20Day%20(Antillas%20remix%20radio%20edit).mp3:021_Plummet - Cherish The Day (Antillas remix radio edit).mp3
+#DESCRIPTION 021_Plummet - Cherish The Day (Antillas remix radio edit).mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fdance%2f022_Floorfilla%20-%20Sex%20Is%20Danger%20(DJ%20Cerla%20Bootleg%20radio%20mix).mp3:022_Floorfilla - Sex Is Danger (DJ Cerla Bootleg radio mix).mp3
+#DESCRIPTION 022_Floorfilla - Sex Is Danger (DJ Cerla Bootleg radio mix).mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fdance%2f023_Boo%20Selekta%20-%20We%20Hate%20Hip%20Hop%20(Fuck%20U%20Up)%20(Avancada%20radi.mp3:023_Boo Selekta - We Hate Hip Hop (Fuck U Up) (Avancada radi.mp3
+#DESCRIPTION 023_Boo Selekta - We Hate Hip Hop (Fuck U Up) (Avancada radi.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fdance%2f024_4%20Strings%20-%20Turn%20It%20Around%20(radio%20edit).mp3:024_4 Strings - Turn It Around (radio edit).mp3
+#DESCRIPTION 024_4 Strings - Turn It Around (radio edit).mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fdance%2f025_Staccato%20-%20Can't%20You%20See.mp3:025_Staccato - Can't You See.mp3
+#DESCRIPTION 025_Staccato - Can't You See.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fdance%2f026_Tiesto%20feat.%20BT%20-%20Love%20Comes%20Again%20(radio%20edit).mp3:026_Tiesto feat. BT - Love Comes Again (radio edit).mp3
+#DESCRIPTION 026_Tiesto feat. BT - Love Comes Again (radio edit).mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fdance%2f027_Ian%20Van%20Dahl%20-%20Believe%20(Kontakt%20radio%20edit).mp3:027_Ian Van Dahl - Believe (Kontakt radio edit).mp3
+#DESCRIPTION 027_Ian Van Dahl - Believe (Kontakt radio edit).mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fdance%2f028_N-Trance%20-%20I'm%20In%20Heaven%20(State%20Of%20The%20Art%20remix).mp3:028_N-Trance - I'm In Heaven (State Of The Art remix).mp3
+#DESCRIPTION 028_N-Trance - I'm In Heaven (State Of The Art remix).mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f1976%20-%20Oxygene%2f%2001%20-%20Oxygene%20(Part%20I).mp3:01 - Oxygene (Part I).mp3
+#DESCRIPTION 01 - Oxygene (Part I).mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f1976%20-%20Oxygene%2f%2002%20-%20Oxygene%20(Part%20II).mp3:02 - Oxygene (Part II).mp3
+#DESCRIPTION 02 - Oxygene (Part II).mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f1976%20-%20Oxygene%2f%2003%20-%20Oxygene%20(Part%20III).mp3:03 - Oxygene (Part III).mp3
+#DESCRIPTION 03 - Oxygene (Part III).mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f1976%20-%20Oxygene%2f%2004%20-%20Oxygene%20(Part%20IV).mp3:04 - Oxygene (Part IV).mp3
+#DESCRIPTION 04 - Oxygene (Part IV).mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f1976%20-%20Oxygene%2f%2005%20-%20Oxygene%20(Part%20V).mp3:05 - Oxygene (Part V).mp3
+#DESCRIPTION 05 - Oxygene (Part V).mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f1976%20-%20Oxygene%2f%2006%20-%20Oxygene%20(Part%20VI).mp3:06 - Oxygene (Part VI).mp3
+#DESCRIPTION 06 - Oxygene (Part VI).mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD1%2f01-%20Maxi%20Priest%20-%20Close%20To%20You.mp3:01- Maxi Priest - Close To You.mp3
+#DESCRIPTION 01- Maxi Priest - Close To You.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD1%2f02-%20Dignity%20-%20Talk%20To%20Me.mp3:02- Dignity - Talk To Me.mp3
+#DESCRIPTION 02- Dignity - Talk To Me.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD1%2f03-%20Shara%20Nelson%20-%20Uptight.mp3:03- Shara Nelson - Uptight.mp3
+#DESCRIPTION 03- Shara Nelson - Uptight.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD1%2f04-%20Carleen%20Anderson%20-%20Mama%20Said.mp3:04- Carleen Anderson - Mama Said.mp3
+#DESCRIPTION 04- Carleen Anderson - Mama Said.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD1%2f05-%20Black%20Box%20-%20Fantasy.mp3:05- Black Box - Fantasy.mp3
+#DESCRIPTION 05- Black Box - Fantasy.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD1%2f06-%20Bucketheads%20-%20The%20Bomb.mp3:06- Bucketheads - The Bomb.mp3
+#DESCRIPTION 06- Bucketheads - The Bomb.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD1%2f07-%20Milk%20Inc.%20-%20Inside%20Of%20Me.mp3:07- Milk Inc. - Inside Of Me.mp3
+#DESCRIPTION 07- Milk Inc. - Inside Of Me.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD1%2f08-%20Luniz%20-%20I%20Got%205%20On%20It.mp3:08- Luniz - I Got 5 On It.mp3
+#DESCRIPTION 08- Luniz - I Got 5 On It.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD1%2f09-%20City%20To%20City%20-%20The%20Road%20Ahead.mp3:09- City To City - The Road Ahead.mp3
+#DESCRIPTION 09- City To City - The Road Ahead.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD1%2f10-%20Julian%20Lennon%20-%20Saltwater.mp3:10- Julian Lennon - Saltwater.mp3
+#DESCRIPTION 10- Julian Lennon - Saltwater.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD1%2f11-%20Trine%20Rein%20-%20Torn.mp3:11- Trine Rein - Torn.mp3
+#DESCRIPTION 11- Trine Rein - Torn.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD1%2f12-%20Meredith%20Brooks%20-%20Bitch.mp3:12- Meredith Brooks - Bitch.mp3
+#DESCRIPTION 12- Meredith Brooks - Bitch.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD1%2f13-%20Duran%20Duran%20-%20Ordinary%20World.mp3:13- Duran Duran - Ordinary World.mp3
+#DESCRIPTION 13- Duran Duran - Ordinary World.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD1%2f14-%20Terrorvision%20-%20Tequila.mp3:14- Terrorvision - Tequila.mp3
+#DESCRIPTION 14- Terrorvision - Tequila.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD1%2f15-%20Supernaturals%20-%20Smile.mp3:15- Supernaturals - Smile.mp3
+#DESCRIPTION 15- Supernaturals - Smile.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD1%2f16-%20Bentley%20Rhythm%20Ace%20-%20Bentley's%20Gonna%20Sort%20You%20Out.mp3:16- Bentley Rhythm Ace - Bentley's Gonna Sort You Out.mp3
+#DESCRIPTION 16- Bentley Rhythm Ace - Bentley's Gonna Sort You Out.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD2%2f01-%20Louise%20-%20Let's%20Go%20Round%20Again.mp3:01- Louise - Let's Go Round Again.mp3
+#DESCRIPTION 01- Louise - Let's Go Round Again.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD2%2f02-%20Eternal%20-%20Power%20Of%20A%20Woman.mp3:02- Eternal - Power Of A Woman.mp3
+#DESCRIPTION 02- Eternal - Power Of A Woman.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD2%2f03-%20Imaani%20-%20Where%20Are%20You.mp3:03- Imaani - Where Are You.mp3
+#DESCRIPTION 03- Imaani - Where Are You.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD2%2f04-%20Me%20%26%20My%20-%20Dub%20I%20Bub.mp3:04- Me &amp; My - Dub I Bub.mp3
+#DESCRIPTION 04- Me &amp; My - Dub I Bub.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD2%2f05-%20Whigfield%20-%20Saturday%20Night.mp3:05- Whigfield - Saturday Night.mp3
+#DESCRIPTION 05- Whigfield - Saturday Night.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD2%2f06-%20Mystic%20-%20Ritmo%20Se%20La%20Noche.mp3:06- Mystic - Ritmo Se La Noche.mp3
+#DESCRIPTION 06- Mystic - Ritmo Se La Noche.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD2%2f07-%20Soca%20Boys%20-%20Follow%20The%20Leader.mp3:07- Soca Boys - Follow The Leader.mp3
+#DESCRIPTION 07- Soca Boys - Follow The Leader.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD2%2f08-%202%20In%20A%20Room%20-%20Wiggle%20It.mp3:08- 2 In A Room - Wiggle It.mp3
+#DESCRIPTION 08- 2 In A Room - Wiggle It.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD2%2f09-%20Mc%20Hammer%20-%20Addams%20Groove.mp3:09- Mc Hammer - Addams Groove.mp3
+#DESCRIPTION 09- Mc Hammer - Addams Groove.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD2%2f10-%20Vanilla%20Ice%20-%20Ice%20Ice%20Baby.mp3:10- Vanilla Ice - Ice Ice Baby.mp3
+#DESCRIPTION 10- Vanilla Ice - Ice Ice Baby.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD2%2f11-%20Chumbawamba%20-%20Thubthumping.mp3:11- Chumbawamba - Thubthumping.mp3
+#DESCRIPTION 11- Chumbawamba - Thubthumping.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD2%2f12-%20Something%20Happens%20-%20Parachute.mp3:12- Something Happens - Parachute.mp3
+#DESCRIPTION 12- Something Happens - Parachute.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD2%2f13-%20Abc%20-%20Love%20Conquers%20All.mp3:13- Abc - Love Conquers All.mp3
+#DESCRIPTION 13- Abc - Love Conquers All.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD2%2f14-%20Tim%20Finn%20-%20Persuation.mp3:14- Tim Finn - Persuation.mp3
+#DESCRIPTION 14- Tim Finn - Persuation.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD2%2f15-%20Thunder%20-%20In%20A%20Broken%20Dream.mp3:15- Thunder - In A Broken Dream.mp3
+#DESCRIPTION 15- Thunder - In A Broken Dream.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD2%2f16-%20Divinyls%20-%20I%20Touch%20Myself.mp3:16- Divinyls - I Touch Myself.mp3
+#DESCRIPTION 16- Divinyls - I Touch Myself.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD3%2f01-%20Shaggy%20-%20Boombastic.mp3:01- Shaggy - Boombastic.mp3
+#DESCRIPTION 01- Shaggy - Boombastic.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD3%2f02-%20Arrested%20Development%20-%20People%20Everyday.mp3:02- Arrested Development - People Everyday.mp3
+#DESCRIPTION 02- Arrested Development - People Everyday.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD3%2f03-%20Bamboo%20-%20Bamboogie.mp3:03- Bamboo - Bamboogie.mp3
+#DESCRIPTION 03- Bamboo - Bamboogie.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD3%2f05-%20Eternal%20%26%20Bebe%20Winans%20-%20I%20Wanna%20Be%20The%20Only%20One.mp3:05- Eternal &amp; Bebe Winans - I Wanna Be The Only One.mp3
+#DESCRIPTION 05- Eternal &amp; Bebe Winans - I Wanna Be The Only One.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD3%2f05-%20Shampoo%20-%20Trouble.mp3:05- Shampoo - Trouble.mp3
+#DESCRIPTION 05- Shampoo - Trouble.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD3%2f06-%20Jon%20Secada%20-%20Angel.mp3:06- Jon Secada - Angel.mp3
+#DESCRIPTION 06- Jon Secada - Angel.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD3%2f07-%20Kim%20Appleby%20-%20Don't%20Worry.mp3:07- Kim Appleby - Don't Worry.mp3
+#DESCRIPTION 07- Kim Appleby - Don't Worry.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD3%2f08-%20Healy%20%26%20Amos%20-%20Argentina.mp3:08- Healy &amp; Amos - Argentina.mp3
+#DESCRIPTION 08- Healy &amp; Amos - Argentina.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD3%2f09-%20Monie%20Love%20Vs%20Adeva%20-%20Ring%20My%20Bell.mp3:09- Monie Love Vs Adeva - Ring My Bell.mp3
+#DESCRIPTION 09- Monie Love Vs Adeva - Ring My Bell.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD3%2f10-%20Freddy%20Jackson%20-%20Me%20%26%20Mrs.%20Jones.mp3:10- Freddy Jackson - Me &amp; Mrs. Jones.mp3
+#DESCRIPTION 10- Freddy Jackson - Me &amp; Mrs. Jones.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD3%2f11-%20Robert%20Palmer%20-%20I'll%20Be%20Your%20Baby%20Tonight.mp3:11- Robert Palmer - I'll Be Your Baby Tonight.mp3
+#DESCRIPTION 11- Robert Palmer - I'll Be Your Baby Tonight.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD3%2f12-%20Concrete%20Blonde%20-%20Joey.mp3:12- Concrete Blonde - Joey.mp3
+#DESCRIPTION 12- Concrete Blonde - Joey.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD3%2f13-%20Poison%20-%20Stand.mp3:13- Poison - Stand.mp3
+#DESCRIPTION 13- Poison - Stand.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD3%2f14-%20Go%20West%20-%20Faithful.mp3:14- Go West - Faithful.mp3
+#DESCRIPTION 14- Go West - Faithful.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD3%2f15-%20Wilson%20Phillips%20-%20Hold%20On.mp3:15- Wilson Phillips - Hold On.mp3
+#DESCRIPTION 15- Wilson Phillips - Hold On.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD3%2f16-%20Chesney%20Hawkes%20-%20The%20One%20And%20Only.mp3:16- Chesney Hawkes - The One And Only.mp3
+#DESCRIPTION 16- Chesney Hawkes - The One And Only.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD4%2f01-%20D'angelo%20-%20Brown%20Sugar.mp3:01- D'angelo - Brown Sugar.mp3
+#DESCRIPTION 01- D'angelo - Brown Sugar.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD4%2f02-%20Charles%20%26%20Eddie%20-%20Would%20I%20Lie%20To%20You.mp3:02- Charles &amp; Eddie - Would I Lie To You.mp3
+#DESCRIPTION 02- Charles &amp; Eddie - Would I Lie To You.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD4%2f03-%20Fun%20Lovin'%20Criminals%20-%20King%20Of%20New%20York.mp3:03- Fun Lovin' Criminals - King Of New York.mp3
+#DESCRIPTION 03- Fun Lovin' Criminals - King Of New York.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD4%2f04-%20Rozalla%20-%20Everybody's%20Free%20[To%20Feel%20Good].mp3:04- Rozalla - Everybody's Free [To Feel Good].mp3
+#DESCRIPTION 04- Rozalla - Everybody's Free [To Feel Good].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD4%2f05-%20Ann%20Lee%20-%202%20Times.mp3:05- Ann Lee - 2 Times.mp3
+#DESCRIPTION 05- Ann Lee - 2 Times.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD4%2f06-%20Robin%20S%20-%20Show%20Me%20Love.mp3:06- Robin S - Show Me Love.mp3
+#DESCRIPTION 06- Robin S - Show Me Love.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD4%2f07-%20Black%20Box%20-%20Strike%20It%20Up.mp3:07- Black Box - Strike It Up.mp3
+#DESCRIPTION 07- Black Box - Strike It Up.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD4%2f08-%20Fpi%20Project%20-%20Eveybody%20[All%20Over%20The%20World].mp3:08- Fpi Project - Eveybody [All Over The World].mp3
+#DESCRIPTION 08- Fpi Project - Eveybody [All Over The World].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD4%2f09-%20Dj%20Bobo%20-%20Somebody%20Dance%20With%20Me.mp3:09- Dj Bobo - Somebody Dance With Me.mp3
+#DESCRIPTION 09- Dj Bobo - Somebody Dance With Me.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD4%2f10-%20Whigfield%20-%20Think%20Of%20You.mp3:10- Whigfield - Think Of You.mp3
+#DESCRIPTION 10- Whigfield - Think Of You.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD4%2f11-%20White%20Town%20-%20Your%20Woman.mp3:11- White Town - Your Woman.mp3
+#DESCRIPTION 11- White Town - Your Woman.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD4%2f12-%20Blind%20Melon%20-%20No%20Rain.mp3:12- Blind Melon - No Rain.mp3
+#DESCRIPTION 12- Blind Melon - No Rain.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD4%2f13-%20Sinead%20O'connor%20-%20Nothing%20Compares%202%20You.mp3:13- Sinead O'connor - Nothing Compares 2 You.mp3
+#DESCRIPTION 13- Sinead O'connor - Nothing Compares 2 You.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD4%2f14-%20Morrissey%20-%20The%20More%20You%20Ignore%20Me%20The%20Closer%20I%20Get.mp3:14- Morrissey - The More You Ignore Me The Closer I Get.mp3
+#DESCRIPTION 14- Morrissey - The More You Ignore Me The Closer I Get.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD4%2f15-%20Emf%20-%20Unbelievable.mp3:15- Emf - Unbelievable.mp3
+#DESCRIPTION 15- Emf - Unbelievable.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD4%2f16-%20Jesus%20Jones%20-%20Right%20Here%20Right%20Now.mp3:16- Jesus Jones - Right Here Right Now.mp3
+#DESCRIPTION 16- Jesus Jones - Right Here Right Now.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD5%2f01-%20Us3%20-%20Cantaloop.mp3:01- Us3 - Cantaloop.mp3
+#DESCRIPTION 01- Us3 - Cantaloop.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD5%2f02-%20Fun%20Lovin'%20Criminals%20-%20Scooby%20Snack.mp3:02- Fun Lovin' Criminals - Scooby Snack.mp3
+#DESCRIPTION 02- Fun Lovin' Criminals - Scooby Snack.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD5%2f03-%20Arrested%20Development%20-%20Mr.%20Wendal.mp3:03- Arrested Development - Mr. Wendal.mp3
+#DESCRIPTION 03- Arrested Development - Mr. Wendal.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD5%2f04-%20Black%20Box%20-%20Everybody%20Everybody.mp3:04- Black Box - Everybody Everybody.mp3
+#DESCRIPTION 04- Black Box - Everybody Everybody.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD5%2f05-%20Rozalla%20-%20Faith.mp3:05- Rozalla - Faith.mp3
+#DESCRIPTION 05- Rozalla - Faith.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD5%2f06-%20Dj%20Bobo%20-%20Let%20The%20Dream%20Come%20True.mp3:06- Dj Bobo - Let The Dream Come True.mp3
+#DESCRIPTION 06- Dj Bobo - Let The Dream Come True.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD5%2f07-%20Cut%20'n%20Move%20-%20Give%20It%20Up.mp3:07- Cut 'n Move - Give It Up.mp3
+#DESCRIPTION 07- Cut 'n Move - Give It Up.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD5%2f08-%20Ziggy%20Marley%20%26%20Melody%20Makers%20-%20Kozmik.mp3:08- Ziggy Marley &amp; Melody Makers - Kozmik.mp3
+#DESCRIPTION 08- Ziggy Marley &amp; Melody Makers - Kozmik.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD5%2f09-%20Louise%20-%20Naked%20[Radio%20Mix].mp3:09- Louise - Naked [Radio Mix].mp3
+#DESCRIPTION 09- Louise - Naked [Radio Mix].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD5%2f10-%20Cartoons%20-%20Aisy%20Waisy.mp3:10- Cartoons - Aisy Waisy.mp3
+#DESCRIPTION 10- Cartoons - Aisy Waisy.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD5%2f11-%20911%20-%20A%20Little%20Bit%20More.mp3:11- 911 - A Little Bit More.mp3
+#DESCRIPTION 11- 911 - A Little Bit More.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD5%2f12-%20Fool's%20Garden%20-%20Lemon%20Tree.mp3:12- Fool's Garden - Lemon Tree.mp3
+#DESCRIPTION 12- Fool's Garden - Lemon Tree.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD5%2f13-%20Go%20West%20-%20The%20Tracks%20Of%20My%20Tears.mp3:13- Go West - The Tracks Of My Tears.mp3
+#DESCRIPTION 13- Go West - The Tracks Of My Tears.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD5%2f14-%20Gary%20Moore%20-%20Still%20Got%20The%20Blues.mp3:14- Gary Moore - Still Got The Blues.mp3
+#DESCRIPTION 14- Gary Moore - Still Got The Blues.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD5%2f15-%20Marillion%20-%20Cover%20My%20Eyes.mp3:15- Marillion - Cover My Eyes.mp3
+#DESCRIPTION 15- Marillion - Cover My Eyes.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD5%2f16-%20Jesus%20Jones%20-%20Real%20Real%20Real.mp3:16- Jesus Jones - Real Real Real.mp3
+#DESCRIPTION 16- Jesus Jones - Real Real Real.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD6%2f01-%20Eternal%20-%20Stay.mp3:01- Eternal - Stay.mp3
+#DESCRIPTION 01- Eternal - Stay.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD6%2f02-%20Kim%20Appleby%20-%20G.L.A.D..mp3:02- Kim Appleby - G.L.A.D..mp3
+#DESCRIPTION 02- Kim Appleby - G.L.A.D..mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD6%2f03-%20Shaggy%20-%20O%20Carolina.mp3:03- Shaggy - O Carolina.mp3
+#DESCRIPTION 03- Shaggy - O Carolina.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD6%2f04-%20Axel%20Party%20-%20Don't%20Give%20Me%20Your%20Life.mp3:04- Axel Party - Don't Give Me Your Life.mp3
+#DESCRIPTION 04- Axel Party - Don't Give Me Your Life.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD6%2f05-%20Atlantic%20Ocean%20-%20Waterfall.mp3:05- Atlantic Ocean - Waterfall.mp3
+#DESCRIPTION 05- Atlantic Ocean - Waterfall.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD6%2f06-%20Bit%20Machine%20-%20Somebody%20Real.mp3:06- Bit Machine - Somebody Real.mp3
+#DESCRIPTION 06- Bit Machine - Somebody Real.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD6%2f07-%20N.U.K.E.%20Feat%20Marilyn%20Mariana%20-%20Nana.mp3:07- N.U.K.E. Feat Marilyn Mariana - Nana.mp3
+#DESCRIPTION 07- N.U.K.E. Feat Marilyn Mariana - Nana.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD6%2f08-%20Rozalla%20-%20Are%20You%20Ready%20To%20Fly.mp3:08- Rozalla - Are You Ready To Fly.mp3
+#DESCRIPTION 08- Rozalla - Are You Ready To Fly.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD6%2f09-%20Speedy%20J.%20-%20Pull%20Over.mp3:09- Speedy J. - Pull Over.mp3
+#DESCRIPTION 09- Speedy J. - Pull Over.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD6%2f10-%20Dj%20Bobo%20-%20Keep%20On%20Dancing.mp3:10- Dj Bobo - Keep On Dancing.mp3
+#DESCRIPTION 10- Dj Bobo - Keep On Dancing.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD6%2f11-%20Boston%20Dj's%20-%20Move%20Your%20Body.mp3:11- Boston Dj's - Move Your Body.mp3
+#DESCRIPTION 11- Boston Dj's - Move Your Body.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD6%2f12-%20Babylon%20Zoo%20-%20Spaceman.mp3:12- Babylon Zoo - Spaceman.mp3
+#DESCRIPTION 12- Babylon Zoo - Spaceman.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD6%2f13-%20Bran%20Van%203000%20-%20Drinking%20In%20L.A.mp3:13- Bran Van 3000 - Drinking In L.A.mp3
+#DESCRIPTION 13- Bran Van 3000 - Drinking In L.A.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD6%2f14-%20Blessed%20Union%20Of%20Souls%20-%20I%20Believe.mp3:14- Blessed Union Of Souls - I Believe.mp3
+#DESCRIPTION 14- Blessed Union Of Souls - I Believe.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD6%2f15-%20Wilson%20Phillips%20-%20You%20Won't%20See%20Me%20Cry.mp3:15- Wilson Phillips - You Won't See Me Cry.mp3
+#DESCRIPTION 15- Wilson Phillips - You Won't See Me Cry.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD6%2f16-%20Little%20River%20Band%20-%20Forever%20Blue.mp3:16- Little River Band - Forever Blue.mp3
+#DESCRIPTION 16- Little River Band - Forever Blue.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD7%2f01-%20Fun%20Lovin'%20Criminals%20-%20The%20Fun%20Lovin'%20Criminals.mp3:01- Fun Lovin' Criminals - The Fun Lovin' Criminals.mp3
+#DESCRIPTION 01- Fun Lovin' Criminals - The Fun Lovin' Criminals.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD7%2f02-%20Billy%20Idol%20-%20Cradle%20Of%20Love.mp3:02- Billy Idol - Cradle Of Love.mp3
+#DESCRIPTION 02- Billy Idol - Cradle Of Love.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD7%2f03-%20Carter%20The%20Unstoppable%20Sex%20Machine%20-%20Lean%20On%20Me%20I%20Won't%20Fall%20Over.mp3:03- Carter The Unstoppable Sex Machine - Lean On Me I Won't Fall Over.mp3
+#DESCRIPTION 03- Carter The Unstoppable Sex Machine - Lean On Me I Won't Fall Over.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD7%2f04-%20Deborah%20Harry%20%26%20Iggy%20Pop%20-%20Well%20Did%20You%20Evah.mp3:04- Deborah Harry &amp; Iggy Pop - Well Did You Evah.mp3
+#DESCRIPTION 04- Deborah Harry &amp; Iggy Pop - Well Did You Evah.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD7%2f05-%20Quireboys%20-%20Hey%20You.mp3:05- Quireboys - Hey You.mp3
+#DESCRIPTION 05- Quireboys - Hey You.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD7%2f06-%20Mc%20Hammer%20-%20You%20Can't%20Touch%20This.mp3:06- Mc Hammer - You Can't Touch This.mp3
+#DESCRIPTION 06- Mc Hammer - You Can't Touch This.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD7%2f07-%20Jt%20%26%20The%20Big%20Family%20-%20Moments%20In%20Soul.mp3:07- Jt &amp; The Big Family - Moments In Soul.mp3
+#DESCRIPTION 07- Jt &amp; The Big Family - Moments In Soul.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD7%2f08-%20Ruffneck%20Ft.%20Yavahn%20-%20Everybody%20Be%20Somebody.mp3:08- Ruffneck Ft. Yavahn - Everybody Be Somebody.mp3
+#DESCRIPTION 08- Ruffneck Ft. Yavahn - Everybody Be Somebody.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD7%2f09-%20Fpi%20Project%20-%20Rich%20In%20Paradise.mp3:09- Fpi Project - Rich In Paradise.mp3
+#DESCRIPTION 09- Fpi Project - Rich In Paradise.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD7%2f10-%20Bucketheads%20-%20Got%20Myself%20Together.mp3:10- Bucketheads - Got Myself Together.mp3
+#DESCRIPTION 10- Bucketheads - Got Myself Together.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD7%2f11-%20Whigfield%20-%20Another%20Day.mp3:11- Whigfield - Another Day.mp3
+#DESCRIPTION 11- Whigfield - Another Day.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD7%2f12-%20Ann%20Lee%20-%20Voices.mp3:12- Ann Lee - Voices.mp3
+#DESCRIPTION 12- Ann Lee - Voices.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD7%2f13-%20Kenny%20Thomas%20-%20Thinking%20About%20Your%20Love.mp3:13- Kenny Thomas - Thinking About Your Love.mp3
+#DESCRIPTION 13- Kenny Thomas - Thinking About Your Love.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD7%2f14-%20Wendy%20Moten%20-%20Come%20In%20Out%20Of%20The%20Rain.mp3:14- Wendy Moten - Come In Out Of The Rain.mp3
+#DESCRIPTION 14- Wendy Moten - Come In Out Of The Rain.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD7%2f15-%20Proclaimers%20-%20Let's%20Get%20Married.mp3:15- Proclaimers - Let's Get Married.mp3
+#DESCRIPTION 15- Proclaimers - Let's Get Married.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD7%2f16-%20Marillion%20-%20Sympathy.mp3:16- Marillion - Sympathy.mp3
+#DESCRIPTION 16- Marillion - Sympathy.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD8%2f01-%20Joe%20Cocker%20-%20Unchain%20My%20Heart.mp3:01- Joe Cocker - Unchain My Heart.mp3
+#DESCRIPTION 01- Joe Cocker - Unchain My Heart.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD8%2f02-%20Tom%20Jones%20%26%20Van%20Morrison%20-%20Carrying%20A%20Torch.mp3:02- Tom Jones &amp; Van Morrison - Carrying A Torch.mp3
+#DESCRIPTION 02- Tom Jones &amp; Van Morrison - Carrying A Torch.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD8%2f03-%20911%20-%20More%20Than%20A%20Woman.mp3:03- 911 - More Than A Woman.mp3
+#DESCRIPTION 03- 911 - More Than A Woman.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD8%2f04-%20Culture%20Club%20-%20I%20Just%20Wanna%20Be%20Loved.mp3:04- Culture Club - I Just Wanna Be Loved.mp3
+#DESCRIPTION 04- Culture Club - I Just Wanna Be Loved.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD8%2f05-%20Pato%20Banton%20-%20Baby%20Come%20Back.mp3:05- Pato Banton - Baby Come Back.mp3
+#DESCRIPTION 05- Pato Banton - Baby Come Back.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD8%2f06-%20Radios%20-%20She%20Goes%20Na%20Na%20Na.mp3:06- Radios - She Goes Na Na Na.mp3
+#DESCRIPTION 06- Radios - She Goes Na Na Na.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD8%2f07-%20Dennis%20Jones%20-%20Heart%20Of%20Gold.mp3:07- Dennis Jones - Heart Of Gold.mp3
+#DESCRIPTION 07- Dennis Jones - Heart Of Gold.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD8%2f08-%20Diana%20Ross%20-%20I%20Will%20Survive.mp3:08- Diana Ross - I Will Survive.mp3
+#DESCRIPTION 08- Diana Ross - I Will Survive.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD8%2f09-Stars%20On%2045%20-%20Club%20Hits.mp3:09-Stars On 45 - Club Hits.mp3
+#DESCRIPTION 09-Stars On 45 - Club Hits.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD8%2f10-%20Cartoons%20-%20Witch%20Doctor.mp3:10- Cartoons - Witch Doctor.mp3
+#DESCRIPTION 10- Cartoons - Witch Doctor.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD8%2f11-%20Outhere%20Brothers%20-%20Don't%20Stop%20[Wiggle%20Wiggle].mp3:11- Outhere Brothers - Don't Stop [Wiggle Wiggle].mp3
+#DESCRIPTION 11- Outhere Brothers - Don't Stop [Wiggle Wiggle].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD8%2f12-%20Whigfield%20-%20Sexy%20Eyes.mp3:12- Whigfield - Sexy Eyes.mp3
+#DESCRIPTION 12- Whigfield - Sexy Eyes.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD8%2f13-%20Black%20Box%20-%20I%20Don't%20Know%20Anybody%20Else.mp3:13- Black Box - I Don't Know Anybody Else.mp3
+#DESCRIPTION 13- Black Box - I Don't Know Anybody Else.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD8%2f14-%20Dj%20Bobo%20-%20Everybody.mp3:14- Dj Bobo - Everybody.mp3
+#DESCRIPTION 14- Dj Bobo - Everybody.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD8%2f15-%20De%20'lacey%20-%20Hideaway.mp3:15- De 'lacey - Hideaway.mp3
+#DESCRIPTION 15- De 'lacey - Hideaway.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD8%2f16-%20Simone%20Angel%20-%20Contact.mp3:16- Simone Angel - Contact.mp3
+#DESCRIPTION 16- Simone Angel - Contact.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2fAce_Of_Base-Platinum_and_Gold-2CD-2010-pLAN9%2f101-ace_of_base-all_that_she_wants.mp3:101-ace_of_base-all_that_she_wants.mp3
+#DESCRIPTION 101-ace_of_base-all_that_she_wants.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2fAce_Of_Base-Platinum_and_Gold-2CD-2010-pLAN9%2f102-ace_of_base-the_sign.mp3:102-ace_of_base-the_sign.mp3
+#DESCRIPTION 102-ace_of_base-the_sign.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2fAce_Of_Base-Platinum_and_Gold-2CD-2010-pLAN9%2f103-ace_of_base-beautiful_life.mp3:103-ace_of_base-beautiful_life.mp3
+#DESCRIPTION 103-ace_of_base-beautiful_life.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2fAce_Of_Base-Platinum_and_Gold-2CD-2010-pLAN9%2f104-ace_of_base-life_is_a_flower.mp3:104-ace_of_base-life_is_a_flower.mp3
+#DESCRIPTION 104-ace_of_base-life_is_a_flower.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2fAce_Of_Base-Platinum_and_Gold-2CD-2010-pLAN9%2f105-ace_of_base-lucky_love.mp3:105-ace_of_base-lucky_love.mp3
+#DESCRIPTION 105-ace_of_base-lucky_love.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2fAce_Of_Base-Platinum_and_Gold-2CD-2010-pLAN9%2f106-ace_of_base-always_have_always_will.mp3:106-ace_of_base-always_have_always_will.mp3
+#DESCRIPTION 106-ace_of_base-always_have_always_will.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2fAce_Of_Base-Platinum_and_Gold-2CD-2010-pLAN9%2f107-ace_of_base-wheel_of_fortune.mp3:107-ace_of_base-wheel_of_fortune.mp3
+#DESCRIPTION 107-ace_of_base-wheel_of_fortune.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2fAce_Of_Base-Platinum_and_Gold-2CD-2010-pLAN9%2f108-ace_of_base-dont_turn_around.mp3:108-ace_of_base-dont_turn_around.mp3
+#DESCRIPTION 108-ace_of_base-dont_turn_around.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2fAce_Of_Base-Platinum_and_Gold-2CD-2010-pLAN9%2f109-ace_of_base-cest_la_vie_(always_21).mp3:109-ace_of_base-cest_la_vie_(always_21).mp3
+#DESCRIPTION 109-ace_of_base-cest_la_vie_(always_21).mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2fAce_Of_Base-Platinum_and_Gold-2CD-2010-pLAN9%2f110-ace_of_base-beautiful_morning.mp3:110-ace_of_base-beautiful_morning.mp3
+#DESCRIPTION 110-ace_of_base-beautiful_morning.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2fAce_Of_Base-Platinum_and_Gold-2CD-2010-pLAN9%2f111-ace_of_base-happy_nation.mp3:111-ace_of_base-happy_nation.mp3
+#DESCRIPTION 111-ace_of_base-happy_nation.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2fAce_Of_Base-Platinum_and_Gold-2CD-2010-pLAN9%2f112-ace_of_base-ordinary_day.mp3:112-ace_of_base-ordinary_day.mp3
+#DESCRIPTION 112-ace_of_base-ordinary_day.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2fAce_Of_Base-Platinum_and_Gold-2CD-2010-pLAN9%2f113-ace_of_base-living_in_danger.mp3:113-ace_of_base-living_in_danger.mp3
+#DESCRIPTION 113-ace_of_base-living_in_danger.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2fAce_Of_Base-Platinum_and_Gold-2CD-2010-pLAN9%2f114-ace_of_base-cruel_summer.mp3:114-ace_of_base-cruel_summer.mp3
+#DESCRIPTION 114-ace_of_base-cruel_summer.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2fAce_Of_Base-Platinum_and_Gold-2CD-2010-pLAN9%2f115-ace_of_base-unspeakable.mp3:115-ace_of_base-unspeakable.mp3
+#DESCRIPTION 115-ace_of_base-unspeakable.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2fAce_Of_Base-Platinum_and_Gold-2CD-2010-pLAN9%2f116-ace_of_base-hallo_hallo.mp3:116-ace_of_base-hallo_hallo.mp3
+#DESCRIPTION 116-ace_of_base-hallo_hallo.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2fAce_Of_Base-Platinum_and_Gold-2CD-2010-pLAN9%2f201-ace_of_base-wheel_of_fortune_2009.mp3:201-ace_of_base-wheel_of_fortune_2009.mp3
+#DESCRIPTION 201-ace_of_base-wheel_of_fortune_2009.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2fAce_Of_Base-Platinum_and_Gold-2CD-2010-pLAN9%2f202-ace_of_base-the_sign_(the_remix).mp3:202-ace_of_base-the_sign_(the_remix).mp3
+#DESCRIPTION 202-ace_of_base-the_sign_(the_remix).mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2fAce_Of_Base-Platinum_and_Gold-2CD-2010-pLAN9%2f203-ace_of_base-never_gonna_say_im_sorry_(sweetbox_funky_mix).mp3:203-ace_of_base-never_gonna_say_im_sorry_(sweetbox_funky_mix).mp3
+#DESCRIPTION 203-ace_of_base-never_gonna_say_im_sorry_(sweetbox_funky_mix).mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2fAce_Of_Base-Platinum_and_Gold-2CD-2010-pLAN9%2f204-ace_of_base-cruel_summer_(soul_poets_house_bust).mp3:204-ace_of_base-cruel_summer_(soul_poets_house_bust).mp3
+#DESCRIPTION 204-ace_of_base-cruel_summer_(soul_poets_house_bust).mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2fAce_Of_Base-Platinum_and_Gold-2CD-2010-pLAN9%2f205-ace_of_base-life_is_a_flower_(soul_poets_night_club_mix).mp3:205-ace_of_base-life_is_a_flower_(soul_poets_night_club_mix).mp3
+#DESCRIPTION 205-ace_of_base-life_is_a_flower_(soul_poets_night_club_mix).mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2fAce_Of_Base-Platinum_and_Gold-2CD-2010-pLAN9%2f206-ace_of_base-all_that_she_wants_(madness_version).mp3:206-ace_of_base-all_that_she_wants_(madness_version).mp3
+#DESCRIPTION 206-ace_of_base-all_that_she_wants_(madness_version).mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2fAce_Of_Base-Platinum_and_Gold-2CD-2010-pLAN9%2f207-ace_of_base-lucky_love_(raggasol_version).mp3:207-ace_of_base-lucky_love_(raggasol_version).mp3
+#DESCRIPTION 207-ace_of_base-lucky_love_(raggasol_version).mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2fAce_Of_Base-Platinum_and_Gold-2CD-2010-pLAN9%2f208-ace_of_base-beautiful_life_(lenny_bs_house_of_joy_club_mix).mp3:208-ace_of_base-beautiful_life_(lenny_bs_house_of_joy_club_mix).mp3
+#DESCRIPTION 208-ace_of_base-beautiful_life_(lenny_bs_house_of_joy_club_mix).mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2fAce_Of_Base-Platinum_and_Gold-2CD-2010-pLAN9%2f209-ace_of_base-happy_nation_(moody_gold_mix).mp3:209-ace_of_base-happy_nation_(moody_gold_mix).mp3
+#DESCRIPTION 209-ace_of_base-happy_nation_(moody_gold_mix).mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2fAce_Of_Base-Platinum_and_Gold-2CD-2010-pLAN9%2f210-ace_of_base-cest_la_vie_(always_21)_(remix).mp3:210-ace_of_base-cest_la_vie_(always_21)_(remix).mp3
+#DESCRIPTION 210-ace_of_base-cest_la_vie_(always_21)_(remix).mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2fAce_Of_Base-Platinum_and_Gold-2CD-2010-pLAN9%2f211-ace_of_base-living_in_danger_(d-house_mix_short_version).mp3:211-ace_of_base-living_in_danger_(d-house_mix_short_version).mp3
+#DESCRIPTION 211-ace_of_base-living_in_danger_(d-house_mix_short_version).mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2fAce_Of_Base-Platinum_and_Gold-2CD-2010-pLAN9%2f212-ace_of_base-travel_to_romantis_(love_to_infinity_master_mix).mp3:212-ace_of_base-travel_to_romantis_(love_to_infinity_master_mix).mp3
+#DESCRIPTION 212-ace_of_base-travel_to_romantis_(love_to_infinity_master_mix).mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2fAce_Of_Base-Platinum_and_Gold-2CD-2010-pLAN9%2f213-ace_of_base-hallo_hallo_(dub).mp3:213-ace_of_base-hallo_hallo_(dub).mp3
+#DESCRIPTION 213-ace_of_base-hallo_hallo_(dub).mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2fAce_Of_Base-Platinum_and_Gold-2CD-2010-pLAN9%2f214-ace_of_base-megamix_(long_version).mp3:214-ace_of_base-megamix_(long_version).mp3
+#DESCRIPTION 214-ace_of_base-megamix_(long_version).mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fABBA%2fAbba%20GOLD%2f01%20Dancing%20Queen.mp3:01 Dancing Queen.mp3
+#DESCRIPTION 01 Dancing Queen.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fABBA%2fAbba%20GOLD%2f02%20Knowing%20Me,%20Knowing%20You.mp3:02 Knowing Me, Knowing You.mp3
+#DESCRIPTION 02 Knowing Me, Knowing You.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fABBA%2fAbba%20GOLD%2f03%20Take%20a%20Chance%20on%20Me.mp3:03 Take a Chance on Me.mp3
+#DESCRIPTION 03 Take a Chance on Me.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fABBA%2fAbba%20GOLD%2f04%20Mamma%20Mia.mp3:04 Mamma Mia.mp3
+#DESCRIPTION 04 Mamma Mia.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fABBA%2fAbba%20GOLD%2f06%20Summer%20Night%20City%20(Extended).mp3:06 Summer Night City (Extended).mp3
+#DESCRIPTION 06 Summer Night City (Extended).mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fABBA%2fAbba%20GOLD%2f06%20Super%20Trouper.mp3:06 Super Trouper.mp3
+#DESCRIPTION 06 Super Trouper.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fABBA%2fAbba%20GOLD%2f07%20I%20Have%20a%20Dream.mp3:07 I Have a Dream.mp3
+#DESCRIPTION 07 I Have a Dream.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fABBA%2fAbba%20GOLD%2f08%20The%20Winner%20Takes%20It%20All.mp3:08 The Winner Takes It All.mp3
+#DESCRIPTION 08 The Winner Takes It All.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fABBA%2fAbba%20GOLD%2f09%20Money,%20Money,%20Money.mp3:09 Money, Money, Money.mp3
+#DESCRIPTION 09 Money, Money, Money.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fABBA%2fAbba%20GOLD%2f10%20S.O.S..mp3:10 S.O.S..mp3
+#DESCRIPTION 10 S.O.S..mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fABBA%2fAbba%20GOLD%2f11%20Chiquitita.mp3:11 Chiquitita.mp3
+#DESCRIPTION 11 Chiquitita.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fABBA%2fAbba%20GOLD%2f12%20Fernando.mp3:12 Fernando.mp3
+#DESCRIPTION 12 Fernando.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fABBA%2fAbba%20GOLD%2f13%20Voulez-Vous.mp3:13 Voulez-Vous.mp3
+#DESCRIPTION 13 Voulez-Vous.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fABBA%2fAbba%20GOLD%2f14%20Gimme!%20Gimme!%20Gimme!%20(A%20Man%20After%20Midnight).mp3:14 Gimme! Gimme! Gimme! (A Man After Midnight).mp3
+#DESCRIPTION 14 Gimme! Gimme! Gimme! (A Man After Midnight).mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fABBA%2fAbba%20GOLD%2f15%20Does%20Your%20Mother%20Know.mp3:15 Does Your Mother Know.mp3
+#DESCRIPTION 15 Does Your Mother Know.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fABBA%2fAbba%20GOLD%2f16%20One%20of%20Us.mp3:16 One of Us.mp3
+#DESCRIPTION 16 One of Us.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fABBA%2fAbba%20GOLD%2f17%20I%20Do,%20I%20Do,%20I%20Do,%20I%20Do,%20I%20Do.mp3:17 I Do, I Do, I Do, I Do, I Do.mp3
+#DESCRIPTION 17 I Do, I Do, I Do, I Do, I Do.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fABBA%2fAbba%20GOLD%2f17%20The%20Name%20of%20the%20Game.mp3:17 The Name of the Game.mp3
+#DESCRIPTION 17 The Name of the Game.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fABBA%2fAbba%20GOLD%2f19%20Waterloo.mp3:19 Waterloo.mp3
+#DESCRIPTION 19 Waterloo.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fABBA%2fGreatest%20Hits%201%2f01%20-%20People%20Need%20Love.mp3:01 - People Need Love.mp3
+#DESCRIPTION 01 - People Need Love.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fABBA%2fGreatest%20Hits%201%2f02%20-%20He%20Is%20Your%20Brother.mp3:02 - He Is Your Brother.mp3
+#DESCRIPTION 02 - He Is Your Brother.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fABBA%2fGreatest%20Hits%201%2f03%20-%20Ring%20Ring.mp3:03 - Ring Ring.mp3
+#DESCRIPTION 03 - Ring Ring.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fABBA%2fGreatest%20Hits%201%2f04%20-%20Love%20Isn't%20Easy%20(But%20It%20Sure%20Is%20Hard%20Enough).mp3:04 - Love Isn't Easy (But It Sure Is Hard Enough).mp3
+#DESCRIPTION 04 - Love Isn't Easy (But It Sure Is Hard Enough).mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fABBA%2fGreatest%20Hits%201%2f05%20-%20Waterloo.mp3:05 - Waterloo.mp3
+#DESCRIPTION 05 - Waterloo.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fABBA%2fGreatest%20Hits%201%2f06%20-%20Honey,%20Honey.mp3:06 - Honey, Honey.mp3
+#DESCRIPTION 06 - Honey, Honey.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fABBA%2fGreatest%20Hits%201%2f07%20-%20So%20Long.mp3:07 - So Long.mp3
+#DESCRIPTION 07 - So Long.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fABBA%2fGreatest%20Hits%201%2f08%20-%20I%20Do,%20I%20Do,%20I%20Do,%20I%20Do,%20I%20Do.mp3:08 - I Do, I Do, I Do, I Do, I Do.mp3
+#DESCRIPTION 08 - I Do, I Do, I Do, I Do, I Do.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fABBA%2fGreatest%20Hits%201%2f09%20-%20Sos.mp3:09 - Sos.mp3
+#DESCRIPTION 09 - Sos.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fABBA%2fGreatest%20Hits%201%2f10%20-%20Mamma%20Mia.mp3:10 - Mamma Mia.mp3
+#DESCRIPTION 10 - Mamma Mia.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fABBA%2fGreatest%20Hits%201%2f11%20-%20Fernando.mp3:11 - Fernando.mp3
+#DESCRIPTION 11 - Fernando.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fABBA%2fGreatest%20Hits%201%2f12%20-%20Dancing%20Queen.mp3:12 - Dancing Queen.mp3
+#DESCRIPTION 12 - Dancing Queen.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fABBA%2fGreatest%20Hits%201%2f13%20-%20Money,%20Money,%20Money.mp3:13 - Money, Money, Money.mp3
+#DESCRIPTION 13 - Money, Money, Money.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fABBA%2fGreatest%20Hits%201%2f14%20-%20Knowing%20Me,%20Knowing%20You.mp3:14 - Knowing Me, Knowing You.mp3
+#DESCRIPTION 14 - Knowing Me, Knowing You.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fABBA%2fGreatest%20Hits%201%2f15%20-%20The%20Name%20Of%20The%20Game.mp3:15 - The Name Of The Game.mp3
+#DESCRIPTION 15 - The Name Of The Game.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fABBA%2fGreatest%20Hits%201%2f16%20-%20Take%20A%20Chance%20On%20Me.mp3:16 - Take A Chance On Me.mp3
+#DESCRIPTION 16 - Take A Chance On Me.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fABBA%2fGreatest%20Hits%201%2f17%20-%20Eagle.mp3:17 - Eagle.mp3
+#DESCRIPTION 17 - Eagle.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fABBA%2fGreatest%20Hits%201%2f18%20-%20Summer%20Night%20City.mp3:18 - Summer Night City.mp3
+#DESCRIPTION 18 - Summer Night City.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fABBA%2fGreatest%20Hits%201%2f19%20-%20Chiquitita.mp3:19 - Chiquitita.mp3
+#DESCRIPTION 19 - Chiquitita.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fABBA%2fGreatest%20Hits%201%2f20%20-%20Does%20Your%20Mother%20Know.mp3:20 - Does Your Mother Know.mp3
+#DESCRIPTION 20 - Does Your Mother Know.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fABBA%2fGreatest%20Hits%202%2f01%20-%20Voulez%20-%20Vous.mp3:01 - Voulez - Vous.mp3
+#DESCRIPTION 01 - Voulez - Vous.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fABBA%2fGreatest%20Hits%202%2f02%20-%20Angel%20Eyes.mp3:02 - Angel Eyes.mp3
+#DESCRIPTION 02 - Angel Eyes.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fABBA%2fGreatest%20Hits%202%2f03%20-%20Gimme!%20Gimme!%20Gimme!%20(A%20Man%20After%20Midnight).mp3:03 - Gimme! Gimme! Gimme! (A Man After Midnight).mp3
+#DESCRIPTION 03 - Gimme! Gimme! Gimme! (A Man After Midnight).mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fABBA%2fGreatest%20Hits%202%2f04%20-%20I%20Have%20A%20Dream.mp3:04 - I Have A Dream.mp3
+#DESCRIPTION 04 - I Have A Dream.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fABBA%2fGreatest%20Hits%202%2f05%20-%20The%20Winner%20Takes%20It%20All.mp3:05 - The Winner Takes It All.mp3
+#DESCRIPTION 05 - The Winner Takes It All.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fABBA%2fGreatest%20Hits%202%2f06%20-%20Super%20Trouper.mp3:06 - Super Trouper.mp3
+#DESCRIPTION 06 - Super Trouper.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fABBA%2fGreatest%20Hits%202%2f07%20-%20On%20And%20On%20And%20On.mp3:07 - On And On And On.mp3
+#DESCRIPTION 07 - On And On And On.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fABBA%2fGreatest%20Hits%202%2f08%20-%20Lay%20All%20Your%20Love%20On%20Me.mp3:08 - Lay All Your Love On Me.mp3
+#DESCRIPTION 08 - Lay All Your Love On Me.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fABBA%2fGreatest%20Hits%202%2f09%20-%20One%20Of%20Us.mp3:09 - One Of Us.mp3
+#DESCRIPTION 09 - One Of Us.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fABBA%2fGreatest%20Hits%202%2f10%20-%20When%20All%20Is%20Said%20And%20Done.mp3:10 - When All Is Said And Done.mp3
+#DESCRIPTION 10 - When All Is Said And Done.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fABBA%2fGreatest%20Hits%202%2f11%20-%20Head%20Over%20Heels.mp3:11 - Head Over Heels.mp3
+#DESCRIPTION 11 - Head Over Heels.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fABBA%2fGreatest%20Hits%202%2f12%20-%20The%20Visitors%20(Crackin'%20Up).mp3:12 - The Visitors (Crackin' Up).mp3
+#DESCRIPTION 12 - The Visitors (Crackin' Up).mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fABBA%2fGreatest%20Hits%202%2f13%20-%20The%20Day%20Before%20You%20Came.mp3:13 - The Day Before You Came.mp3
+#DESCRIPTION 13 - The Day Before You Came.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fABBA%2fGreatest%20Hits%202%2f14%20-%20Under%20Attack.mp3:14 - Under Attack.mp3
+#DESCRIPTION 14 - Under Attack.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fABBA%2fGreatest%20Hits%202%2f15%20-%20Thank%20You%20For%20The%20Music.mp3:15 - Thank You For The Music.mp3
+#DESCRIPTION 15 - Thank You For The Music.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fABBA%2fGreatest%20Hits%202%2f16%20-%20Ring%20Ring%20(1974%20Remix,%20Single%20Version).mp3:16 - Ring Ring (1974 Remix, Single Version).mp3
+#DESCRIPTION 16 - Ring Ring (1974 Remix, Single Version).mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fABBA%2fGreatest%20Hits%202%2f17%20-%20Voulez%20-%20Vous%20(Extended%20Remix,%201979%20US%20Promo).mp3:17 - Voulez - Vous (Extended Remix, 1979 US Promo).mp3
+#DESCRIPTION 17 - Voulez - Vous (Extended Remix, 1979 US Promo).mp3

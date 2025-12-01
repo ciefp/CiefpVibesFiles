@@ -1,0 +1,299 @@
+#NAME IPTV OPD Dance 08.11.2025
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%201/01.Boney%20M%20-%20Ma%20Baker.mp3:01.Boney M  Ma Baker.mp3
+#DESCRIPTION 01.Boney M  Ma Baker.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%201/02.Ottawan%20-%20Hands%20Up.mp3:02.Ottawan  Hands Up.mp3
+#DESCRIPTION 02.Ottawan  Hands Up.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%201/03.Modern%20Talking%20-%20Youre%20My%20Heart%20Youre%20My%20Soul.mp3:03.Modern Talking  Youre My Heart Youre My Soul.mp3
+#DESCRIPTION 03.Modern Talking  Youre My Heart Youre My Soul.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%201/04.Bad%20Boys%20Blue%20-%20Youre%20A%20Woman.mp3:04.Bad Boys Blue  Youre A Woman.mp3
+#DESCRIPTION 04.Bad Boys Blue  Youre A Woman.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%201/05.Euroption%20-%20One%20Way%20Ticket.mp3:05.Euroption  One Way Ticket.mp3
+#DESCRIPTION 05.Euroption  One Way Ticket.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%201/06.Dschinghis%20Khan%20%20-%20Moscau.mp3:06.Dschinghis Khan   Moscau.mp3
+#DESCRIPTION 06.Dschinghis Khan   Moscau.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%201/07.Afric%20Simone%20%20-%20Hafanana.mp3:07.Afric Simone   Hafanana.mp3
+#DESCRIPTION 07.Afric Simone   Hafanana.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%201/08.Joy%20%20-%20Touch%20By%20Touch.mp3:08.Joy   Touch By Touch.mp3
+#DESCRIPTION 08.Joy   Touch By Touch.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%201/09.Silent%20Circle%20%20-%20Moonlight%20Affair.mp3:09.Silent Circle   Moonlight Affair.mp3
+#DESCRIPTION 09.Silent Circle   Moonlight Affair.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%201/10.Secret%20Service%20-%20Ten%20Oclock%20Postman.mp3:10.Secret Service  Ten Oclock Postman.mp3
+#DESCRIPTION 10.Secret Service  Ten Oclock Postman.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%201/11.Abba%20%20-%20Dancing%20Queen.mp3:11.Abba   Dancing Queen.mp3
+#DESCRIPTION 11.Abba   Dancing Queen.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%201/12.Desireless%20-%20Voyage%20Voyage.mp3:12.Desireless  Voyage Voyage.mp3
+#DESCRIPTION 12.Desireless  Voyage Voyage.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%201/13.F.R.%20David%20-%20Words.mp3:13.F.R. David  Words.mp3
+#DESCRIPTION 13.F.R. David  Words.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%201/14.Sandra%20%20-%20Everlasting%20Love.mp3:14.Sandra   Everlasting Love.mp3
+#DESCRIPTION 14.Sandra   Everlasting Love.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%201/15.C.C.%20Catch%20%20-%20Cause%20You%20Are%20Young.mp3:15.C.C. Catch   Cause You Are Young.mp3
+#DESCRIPTION 15.C.C. Catch   Cause You Are Young.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%201/16.Scotch%20-%20Disco%20Band.mp3:16.Scotch  Disco Band.mp3
+#DESCRIPTION 16.Scotch  Disco Band.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%201/17.Sabrina%20-%20Boys.mp3:17.Sabrina  Boys.mp3
+#DESCRIPTION 17.Sabrina  Boys.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%201/18.Savage%20%20-%20Dont%20Cry%20Tonight.mp3:18.Savage   Dont Cry Tonight.mp3
+#DESCRIPTION 18.Savage   Dont Cry Tonight.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%201/19.A.%20Celentano%20-%20Susanna.mp3:19.A. Celentano  Susanna.mp3
+#DESCRIPTION 19.A. Celentano  Susanna.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%201/AlbumArtSmall.jpg:AlbumArtSmall.jpg
+#DESCRIPTION AlbumArtSmall.jpg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%201/Folder.jpg:Folder.jpg
+#DESCRIPTION Folder.jpg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%202/01.Opus%20-%20Life%20Is%20Life.mp3:01.Opus  Life Is Life.mp3
+#DESCRIPTION 01.Opus  Life Is Life.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%202/02.Teach%20In%20-%20Ding%20A%20Dong.mp3:02.Teach In  Ding A Dong.mp3
+#DESCRIPTION 02.Teach In  Ding A Dong.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%202/03.Gloria%20Gaynor%20-%20I%20Will%20Survive.mp3:03.Gloria Gaynor  I Will Survive.mp3
+#DESCRIPTION 03.Gloria Gaynor  I Will Survive.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%202/04.Bee%20Gees%20-%20Staying%20A%20Live.mp3:04.Bee Gees  Staying A Live.mp3
+#DESCRIPTION 04.Bee Gees  Staying A Live.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%202/05.Kaoma%20-%20Lambada.mp3:05.Kaoma  Lambada.mp3
+#DESCRIPTION 05.Kaoma  Lambada.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%202/06.Murray%20Head%20-%20One%20Night%20In%20Bangcock.mp3:06.Murray Head  One Night In Bangcock.mp3
+#DESCRIPTION 06.Murray Head  One Night In Bangcock.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%202/07.Eddy%20Huntington%20-%20U.s.s.r..mp3:07.Eddy Huntington  U.s.s.r..mp3
+#DESCRIPTION 07.Eddy Huntington  U.s.s.r..mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%202/08.Blue%20System%20-%20Love%20Me%20On%20The%20Rocks.mp3:08.Blue System  Love Me On The Rocks.mp3
+#DESCRIPTION 08.Blue System  Love Me On The Rocks.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%202/09.Vaya%20Con%20Dios%20-%20Nah%20Neh%20Nah.mp3:09.Vaya Con Dios  Nah Neh Nah.mp3
+#DESCRIPTION 09.Vaya Con Dios  Nah Neh Nah.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%202/10.Arabesque%20-%20Midnight%20Dancer.mp3:10.Arabesque  Midnight Dancer.mp3
+#DESCRIPTION 10.Arabesque  Midnight Dancer.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%202/11.Goombay%20Dance%20Band%20-%20Marakesh.mp3:11.Goombay Dance Band  Marakesh.mp3
+#DESCRIPTION 11.Goombay Dance Band  Marakesh.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%202/12.Baccara%20-%20Cara%20Mia.mp3:12.Baccara  Cara Mia.mp3
+#DESCRIPTION 12.Baccara  Cara Mia.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%202/13.Tony%20Esposito%20-%20Kalimba%20De%20Luna.mp3:13.Tony Esposito  Kalimba De Luna.mp3
+#DESCRIPTION 13.Tony Esposito  Kalimba De Luna.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%202/14.Michael%20Jackson%20-%20Bad.mp3:14.Michael Jackson  Bad.mp3
+#DESCRIPTION 14.Michael Jackson  Bad.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%202/15.Maywood%20-%20Pasadena.mp3:15.Maywood  Pasadena.mp3
+#DESCRIPTION 15.Maywood  Pasadena.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%202/16.Christie%20-%20Yellow%20River.mp3:16.Christie  Yellow River.mp3
+#DESCRIPTION 16.Christie  Yellow River.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%202/17.Videokids%20-%20Do%20The%20Rap.mp3:17.Videokids  Do The Rap.mp3
+#DESCRIPTION 17.Videokids  Do The Rap.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%202/18.George%20Harrison%20-%20Got%20My%20Mind%20Set%20On%20You.mp3:18.George Harrison  Got My Mind Set On You.mp3
+#DESCRIPTION 18.George Harrison  Got My Mind Set On You.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%202/19.Laid%20Back%20-%20Sunshine%20Reggae.mp3:19.Laid Back  Sunshine Reggae.mp3
+#DESCRIPTION 19.Laid Back  Sunshine Reggae.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%202/20.Lian%20Ross%20-%20Say%20Youll%20Never.mp3:20.Lian Ross  Say Youll Never.mp3
+#DESCRIPTION 20.Lian Ross  Say Youll Never.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%202/AlbumArtSmall.jpg:AlbumArtSmall.jpg
+#DESCRIPTION AlbumArtSmall.jpg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%202/Folder.jpg:Folder.jpg
+#DESCRIPTION Folder.jpg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%203/01.Taco%20-%20Puttin%20On%20The%20Ritz.mp3:01.Taco  Puttin On The Ritz.mp3
+#DESCRIPTION 01.Taco  Puttin On The Ritz.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%203/02.Camouflage%20-%20Love%20Is%20A%20Shield.mp3:02.Camouflage  Love Is A Shield.mp3
+#DESCRIPTION 02.Camouflage  Love Is A Shield.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%203/03.Falco%20-%20Rock%20Me%20Amadeus.mp3:03.Falco  Rock Me Amadeus.mp3
+#DESCRIPTION 03.Falco  Rock Me Amadeus.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%203/04.Fancy%20-%20Flames%20Of%20Love.mp3:04.Fancy  Flames Of Love.mp3
+#DESCRIPTION 04.Fancy  Flames Of Love.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%203/05.Ricchi%20E%20Poveri%20-%20Mama%20Maria.mp3:05.Ricchi E Poveri  Mama Maria.mp3
+#DESCRIPTION 05.Ricchi E Poveri  Mama Maria.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%203/06.Chris%20Norman%20&amp;%20Suzi%20Quatro%20-%20Stumblin%20In.mp3:06.Chris Norman &amp; Suzi Quatro  Stumblin In.mp3
+#DESCRIPTION 06.Chris Norman &amp; Suzi Quatro  Stumblin In.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%203/07.Pet%20Shop%20Boys%20-%20Always%20On%20My%20Mind.mp3:07.Pet Shop Boys  Always On My Mind.mp3
+#DESCRIPTION 07.Pet Shop Boys  Always On My Mind.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%203/08.Kylie%20Minogue%20-%20The%20Loco-Motion.mp3:08.Kylie Minogue  The LocoMotion.mp3
+#DESCRIPTION 08.Kylie Minogue  The LocoMotion.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%203/09.Les%20MCkeown%20-%20Love%20Is%20Just%20Abreath%20Away.mp3:09.Les MCkeown  Love Is Just Abreath Away.mp3
+#DESCRIPTION 09.Les MCkeown  Love Is Just Abreath Away.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%203/10.Patty%20Ryan%20-%20Youre%20My%20Love%20%20My%20Life.mp3:10.Patty Ryan  Youre My Love  My Life.mp3
+#DESCRIPTION 10.Patty Ryan  Youre My Love  My Life.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%203/11.Mr.%20Zhivago%20-%20Little%20Russian.mp3:11.Mr. Zhivago  Little Russian.mp3
+#DESCRIPTION 11.Mr. Zhivago  Little Russian.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%203/12.Cerrone%20-%20Supernature.mp3:12.Cerrone  Supernature.mp3
+#DESCRIPTION 12.Cerrone  Supernature.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%203/13.C.%20C.%20Catch%20-%20Summer%20Kisses.mp3:13.C. C. Catch  Summer Kisses.mp3
+#DESCRIPTION 13.C. C. Catch  Summer Kisses.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%203/14.Baltimora%20-%20Tarzan%20Boy.mp3:14.Baltimora  Tarzan Boy.mp3
+#DESCRIPTION 14.Baltimora  Tarzan Boy.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%203/15.Alphaville%20-%20Big%20In%20Japan.mp3:15.Alphaville  Big In Japan.mp3
+#DESCRIPTION 15.Alphaville  Big In Japan.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%203/16.Key%20West%20-%20Sorry%20%20Sorry%20%20Sorry.mp3:16.Key West  Sorry  Sorry  Sorry.mp3
+#DESCRIPTION 16.Key West  Sorry  Sorry  Sorry.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%203/17.London%20Beat%20-%20Ive%20Been%20Thinking%20About%20You.mp3:17.London Beat  Ive Been Thinking About You.mp3
+#DESCRIPTION 17.London Beat  Ive Been Thinking About You.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%203/18.Al%20Bano%20&amp;%20Romina%20Power%20-%20Felicita.mp3:18.Al Bano &amp; Romina Power  Felicita.mp3
+#DESCRIPTION 18.Al Bano &amp; Romina Power  Felicita.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%203/19.Gilla%20-%20Johny.mp3:19.Gilla  Johny.mp3
+#DESCRIPTION 19.Gilla  Johny.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%203/20.Gazebo%20-%20I%20Like%20Chopin.mp3:20.Gazebo  I Like Chopin.mp3
+#DESCRIPTION 20.Gazebo  I Like Chopin.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%203/AlbumArtSmall.jpg:AlbumArtSmall.jpg
+#DESCRIPTION AlbumArtSmall.jpg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%203/Folder.jpg:Folder.jpg
+#DESCRIPTION Folder.jpg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%204/01.%20Silent%20Circle%20-%20Touch%20In%20The%20Night.mp3:Silent Circle  Touch In The Night.mp3
+#DESCRIPTION Silent Circle  Touch In The Night.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%204/02.%20Savage%20-%20Goodbye.mp3:Savage  Goodbye.mp3
+#DESCRIPTION Savage  Goodbye.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%204/03.%20Sandra%20-%20Around%20My%20Heart.mp3:Sandra  Around My Heart.mp3
+#DESCRIPTION Sandra  Around My Heart.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%204/04.%20Boney%20M%20-%20Daddy%20Cool.mp3:Boney M  Daddy Cool.mp3
+#DESCRIPTION Boney M  Daddy Cool.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%204/05.%20Sabrina%20-%20My%20Chico.mp3:Sabrina  My Chico.mp3
+#DESCRIPTION Sabrina  My Chico.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%204/06.%20Ottawan%20-%20D.i.s.c.o..mp3:Ottawan  D.i.s.c.o..mp3
+#DESCRIPTION Ottawan  D.i.s.c.o..mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%204/07.%20Modern%20Talking%20-%20Cheri%20%20Cheri%20Lady.mp3:Modern Talking  Cheri  Cheri Lady.mp3
+#DESCRIPTION Modern Talking  Cheri  Cheri Lady.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%204/08.%20Falco%20-%20Vienna%20Calling.mp3:Falco  Vienna Calling.mp3
+#DESCRIPTION Falco  Vienna Calling.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%204/09.%20Dschinghis%20Khan%20%20-%20Rocking%20Son%20Of%20Dschinghis%20Khan.mp3:Dschinghis Khan   Rocking Son Of Dschinghis Khan.mp3
+#DESCRIPTION Dschinghis Khan   Rocking Son Of Dschinghis Khan.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%204/10.%20Jason%20Donovan%20-%20Nothing%20Can%20Divide%20Us.mp3:Jason Donovan  Nothing Can Divide Us.mp3
+#DESCRIPTION Jason Donovan  Nothing Can Divide Us.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%204/11.%20Abba%20-%20Take%20A%20Chance%20On%20Me.mp3:Abba  Take A Chance On Me.mp3
+#DESCRIPTION Abba  Take A Chance On Me.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%204/12.%20Eddy%20Huntington%20-%20Physical%20Attraction.mp3:Eddy Huntington  Physical Attraction.mp3
+#DESCRIPTION Eddy Huntington  Physical Attraction.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%204/13.%20Digital%20Emotion%20-%20Go%20Go%20Yellow%20Screen.mp3:Digital Emotion  Go Go Yellow Screen.mp3
+#DESCRIPTION Digital Emotion  Go Go Yellow Screen.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%204/14.%20Arabesque%20-%20In%20For%20A%20Penny%20%20In%20For%20A%20Pound.mp3:Arabesque  In For A Penny  In For A Pound.mp3
+#DESCRIPTION Arabesque  In For A Penny  In For A Pound.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%204/15.%20Scotch%20-%20Delirio%20Mind.mp3:Scotch  Delirio Mind.mp3
+#DESCRIPTION Scotch  Delirio Mind.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%204/16.%20Cerrone%20-%20Give%20Me%20Love.mp3:Cerrone  Give Me Love.mp3
+#DESCRIPTION Cerrone  Give Me Love.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%204/17.%20MC%20Miker%20&amp;%20DJ%20Sven%20-%20Holiday%20Rap.mp3:MC Miker &amp; DJ Sven  Holiday Rap.mp3
+#DESCRIPTION MC Miker &amp; DJ Sven  Holiday Rap.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%204/18.%20Michael%20Cretu%20-%20Samurai.mp3:Michael Cretu  Samurai.mp3
+#DESCRIPTION Michael Cretu  Samurai.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%204/19.%20Joy%20-%20Valerie.mp3:Joy  Valerie.mp3
+#DESCRIPTION Joy  Valerie.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%204/20.%20Patty%20Ryan%20-%20Youre%20My%20Love%20%20Youre%20My%20Life.mp3:Patty Ryan  Youre My Love  Youre My Life.mp3
+#DESCRIPTION Patty Ryan  Youre My Love  Youre My Life.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%204/21.%20Lipps%20Inc.%20-%20Funky%20Town.mp3:Lipps Inc.  Funky Town.mp3
+#DESCRIPTION Lipps Inc.  Funky Town.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%204/22.%20Laserdance%20-%20Humanoid%20Invasion.mp3:Laserdance  Humanoid Invasion.mp3
+#DESCRIPTION Laserdance  Humanoid Invasion.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%204/AlbumArtSmall.jpg:AlbumArtSmall.jpg
+#DESCRIPTION AlbumArtSmall.jpg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%204/Folder.jpg:Folder.jpg
+#DESCRIPTION Folder.jpg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%205/01.%20Modern%20Talking%20-%20Geronimos%20Cadillac.mp3:Modern Talking  Geronimos Cadillac.mp3
+#DESCRIPTION Modern Talking  Geronimos Cadillac.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%205/02.%20Savage%20-%20Only%20You.mp3:Savage  Only You.mp3
+#DESCRIPTION Savage  Only You.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%205/03.%20Mike%20Mareen%20-%20Agent%20Of%20Liberty.mp3:Mike Mareen  Agent Of Liberty.mp3
+#DESCRIPTION Mike Mareen  Agent Of Liberty.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%205/04.%20Baccara%20-%20Yes%20Sir%20%20I%20Can%20Boogie.mp3:Baccara  Yes Sir  I Can Boogie.mp3
+#DESCRIPTION Baccara  Yes Sir  I Can Boogie.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%205/05.%20Chris%20Norman%20-%20Hunters%20Of%20The%20Night.mp3:Chris Norman  Hunters Of The Night.mp3
+#DESCRIPTION Chris Norman  Hunters Of The Night.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%205/06.%20Mauro%20-%20Bona%20Sera%20%20Ciao.mp3:Mauro  Bona Sera  Ciao.mp3
+#DESCRIPTION Mauro  Bona Sera  Ciao.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%205/07.%20Babys%20Gang%20-%20Challenger.mp3:Babys Gang  Challenger.mp3
+#DESCRIPTION Babys Gang  Challenger.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%205/08.%20Okay%20-%20Okay!.mp3:Okay  Okay!.mp3
+#DESCRIPTION Okay  Okay!.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%205/09.%20Righeira%20-%20Vamos%20A%20La%20Playa.mp3:Righeira  Vamos A La Playa.mp3
+#DESCRIPTION Righeira  Vamos A La Playa.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%205/10.%20Mozzart%20-%20My%20Jasmine%20China%20Girl.mp3:Mozzart  My Jasmine China Girl.mp3
+#DESCRIPTION Mozzart  My Jasmine China Girl.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%205/11.%20Erasure%20-%20Love%20To%20Hate%20You.mp3:Erasure  Love To Hate You.mp3
+#DESCRIPTION Erasure  Love To Hate You.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%205/12.%20Ken%20Laszlo%20-%201%202%203%204%205%206%207.mp3:Ken Laszlo  7.mp3
+#DESCRIPTION Ken Laszlo  7.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%205/13.%20Moon%20Ray%20-%20Comanchero.mp3:Moon Ray  Comanchero.mp3
+#DESCRIPTION Moon Ray  Comanchero.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%205/14.%20Debute%20De%20Soiree%20-%20Nuit%20De%20Follee.mp3:Debute De Soiree  Nuit De Follee.mp3
+#DESCRIPTION Debute De Soiree  Nuit De Follee.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%205/15.%20Danuta%20-%20Touch%20My%20Heart.mp3:Danuta  Touch My Heart.mp3
+#DESCRIPTION Danuta  Touch My Heart.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%205/16.%20Digital%20Emotion%20-%20Get%20Up.mp3:Digital Emotion  Get Up.mp3
+#DESCRIPTION Digital Emotion  Get Up.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%205/17.%20Village%20People%20%20-%20Y.m.c.a..mp3:Village People   Y.m.c.a..mp3
+#DESCRIPTION Village People   Y.m.c.a..mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%205/18.%20Radiorama%20-%20Aliens.mp3:Radiorama  Aliens.mp3
+#DESCRIPTION Radiorama  Aliens.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%205/19.%20Ottawan%20%20-%20%20Youre%20Ok!.mp3:Ottawan    Youre Ok!.mp3
+#DESCRIPTION Ottawan    Youre Ok!.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%205/20.%20Space%20-%20Magic%20Fly.mp3:Space  Magic Fly.mp3
+#DESCRIPTION Space  Magic Fly.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%205/AlbumArtSmall.jpg:AlbumArtSmall.jpg
+#DESCRIPTION AlbumArtSmall.jpg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%205/Folder.jpg:Folder.jpg
+#DESCRIPTION Folder.jpg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%206/01.%20Santa%20Esmeralda%20-%20Dont%20Let%20Me%20Be%20Misunderstood.mp3:Santa Esmeralda  Dont Let Me Be Misunderstood.mp3
+#DESCRIPTION Santa Esmeralda  Dont Let Me Be Misunderstood.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%206/02.%20Kaoma%20-%20Dancando%20Lambada.mp3:Kaoma  Dancando Lambada.mp3
+#DESCRIPTION Kaoma  Dancando Lambada.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%206/03.%20Dschinghis%20Khan%20-%20Samurai.mp3:Dschinghis Khan  Samurai.mp3
+#DESCRIPTION Dschinghis Khan  Samurai.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%206/04.%20Silver%20Convention%20-%20Fly%20Robin%20Fly.mp3:Silver Convention  Fly Robin Fly.mp3
+#DESCRIPTION Silver Convention  Fly Robin Fly.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%206/05.%20Maywood%20-%20Rio.mp3:Maywood  Rio.mp3
+#DESCRIPTION Maywood  Rio.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%206/06.%20Jason%20Donovan%20-%20Too%20Many%20Broken%20Hearts.mp3:Jason Donovan  Too Many Broken Hearts.mp3
+#DESCRIPTION Jason Donovan  Too Many Broken Hearts.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%206/07.%20Abba%20-%20Money%20%20Money%20%20Money.mp3:Abba  Money  Money  Money.mp3
+#DESCRIPTION Abba  Money  Money  Money.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%206/08.%20Imagination%20-%20Just%20An%20Illision.mp3:Imagination  Just An Illision.mp3
+#DESCRIPTION Imagination  Just An Illision.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%206/09.%20Cerrone%20-%20Love%20In%20%d0%a1%20Minor.mp3:Cerrone  Love In С Minor.mp3
+#DESCRIPTION Cerrone  Love In С Minor.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%206/10.%20Chilly%20-%20Sunshine%20Of%20Your%20Love.mp3:Chilly  Sunshine Of Your Love.mp3
+#DESCRIPTION Chilly  Sunshine Of Your Love.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%206/11.%20Luv%20-%20Don%20Juanite%20De%20Carnaval.mp3:Luv  Don Juanite De Carnaval.mp3
+#DESCRIPTION Luv  Don Juanite De Carnaval.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%206/12.%20Clock%20-%20Axel%20F.mp3:Clock  Axel F.mp3
+#DESCRIPTION Clock  Axel F.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%206/13.%20A%20La%20Carte%20-%20Ring%20Me%20Honey.mp3:A La Carte  Ring Me Honey.mp3
+#DESCRIPTION A La Carte  Ring Me Honey.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%206/14.%20La%20Bionda%20-%20I%20Wanna%20Be%20Your%20Lover.mp3:La Bionda  I Wanna Be Your Lover.mp3
+#DESCRIPTION La Bionda  I Wanna Be Your Lover.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%206/15.%20Supermax%20-%20So%20I.mp3:Supermax  So I.mp3
+#DESCRIPTION Supermax  So I.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%206/16.%20Caeser%20-%20My%20Black%20Lady.mp3:Caeser  My Black Lady.mp3
+#DESCRIPTION Caeser  My Black Lady.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%206/17.%20Saphir%20-%20Storm%20Of%20Love.mp3:Saphir  Storm Of Love.mp3
+#DESCRIPTION Saphir  Storm Of Love.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%206/18.%20Amadeus%20List%20-%20Win%20The%20Race.mp3:Amadeus List  Win The Race.mp3
+#DESCRIPTION Amadeus List  Win The Race.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%206/19.%20Happy%20Hour%20-%20We%20Gehts.mp3:Happy Hour  We Gehts.mp3
+#DESCRIPTION Happy Hour  We Gehts.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%206/20.%20Laserdance%20-%20Powerrun.mp3:Laserdance  Powerrun.mp3
+#DESCRIPTION Laserdance  Powerrun.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%206/AlbumArtSmall.jpg:AlbumArtSmall.jpg
+#DESCRIPTION AlbumArtSmall.jpg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%206/Folder.jpg:Folder.jpg
+#DESCRIPTION Folder.jpg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%207/01.%20Gazebo%20-%20Lunatic.mp3:Gazebo  Lunatic.mp3
+#DESCRIPTION Gazebo  Lunatic.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%207/02.%20Earth%20%20Wind%20&amp;%20Fire%20-%20Boogie%20Wonderland.mp3:Earth  Wind &amp; Fire  Boogie Wonderland.mp3
+#DESCRIPTION Earth  Wind &amp; Fire  Boogie Wonderland.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%207/03.%20Samantha%20Fox%20-%20Touch%20Me.mp3:Samantha Fox  Touch Me.mp3
+#DESCRIPTION Samantha Fox  Touch Me.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%207/04.%20Mozzart%20-%20Money.mp3:Mozzart  Money.mp3
+#DESCRIPTION Mozzart  Money.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%207/05.%20Passengers%20-%20Casino%20%20Casino.mp3:Passengers  Casino  Casino.mp3
+#DESCRIPTION Passengers  Casino  Casino.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%207/06.%20Supermax%20-%20It%20Aint%20Easy.mp3:Supermax  It Aint Easy.mp3
+#DESCRIPTION Supermax  It Aint Easy.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%207/07.%20Falco%20-%20Jeanny.mp3:Falco  Jeanny.mp3
+#DESCRIPTION Falco  Jeanny.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%207/08.%20A%20La%20Carte%20-%20Do%20Wah%20Diddy.mp3:A La Carte  Do Wah Diddy.mp3
+#DESCRIPTION A La Carte  Do Wah Diddy.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%207/09.%20La%20Bionda%20-%20Sandstorm.mp3:La Bionda  Sandstorm.mp3
+#DESCRIPTION La Bionda  Sandstorm.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%207/10.%20Giorgio%20Moroder%20-%20Love%20Thenme%20From.mp3:Giorgio Moroder  Love Thenme From.mp3
+#DESCRIPTION Giorgio Moroder  Love Thenme From.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%207/AlbumArtSmall.jpg:AlbumArtSmall.jpg
+#DESCRIPTION AlbumArtSmall.jpg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/CD%207/Folder.jpg:Folder.jpg
+#DESCRIPTION Folder.jpg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/Covers/1000%25%20Disco.jpg:1000% Disco.jpg
+#DESCRIPTION 1000% Disco.jpg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/Covers/1000Disco.jpg:1000Disco.jpg
+#DESCRIPTION 1000Disco.jpg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/Covers/mfo.txt:mfo.txt
+#DESCRIPTION mfo.txt
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/My%20Music/Albums/1000%25%20Disco/Covers/Thumbs.db:Thumbs.db
+#DESCRIPTION Thumbs.db

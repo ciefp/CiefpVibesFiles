@@ -1,0 +1,635 @@
+#NAME IPTV OPD mix mp3 3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fA%20Flock%20of%20Seagulls%20-%20I%20Ran%20%5bOctober%201982%5d.mp3:A Flock of Seagulls - I Ran [October 1982].mp3
+#DESCRIPTION A Flock of Seagulls - I Ran [October 1982].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fA-Ha%20-%20Take%20On%20Me%20(Extended%20Version).mp3:A-Ha - Take On Me (Extended Version).mp3
+#DESCRIPTION A-Ha - Take On Me (Extended Version).mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fA-ha%20-%20The%20Sun%20Always%20Shines%20On%20Tv.mp3:A-ha - The Sun Always Shines On Tv.mp3
+#DESCRIPTION A-ha - The Sun Always Shines On Tv.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fAerosmith%20%26amp;%20Run%20DMC%20-%20Walk%20This%20Way%20%5bSeptember%201986%5d.mp3:Aerosmith &amp; Run DMC - Walk This Way [September 1986].mp3
+#DESCRIPTION Aerosmith &amp; Run DMC - Walk This Way [September 1986].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fAerosmith%20-%20Dude%20Looks%20Like%20A%20Lady%20%5bSeptember%201987%5d.mp3:Aerosmith - Dude Looks Like A Lady [September 1987].mp3
+#DESCRIPTION Aerosmith - Dude Looks Like A Lady [September 1987].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fAfric%20Simone%20-%20Ramaya.mp3:Afric Simone - Ramaya.mp3
+#DESCRIPTION Afric Simone - Ramaya.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fAll%20I%20Wanna%20Do.mp3:All I Wanna Do.mp3
+#DESCRIPTION All I Wanna Do.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fAll%20I%20Want.mp3:All I Want.mp3
+#DESCRIPTION All I Want.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fAll%20Mixed%20Up.mp3:All Mixed Up.mp3
+#DESCRIPTION All Mixed Up.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fAll%20That%20She%20Wants.mp3:All That She Wants.mp3
+#DESCRIPTION All That She Wants.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fAlphaville%20-%20Big%20In%20Japan%20(Extended%20Remix).mp3:Alphaville - Big In Japan (Extended Remix).mp3
+#DESCRIPTION Alphaville - Big In Japan (Extended Remix).mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fAlways%20Be%20My%20Baby.mp3:Always Be My Baby.mp3
+#DESCRIPTION Always Be My Baby.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fAmanda%20Lear%20-%20Queen%20of%20Chinatown.mp3:Amanda Lear - Queen of Chinatown.mp3
+#DESCRIPTION Amanda Lear - Queen of Chinatown.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fAmii%20Steward%20-%20Knock%20on%20Wood.mp3:Amii Steward - Knock on Wood.mp3
+#DESCRIPTION Amii Steward - Knock on Wood.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fAngie.mp3:Angie.mp3
+#DESCRIPTION Angie.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fAnita%20Ward%20-%20Ring%20My%20bell.mp3:Anita Ward - Ring My bell.mp3
+#DESCRIPTION Anita Ward - Ring My bell.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fAnother%20Night.mp3:Another Night.mp3
+#DESCRIPTION Another Night.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fAre%20You%20Gonna%20Go%20My%20Way.mp3:Are You Gonna Go My Way.mp3
+#DESCRIPTION Are You Gonna Go My Way.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fAuthority%20Song.mp3:Authority Song.mp3
+#DESCRIPTION Authority Song.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fBaba%20O'Riley.mp3:Baba O'Riley.mp3
+#DESCRIPTION Baba O'Riley.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fBaby%20Baby.mp3:Baby Baby.mp3
+#DESCRIPTION Baby Baby.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fBaby%20Got%20Back.mp3:Baby Got Back.mp3
+#DESCRIPTION Baby Got Back.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fBad%20Boys%20Blue%20-%20You're%20A%20Woman.mp3:Bad Boys Blue - You're A Woman.mp3
+#DESCRIPTION Bad Boys Blue - You're A Woman.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fBad%20Love.mp3:Bad Love.mp3
+#DESCRIPTION Bad Love.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fBad%20To%20The%20Bone.mp3:Bad To The Bone.mp3
+#DESCRIPTION Bad To The Bone.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fBananarama%20-%20Venus%20%5bSeptember%201986%5d.mp3:Bananarama - Venus [September 1986].mp3
+#DESCRIPTION Bananarama - Venus [September 1986].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fBasket%20Case.mp3:Basket Case.mp3
+#DESCRIPTION Basket Case.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fBe%20Gees%20-%20To%20Love%20Somebody%20.mp3:Be Gees - To Love Somebody .mp3
+#DESCRIPTION Be Gees - To Love Somebody .mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fBecause%20the%20Night.mp3:Because the Night.mp3
+#DESCRIPTION Because the Night.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fBerlin%20-%20Take%20My%20Breath%20Away%20%5bSeptember%201986%5d.mp3:Berlin - Take My Breath Away [September 1986].mp3
+#DESCRIPTION Berlin - Take My Breath Away [September 1986].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fBilly%20Ocean%20-%20Get%20Outta%20My%20Dreams%20%5bApril%201988%5d.mp3:Billy Ocean - Get Outta My Dreams [April 1988].mp3
+#DESCRIPTION Billy Ocean - Get Outta My Dreams [April 1988].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fBlack%20or%20White.mp3:Black or White.mp3
+#DESCRIPTION Black or White.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fBlaze%20of%20Glory.mp3:Blaze of Glory.mp3
+#DESCRIPTION Blaze of Glory.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fBlondie%20-%20Call%20Me%20%5bMarch%201980%5d.mp3:Blondie - Call Me [March 1980].mp3
+#DESCRIPTION Blondie - Call Me [March 1980].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fBlondie%20-%20Heart%20of%20Glas.mp3:Blondie - Heart of Glas.mp3
+#DESCRIPTION Blondie - Heart of Glas.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fBlondie%20-%20Heart%20of%20Glass.mp3:Blondie - Heart of Glass.mp3
+#DESCRIPTION Blondie - Heart of Glass.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fBobby%20McFerrin%20-%20Don't%20Worry%20Be%20Happy%20%5bSeptember%201988%5d.mp3:Bobby McFerrin - Don't Worry Be Happy [September 1988].mp3
+#DESCRIPTION Bobby McFerrin - Don't Worry Be Happy [September 1988].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fBoney%20M%20-%20Rivers%20Of%20Babylon%20'88%20(Acid%20House%20Mix).mp3:Boney M - Rivers Of Babylon '88 (Acid House Mix).mp3
+#DESCRIPTION Boney M - Rivers Of Babylon '88 (Acid House Mix).mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fBoney%20M.%20-%20Ma%20Baker.mp3:Boney M. - Ma Baker.mp3
+#DESCRIPTION Boney M. - Ma Baker.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fBonnie%20Tyler%20-%20Holding%20Out%20For%20A%20Hero.mp3:Bonnie Tyler - Holding Out For A Hero.mp3
+#DESCRIPTION Bonnie Tyler - Holding Out For A Hero.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fBoys%20Town%20Gang%20-%20Can't%20Take%20My%20Eyes%20Off%20You.mp3:Boys Town Gang - Can't Take My Eyes Off You.mp3
+#DESCRIPTION Boys Town Gang - Can't Take My Eyes Off You.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fBreak%20it%20Down.mp3:Break it Down.mp3
+#DESCRIPTION Break it Down.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fBreakfast%20At%20Tiffanys.mp3:Breakfast At Tiffanys.mp3
+#DESCRIPTION Breakfast At Tiffanys.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fbruce%20%26amp;%20bongo%20-%20ballet%20dancer.mp3:bruce &amp; bongo - ballet dancer.mp3
+#DESCRIPTION bruce &amp; bongo - ballet dancer.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fBruce%20Springsteen%20-%20Born%20In%20The%20USA.mp3:Bruce Springsteen - Born In The USA.mp3
+#DESCRIPTION Bruce Springsteen - Born In The USA.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fBruce%20Springsteen%20-%20Glory%20Days.mp3:Bruce Springsteen - Glory Days.mp3
+#DESCRIPTION Bruce Springsteen - Glory Days.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fBurning%20Heart.mp3:Burning Heart.mp3
+#DESCRIPTION Burning Heart.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fC'est%20La%20Vie.mp3:C'est La Vie.mp3
+#DESCRIPTION C'est La Vie.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fCameo%20-%20Word%20Up!%20%5bNovember%201986%5d.mp3:Cameo - Word Up! [November 1986].mp3
+#DESCRIPTION Cameo - Word Up! [November 1986].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fCarl%20Douglas%20-%20Kung%20Fu%20Fighting.mp3:Carl Douglas - Kung Fu Fighting.mp3
+#DESCRIPTION Carl Douglas - Kung Fu Fighting.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fChaka%20Khan%20-%20I%20Feel%20For%20You.mp3:Chaka Khan - I Feel For You.mp3
+#DESCRIPTION Chaka Khan - I Feel For You.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fChic%20-%20Good%20Times.mp3:Chic - Good Times.mp3
+#DESCRIPTION Chic - Good Times.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fChic%20-%20Le%20freak.mp3:Chic - Le freak.mp3
+#DESCRIPTION Chic - Le freak.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fChuck%20Berry%20-%20You%20never%20can%20tell.mp3:Chuck Berry - You never can tell.mp3
+#DESCRIPTION Chuck Berry - You never can tell.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fCongo.mp3:Congo.mp3
+#DESCRIPTION Congo.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fCrazy%202.mp3:Crazy 2.mp3
+#DESCRIPTION Crazy 2.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fCrazy.mp3:Crazy.mp3
+#DESCRIPTION Crazy.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fCreep%201.mp3:Creep 1.mp3
+#DESCRIPTION Creep 1.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fCryin'.mp3:Cryin'.mp3
+#DESCRIPTION Cryin'.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fCulture%20Beat%20-%20Mr.%20Vain.mp3:Culture Beat - Mr. Vain.mp3
+#DESCRIPTION Culture Beat - Mr. Vain.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fCulture%20Club%20-%20Do%20You%20Really%20Want%20To%20Hurt%20Me%20%5bMarch%201983%5d.mp3:Culture Club - Do You Really Want To Hurt Me [March 1983].mp3
+#DESCRIPTION Culture Club - Do You Really Want To Hurt Me [March 1983].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fCulture%20Club%20-%20Karma%20Chameleon%20%5bFebruary%201984%5d.mp3:Culture Club - Karma Chameleon [February 1984].mp3
+#DESCRIPTION Culture Club - Karma Chameleon [February 1984].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fCutting%20Crew%20-%20I%20Just%20Died%20In%20Your%20Arms%20%5bMay%201987%5d.mp3:Cutting Crew - I Just Died In Your Arms [May 1987].mp3
+#DESCRIPTION Cutting Crew - I Just Died In Your Arms [May 1987].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fCyndi%20Lauper%20-%20Girls%20Just%20Wanna%20Have%20Fun%20%5bMarch%201984%5d.mp3:Cyndi Lauper - Girls Just Wanna Have Fun [March 1984].mp3
+#DESCRIPTION Cyndi Lauper - Girls Just Wanna Have Fun [March 1984].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fCyndi%20Lauper%20-%20Time%20After%20Time%20%5bJune%201984%5d.mp3:Cyndi Lauper - Time After Time [June 1984].mp3
+#DESCRIPTION Cyndi Lauper - Time After Time [June 1984].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fDavid%20Bowie%20-%20Lets%20Dance.mp3:David Bowie - Lets Dance.mp3
+#DESCRIPTION David Bowie - Lets Dance.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fDead%20Ar%20Alive%20-%20You%20Spin%20Me%20Right%20Round.mp3:Dead Ar Alive - You Spin Me Right Round.mp3
+#DESCRIPTION Dead Ar Alive - You Spin Me Right Round.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fdesireless%20-%20voyage%20voyage.mp3:desireless - voyage voyage.mp3
+#DESCRIPTION desireless - voyage voyage.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fDevo%20-%20Whip%20It%20%5bNovember%201980%5d.mp3:Devo - Whip It [November 1980].mp3
+#DESCRIPTION Devo - Whip It [November 1980].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fDexy's%20Midnight%20Runners%20-%20Come%20On%20Eileen%20%5bApril%201983%5d.mp3:Dexy's Midnight Runners - Come On Eileen [April 1983].mp3
+#DESCRIPTION Dexy's Midnight Runners - Come On Eileen [April 1983].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fDexy's%20Midnight%20Runners%20-%20Come%20On%20Eileen.mp3:Dexy's Midnight Runners - Come On Eileen.mp3
+#DESCRIPTION Dexy's Midnight Runners - Come On Eileen.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fDiana%20Roos%20-%20I%20m%20Coming%20Out.mp3:Diana Roos - I m Coming Out.mp3
+#DESCRIPTION Diana Roos - I m Coming Out.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fdiana%20ross%20-%20upside%20down.mp3:diana ross - upside down.mp3
+#DESCRIPTION diana ross - upside down.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fDJ%20OETZI%20-%20Hey%20Baby.mp3:DJ OETZI - Hey Baby.mp3
+#DESCRIPTION DJ OETZI - Hey Baby.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fDon't%20Speak.mp3:Don't Speak.mp3
+#DESCRIPTION Don't Speak.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fDonna%20Summer%20-%20Hot%20Stuff.mp3:Donna Summer - Hot Stuff.mp3
+#DESCRIPTION Donna Summer - Hot Stuff.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fDont%20Turn%20Around.mp3:Dont Turn Around.mp3
+#DESCRIPTION Dont Turn Around.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fDr.%20Alban%20-%20Sing%20Hallelujah.mp3:Dr. Alban - Sing Hallelujah.mp3
+#DESCRIPTION Dr. Alban - Sing Hallelujah.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fDreams.mp3:Dreams.mp3
+#DESCRIPTION Dreams.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fDuran%20Duran%20-%20Hungry%20Like%20The%20Wolf%20%5bMarch%201983%5d.mp3:Duran Duran - Hungry Like The Wolf [March 1983].mp3
+#DESCRIPTION Duran Duran - Hungry Like The Wolf [March 1983].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fEarth%20Wind%20and%20Fire%20-%20September.mp3:Earth Wind and Fire - September.mp3
+#DESCRIPTION Earth Wind and Fire - September.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fEarth,%20Wind%20and%20Fire%20-%20Let's%20Groove.mp3:Earth, Wind and Fire - Let's Groove.mp3
+#DESCRIPTION Earth, Wind and Fire - Let's Groove.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fEdge%20Of%20Seventeen.mp3:Edge Of Seventeen.mp3
+#DESCRIPTION Edge Of Seventeen.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fEnd%20of%20the%20Road.mp3:End of the Road.mp3
+#DESCRIPTION End of the Road.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fEnjoy%20the%20Silence.mp3:Enjoy the Silence.mp3
+#DESCRIPTION Enjoy the Silence.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fEscapade.mp3:Escapade.mp3
+#DESCRIPTION Escapade.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fEurope%20-%20The%20Final%20Countdown.mp3:Europe - The Final Countdown.mp3
+#DESCRIPTION Europe - The Final Countdown.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fEurythmics%20-%20Sweet%20Dreams%20%5bAugust%201983%5d.mp3:Eurythmics - Sweet Dreams [August 1983].mp3
+#DESCRIPTION Eurythmics - Sweet Dreams [August 1983].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fEverybody%20Dance%20Now.mp3:Everybody Dance Now.mp3
+#DESCRIPTION Everybody Dance Now.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fEverything%20I%20Do%20I%20Do%20I.mp3:Everything I Do I Do I.mp3
+#DESCRIPTION Everything I Do I Do I.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fEvil%20Woman.mp3:Evil Woman.mp3
+#DESCRIPTION Evil Woman.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2ff.r.%20david%20-%20words.mp3:f.r. david - words.mp3
+#DESCRIPTION f.r. david - words.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fFalco%20-%20Rock%20Me%20Amadeus%20%5bApril%201986%5d.mp3:Falco - Rock Me Amadeus [April 1986].mp3
+#DESCRIPTION Falco - Rock Me Amadeus [April 1986].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2ffancy%20-%20flames%20of%20love.mp3:fancy - flames of love.mp3
+#DESCRIPTION fancy - flames of love.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fFine%20Young%20Cannibals%20-%20She%20Drives%20Me%20Crazy%20%5bApril%201989%5d.mp3:Fine Young Cannibals - She Drives Me Crazy [April 1989].mp3
+#DESCRIPTION Fine Young Cannibals - She Drives Me Crazy [April 1989].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fForeigner%20-%20I%20Want%20To%20Know%20What%20Love%20Is%20%5bFebruary%201985%5d.mp3:Foreigner - I Want To Know What Love Is [February 1985].mp3
+#DESCRIPTION Foreigner - I Want To Know What Love Is [February 1985].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fFrankie%20Goes%20To%20Hollywood%20-%20Relax%20(Come%20Fighting).mp3:Frankie Goes To Hollywood - Relax (Come Fighting).mp3
+#DESCRIPTION Frankie Goes To Hollywood - Relax (Come Fighting).mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fFriday%20I'm%20in%20Love.mp3:Friday I'm in Love.mp3
+#DESCRIPTION Friday I'm in Love.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fGangsters%20Paradise.mp3:Gangsters Paradise.mp3
+#DESCRIPTION Gangsters Paradise.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fGary%20Numan%20-%20Cars%20%5bJune%201980%5d.mp3:Gary Numan - Cars [June 1980].mp3
+#DESCRIPTION Gary Numan - Cars [June 1980].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fGenesis%20%26amp;%20Peter%20Gabriel%20-%20In%20Your%20Eyes.mp3:Genesis &amp; Peter Gabriel - In Your Eyes.mp3
+#DESCRIPTION Genesis &amp; Peter Gabriel - In Your Eyes.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fGenesis%20%26amp;%20Phil%20Colins%20-%20Jesus%20He%20Knows%20Me.mp3:Genesis &amp; Phil Colins - Jesus He Knows Me.mp3
+#DESCRIPTION Genesis &amp; Phil Colins - Jesus He Knows Me.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fGenesis%20-%20I%20Can't%20Dance.mp3:Genesis - I Can't Dance.mp3
+#DESCRIPTION Genesis - I Can't Dance.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fGenesis%20-%20Land%20Of%20Confusion.mp3:Genesis - Land Of Confusion.mp3
+#DESCRIPTION Genesis - Land Of Confusion.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fGenesis%20-%20No%20Son%20Of%20Mine.mp3:Genesis - No Son Of Mine.mp3
+#DESCRIPTION Genesis - No Son Of Mine.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fGenesis%20-%20Throwing%20It%20All%20Away.mp3:Genesis - Throwing It All Away.mp3
+#DESCRIPTION Genesis - Throwing It All Away.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fGenesis%20-%20You%20can't%20hurry%20love.mp3:Genesis - You can't hurry love.mp3
+#DESCRIPTION Genesis - You can't hurry love.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fGeorge%20Harrison%20-%20Got%20My%20Mind%20Set%20On%20You%20%5bJanuary%201988%5d.mp3:George Harrison - Got My Mind Set On You [January 1988].mp3
+#DESCRIPTION George Harrison - Got My Mind Set On You [January 1988].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fGeorge%20Michael%20-%20Faith%20%5bDecember%201987%5d.mp3:George Michael - Faith [December 1987].mp3
+#DESCRIPTION George Michael - Faith [December 1987].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fGeorge%20Michael%20-%20Father%20Figure.mp3:George Michael - Father Figure.mp3
+#DESCRIPTION George Michael - Father Figure.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fGloria%20Estefan%20-%20Dr.%20Beat.mp3:Gloria Estefan - Dr. Beat.mp3
+#DESCRIPTION Gloria Estefan - Dr. Beat.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fgloria_gaynor-i_will_survive.mp3:gloria_gaynor-i_will_survive.mp3
+#DESCRIPTION gloria_gaynor-i_will_survive.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fGood%20Viberations.mp3:Good Viberations.mp3
+#DESCRIPTION Good Viberations.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fgoombay%20dance%20band%20-%20sun%20of%20jamaica.mp3:goombay dance band - sun of jamaica.mp3
+#DESCRIPTION goombay dance band - sun of jamaica.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fGrover%20Washington%20Jr.%20-%20Just%20The%20Two%20Of%20Us%20%5bMay%201981%5d.mp3:Grover Washington Jr. - Just The Two Of Us [May 1981].mp3
+#DESCRIPTION Grover Washington Jr. - Just The Two Of Us [May 1981].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fGuns%20N'%20Roses%20-%20Sweet%20Child%20O'%20Mine%20%5bSeptember%201988%5d.mp3:Guns N' Roses - Sweet Child O' Mine [September 1988].mp3
+#DESCRIPTION Guns N' Roses - Sweet Child O' Mine [September 1988].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fGuns%20N'%20Roses%20-%20Welcome%20To%20The%20Jungle%20%5bDecember%201988%5d.mp3:Guns N' Roses - Welcome To The Jungle [December 1988].mp3
+#DESCRIPTION Guns N' Roses - Welcome To The Jungle [December 1988].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fHaddaway%20-%20What%20is%20love.mp3:Haddaway - What is love.mp3
+#DESCRIPTION Haddaway - What is love.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fHall%20%26amp;%20Oates%20-%20Maneater.mp3:Hall &amp; Oates - Maneater.mp3
+#DESCRIPTION Hall &amp; Oates - Maneater.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fHarold%20Faltermeyer%20-%20Axel%20F.mp3:Harold Faltermeyer - Axel F.mp3
+#DESCRIPTION Harold Faltermeyer - Axel F.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fHave%20you%20Ever%20Really%20Loved%20a%20Woman.mp3:Have you Ever Really Loved a Woman.mp3
+#DESCRIPTION Have you Ever Really Loved a Woman.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fHit%20The%20Road%20Jack.mp3:Hit The Road Jack.mp3
+#DESCRIPTION Hit The Road Jack.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fHold%20My%20Hand.mp3:Hold My Hand.mp3
+#DESCRIPTION Hold My Hand.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fHot%20Chocolate%20-%20You%20Sexy%20Thing.mp3:Hot Chocolate - You Sexy Thing.mp3
+#DESCRIPTION Hot Chocolate - You Sexy Thing.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fHotel%20California.mp3:Hotel California.mp3
+#DESCRIPTION Hotel California.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fHuey%20Lewis%20%26amp;%20The%20News%20-%20The%20Power%20of%20Love%20%5bAugust%201985%5d.mp3:Huey Lewis &amp; The News - The Power of Love [August 1985].mp3
+#DESCRIPTION Huey Lewis &amp; The News - The Power of Love [August 1985].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fI%20Only%20Wanna%20Be%20With%20You.mp3:I Only Wanna Be With You.mp3
+#DESCRIPTION I Only Wanna Be With You.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fI%20Saw%20the%20Sign.mp3:I Saw the Sign.mp3
+#DESCRIPTION I Saw the Sign.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fI%20Swear.mp3:I Swear.mp3
+#DESCRIPTION I Swear.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fI%20Touch%20Myself.mp3:I Touch Myself.mp3
+#DESCRIPTION I Touch Myself.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fI%20Want%20To%20Know%20What%20Love%20Is.mp3:I Want To Know What Love Is.mp3
+#DESCRIPTION I Want To Know What Love Is.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fI%20Will%20Do%20Anything%20For%20Lo.mp3:I Will Do Anything For Lo.mp3
+#DESCRIPTION I Will Do Anything For Lo.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fI'll%20Be%20There%20For%20You.mp3:I'll Be There For You.mp3
+#DESCRIPTION I'll Be There For You.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fI'm%20Too%20Sexy.mp3:I'm Too Sexy.mp3
+#DESCRIPTION I'm Too Sexy.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fIce,%20Ice%20Baby.mp3:Ice, Ice Baby.mp3
+#DESCRIPTION Ice, Ice Baby.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fIf%20I%20Ever%20Lose%20My%20Faith%20In%20You.mp3:If I Ever Lose My Faith In You.mp3
+#DESCRIPTION If I Ever Lose My Faith In You.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fIndeep%20-%20Last%20Night%20A%20DJ%20Saved%20My%20Life.mp3:Indeep - Last Night A DJ Saved My Life.mp3
+#DESCRIPTION Indeep - Last Night A DJ Saved My Life.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fInto%20The%20Great%20Wide%20Open.mp3:Into The Great Wide Open.mp3
+#DESCRIPTION Into The Great Wide Open.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fINXS%20-%20Need%20You%20Tonight%20%5bJanuary%201988%5d.mp3:INXS - Need You Tonight [January 1988].mp3
+#DESCRIPTION INXS - Need You Tonight [January 1988].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fIrene%20Cara%20-%20Flashdance%20(What%20A%20Feeling).mp3:Irene Cara - Flashdance (What A Feeling).mp3
+#DESCRIPTION Irene Cara - Flashdance (What A Feeling).mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fIronic.mp3:Ironic.mp3
+#DESCRIPTION Ironic.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fIt%20Must%20Have%20Been%20Love.mp3:It Must Have Been Love.mp3
+#DESCRIPTION It Must Have Been Love.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fJoan%20Jett%20-%20I%20Love%20Rock%20'N%20Roll%20%5bApril%201982%5d.mp3:Joan Jett - I Love Rock 'N Roll [April 1982].mp3
+#DESCRIPTION Joan Jett - I Love Rock 'N Roll [April 1982].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fJohn%20Cougar%20Mellencamp%20-%20Jack%20%26amp;%20Diane%20%5bOctober%201982%5d.mp3:John Cougar Mellencamp - Jack &amp; Diane [October 1982].mp3
+#DESCRIPTION John Cougar Mellencamp - Jack &amp; Diane [October 1982].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fJohn%20Parr%20-%20St.%20Elmo's%20Fire.mp3:John Parr - St. Elmo's Fire.mp3
+#DESCRIPTION John Parr - St. Elmo's Fire.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fJohn%20Waite%20-%20Missing%20You.mp3:John Waite - Missing You.mp3
+#DESCRIPTION John Waite - Missing You.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fjohnny%20hates%20jazz%20-%20shattered%20dreams%20(12%20extended%20mix).mp3:johnny hates jazz - shattered dreams (12 extended mix).mp3
+#DESCRIPTION johnny hates jazz - shattered dreams (12 extended mix).mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fJust%20A%20Girl.mp3:Just A Girl.mp3
+#DESCRIPTION Just A Girl.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fK.C.%20%26amp;%20The%20Sunshine%20Band%20-%20Get%20Down%20Tonight.mp3:K.C. &amp; The Sunshine Band - Get Down Tonight.mp3
+#DESCRIPTION K.C. &amp; The Sunshine Band - Get Down Tonight.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fK.C.%20%26amp;%20The%20Sunshine%20Band%20-%20Shake%20Shake%20Shake%20(Your%20Booty).mp3:K.C. &amp; The Sunshine Band - Shake Shake Shake (Your Booty).mp3
+#DESCRIPTION K.C. &amp; The Sunshine Band - Shake Shake Shake (Your Booty).mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fKajagoogoo%20-%20Too%20Shy.mp3:Kajagoogoo - Too Shy.mp3
+#DESCRIPTION Kajagoogoo - Too Shy.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fKatrina%20%26amp;%20The%20Waves%20-%20Walking%20On%20Sunshine%20%5bJune%201985%5d.mp3:Katrina &amp; The Waves - Walking On Sunshine [June 1985].mp3
+#DESCRIPTION Katrina &amp; The Waves - Walking On Sunshine [June 1985].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fKC%20%26amp;%20The%20Sunshine%20Band%20-%20That_s%20The%20Way.mp3:KC &amp; The Sunshine Band - That_s The Way.mp3
+#DESCRIPTION KC &amp; The Sunshine Band - That_s The Way.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fKenny%20Loggins%20-%20Footloose%20%5bApril%201984%5d.mp3:Kenny Loggins - Footloose [April 1984].mp3
+#DESCRIPTION Kenny Loggins - Footloose [April 1984].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fKim%20Carnes%20-%20Bette%20Davis%20Eyes%20%5bJune%201981%5d.mp3:Kim Carnes - Bette Davis Eyes [June 1981].mp3
+#DESCRIPTION Kim Carnes - Bette Davis Eyes [June 1981].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fKim%20Wilde%20-%20Kids%20in%20America.mp3:Kim Wilde - Kids in America.mp3
+#DESCRIPTION Kim Wilde - Kids in America.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fKim%20Wilde%20-%20You%20Keep%20Me%20Hangin'%20On%20%5bJune%201987%5d.mp3:Kim Wilde - You Keep Me Hangin' On [June 1987].mp3
+#DESCRIPTION Kim Wilde - You Keep Me Hangin' On [June 1987].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fKING%20AFRICA%20-%20La%20Bomba.mp3:KING AFRICA - La Bomba.mp3
+#DESCRIPTION KING AFRICA - La Bomba.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fKiss%20form%20A%20Rose.mp3:Kiss form A Rose.mp3
+#DESCRIPTION Kiss form A Rose.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fKool%20%26amp;%20The%20Gang%20-%20Get%20Down%20On%20It%20(Remix).mp3:Kool &amp; The Gang - Get Down On It (Remix).mp3
+#DESCRIPTION Kool &amp; The Gang - Get Down On It (Remix).mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fKool%20%26amp;%20The%20Gang%20-%20Ladies%20Night%20%5bJanuary%201980%5d.mp3:Kool &amp; The Gang - Ladies Night [January 1980].mp3
+#DESCRIPTION Kool &amp; The Gang - Ladies Night [January 1980].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fkool%20and%20the%20gang%20-%20celebration.mp3:kool and the gang - celebration.mp3
+#DESCRIPTION kool and the gang - celebration.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fLa%20Grange.mp3:La Grange.mp3
+#DESCRIPTION La Grange.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fLaBelle%20-%20Lady%20Marmelade.mp3:LaBelle - Lady Marmelade.mp3
+#DESCRIPTION LaBelle - Lady Marmelade.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fLayla%20(Unplugged).mp3:Layla (Unplugged).mp3
+#DESCRIPTION Layla (Unplugged).mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fLearning%20To%20Fly.mp3:Learning To Fly.mp3
+#DESCRIPTION Learning To Fly.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fLet's%20Talk%20About%20Sex.mp3:Let's Talk About Sex.mp3
+#DESCRIPTION Let's Talk About Sex.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fLevel%2042%20-%20Heaven%20In%20My%20Hands.mp3:Level 42 - Heaven In My Hands.mp3
+#DESCRIPTION Level 42 - Heaven In My Hands.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fLeVert%20-%20Casanova%20%5bOctober%201987%5d.mp3:LeVert - Casanova [October 1987].mp3
+#DESCRIPTION LeVert - Casanova [October 1987].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fLife%20In%20the%20Fast%20Lane.mp3:Life In the Fast Lane.mp3
+#DESCRIPTION Life In the Fast Lane.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fLike%20A%20Rolling%20Stone.mp3:Like A Rolling Stone.mp3
+#DESCRIPTION Like A Rolling Stone.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fLimahl%20-%20too%20shy.mp3:Limahl - too shy.mp3
+#DESCRIPTION Limahl - too shy.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2flipps%20inc%20-%20funkytown.mp3:lipps inc - funkytown.mp3
+#DESCRIPTION lipps inc - funkytown.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fLipps%20Inc.%20-%20Funky%20Town%20%5bMay%201980%5d.mp3:Lipps Inc. - Funky Town [May 1980].mp3
+#DESCRIPTION Lipps Inc. - Funky Town [May 1980].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fLos%20Del%20Rio%20-%20Macarena.mp3:Los Del Rio - Macarena.mp3
+#DESCRIPTION Los Del Rio - Macarena.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fLosing%20My%20Religion.mp3:Losing My Religion.mp3
+#DESCRIPTION Losing My Religion.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fMadness%20-%20Our%20House%20%5bJuly%201983%5d.mp3:Madness - Our House [July 1983].mp3
+#DESCRIPTION Madness - Our House [July 1983].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fMadonna%20-%20Into%20The%20Groove.mp3:Madonna - Into The Groove.mp3
+#DESCRIPTION Madonna - Into The Groove.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fMadonna%20-%20Like%20A%20Virgin%20%5bJanuary%201985%5d.mp3:Madonna - Like A Virgin [January 1985].mp3
+#DESCRIPTION Madonna - Like A Virgin [January 1985].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fMadonna%20-%20Papa%20Don't%20Preach%20%5bAugust%201986%5d.mp3:Madonna - Papa Don't Preach [August 1986].mp3
+#DESCRIPTION Madonna - Papa Don't Preach [August 1986].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fMartika%20-%20Toy%20Soldiers%20%5bJuly%201989%5d.mp3:Martika - Toy Soldiers [July 1989].mp3
+#DESCRIPTION Martika - Toy Soldiers [July 1989].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fMarvin%20Gaye%20-%20Sexual%20Healing%20%5bJanuary%201983%5d.mp3:Marvin Gaye - Sexual Healing [January 1983].mp3
+#DESCRIPTION Marvin Gaye - Sexual Healing [January 1983].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fMathew%20Wilder%20-%20Break%20My%20Stride.mp3:Mathew Wilder - Break My Stride.mp3
+#DESCRIPTION Mathew Wilder - Break My Stride.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fMaxine%20Nightingale%20-%20Right%20Back%20Where%20We%20Started%20From.mp3:Maxine Nightingale - Right Back Where We Started From.mp3
+#DESCRIPTION Maxine Nightingale - Right Back Where We Started From.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fMen%20At%20Work%20-%20Who%20Can%20It%20Be%20Now%20%5bOctober%201982%5d.mp3:Men At Work - Who Can It Be Now [October 1982].mp3
+#DESCRIPTION Men At Work - Who Can It Be Now [October 1982].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fMen%20Without%20Hats%20-%20The%20Safety%20Dance%20%5bSeptember%201983%5d.mp3:Men Without Hats - The Safety Dance [September 1983].mp3
+#DESCRIPTION Men Without Hats - The Safety Dance [September 1983].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fMen.at.Work.Down.Under.mp3:Men.at.Work.Down.Under.mp3
+#DESCRIPTION Men.at.Work.Down.Under.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fMichael%20Jackson%20-%20Bad%20%5bOctober%201987%5d.mp3:Michael Jackson - Bad [October 1987].mp3
+#DESCRIPTION Michael Jackson - Bad [October 1987].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fMichael%20Jackson%20-%20Beat%20It%20%5bMay%201983%5d.mp3:Michael Jackson - Beat It [May 1983].mp3
+#DESCRIPTION Michael Jackson - Beat It [May 1983].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fMichael%20Jackson%20-%20Rock%20With%20You%20%5bFebruary%201980%5d.mp3:Michael Jackson - Rock With You [February 1980].mp3
+#DESCRIPTION Michael Jackson - Rock With You [February 1980].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fMichael%20Jackson%20-%20Smooth%20Criminal%20%5bJanuary%201989%5d.mp3:Michael Jackson - Smooth Criminal [January 1989].mp3
+#DESCRIPTION Michael Jackson - Smooth Criminal [January 1989].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fMichael%20Jackson%20-%20Thriller%20%5bFebruary%201984%5d.mp3:Michael Jackson - Thriller [February 1984].mp3
+#DESCRIPTION Michael Jackson - Thriller [February 1984].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fMichael%20Sembello%20-%20Maniac%20%5bSeptember%201983%5d.mp3:Michael Sembello - Maniac [September 1983].mp3
+#DESCRIPTION Michael Sembello - Maniac [September 1983].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fMmm%20Mmm%20Mmm%20Mmm.mp3:Mmm Mmm Mmm Mmm.mp3
+#DESCRIPTION Mmm Mmm Mmm Mmm.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fModern%20Talking%20-%20Cheri%20Cheri%20Lady.mp3:Modern Talking - Cheri Cheri Lady.mp3
+#DESCRIPTION Modern Talking - Cheri Cheri Lady.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fModern%20talking%20-%20You're%20my%20heart,%20you're%20my%20soul%20(mix%20'98).mp3:Modern talking - You're my heart, you're my soul (mix '98).mp3
+#DESCRIPTION Modern talking - You're my heart, you're my soul (mix '98).mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fMoney%20For%20Nothing.mp3:Money For Nothing.mp3
+#DESCRIPTION Money For Nothing.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fMr.%20Mister%20-%20Broken%20Wings%20%5bDecember%201985%5d.mp3:Mr. Mister - Broken Wings [December 1985].mp3
+#DESCRIPTION Mr. Mister - Broken Wings [December 1985].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fMurder%20Incorporated.mp3:Murder Incorporated.mp3
+#DESCRIPTION Murder Incorporated.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fNena%20-%2099%20Luftballoons%20%5bMarch%201984%5d.mp3:Nena - 99 Luftballoons [March 1984].mp3
+#DESCRIPTION Nena - 99 Luftballoons [March 1984].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fNik%20Kershaw%20-%20I%20Won't%20Let%20The%20Sun%20Go%20Down%20On%20Me.mp3:Nik Kershaw - I Won't Let The Sun Go Down On Me.mp3
+#DESCRIPTION Nik Kershaw - I Won't Let The Sun Go Down On Me.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fNo%20Rain.mp3:No Rain.mp3
+#DESCRIPTION No Rain.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fNothing%20Compares.mp3:Nothing Compares.mp3
+#DESCRIPTION Nothing Compares.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fOh%20Baby%20I%20Love%20Your%20Way.mp3:Oh Baby I Love Your Way.mp3
+#DESCRIPTION Oh Baby I Love Your Way.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fOld%20Time%20Rock%20%26amp;%20Roll.mp3:Old Time Rock &amp; Roll.mp3
+#DESCRIPTION Old Time Rock &amp; Roll.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fOlivia%20Newton%20John%20-%20Physical%20%5bDecember%201981%5d.mp3:Olivia Newton John - Physical [December 1981].mp3
+#DESCRIPTION Olivia Newton John - Physical [December 1981].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fOMD%20-%20If%20You%20Leave%20%5bMay%201986%5d.mp3:OMD - If You Leave [May 1986].mp3
+#DESCRIPTION OMD - If You Leave [May 1986].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fOpus%20-%20Life%20is%20Life.mp3:Opus - Life is Life.mp3
+#DESCRIPTION Opus - Life is Life.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fottawan%20-%20hands%20up.mp3:ottawan - hands up.mp3
+#DESCRIPTION ottawan - hands up.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fPat%20Benatar%20-%20Hit%20Me%20With%20Your%20Best%20Shot%20%5bDecember%201980%5d.mp3:Pat Benatar - Hit Me With Your Best Shot [December 1980].mp3
+#DESCRIPTION Pat Benatar - Hit Me With Your Best Shot [December 1980].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fPeaches%20and%20Herb%20-%20Shake%20your%20Groove%20Thing.mp3:Peaches and Herb - Shake your Groove Thing.mp3
+#DESCRIPTION Peaches and Herb - Shake your Groove Thing.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fPersonal%20Jesus.mp3:Personal Jesus.mp3
+#DESCRIPTION Personal Jesus.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fPete%20Townshend%20-%20Let%20My%20Love%20Open%20The%20Door%20%5bAugust%201980%5d.mp3:Pete Townshend - Let My Love Open The Door [August 1980].mp3
+#DESCRIPTION Pete Townshend - Let My Love Open The Door [August 1980].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fPhil%20Collins%20%26amp;%20Genesis%20-%20Invisible%20Touch.mp3:Phil Collins &amp; Genesis - Invisible Touch.mp3
+#DESCRIPTION Phil Collins &amp; Genesis - Invisible Touch.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fPhil%20Collins%20%26amp;%20Philip%20Bailey%20-%20Easy%20Lover.mp3:Phil Collins &amp; Philip Bailey - Easy Lover.mp3
+#DESCRIPTION Phil Collins &amp; Philip Bailey - Easy Lover.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fPhil%20Collins%20-%20One%20More%20Night%20%5bApril%201985%5d.mp3:Phil Collins - One More Night [April 1985].mp3
+#DESCRIPTION Phil Collins - One More Night [April 1985].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fPhil%20Collins%20-%20Sussudio%20%5bJuly%201985%5d.mp3:Phil Collins - Sussudio [July 1985].mp3
+#DESCRIPTION Phil Collins - Sussudio [July 1985].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fPhill%20Colins%20-%20I%20can't%20stop%20loving%20you.mp3:Phill Colins - I can't stop loving you.mp3
+#DESCRIPTION Phill Colins - I can't stop loving you.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fPhill%20Colins%20-%20True%20Colors.mp3:Phill Colins - True Colors.mp3
+#DESCRIPTION Phill Colins - True Colors.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fPink%20Floyd%20-%20Another%20Brick%20In%20The%20Wall%20Part%20II%20%5bApril%201980%5d.mp3:Pink Floyd - Another Brick In The Wall Part II [April 1980].mp3
+#DESCRIPTION Pink Floyd - Another Brick In The Wall Part II [April 1980].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fPink%20Houses.mp3:Pink Houses.mp3
+#DESCRIPTION Pink Houses.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fPour%20Some%20Sugar%20on%20Me.mp3:Pour Some Sugar on Me.mp3
+#DESCRIPTION Pour Some Sugar on Me.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fPrince%20%26amp;%20The%20Revolution%20-%20Little%20Red%20Corvette.mp3:Prince &amp; The Revolution - Little Red Corvette.mp3
+#DESCRIPTION Prince &amp; The Revolution - Little Red Corvette.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fPrince%20-%20Let's%20Go%20Crazy%20%5bSeptember%201984%5d.mp3:Prince - Let's Go Crazy [September 1984].mp3
+#DESCRIPTION Prince - Let's Go Crazy [September 1984].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fPrince%20-%20Purple%20Rain%20%5bNovember%201984%5d.mp3:Prince - Purple Rain [November 1984].mp3
+#DESCRIPTION Prince - Purple Rain [November 1984].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fPrince%20-%20When%20Doves%20Cry%20%5bJuly%201984%5d.mp3:Prince - When Doves Cry [July 1984].mp3
+#DESCRIPTION Prince - When Doves Cry [July 1984].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fQueen%20-%20Another%20One%20Bites%20The%20Dust%20%5bOctober%201980%5d.mp3:Queen - Another One Bites The Dust [October 1980].mp3
+#DESCRIPTION Queen - Another One Bites The Dust [October 1980].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fQueen%20-%20Crazy%20Little%20Thing%20Called%20Love%20%5bMarch%201980%5d.mp3:Queen - Crazy Little Thing Called Love [March 1980].mp3
+#DESCRIPTION Queen - Crazy Little Thing Called Love [March 1980].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fRainbow%20-%20Street%20Of%20Dreams.mp3:Rainbow - Street Of Dreams.mp3
+#DESCRIPTION Rainbow - Street Of Dreams.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fRay%20Parker%20Jr.%20-%20Ghostbusters%20%5bAugust%201984%5d.mp3:Ray Parker Jr. - Ghostbusters [August 1984].mp3
+#DESCRIPTION Ray Parker Jr. - Ghostbusters [August 1984].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fReal%20Life%20-%20Send%20Me%20an%20Angel%20'89.mp3:Real Life - Send Me an Angel '89.mp3
+#DESCRIPTION Real Life - Send Me an Angel '89.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fREDNEX%20-%20Cotton%20Eye%20Joe.mp3:REDNEX - Cotton Eye Joe.mp3
+#DESCRIPTION REDNEX - Cotton Eye Joe.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fREO%20Speedwagon%20-%20Can't%20Fight%20This%20Feeling%20%5bMarch%201985%5d.mp3:REO Speedwagon - Can't Fight This Feeling [March 1985].mp3
+#DESCRIPTION REO Speedwagon - Can't Fight This Feeling [March 1985].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fRick%20Astley%20-%20Never%20Gonna%20Give%20You%20Up.mp3:Rick Astley - Never Gonna Give You Up.mp3
+#DESCRIPTION Rick Astley - Never Gonna Give You Up.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fRick%20Astley%20-%20Together%20Forever.mp3:Rick Astley - Together Forever.mp3
+#DESCRIPTION Rick Astley - Together Forever.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fRick%20James%20-%20Super%20Freak.mp3:Rick James - Super Freak.mp3
+#DESCRIPTION Rick James - Super Freak.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fRick%20James%20-%20Superfreak.mp3:Rick James - Superfreak.mp3
+#DESCRIPTION Rick James - Superfreak.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fRight%20Here%20Right%20Now.mp3:Right Here Right Now.mp3
+#DESCRIPTION Right Here Right Now.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fRobert%20Palmer%20-%20Addicted%20To%20Love%20%5bMay%201986%5d.mp3:Robert Palmer - Addicted To Love [May 1986].mp3
+#DESCRIPTION Robert Palmer - Addicted To Love [May 1986].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fRockwell%20-%20Somebody's%20Watching%20Me.mp3:Rockwell - Somebody's Watching Me.mp3
+#DESCRIPTION Rockwell - Somebody's Watching Me.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fRulus%20and%20Chaka%20Khan%20-%20Ain_t%20Nobody.mp3:Rulus and Chaka Khan - Ain_t Nobody.mp3
+#DESCRIPTION Rulus and Chaka Khan - Ain_t Nobody.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fRun%20Around.mp3:Run Around.mp3
+#DESCRIPTION Run Around.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fsabrina%20-%20boys.mp3:sabrina - boys.mp3
+#DESCRIPTION sabrina - boys.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fSandra%20-%20Everlasting%20Love%20(pwl%2012).mp3:Sandra - Everlasting Love (pwl 12).mp3
+#DESCRIPTION Sandra - Everlasting Love (pwl 12).mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fScatman%20(Ski%20Ba%20Bop%20Ba%20Dop%20Bop).mp3:Scatman (Ski Ba Bop Ba Dop Bop).mp3
+#DESCRIPTION Scatman (Ski Ba Bop Ba Dop Bop).mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fSelf%20Esteem.mp3:Self Esteem.mp3
+#DESCRIPTION Self Esteem.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fSeven%20Wonders.mp3:Seven Wonders.mp3
+#DESCRIPTION Seven Wonders.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fShalamar%20-%20The%20Second%20Time%20Around.mp3:Shalamar - The Second Time Around.mp3
+#DESCRIPTION Shalamar - The Second Time Around.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fShannon%20-%20Let%20The%20Music%20Play.mp3:Shannon - Let The Music Play.mp3
+#DESCRIPTION Shannon - Let The Music Play.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fShine.mp3:Shine.mp3
+#DESCRIPTION Shine.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fShiney%20Happy%20People.mp3:Shiney Happy People.mp3
+#DESCRIPTION Shiney Happy People.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fSister%20Sledge%20-%20He_s%20The%20greatest%20Dancer.mp3:Sister Sledge - He_s The greatest Dancer.mp3
+#DESCRIPTION Sister Sledge - He_s The greatest Dancer.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fSister%20Sledge%20-%20We%20are%20Family.mp3:Sister Sledge - We are Family.mp3
+#DESCRIPTION Sister Sledge - We are Family.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fSnap%20-%20Rhythm%20is%20A%20Dancer.mp3:Snap - Rhythm is A Dancer.mp3
+#DESCRIPTION Snap - Rhythm is A Dancer.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fSoft%20Cell%20-%20Tainted%20Love%20%5bJuly%201982%5d.mp3:Soft Cell - Tainted Love [July 1982].mp3
+#DESCRIPTION Soft Cell - Tainted Love [July 1982].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fSoft%20Cell%20-%20Tainted%20Love.mp3:Soft Cell - Tainted Love.mp3
+#DESCRIPTION Soft Cell - Tainted Love.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fSolsbury%20Hill.mp3:Solsbury Hill.mp3
+#DESCRIPTION Solsbury Hill.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fStarship%20-%20Nothing's%20Gonna%20Stop%20Us%20Now.mp3:Starship - Nothing's Gonna Stop Us Now.mp3
+#DESCRIPTION Starship - Nothing's Gonna Stop Us Now.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fStarship%20-%20We%20Built%20This%20City%20%5bNovember%201985%5d.mp3:Starship - We Built This City [November 1985].mp3
+#DESCRIPTION Starship - We Built This City [November 1985].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fStep%20By%20Step.mp3:Step By Step.mp3
+#DESCRIPTION Step By Step.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fStephanie%20Mills%20-%20Never%20Knew%20Love%20like%20this%20Before.mp3:Stephanie Mills - Never Knew Love like this Before.mp3
+#DESCRIPTION Stephanie Mills - Never Knew Love like this Before.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fSurvivor%20-%20Eye%20Of%20The%20Tiger.mp3:Survivor - Eye Of The Tiger.mp3
+#DESCRIPTION Survivor - Eye Of The Tiger.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fSurvivor%20-%20High%20On%20You.mp3:Survivor - High On You.mp3
+#DESCRIPTION Survivor - High On You.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fSweet%20Child%20O'%20Mine.mp3:Sweet Child O' Mine.mp3
+#DESCRIPTION Sweet Child O' Mine.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fSylvester%20-%20You%20Make%20Me%20Feel%20(Mighty%20Real).mp3:Sylvester - You Make Me Feel (Mighty Real).mp3
+#DESCRIPTION Sylvester - You Make Me Feel (Mighty Real).mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fSylvester%20-%20You%20Make%20me%20Feel.mp3:Sylvester - You Make me Feel.mp3
+#DESCRIPTION Sylvester - You Make me Feel.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fTavaras%20-%20Heaven%20Must%20Be%20Missing%20an%20Angel.mp3:Tavaras - Heaven Must Be Missing an Angel.mp3
+#DESCRIPTION Tavaras - Heaven Must Be Missing an Angel.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fTaylor%20Dayne%20-%20Tell%20It%20To%20My%20Heart.mp3:Taylor Dayne - Tell It To My Heart.mp3
+#DESCRIPTION Taylor Dayne - Tell It To My Heart.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fTears%20For%20Fears%20-%20%20Everybody%20Wants%20To%20Rule%20The%20World%20%5bJune%201985%5d.mp3:Tears For Fears -  Everybody Wants To Rule The World [June 1985].mp3
+#DESCRIPTION Tears For Fears -  Everybody Wants To Rule The World [June 1985].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fTears%20For%20Fears%20-%20Shout%20%5bAugust%201985%5d.mp3:Tears For Fears - Shout [August 1985].mp3
+#DESCRIPTION Tears For Fears - Shout [August 1985].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fTechnotronic%20-%20Pump%20Up%20The%20Jam.mp3:Technotronic - Pump Up The Jam.mp3
+#DESCRIPTION Technotronic - Pump Up The Jam.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fTell%20Me%20When.mp3:Tell Me When.mp3
+#DESCRIPTION Tell Me When.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fThe%20Bangles%20-%20Walk%20Like%20An%20Egyptian%20%5bDecember%201986%5d.mp3:The Bangles - Walk Like An Egyptian [December 1986].mp3
+#DESCRIPTION The Bangles - Walk Like An Egyptian [December 1986].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fThe%20Buggles%20-%20Video%20Killed%20The%20Radio%20Star.mp3:The Buggles - Video Killed The Radio Star.mp3
+#DESCRIPTION The Buggles - Video Killed The Radio Star.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fThe%20Emotions%20-%20Best%20of%20my%20Love.mp3:The Emotions - Best of my Love.mp3
+#DESCRIPTION The Emotions - Best of my Love.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fThe%20Gap%20Band%20-%20You%20dropped%20a%20bomb%20on%20me.mp3:The Gap Band - You dropped a bomb on me.mp3
+#DESCRIPTION The Gap Band - You dropped a bomb on me.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fThe%20J.%20Geils%20Band%20-%20Centerfold%20%5bFebruary%201982%5d.mp3:The J. Geils Band - Centerfold [February 1982].mp3
+#DESCRIPTION The J. Geils Band - Centerfold [February 1982].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fThe%20Jacksons%20-%20Can%20You%20Feel%20it.mp3:The Jacksons - Can You Feel it.mp3
+#DESCRIPTION The Jacksons - Can You Feel it.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fThe%20Most%20Beautiful%20Girl%20in%20the%20World.mp3:The Most Beautiful Girl in the World.mp3
+#DESCRIPTION The Most Beautiful Girl in the World.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fThe%20O_Jays%20-%20Love%20Train.mp3:The O_Jays - Love Train.mp3
+#DESCRIPTION The O_Jays - Love Train.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fThe%20Police%20-%20Every%20Breath%20You%20Take%20%5bJuly%201983%5d.mp3:The Police - Every Breath You Take [July 1983].mp3
+#DESCRIPTION The Police - Every Breath You Take [July 1983].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fThe%20Rolling%20Stones%20-%20Start%20Me%20Up%20%5bOctober%201981%5d.mp3:The Rolling Stones - Start Me Up [October 1981].mp3
+#DESCRIPTION The Rolling Stones - Start Me Up [October 1981].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fThe%20Three%20Degrees%20-%20Givin'%20Up,%20Givin'%20in.mp3:The Three Degrees - Givin' Up, Givin' in.mp3
+#DESCRIPTION The Three Degrees - Givin' Up, Givin' in.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fThe%20trammps%20-%20disco%20inferno.mp3:The trammps - disco inferno.mp3
+#DESCRIPTION The trammps - disco inferno.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fTina%20Turner%20-%20What's%20Love%20Got%20To%20Do%20With%20It%20%5bSeptember%201984%5d.mp3:Tina Turner - What's Love Got To Do With It [September 1984].mp3
+#DESCRIPTION Tina Turner - What's Love Got To Do With It [September 1984].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fTommy%20Tutone%20-%20Jenny%20%5bMay%201982%5d.mp3:Tommy Tutone - Jenny [May 1982].mp3
+#DESCRIPTION Tommy Tutone - Jenny [May 1982].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fToni%20Basil%20-%20Mickey.mp3:Toni Basil - Mickey.mp3
+#DESCRIPTION Toni Basil - Mickey.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fTony%20Basil%20-%20Mickey%20%5bDecember%201982%5d.mp3:Tony Basil - Mickey [December 1982].mp3
+#DESCRIPTION Tony Basil - Mickey [December 1982].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fTpau%20-%20china%20in%20your%20hand.mp3:Tpau - china in your hand.mp3
+#DESCRIPTION Tpau - china in your hand.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fTragedie%20-%20Hey%20Oh.mp3:Tragedie - Hey Oh.mp3
+#DESCRIPTION Tragedie - Hey Oh.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fTwo%20Princes.mp3:Two Princes.mp3
+#DESCRIPTION Two Princes.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fU%20Can't%20Touch%20This.mp3:U Can't Touch This.mp3
+#DESCRIPTION U Can't Touch This.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fU2%20-%20With%20Or%20Without%20You%20%5bMay%201987%5d.mp3:U2 - With Or Without You [May 1987].mp3
+#DESCRIPTION U2 - With Or Without You [May 1987].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fUB40%20-%20Red%20Red%20Wine%20%5bOctober%201988%5d.mp3:UB40 - Red Red Wine [October 1988].mp3
+#DESCRIPTION UB40 - Red Red Wine [October 1988].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fVan%20Halen%20-%20Jump%20%5bFebruary%201984%5d.mp3:Van Halen - Jump [February 1984].mp3
+#DESCRIPTION Van Halen - Jump [February 1984].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fVicki%20Sue%20Robinson%20-%20Turn%20The%20Beat%20Around.mp3:Vicki Sue Robinson - Turn The Beat Around.mp3
+#DESCRIPTION Vicki Sue Robinson - Turn The Beat Around.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fVideo%20Killed%20The%20Radio%20Star.mp3:Video Killed The Radio Star.mp3
+#DESCRIPTION Video Killed The Radio Star.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fVILLAGE%20PEOPLE%20-%20Y.M.C.A..mp3:VILLAGE PEOPLE - Y.M.C.A..mp3
+#DESCRIPTION VILLAGE PEOPLE - Y.M.C.A..mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fVogue.mp3:Vogue.mp3
+#DESCRIPTION Vogue.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fWalk%20This%20Way.mp3:Walk This Way.mp3
+#DESCRIPTION Walk This Way.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fWalter%20Murphy%20%26amp;%20The%20Big%20Apple%20Band%20-%20A%20Fifth%20of%20Beethoven.mp3:Walter Murphy &amp; The Big Apple Band - A Fifth of Beethoven.mp3
+#DESCRIPTION Walter Murphy &amp; The Big Apple Band - A Fifth of Beethoven.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fWang%20Chung%20-%20Everybody%20Have%20Fun%20Tonight%20%5bDecember%201986%5d.mp3:Wang Chung - Everybody Have Fun Tonight [December 1986].mp3
+#DESCRIPTION Wang Chung - Everybody Have Fun Tonight [December 1986].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fWater%20Song_Janie's%20Got%20A%20Gun.mp3:Water Song_Janie's Got A Gun.mp3
+#DESCRIPTION Water Song_Janie's Got A Gun.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fWaterfalls.mp3:Waterfalls.mp3
+#DESCRIPTION Waterfalls.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fWelcome%20to%20the%20Jungle.mp3:Welcome to the Jungle.mp3
+#DESCRIPTION Welcome to the Jungle.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fWham%20-%20Club%20Tropicana.mp3:Wham - Club Tropicana.mp3
+#DESCRIPTION Wham - Club Tropicana.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fWham!%20-%20Wake%20Me%20Up%20Before%20You%20Go%20Go%20%5bNovember%201984%5d.mp3:Wham! - Wake Me Up Before You Go Go [November 1984].mp3
+#DESCRIPTION Wham! - Wake Me Up Before You Go Go [November 1984].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fWhat's%20Up.mp3:What's Up.mp3
+#DESCRIPTION What's Up.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fWhitesnake%20-%20Here%20I%20go%20again%20(performed%20by%20Marcel).mp3:Whitesnake - Here I go again (performed by Marcel).mp3
+#DESCRIPTION Whitesnake - Here I go again (performed by Marcel).mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fWild%20Cherry%20-%20Play%20That%20Funky%20Music.mp3:Wild Cherry - Play That Funky Music.mp3
+#DESCRIPTION Wild Cherry - Play That Funky Music.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fWild%20Night.mp3:Wild Night.mp3
+#DESCRIPTION Wild Night.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fWonderwall.mp3:Wonderwall.mp3
+#DESCRIPTION Wonderwall.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fwoodpecker%20from%20space.mp3:woodpecker from space.mp3
+#DESCRIPTION woodpecker from space.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fYes%20-%20Owner%20Of%20A%20Lonely%20Heart%20%5bJanuary%201984%5d.mp3:Yes - Owner Of A Lonely Heart [January 1984].mp3
+#DESCRIPTION Yes - Owner Of A Lonely Heart [January 1984].mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fYou%20Oughta%20Know.mp3:You Oughta Know.mp3
+#DESCRIPTION You Oughta Know.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fYou%20Win,%20I%20Lose.mp3:You Win, I Lose.mp3
+#DESCRIPTION You Win, I Lose.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dora-robo.com%2fmuzyka%2f70's-80's-90's%20%2fYvonne%20Elliman%20-%20If%20I%20Can_t%20Have%20you.mp3:Yvonne Elliman - If I Can_t Have you.mp3
+#DESCRIPTION Yvonne Elliman - If I Can_t Have you.mp3
