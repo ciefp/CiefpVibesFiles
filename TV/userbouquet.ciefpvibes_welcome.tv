@@ -7,5 +7,5 @@
 #DESCRIPTION Blue button → Download fresh playlists from GitHub
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022%2fMy%20Music%2fOther%2fVIVA%20TOP%20100%20-%20Vol1%2f004%20-%20La%20Bouche%20-%20Be%20My%20Lover%20(1996).mp3:Yellow button → Skins, repeat, shuffle, settings
 #DESCRIPTION Yellow button → Skins, repeat, shuffle, settings
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022%2fMy%20Music%2fOther%2fVIVA%20TOP%20100%20-%20Vol1%2f008%20-%20Haddaway%20-%20What%20Is%20Love%20(1993).mp3:Made by ciefp – turn up the volume! CiefpSettings 
-#DESCRIPTION Made by ciefp – turn up the volume! CiefpSettings 
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fdance%2f008_Pulsedriver%20-%20Slammin%20(extended%20mix).mp3:Made by ciefp – turn up the volume!..:: CiefpSettings ::..
+#DESCRIPTION Made by ciefp – turn up the volume!..:: CiefpSettings ::..
