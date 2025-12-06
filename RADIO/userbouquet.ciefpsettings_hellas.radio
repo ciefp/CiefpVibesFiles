@@ -1,0 +1,27 @@
+#NAME CiefpSettings Greece Hellas WEB-RADIO
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.akous.gr/akouspalko:Akous Palko Hellas
+#DESCRIPTION Akous Palko Hellas
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//golive.onestreaming.com/arionlaikos:Arion Laikos Hellas
+#DESCRIPTION Arion Laikos Hellas
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//derti.live24.gr/derty1000:Derti 98.6  Hellas
+#DESCRIPTION Derti 98.6  Hellas
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//diesi.live24.gr/diesi1013:Diesi FM Hellas
+#DESCRIPTION Diesi FM Hellas
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//sc.greekstream.net/;:Kalamaria FM 101.7 Hellas
+#DESCRIPTION Kalamaria FM 101.7 Hellas
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//cast4.my-control-panel.com/proxy/anastas2/stream:KPHTH Radio 9.84
+#DESCRIPTION KPHTH Radio 9.84
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//eco.onestreaming.com%3a8286/;:Lakka Souli Radio Hellas
+#DESCRIPTION Lakka Souli Radio Hellas
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live3.istoikona.net%3a8203/stream:London Greek Radio (Londen - Engeland)
+#DESCRIPTION London Greek Radio (Londen - Engeland)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//176.9.78.226%3a30122/stream:Radio Nikita Hellas
+#DESCRIPTION Radio Nikita Hellas
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.isol.biz%3a8500/;:Skai Aegean Hellas
+#DESCRIPTION Skai Aegean Hellas
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live3.istoikona.com%3a8010/:Traffic FM Hellas
+#DESCRIPTION Traffic FM Hellas
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s10.voscast.com%3a9942/;:Velvet 96.8 FM Hellas
+#DESCRIPTION Velvet 96.8 FM Hellas
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiostreaming.ert.gr/ert-zeppelin:Zeppelin
+#DESCRIPTION Zeppelin
