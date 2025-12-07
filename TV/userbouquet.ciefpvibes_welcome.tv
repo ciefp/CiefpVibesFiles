@@ -1,11 +1,11 @@
 #NAME CiefpVibes – Welcome Demo
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022%2fMy%20Music%2fOther%2fVIVA%20TOP%20100%20-%20Vol1%2f001%20-%20C+C%20Music%20Factory%20-%20Gonna%20Make%20You%20Sweat%20(1991).mp3:Welcome to CiefpVibes v1.0 – the ultimate jukebox!
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fdance%2f007_Dee%20Robert%20-%20I%20Believe%20(Albert%20Cs%20Breakin%20It%20Up%20radio%20ed.mp3:Welcome to CiefpVibes v1.0 – the ultimate jukebox!
 #DESCRIPTION Welcome to CiefpVibes v1.0 – the ultimate jukebox!
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022%2fMy%20Music%2fOther%2fVIVA%20TOP%20100%20-%20Vol1%2f002%20-%20Real%20McCoy%20-%20Another%20Night%20(1994).mp3:Green button → Choose local .m3u or .tv file
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fdance%2f004_ATB%20-%20Ecstasy%20(radio%20cut).mp3:Green button → Choose local .m3u or .tv file
 #DESCRIPTION Green button → Choose local .m3u or .tv file
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022%2fMy%20Music%2fOther%2fVIVA%20TOP%20100%20-%20Vol1%2f003%20-%20MC%20Hammer%20-%20U%20Can't%20Touch%20This%20(1990).mp3:Blue button → Download fresh playlists from GitHub
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fdance%2f005_Magic%20Affair%20-%20Fly%20Away%20(La%20Serenissima%20Yanuo%20remix).mp3:Blue button → Download fresh playlists from GitHub
 #DESCRIPTION Blue button → Download fresh playlists from GitHub
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022%2fMy%20Music%2fOther%2fVIVA%20TOP%20100%20-%20Vol1%2f004%20-%20La%20Bouche%20-%20Be%20My%20Lover%20(1996).mp3:Yellow button → Skins, repeat, shuffle, settings
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fdance%2f006_Cappella%20-%20U%20Got%202%20Let%20The%20Music%20(Unreleased%20Original%20re.mp3:Yellow button → Skins, repeat, shuffle, settings
 #DESCRIPTION Yellow button → Skins, repeat, shuffle, settings
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fdance%2f007_Dee%20Robert%20-%20I%20Believe%20(Albert%20Cs%20Breakin%20It%20Up%20radio%20ed.mp3:Made by ciefp – turn up the volume!
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD4%2f15-%20Emf%20-%20Unbelievable.mp3:Made by ciefp – turn up the volume!
 #DESCRIPTION Made by ciefp – turn up the volume!
