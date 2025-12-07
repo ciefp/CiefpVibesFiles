@@ -1,0 +1,189 @@
+#NAME :: CiefpSettings EXYU-Hrvatska RADIO ::
+#SERVICE 1:64:4CC:0:0:0:0:0:0:0::== ★★  HRVATSKA ★★ ==
+#DESCRIPTION == ★★  HRVATSKA ★★ ==
+#SERVICE 1:64:4CD:0:0:0:0:0:0:0::===== Zagreb ====
+#DESCRIPTION ===== Zagreb ====
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.narodni.hr%3a8059/stream;:Zagreb - Narodni Radio Zagreb
+#DESCRIPTION Zagreb - Narodni Radio Zagreb
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.radio101.hr%3a9531/;*.mp3:Zagreb - Radio 101
+#DESCRIPTION Zagreb - Radio 101
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.radiodeejay.hr%3a7002/:Zagreb - Deejay
+#DESCRIPTION Zagreb - Deejay
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.antenazagreb.hr%3a8000/:Zagreb - Antena
+#DESCRIPTION Zagreb - Antena
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.antenazagreb.hr%3a8011/;*.mp3:Radio Antena Hit Zagreb
+#DESCRIPTION Radio Antena Hit Zagreb
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.antenazagreb.hr%3a8019/;*.mp3:Radio Antena Zagreb Rock
+#DESCRIPTION Radio Antena Zagreb Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.enterzagreb.hr%3a8023/;*.mp3:Radio Enter Zagreb
+#DESCRIPTION Radio Enter Zagreb
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//161.53.122.184%3a8000/AAC128.aac:Radio Student Zagreb
+#DESCRIPTION Radio Student Zagreb
+#SERVICE 1:64:4CE:0:0:0:0:0:0:0::===== Split =====
+#DESCRIPTION ===== Split =====
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//shoutcast.pondi.hr%3a8000/:Split - Radio Dalmacija live - by pondi.hr
+#DESCRIPTION Split - Radio Dalmacija live - by pondi.hr
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.siradio.fm:Split - Split Infinity Radio
+#DESCRIPTION Split - Split Infinity Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cmr-hosting.com%3a8430/;stream.nsv:Split - DJ Grga Radio Split
+#DESCRIPTION Split - DJ Grga Radio Split
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//shoutcast.pondi.hr%3a8002/;*.mp3:Split - Sunce
+#DESCRIPTION Split - Sunce
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//c5.hostingcentar.com%3a8061/stream:Split - Ultra
+#DESCRIPTION Split - Ultra
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio-stream.cmc.com.hr%3a8001/autodj:CMC Radio
+#DESCRIPTION CMC Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio-stream.cmc.com.hr%3a8100/autodj:CMC Classic Radio - Zagreb
+#DESCRIPTION CMC Classic Radio - Zagreb
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio-stream.cmc.com.hr%3a8020/autodj:CMC Jugoton Radio - Zagreb
+#DESCRIPTION CMC Jugoton Radio - Zagreb
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio-stream.cmc.com.hr%3a8090/autodj:CMC Kids Radio - Zagreb
+#DESCRIPTION CMC Kids Radio - Zagreb
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cmr-hosting.com%3a8030/; external stream link:Club Music Radio - 90s
+#DESCRIPTION Club Music Radio - 90s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cmr-hosting.com%3a8060/; external stream link:Club Music Radio - CRO Hits
+#DESCRIPTION Club Music Radio - CRO Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cmr-hosting.com%3a8020/;:Club Music Radio - Dance
+#DESCRIPTION Club Music Radio - Dance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//cmr-hosting.com%3a7008/; external stream link:Club Music Radio - ExYU Pop-Ro
+#DESCRIPTION Club Music Radio - ExYU Pop-Ro
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cmr-hosting.com%3a8010/;:Club Music Radio - Folk
+#DESCRIPTION Club Music Radio - Folk
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//cmr-hosting.com%3a7005/;:Club Music Radio - Italo Disco
+#DESCRIPTION Club Music Radio - Italo Disco
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cmr-hosting.com%3a8040/;:Club Music Radio - Love Songs
+#DESCRIPTION Club Music Radio - Love Songs
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cmr-hosting.com%3a8070/;:Club Music Radio - Tambura
+#DESCRIPTION Club Music Radio - Tambura
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.zadar.net%3a8000/radio057:HR RADIO 057
+#DESCRIPTION HR RADIO 057
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream1.radio-banovina.hr%3a8005/:HR RADIO BANOVINA
+#DESCRIPTION HR RADIO BANOVINA
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//shoutcast.pondi.hr%3a8000/:HR RADIO DALMACIJA
+#DESCRIPTION HR RADIO DALMACIJA
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//pa-hosting.de%3a23637/:HR RADIO DARUVAR
+#DESCRIPTION HR RADIO DARUVAR
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//winweb1.novi-net.net%3a8012/:HR RADIO MAX
+#DESCRIPTION HR RADIO MAX
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//85.25.135.86%3a8040/stream:HR RADIO RITAM
+#DESCRIPTION HR RADIO RITAM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//185.150.235.162%3a80:HR RADIO SAMOBOR
+#DESCRIPTION HR RADIO SAMOBOR
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//85.17.172.242%3a8050:HR RADIO VIROVITICA
+#DESCRIPTION HR RADIO VIROVITICA
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.icv.hr/9300/stream:Radio Virovitica
+#DESCRIPTION Radio Virovitica
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//144.76.219.22%3a8215/stream.mp3:Radio Šibenik
+#DESCRIPTION Radio Šibenik
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream1.dns69it.com/stream:Trend Radio Karlovac
+#DESCRIPTION Trend Radio Karlovac
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s8.iqstreaming.com%3a8066/stream:Radio Brač
+#DESCRIPTION Radio Brač
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//sonic.brziserver.com/8004/stream:Radio Gospić
+#DESCRIPTION Radio Gospić
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s8.iqstreaming.com%3a8006/;:Prvi Karlovacki Radio
+#DESCRIPTION Prvi Karlovacki Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ec2s.crolive.com.hr%3a2260/stream:Radio Vallis Aurea Požega
+#DESCRIPTION Radio Vallis Aurea Požega
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//azuracast.novi-net.net/radio/8010/radiomax.mp3:Radio Max Maruševac
+#DESCRIPTION Radio Max Maruševac
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//chopin.bizmusic.net/radio/8030/radio.mp3:Radio Megaton Vidovec
+#DESCRIPTION Radio Megaton Vidovec
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s3.iqstreaming.com%3a8002/stream:Radio Ogulin
+#DESCRIPTION Radio Ogulin
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ec2s.crolive.com.hr%3a2415/stream:Radio Drniš
+#DESCRIPTION Radio Drniš
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioimotski.radioca.st/stream:Radio Imotski
+#DESCRIPTION Radio Imotski
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamserver.radiokorzo.hr%3a6004/stream:Radio Korzo Rijeka
+#DESCRIPTION Radio Korzo Rijeka
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//matrix-server.hr%3a8012/live.mp3:Pomorski Radio Bakar
+#DESCRIPTION Pomorski Radio Bakar
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream1.radio-banovina.hr%3a8008/:Banovina / Glina (HR)
+#DESCRIPTION Banovina / Glina (HR)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s8.iqstreaming.com%3a8058/stream:Velika Gorica (HR)
+#DESCRIPTION Velika Gorica (HR)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s8.iqstreaming.com%3a8002/stream:Prvi Karlovacki / Karlovac (HR)
+#DESCRIPTION Prvi Karlovacki / Karlovac (HR)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s8.iqstreaming.com%3a8066/stream:Brac (HR)
+#DESCRIPTION Brac (HR)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s8.iqstreaming.com%3a8012/stream:HIT / Sinj (HR)
+#DESCRIPTION HIT / Sinj (HR)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.zadar.net%3a8000/radio057:Radio 057 / Zadar (HR)
+#DESCRIPTION Radio 057 / Zadar (HR)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s8.iqstreaming.com%3a8022/stream:Novi / Zadar (HR)
+#DESCRIPTION Novi / Zadar (HR)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiocentar.hr%3a8282/aac:Centar / Porec (HR)
+#DESCRIPTION Centar / Porec (HR)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cmr-hosting.com%3a8470/stream:Lucky / Osijek (HR)
+#DESCRIPTION Lucky / Osijek (HR)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cmr-hosting.com%3a8010/stream:Club Music Folk / Osijek (HR)
+#DESCRIPTION Club Music Folk / Osijek (HR)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s8.iqstreaming.com%3a8026/stream:Slavonija /Slavonski Brod (HR)
+#DESCRIPTION Slavonija /Slavonski Brod (HR)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//85.17.172.242%3a8020/live2.mp3:Slatina (HR)
+#DESCRIPTION Slatina (HR)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s8.iqstreaming.com%3a8036/stream:Baranja / Beli Manastir (HR)
+#DESCRIPTION Baranja / Beli Manastir (HR)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//genf196.server4you.de%3a8585/;5152567466331086stream.nsv:Martin / Dugo Selo (HR)
+#DESCRIPTION Martin / Dugo Selo (HR)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s8.iqstreaming.com%3a8080/stream:Ivanic Grad (HR)
+#DESCRIPTION Ivanic Grad (HR)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s8.iqstreaming.com%3a8062/stream:Petrinja (HR)
+#DESCRIPTION Petrinja (HR)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s8.iqstreaming.com%3a8064/stream:Sisak (HR)
+#DESCRIPTION Sisak (HR)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s8.iqstreaming.com%3a8024/stream:Otocac (HR)
+#DESCRIPTION Otocac (HR)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//194.152.206.205%3a8002/;75045348196555stream.nsv:Koprivnica (HR)
+#DESCRIPTION Koprivnica (HR)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cmr-hosting.com%3a8500/stream:Posavina / Zagreb (HR)
+#DESCRIPTION Posavina / Zagreb (HR)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dreamsiteradiocp.com%3a8026/:Marija / Zagreb (HR)
+#DESCRIPTION Marija / Zagreb (HR)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cmr-hosting.com%3a8010/stream:Club Music Folk Radio Osijek
+#DESCRIPTION Club Music Folk Radio Osijek
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s8.iqstreaming.com%3a8036/stream?1514132292247.aac:Radio Baranja Beli Manastir
+#DESCRIPTION Radio Baranja Beli Manastir
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.zadar.net%3a8000/radio057:Zadar - Radio057
+#DESCRIPTION Zadar - Radio057
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream1.radio-banovina.hr%3a8005/:HR RADIO BANOVINA
+#DESCRIPTION HR RADIO BANOVINA
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//shoutcast.pondi.hr%3a8000/:HR RADIO DALMACIJA
+#DESCRIPTION HR RADIO DALMACIJA
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.radiodeejay.hr%3a7002/:HR RADIO DEEJAY
+#DESCRIPTION HR RADIO DEEJAY
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//balkan.dj.topstream.net%3a8070/:BALKAN DJ
+#DESCRIPTION BALKAN DJ
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//expres-bosna.no-ip.biz%3a1936/:EKSPRES BOSNA
+#DESCRIPTION EKSPRES BOSNA
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//144.76.39.214%3a9510/stream:Hrvatski Radio Frankfurt
+#DESCRIPTION Hrvatski Radio Frankfurt
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.zadar.net%3a8000/radio057:RADIO 057
+#DESCRIPTION RADIO 057
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.radio101.hr%3a9531/stream.mp3:Radio 101
+#DESCRIPTION Radio 101
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream1.radio-banovina.hr%3a8005:RADIO BANOVINA
+#DESCRIPTION RADIO BANOVINA
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.rtvbn.com%3a8522/:RADIO BN
+#DESCRIPTION RADIO BN
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//carsija.topstream.net%3a19406/:RADIO CARSIJA
+#DESCRIPTION RADIO CARSIJA
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//shoutcast.pondi.hr%3a8000/:RADIO DALMACIJA
+#DESCRIPTION RADIO DALMACIJA
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//pa-hosting.de%3a23637/:RADIO DARUVAR
+#DESCRIPTION RADIO DARUVAR
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//pa-hosting.de%3a23573/:RADIO LUDBREG
+#DESCRIPTION RADIO LUDBREG
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//dreamsiteradiocp2.com%3a8076/:Radio Maria Bosnië
+#DESCRIPTION Radio Maria Bosnië
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//dreamsiteradiocp2.com%3a8054/:Radio Maria Kroatië
+#DESCRIPTION Radio Maria Kroatië
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//winweb1.novi-net.net%3a8012/:RADIO MAX
+#DESCRIPTION RADIO MAX
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//85.25.135.86%3a23565/:RADIO MIR
+#DESCRIPTION RADIO MIR
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//nnc1-bpmmc501.radioca.st//stream:Radio Nacional
+#DESCRIPTION Radio Nacional
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//185.150.235.162%3a80:RADIO SAMOBOR
+#DESCRIPTION RADIO SAMOBOR

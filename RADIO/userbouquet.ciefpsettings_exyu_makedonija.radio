@@ -1,0 +1,67 @@
+#NAME :: CiefpSettings EXYU-Makedonija RADIO ::
+#SERVICE 1:64:4DC:0:0:0:0:0:0:0::== ★★ Makedonija ★★ ==
+#DESCRIPTION == ★★ Makedonija ★★ ==
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiostream.neotel.mk/kanal103:Skopje - Kanal103
+#DESCRIPTION Skopje - Kanal103
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//80.77.157.10%3a8000:Kumanovo - Bravo 85 FM  Kumanovo - Macedonia
+#DESCRIPTION Kumanovo - Bravo 85 FM  Kumanovo - Macedonia
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio105.makbots.com%3a21010/;stream.nsv:Radio 105 Bombarder Bitola
+#DESCRIPTION Radio 105 Bombarder Bitola
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//176.9.117.123%3a9998/;stream/1:City / Skoplje (MK)
+#DESCRIPTION City / Skoplje (MK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio105.makbots.com%3a21010/;*.mp3:Bombarder 105 / Bitola (MK)
+#DESCRIPTION Bombarder 105 / Bitola (MK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//176.9.59.144%3a8038/5fmveles:5 FM / Veles (MK)
+#DESCRIPTION 5 FM / Veles (MK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//176.9.59.144%3a8038/ekspres:Expres / Strumica (MK)
+#DESCRIPTION Expres / Strumica (MK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//hyades.shoutca.st%3a8533/stream/1/:Bum / Kumanovo (MK)
+#DESCRIPTION Bum / Kumanovo (MK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.radionomy.com/radiokratovo:Kratovo (MK)
+#DESCRIPTION Kratovo (MK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiostream.neotel.mk/jonradio:Jon Radio
+#DESCRIPTION Jon Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ekspresradio.dyndns.org%3a8000/;:Ekspres Radio Strumica
+#DESCRIPTION Ekspres Radio Strumica
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.shoutcast.mk%3a8062/stream:Hit Radio
+#DESCRIPTION Hit Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//liferadio.ddns.net%3a8000/stream:Life Radio
+#DESCRIPTION Life Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.playfm.mk%3a8046/;:Play FM
+#DESCRIPTION Play FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.zemi.mk%3a8005/1:Radio Medison
+#DESCRIPTION Radio Medison
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.zemi.mk%3a8080/1:Sportsko Radio
+#DESCRIPTION Sportsko Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.skyradio.com.mk%3a8002/;:Sky Radio
+#DESCRIPTION Sky Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//srv1.mol.com.mk%3a9996/;:CLUB FM Live
+#DESCRIPTION CLUB FM Live
+#SERVICE 1:64:4DD:0:0:0:0:0:0:0::==== Bubamara ====
+#DESCRIPTION ==== Bubamara ====
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//88.85.99.2/live-128.mp3:Bubamara / Skoplje (MK)
+#DESCRIPTION Bubamara / Skoplje (MK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.bubamara.com.mk/yupop:Radio Bubamara Yu Pop Rock
+#DESCRIPTION Radio Bubamara Yu Pop Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.bubamara.com.mk/cafe:Radio Bubamara Cafe
+#DESCRIPTION Radio Bubamara Cafe
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.bubamara.com.mk/love:Bubamara Love
+#DESCRIPTION Bubamara Love
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.bubamara.com.mk/makfolkbiseri:Makedonski Folk Biseri Bubamara
+#DESCRIPTION Makedonski Folk Biseri Bubamara
+#SERVICE 1:64:4DE:0:0:0:0:0:0:0::==== Super ====
+#DESCRIPTION ==== Super ====
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.zeno.fm/5bg7xn8m6e9uv:Super Radio - Dance
+#DESCRIPTION Super Radio - Dance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.zeno.fm/uahxvggn6e9uv:Super Radio - Hip Hop & R'
+#DESCRIPTION Super Radio - Hip Hop & R'
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.zeno.fm/4kra86sn6e9uv?zs=GyDXdtadReiKSdR9-b_gMw:Super Radio - Lounge
+#DESCRIPTION Super Radio - Lounge
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.zeno.fm/ruxb58mn6e9uv:Super Radio - Makedonski Hitovi
+#DESCRIPTION Super Radio - Makedonski Hitovi
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.zeno.fm/p3h95gun6e9uv:Super Radio - Smooth Jazz
+#DESCRIPTION Super Radio - Smooth Jazz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.zeno.fm/6bdc40gn6e9uv:Super Radio - Top 40 Fresh Hit
+#DESCRIPTION Super Radio - Top 40 Fresh Hit
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.zeno.fm/25rnuxtn6e9uv:Super Radio - Yu Hits
+#DESCRIPTION Super Radio - Yu Hits

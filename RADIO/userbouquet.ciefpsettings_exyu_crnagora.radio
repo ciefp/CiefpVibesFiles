@@ -1,0 +1,61 @@
+#NAME :: CiefpSettings EXYU-Crna Gora RADIO ::
+#SERVICE 1:64:4D5:0:0:0:0:0:0:0::== ★★ Crna Gora ★★ ==
+#DESCRIPTION == ★★ Crna Gora ★★ ==
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtcg.ipradio.rs%3a9008/;:Radio Crne Gore 1
+#DESCRIPTION Radio Crne Gore 1
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//r98.ipradio.rs%3a10100/;:Radio Crne Gore 2
+#DESCRIPTION Radio Crne Gore 2
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.playradio.me/play-me.aac:Play Radio
+#DESCRIPTION Play Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.elmag.me/elmag.mp3:Radio Elmag
+#DESCRIPTION Radio Elmag
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radioservis.me%3a8010/antenamlive?type=.mp3:Radio Antena M Podgorica
+#DESCRIPTION Radio Antena M Podgorica
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//tachyon.shoutca.st%3a8289/xstream:Radio D
+#DESCRIPTION Radio D
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//eu1.radio.u-2.im%3a3474/;:Drugačija Radio Stanica
+#DESCRIPTION Drugačija Radio Stanica
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamingV2.shoutcast.com/RadioBudv:Radio Budva
+#DESCRIPTION Radio Budva
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.balkanfox.com%3a8098/stream:Radio Elita
+#DESCRIPTION Radio Elita
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.dzenarika.net%3a8122/stream:Radio Bijelo Polje
+#DESCRIPTION Radio Bijelo Polje
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//sh-uk.audio-stream.com%3a8007/stream:Radio Cetinje
+#DESCRIPTION Radio Cetinje
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.dukahosting.com/8008/stream:Radio Tivat
+#DESCRIPTION Radio Tivat
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//sirius.shoutca.st%3a8604/stream/;:Radio Danilovgrad
+#DESCRIPTION Radio Danilovgrad
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//www.radiodux.me%3a8000/radiodux:Radio Dux
+#DESCRIPTION Radio Dux
+#SERVICE 1:64:4D6:0:0:0:0:0:0:0::==== Elmag ====
+#DESCRIPTION ==== Elmag ====
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.elmag.me/elmag.mp3:Radio Elmag - Podgorica
+#DESCRIPTION Radio Elmag - Podgorica
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.elmag.me/cafe.mp3:Radio Elmag Caffe - Podgorica
+#DESCRIPTION Radio Elmag Caffe - Podgorica
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.dzenarika.net%3a8018/stream:Radio Elmag - Folk Gold
+#DESCRIPTION Radio Elmag - Folk Gold
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.elmag.me/evergreen.mp3:Radio Elmag Evergreen - Podgorica
+#DESCRIPTION Radio Elmag Evergreen - Podgorica
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.elmag.me/folkgold.mp3:Radio Elmag Folk Gold - Podgorica
+#DESCRIPTION Radio Elmag Folk Gold - Podgorica
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.elmag.me/hb.mp3:Radio Elmag HB - Podgorica
+#DESCRIPTION Radio Elmag HB - Podgorica
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.elmag.me/izvorne.mp3:Elmag Izvorne - Podgorica
+#DESCRIPTION Elmag Izvorne - Podgorica
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.elmag.me/jazz.mp3:Elmag Jazz - Podgorica
+#DESCRIPTION Elmag Jazz - Podgorica
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.elmag.me/kids.mp3:Radio Elmag Kids - Podgorica
+#DESCRIPTION Radio Elmag Kids - Podgorica
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.elmag.me/love.mp3:Radio Elmag Love - Podgorica
+#DESCRIPTION Radio Elmag Love - Podgorica
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.elmag.me/mag.mp3:Radio Elmag MAG - Podgorica
+#DESCRIPTION Radio Elmag MAG - Podgorica
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.elmag.me/nostalgija.mp3:Radio Elmag Nostalgija - Podgorica
+#DESCRIPTION Radio Elmag Nostalgija - Podgorica
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.elmag.me/party.mp3:Radio Elmag Party - Podgorica
+#DESCRIPTION Radio Elmag Party - Podgorica
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.elmag.me/poprock.mp3:Radio Elmag POP Rock ex YU - Podgorica
+#DESCRIPTION Radio Elmag POP Rock ex YU - Podgorica

@@ -1,4 +1,4 @@
-#NAME :: CiefpSettings EXYU WEB-RADIO ::
+#NAME :: CiefpSettings EXYU-FULL RADIO ::
 #SERVICE 1:64:4C4:0:0:0:0:0:0:0::== ★★ Srbija ★★ ==
 #DESCRIPTION == ★★ Srbija ★★ ==
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.iradio.pro/proxy/densomaniak?mp=/stream:DensoManiak
@@ -471,10 +471,6 @@
 #DESCRIPTION Radio Nacional
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//185.150.235.162%3a80:RADIO SAMOBOR
 #DESCRIPTION RADIO SAMOBOR
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//malla.softnet.si%3a8000/:RADIO SARAJEVO
-#DESCRIPTION RADIO SARAJEVO
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.222.33.217%3a8016/:RADIO TUZLA
-#DESCRIPTION RADIO TUZLA
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//c8.hostingcentar.com/streams/radiotvornica:Radio Tvornica
 #DESCRIPTION Radio Tvornica
 #SERVICE 1:64:4D2:0:0:0:0:0:0:0::== ★★ Bosna ★★ ==
@@ -491,6 +487,10 @@
 #DESCRIPTION Sarajevo - Antena
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server1.tnt.ba%3a9060/; external stream link:TNT Radio Sarajevo
 #DESCRIPTION TNT Radio Sarajevo
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//malla.softnet.si%3a8000/:RADIO SARAJEVO
+#DESCRIPTION RADIO SARAJEVO
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.222.33.217%3a8016/:RADIO TUZLA
+#DESCRIPTION RADIO TUZLA
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.rtvbn.com%3a8522/;:BN Radio
 #DESCRIPTION BN Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.leftor.com%3a8070/;:Nes Radio

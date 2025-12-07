@@ -1,0 +1,97 @@
+#NAME :: CiefpSettings EXYU-Slovenija RADIO ::
+#SERVICE 1:64:4D7:0:0:0:0:0:0:0::== ★★ Slovenija ★★ ==
+#DESCRIPTION == ★★ Slovenija ★★ ==
+#SERVICE 1:64:4D8:0:0:0:0:0:0:0::===== Ljubljana =====
+#DESCRIPTION ===== Ljubljana =====
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mp3.rtvslo.si/ra1:Ljubljana - Radio prvi
+#DESCRIPTION Ljubljana - Radio prvi
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mp3.rtvslo.si/val202:Ljubljana - Val 202
+#DESCRIPTION Ljubljana - Val 202
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mp3.rtvslo.si/ars:Ljubljana - Ars
+#DESCRIPTION Ljubljana - Ars
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mp3.rtvslo.si/rsi:Ljubljana - Radio Si
+#DESCRIPTION Ljubljana - Radio Si
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//93.103.13.156%3a8000/:Ljubljana - Radio Ekspres
+#DESCRIPTION Ljubljana - Radio Ekspres
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.95.158.131%3a9040:Ljubljana - Radio Aktual
+#DESCRIPTION Ljubljana - Radio Aktual
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.95.158.131%3a9060/:Ljubljana - Radio Veseljak
+#DESCRIPTION Ljubljana - Radio Veseljak
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//kruljo.radiostudent.si%3a8000/ehiq:Radio Student direkt v zilo - Killer Quality
+#DESCRIPTION Radio Student direkt v zilo - Killer Quality
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.rockradio.si%3a9034/;stream/1:Ljubljana - Slovenija 1
+#DESCRIPTION Ljubljana - Slovenija 1
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream3.radiocenter.si%3a8000/center:Ljubljana - Center Hit
+#DESCRIPTION Ljubljana - Center Hit
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream3.radiocenter.si%3a9020/;stream/1:Ljubljana - Center Top 100
+#DESCRIPTION Ljubljana - Center Top 100
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream3.radiocenter.si%3a8058/;stream/1:Ljubljana - Center Fresh Pop
+#DESCRIPTION Ljubljana - Center Fresh Pop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.rockradio.si%3a9034/;stream/1:Ljubljana - Center Rock
+#DESCRIPTION Ljubljana - Center Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream3.radiocenter.si%3a8000/piknik:HITRADIO CENTER - Prvi v Sloveniji za hite
+#DESCRIPTION HITRADIO CENTER - Prvi v Sloveniji za hite
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream3.radiocenter.si%3a8060/;stream/1:CENTER LOVE
+#DESCRIPTION CENTER LOVE
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream3.radiocenter.si%3a8064/;stream/1:CENTER 80s
+#DESCRIPTION CENTER 80s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream3.radiocenter.si%3a8100/;stream/1:CENTER YU AAC
+#DESCRIPTION CENTER YU AAC
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radioaktual.si/AktualK:Ljubljana - Aktual Kum
+#DESCRIPTION Ljubljana - Aktual Kum
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radioaktual.si/AktualD:Ljubljana - Aktual Studio D
+#DESCRIPTION Ljubljana - Aktual Studio D
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radioaktual.si/AktualDalmacija:Ljubljana - Aktual Dalmacija
+#DESCRIPTION Ljubljana - Aktual Dalmacija
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radioaktual.si/Aktual:Ljubljana - Aktual osrednja Slovenija
+#DESCRIPTION Ljubljana - Aktual osrednja Slovenija
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radioaktual.si/AktualO:Ljubljana - Aktual Obala
+#DESCRIPTION Ljubljana - Aktual Obala
+#SERVICE 1:64:4D9:0:0:0:0:0:0:0::===== Koper =====
+#DESCRIPTION ===== Koper =====
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mp3.rtvslo.si/rakp:Koper - Radio Koper
+#DESCRIPTION Koper - Radio Koper
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mp3.rtvslo.si/capo:Koper - Radio Capodistria
+#DESCRIPTION Koper - Radio Capodistria
+#SERVICE 1:64:4DA:0:0:0:0:0:0:0::===== Novo Mesto =====
+#DESCRIPTION ===== Novo Mesto =====
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//93.103.12.127%3a8000/:Novo Mesto - Radio Krka 106 MHz Novo mesto Slovenija
+#DESCRIPTION Novo Mesto - Radio Krka 106 MHz Novo mesto Slovenija
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//193.105.67.24%3a8006/:Novo Mesto - Radio Sraka
+#DESCRIPTION Novo Mesto - Radio Sraka
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mp3.rtvslo.si/rmb:Maribor - Radio Maribor
+#DESCRIPTION Maribor - Radio Maribor
+#SERVICE 1:64:4DB:0:0:0:0:0:0:0::===== Ostali =====
+#DESCRIPTION ===== Ostali =====
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//frekvenca.eu%3a8000/radiomars.mp3:Maribor - Mariborski Radio Študent - MARŠ
+#DESCRIPTION Maribor - Mariborski Radio Študent - MARŠ
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//84.52.138.44/Krka:Krka / Krka (SLO)
+#DESCRIPTION Krka / Krka (SLO)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.95.158.131%3a7010:Trbovlje - Radio KUM
+#DESCRIPTION Trbovlje - Radio KUM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//193.105.67.24%3a8010/:Slov. Konjice - Radio Rogla - Najboljsa glasba za Stajersko
+#DESCRIPTION Slov. Konjice - Radio Rogla - Najboljsa glasba za Stajersko
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.strozak.org%3a8006:Velenje - Moj Radio Webcast ... jaitak...
+#DESCRIPTION Velenje - Moj Radio Webcast ... jaitak...
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//89.142.196.111%3a9030/:SI RADIO CELJE
+#DESCRIPTION SI RADIO CELJE
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//212.18.63.51%3a8042/:SI RADIO CENTER LJUBLJANA
+#DESCRIPTION SI RADIO CENTER LJUBLJANA
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//93.103.13.156%3a8000/:SI RADIO EKSPRES
+#DESCRIPTION SI RADIO EKSPRES
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//shoutcast.netsi.net%3a8300/:SI RADIO KOROSKI
+#DESCRIPTION SI RADIO KOROSKI
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//93.103.12.127%3a8000/:SI RADIO KRKA NOVO MESTO
+#DESCRIPTION SI RADIO KRKA NOVO MESTO
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.95.158.131%3a7010/:SI RADIO KUM
+#DESCRIPTION SI RADIO KUM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radio-ptuj.si%3a8000/:SI RADIO PTUJ
+#DESCRIPTION SI RADIO PTUJ
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.95.158.131%3a8050/:SI RADIO SALOMON
+#DESCRIPTION SI RADIO SALOMON
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//91.185.194.102%3a8014/:SI RADIO SLOVENSKE GORICE
+#DESCRIPTION SI RADIO SLOVENSKE GORICE
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//kruljo.radiostudent.si%3a8000/hiq:SI RADIO STUDENT
+#DESCRIPTION SI RADIO STUDENT
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.95.158.131%3a9060/:SI RADIO VESELJAK
+#DESCRIPTION SI RADIO VESELJAK
