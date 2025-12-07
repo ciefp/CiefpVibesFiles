@@ -1,6 +1,14 @@
 #NAME CiefpSettings Italia WEB-RADIO
-#SERVICE 1:64:62f:0:0:0:0:0:0:0:
-#DESCRIPTION ++Rai++
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamcdnb3-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2odance/radiom2odance/play1.m3u8:M2o
+#DESCRIPTION M2o Dance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamcdnb2-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaytime/live.m3u8:Deejay Time
+#DESCRIPTION Deejay Time
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamcdnb2-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejayonetwoonetwo/live.m3u8:OneTwoOneTwo
+#DESCRIPTION OneTwoOneTwo
+#SERVICE 4097:0:2:355:0:0:0:0:0:0:https%3a//streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/WjpMtPyNjHwj/chunklist_b192000.m3u8:RTL 102.5 
+#DESCRIPTION RTL 102.5 
+#SERVICE 4097:0:2:27:0:0:0:0:0:0:http%3a//streamcdnf26-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/fYNIdrsfP3xC/chunklist_b192000.m3u8:RTL Best
+#DESCRIPTION RTL Best
 #SERVICE 4097:0:2:5:0:0:0:0:0:0:http%3a//icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S18493106/rCMKqdMFKPBB/icecast:Rai Radio 1
 #DESCRIPTION Rai Radio 1
 #SERVICE 4097:0:2:5:0:0:0:0:0:0:http%3a//icestreaming.rai.it/2.mp3:Rai Radio 2
@@ -41,8 +49,6 @@
 #DESCRIPTION Radio Serie A con RDS
 #SERVICE 4097:0:2:355:0:0:0:0:0:0:https%3a//stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index_14.m3u8:Radio TV Serie A
 #DESCRIPTION Radio TV Serie A
-#SERVICE 1:64:630:0:0:0:0:0:0:0:
-#DESCRIPTION ++festival San Remo, themazenders++
 #SERVICE 4097:0:2:15:0:0:0:0:0:0:http%3a//icecast.unitedradio.it/um049.mp3:Music Radio Festival Le Canzoni Vincitrici
 #DESCRIPTION Music Radio Festival Le Canzoni Vincitrici
 #SERVICE 4097:0:2:15:0:0:0:0:0:0:http%3a//icecast.unitedradio.it/um073.mp3:United Music Radio Festival
@@ -51,8 +57,6 @@
 #DESCRIPTION United Music Radio Festival 1951-1999
 #SERVICE 4097:0:2:15:0:0:0:0:0:0:http%3a//icecast.unitedradio.it/um112.mp3:United Music Radio Festival 2000-2021
 #DESCRIPTION United Music Radio Festival 2000-2021
-#SERVICE 1:64:631:0:0:0:0:0:0:0:
-#DESCRIPTION ++overig Italiaans++
 #SERVICE 4097:0:2:273:0:0:0:0:0:0:https%3a//onair18.xdevel.com/proxy/7080it?mp=/stream:70-80.it 
 #DESCRIPTION 70-80.it 
 #SERVICE 4097:0:2:273:0:0:0:0:0:0:http%3a//icy.unitedradio.it/105_522.mp3:105 BSMNT
@@ -69,26 +73,6 @@
 #DESCRIPTION CIAO COMO RADIO
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.net/dimensioneradio-128.mp3:DIMENSIONE RADIO
 #DESCRIPTION DIMENSIONE RADIO
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamcdnb8-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay30songs/radiodeejay30songs/master_ma.m3u8:Deejay 30 Songs
-#DESCRIPTION Deejay 30 Songs
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamcdnb10-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejay80/live.m3u8 :Deejay 80s
-#DESCRIPTION Deejay 80s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamcdnb9-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaygasolina/live.m3u8:Deejay Gasolina
-#DESCRIPTION Deejay Gasolina
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejayontheroad/playlist.m3u8:Deejay on the Road
-#DESCRIPTION Deejay on the Road
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamcdnb7-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejayonelove/live.m3u8:Deejay One Love
-#DESCRIPTION Deejay One Love
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamcdnb7-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejayonetwoonetwo/live.m3u8:Deejay One Two One Two
-#DESCRIPTION Deejay One Two One Two
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamcdnb11-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaywfmlinus/live.m3u8:Deejay Radio Linetti
-#DESCRIPTION Deejay Radio Linetti
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamcdnb5-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaysuonaitalia/live.m3u8:Deejay Suona Italia
-#DESCRIPTION Deejay Suona Italia
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamcdnb2-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaytime/live.m3u8:Deejay Time
-#DESCRIPTION Deejay Time
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamcdnb7-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaytropicalpizza/live.m3u8:Deejay Tropical Pizza
-#DESCRIPTION Deejay Tropical Pizza
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.dimensionesuonosoft.radio/audio/dssc.stream_aac/chunklist.m3u8 :Dimensione Soft Centro
 #DESCRIPTION Dimensione Soft Centro
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rds.radio/audio/dssn.stream_aac/chunklist.m3u8:Dimensione Soft Nord
@@ -161,10 +145,6 @@
 #DESCRIPTION LOLLI RADIO SOFT NOTIZIE
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//nr7.newradio.it%3a19353/stream:Luceverde Radio
 #DESCRIPTION Luceverde Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamcdnb6-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/master_ma.m3u8:M2o
-#DESCRIPTION M2o
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamcdnb11-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2odance/radiom2odance/master_ma.m3u8:M2o Dance
-#DESCRIPTION M2o Dance
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge.singsingmusic.net/MC2.mp3:MC2
 #DESCRIPTION MC2
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rcs.revma.com/h2cwfffp81uvv:MC2 Buddha Bar Collection
@@ -683,12 +663,6 @@
 #DESCRIPTION Rete Toscana Classica
 #SERVICE 4097:0:2:109:0:0:0:0:0:0:http%3a//sr9.inmystream.info%3a8006:RIN RADIO ITALIA NETWORK
 #DESCRIPTION RIN RADIO ITALIA NETWORK
-#SERVICE 1:64:632:0:0:0:0:0:0:0:
-#DESCRIPTION ++RMC= Radio Monte Carlo, zie Monaco++
-#SERVICE 4097:0:2:355:0:0:0:0:0:0:https%3a//streamcdnb2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S26743519/49ksH8apMKou/chunklist_b2816000.m3u8:RTL 102.5 + Plus
-#DESCRIPTION RTL 102.5 + Plus
-#SERVICE 4097:0:2:27:0:0:0:0:0:0:http%3a//shoutcast.rtl.it%3a3020/:RTL Best
-#DESCRIPTION RTL Best
 #SERVICE 4097:0:2:31:0:0:0:0:0:0:http%3a//shoutcast.rtl.it%3a3040/:RTL Groove
 #DESCRIPTION RTL Groove
 #SERVICE 4097:0:2:29:0:0:0:0:0:0:http%3a//shoutcast.rtl.it%3a3030/:RTL ItalianStyle

@@ -1,0 +1,331 @@
+#NAME CiepSettings Mix Party RADIO
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/web/mp3-192/homepage/
+#DESCRIPTION 80s80s - Digital
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/maxis/mp3-192/homepage/
+#DESCRIPTION 80s80s - Maxis
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/rock/mp3-192/homepage/
+#DESCRIPTION 80s80s - Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-80s80spopstories-mp3-192-9460042
+#DESCRIPTION 80s80s - Pop Stories
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/dm/mp3-192/homepage/
+#DESCRIPTION 80s80s - DM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/wave/mp3-192/homepage/
+#DESCRIPTION 80s80s - Wave
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/darkwave/mp3-192/homepage/
+#DESCRIPTION 80s80s - Dark Wave
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/dance/mp3-192/homepage/
+#DESCRIPTION 80s80s - Dance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/deutsch/mp3-192/homepage/
+#DESCRIPTION 80s80s - Deutsch
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/neo/mp3-192/homepage/
+#DESCRIPTION 80s80s - Neo
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/party/mp3-192/homepage/
+#DESCRIPTION 80s80s - Party
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/mix/mp3-192/homepage/
+#DESCRIPTION 80s80s - In the Mix
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/italohits/mp3-192/homepage/
+#DESCRIPTION 80s80s - Italo Disco
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/italodiscomix/mp3-192/streams.80s80s.de/
+#DESCRIPTION 80s80s - Italo Disco in the Mix 192
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/italodiscomix/mp3-128/streams.80s80s.de/
+#DESCRIPTION 80s80s - Italo Disco in the Mix 128
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/italodiscomix/aac-64/streams.80s80s.de/
+#DESCRIPTION 80s80s - Italo Disco in the Mix AAC+
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/livemusic/mp3-192/homepage/
+#DESCRIPTION 80s80s - Live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/summerhits/mp3-192/homepage/
+#DESCRIPTION 80s80s - Summer
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/love/mp3-192/homepage/
+#DESCRIPTION 80s80s - Love
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/dinnerparty/mp3-192/homepage/
+#DESCRIPTION 80s80s - Dinnerparty
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/ndw/mp3-192/homepage/
+#DESCRIPTION 80s80s - NDW
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/soul/mp3-192/homepage/
+#DESCRIPTION 80s80s - Funk & Soul
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/hiphop/mp3-192/homepage/
+#DESCRIPTION 80s80s - HipHop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/breakdance/mp3-192/homepage/
+#DESCRIPTION 80s80s - Breakdance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-80s80stechno-mp3-192-6907852
+#DESCRIPTION 80s80s - TECHNO
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/queen/mp3-192/homepage/
+#DESCRIPTION 80s80s - Queen
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/100/mp3-192/homepage/
+#DESCRIPTION 80s80s - Prince
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/mj/mp3-192/homepage/
+#DESCRIPTION 80s80s - Michael Jackson
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/davidbowie/mp3-192/homepage/
+#DESCRIPTION 80s80s - David Bowie
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/christmas/mp3-192/homepage/
+#DESCRIPTION 80s80s - Xmas
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-80s80snrw-mp3-192-3625255
+#DESCRIPTION 80s80s - NRW
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-80s80sebm-mp3-192-8711896
+#DESCRIPTION 80s80s - EBM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-80s80sreggae-mp3-192-3880321?
+#DESCRIPTION 80s80s - Reggae
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc_vvopejosnr_rv4r-mp3-192-6705874?
+#DESCRIPTION 80s80s - Alternative
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//regiocast.streamabc.net/regc_bljow2eoji_it5l-mp3-192-6893733
+#DESCRIPTION 80s80s - Freestyle
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-90s90spop4760822-mp3-192-9403761
+#DESCRIPTION 90s90s - Digital
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-90s90sdanceradio-mp3-192-7820726
+#DESCRIPTION 90s90s - Dance Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-90s90sdinnerparty-mp3-192-2807326
+#DESCRIPTION 90s90s - Dinnerparty
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-90s90shouse9480822-mp3-192-5444193
+#DESCRIPTION 90s90s - House
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-90s90srock1436287-mp3-192-2191420
+#DESCRIPTION 90s90s - Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-90s90srnb9791660-mp3-192-2459421
+#DESCRIPTION 90s90s - Soul & RnB
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-90s90seurodance7558633-mp3-192-3419489
+#DESCRIPTION 90s90s - Eurodance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-90s90sboygroup4982406-mp3-192-8624034
+#DESCRIPTION 90s90s - Boygroups
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-90s90smain4920117-mp3-192-6232809
+#DESCRIPTION 90s90s - Clubhits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-90s90slovesongs4458302-mp3-192-1757165
+#DESCRIPTION 90s90s - Lovesongs
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-90s90stechno2195701-mp3-192-2408420
+#DESCRIPTION 90s90s - Techno
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-90s90shiphopger1075276-mp3-192-7006589
+#DESCRIPTION 90s90s - Hiphop Deutsch
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-90s90sinthemix9775729-mp3-192-4658440
+#DESCRIPTION 90s90s - In The Mix
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-90s90sgrunge7540920-mp3-192-4353468
+#DESCRIPTION 90s90s - Grunge
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-90s90shiphop9858510-mp3-192-3156332
+#DESCRIPTION 90s90s - Hiphop & Rap
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-90s90sloveparade-mp3-192-5912520
+#DESCRIPTION 90s90s - Loveparade
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-90s90srave-mp3-192-2687569
+#DESCRIPTION 90s90s - Rave
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-90s90ssommerhits7739935-mp3-192-4515340
+#DESCRIPTION 90s90s - Sommerhits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-90s90sreggae-mp3-192-2403753?
+#DESCRIPTION 90s90s - Reggae
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-90s90s90s00s-mp3-192-4732500?
+#DESCRIPTION 90s90s - 90s00s Millenium Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-90s90schillout-mp3-192-9834343
+#DESCRIPTION 90s90s - Chill Out
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
+#DESCRIPTION Deluxe Music - Deluxe Lounge
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxemusic1636722-aacplus-64-8368771
+#DESCRIPTION Deluxe Music - Music Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxeeasy7122651-mp3-128-6100697
+#DESCRIPTION Deluxe Music - Deluxe Easy
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.radio.co/se1a320b47/listen
+#DESCRIPTION Cafe del Mar - Chill Channel
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamer.radio.co/sb748f24ad/listen
+#DESCRIPTION Cafe del Mar - Calm Channel
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s4.radio.co/seeae9c220/listen
+#DESCRIPTION Cafe del Mar - House Channel
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamcdnb3-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2odance/radiom2odance/play1.m3u8:M2o
+#DESCRIPTION M2o Dance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamcdnb2-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaytime/live.m3u8:Deejay Time
+#DESCRIPTION Deejay Time
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamcdnb2-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejayonetwoonetwo/live.m3u8:OneTwoOneTwo
+#DESCRIPTION OneTwoOneTwo
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ice2.ikoula.net-radio.fr/h2oradio.flac
+#DESCRIPTION H2O UHD (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.jam.fm/jamfm-live/mp3-192
+#DESCRIPTION JAM FM - Live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.jam.fm/90er/mp3-192/
+#DESCRIPTION JAM FM - 90er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.jam.fm/2000er/mp3-192/
+#DESCRIPTION JAM FM - 2000er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.jam.fm/2010er/mp3-192/
+#DESCRIPTION JAM FM - 2010er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frequence3.net-radio.fr/frequence3.flac
+#DESCRIPTION Fréquence 3 (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frequence3.net-radio.fr/frequence3dance.flac
+#DESCRIPTION Fréquence 3 - Dance (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frequence3.net-radio.fr/frequence3gold.flac
+#DESCRIPTION Fréquence 3 - Gold (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frequence3.net-radio.fr/frequence3urban.flac
+#DESCRIPTION Fréquence 3 - Urban (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frequence3.net-radio.fr/frequence3world.flac
+#DESCRIPTION Fréquence 3 - World (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//tuner.m1.fm/charts.mp3
+#DESCRIPTION M1.FM - Charts
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//tuner.m1.fm/hits.mp3
+#DESCRIPTION M1.FM - The Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//tuner.m1.fm/clubmix.mp3
+#DESCRIPTION M1.FM - Clubmix
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//tuner.m1.fm/softpop.mp3
+#DESCRIPTION M1.FM - Softpop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//tuner.m1.fm/chillout.mp3
+#DESCRIPTION M1.FM - Chillout
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//tuner.m1.fm/kuschelschlager.mp3
+#DESCRIPTION M1.FM - Kuschelschlager
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//tuner.m1.fm/urban.mp3
+#DESCRIPTION M1.FM - Urban
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//tuner.m1.fm/rock.mp3
+#DESCRIPTION M1.FM - Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//tuner.m1.fm/schlagerparty.mp3
+#DESCRIPTION M1.FM - Schlagerparty
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//tuner.m1.fm/80er.mp3
+#DESCRIPTION M1.FM - 80er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//tuner.m1.fm/90er.mp3
+#DESCRIPTION M1.FM - 90er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//tuner.m1.fm/oldies.mp3
+#DESCRIPTION M1.FM - Oldies
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge67.streamonkey.net/nostalgie-live
+#DESCRIPTION Nostalgie Radio - Livestream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge61.streamonkey.net/nostalgie-80er
+#DESCRIPTION Nostalgie Radio - 80er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge59.streamonkey.net/nostalgie-90er
+#DESCRIPTION Nostalgie Radio - 90er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge09.streamonkey.net/nostalgie-danceparty
+#DESCRIPTION Nostalgie Radio - Dance Party
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge11.streamonkey.net/nostalgie-sommer
+#DESCRIPTION Nostalgie Radio - Sommer
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ffn.stream05.radiohost.de/ffn_mp3-192?
+#DESCRIPTION Radio ffn - live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ffn.stream40.radiohost.de/radiobollerwagen_mp3-192?
+#DESCRIPTION Radio ffn - Radio Bollerwagen
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ffn.stream04.radiohost.de/ffn-607080radio_mp3-192?
+#DESCRIPTION Radio ffn - 60/70/80
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ffn-stream10.radiohost.de/ffn-708090_mp3-192?
+#DESCRIPTION Radio ffn - 70/80/90
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ffn.stream36.radiohost.de/ffn-hits_mp3-192?
+#DESCRIPTION Radio ffn - ffn Hits*
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ffn.stream15.radiohost.de/neunziger_mp3-192?
+#DESCRIPTION Radio ffn - ffn 90er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ffn.stream41.radiohost.de/ffn-80er_mp3-192?
+#DESCRIPTION Radio ffn - ffn 80er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ffn.stream36.radiohost.de/ffn-dance_only_mp3-192?
+#DESCRIPTION Radio ffn - ffn Dance only
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ffn.stream41.radiohost.de/ffn-rockt_mp3-192?
+#DESCRIPTION Radio ffn - ffn rockt!
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ffn.stream41.radiohost.de/ffn-gold_mp3-192?
+#DESCRIPTION Radio ffn - ffn Gold
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ffn.stream20.radiohost.de/ffn-comedy_mp3-192?
+#DESCRIPTION Radio ffn - ffn Frühstyx Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ffn.stream19.radiohost.de/ffn-radio_rotkaeppchen_mp3-192?
+#DESCRIPTION Radio ffn - Radio Rotkäppchen
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ffn.stream36.radiohost.de/ffn-auszeit_fm_mp3-192?
+#DESCRIPTION Radio ffn - Aus Zeit FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ffn.stream15.radiohost.de/peppermintfm_mp3-192?
+#DESCRIPTION Radio ffn - Peppermint FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ffn.stream03.radiohost.de/ffn-diesdasfm_mp3-192?
+#DESCRIPTION Radio ffn - dies das FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ffn.stream38.radiohost.de/storiesfm_mp3-192?
+#DESCRIPTION Radio ffn - stories.fm
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ffn.stream27.radiohost.de/tannenbaum_mp3-192?
+#DESCRIPTION Radio ffn - ffn Tannen Baum
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ffn.stream38.radiohost.de/ffn-das_gelbe_vom_ei_mp3-192?
+#DESCRIPTION Radio ffn - ffn Das Gelbe vom Ei
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ffn.stream27.radiohost.de/radioroland_mp3-192?
+#DESCRIPTION Radio ffn - Radio Roland
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ffn.stream41.radiohost.de/energybremen_mp3-192?
+#DESCRIPTION Radio ffn - NRJ Bremen Hit Music only
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiowestfalica--di--nacs-ais-lgc--09--cdn.cast.addradio.de/radiowestfalica/live/mp3/high
+#DESCRIPTION Radio Westfalica - Live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/dein80er/mid/stream.aac?
+#DESCRIPTION Radio Westfalica - Dein 80er Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/dein90er/mid/stream.aac?
+#DESCRIPTION Radio Westfalica - Dein 90er Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/deinradio03/aac/mid/stream.aac?
+#DESCRIPTION Radio Westfalica - Dein 2000er Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/deinradio02/mp3/high/stream.mp3?
+#DESCRIPTION Radio Westfalica - Dein Dance Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/deindeutschpop/high/stream.mp3?
+#DESCRIPTION Radio Westfalica - Dein Deutsch Pop Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/deinradio07/mp3/high/stream.mp3?
+#DESCRIPTION Radio Westfalica - Dein HIP HOP Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/deinlounge/mid/stream.aac?
+#DESCRIPTION Radio Westfalica - Dein Lounge Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/deinlove/mid/stream.aac?
+#DESCRIPTION Radio Westfalica - Dein Love Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/deinradio06/aac/mid/stream.aac?
+#DESCRIPTION Radio Westfalica - Dein New Country Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/deinrock/low/stream.mp3?
+#DESCRIPTION Radio Westfalica - Dein Rock Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/deinradio04/aac/mid/stream.aac?
+#DESCRIPTION Radio Westfalica - Dein Rock Classic Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/deinschlager/low/stream.mp3?
+#DESCRIPTION Radio Westfalica - Dein Schlager Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/deintop40/mid/stream.aac?
+#DESCRIPTION Radio Westfalica - Dein Top40 Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/deinurban/mid/stream.aac?
+#DESCRIPTION Radio Westfalica - Dein Urban Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/deinradio05/aac/mid/stream.aac?
+#DESCRIPTION Radio Westfalica - Dein Sommer Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/deinevent/mid/stream.aac?
+#DESCRIPTION Radio Westfalica - Dein Weihnachts Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icy.unitedradio.it/VirginRockClassics.mp3
+#DESCRIPTION Virgin Radio Italy - Classic Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icy.unitedradio.it/VirginRockHits.mp3
+#DESCRIPTION Virgin Radio Italy - Rock Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icy.unitedradio.it/Virgin_06.mp3
+#DESCRIPTION Virgin Radio Italy - Rock Ballads
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icy.unitedradio.it/VirginRock70.mp3
+#DESCRIPTION Virgin Radio Italy - Rock 70
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icy.unitedradio.it/VirginRock80.mp3
+#DESCRIPTION Virgin Radio Italy - Rock 80
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icy.unitedradio.it/Virgin_03.mp3
+#DESCRIPTION Virgin Radio Italy - Rock 90
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icy.unitedradio.it/Virgin_02.mp3
+#DESCRIPTION Virgin Radio Italy - Rock 2k
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icy.unitedradio.it/VirginHardRock.mp3
+#DESCRIPTION Virgin Radio Italy - Hard Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icy.unitedradio.it/VirginRockParty.mp3
+#DESCRIPTION Virgin Radio Italy - Rock Party
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icy.unitedradio.it/VirginRockAlternative.mp3
+#DESCRIPTION Virgin Radio Italy - Alternative Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icy.unitedradio.it/um1030.mp3
+#DESCRIPTION Virgin Radio Italy - Oasis
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icy.unitedradio.it/um1026.mp3
+#DESCRIPTION Virgin Radio Italy - AC/DC
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icy.unitedradio.it/um1029.mp3
+#DESCRIPTION Virgin Radio Italy - Guns N' Roses
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icy.unitedradio.it/VirginSpecialEvent.mp3
+#DESCRIPTION Virgin Radio Italy - Rolling Stones
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icy.unitedradio.it/VirginRogerWaters.mp3
+#DESCRIPTION Virgin Radio Italy - Pink Floyd
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.unitedradio.it/Virgin_05.mp3
+#DESCRIPTION Virgin Radio Italy - Queen
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icy.unitedradio.it/um1028.mp3
+#DESCRIPTION Virgin Radio Italy - Aerosmith
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icy.unitedradio.it/um1027.mp3
+#DESCRIPTION Virgin Radio Italy - Bon Jovi
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icy.unitedradio.it/Virgin.mp3
+#DESCRIPTION Virgin Radio Italy -  On-Air
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.streambase.ch/vrock/mp3-192/direct/
+#DESCRIPTION Virgin Radio Switzerland
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.virginradio.co.uk/stream
+#DESCRIPTION Virgin Radio UK live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//nl4.mystreaming.net/uber-app/starboxmotown/icecast.audio
+#DESCRIPTION YouRadio Greatest Hits - Motown
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//2.mystreaming.net/er-app/disco/icecast.audio
+#DESCRIPTION YouRadio Greatest Hits - Disco
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//nl4.mystreaming.net/uber-app/starboxsoftrock/icecast.audio
+#DESCRIPTION YouRadio Greatest Hits - Soft Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//nl4.mystreaming.net/uber-app/starboxcountry/icecast.audio
+#DESCRIPTION YouRadio Greatest Hits - Country
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//nl4.mystreaming.net/uber-app/boomerang1920s/icecast.audio
+#DESCRIPTION YouRadio Greatest Hits - 1920
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//2.mystreaming.net/uber-app/boomerang1930s/icecast.audio
+#DESCRIPTION YouRadio Greatest Hits - 1930
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//nl4.mystreaming.net/uber-app/boomerang1940s/icecast.audio
+#DESCRIPTION YouRadio Greatest Hits - 1940
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//nl4.mystreaming.net/uber-app/boomerang1950s/icecast.audio
+#DESCRIPTION YouRadio Greatest Hits - 1950
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//nl4.mystreaming.net/uber-app/boomerang1960s/icecast.audio
+#DESCRIPTION YouRadio Greatest Hits - 1960
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//2.mystreaming.net/uber-app/boomerang1970s/icecast.audio
+#DESCRIPTION YouRadio Greatest Hits - 1970
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//2.mystreaming.net/uber-app/boomerang1980s/icecast.audio
+#DESCRIPTION YouRadio Greatest Hits - 1980
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//nl4.mystreaming.net/uber-app/boomerang1990s/icecast.audio
+#DESCRIPTION YouRadio Greatest Hits - 1990
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//nl4.mystreaming.net/uber-app/boomerang2000s/icecast.audio
+#DESCRIPTION YouRadio Greatest Hits - 2000
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//2.mystreaming.net/uber-app/boomerang2010s/icecast.audio
+#DESCRIPTION YouRadio Greatest Hits - 2010
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//2.mystreaming.net/uber-app/boomerang2020s/icecast.audio
+#DESCRIPTION YouRadio Greatest Hits - 2020

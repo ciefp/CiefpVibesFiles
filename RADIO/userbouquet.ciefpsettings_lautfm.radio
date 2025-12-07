@@ -1,0 +1,333 @@
+#NAME CiefpSettings Laut FM RADIO
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/1000club
+#DESCRIPTION laut.fm - 1000 Club
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/1000countryhits
+#DESCRIPTION laut.fm - 1000 Country Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/1000dance
+#DESCRIPTION laut.fm - 1000 Dance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/1000fm
+#DESCRIPTION laut.fm - 1000 FM München
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/1000goldschlager
+#DESCRIPTION laut.fm - 1000 Gold Schlager
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/1000hamburg
+#DESCRIPTION laut.fm - 1000 Hamburg
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/1000hits
+#DESCRIPTION laut.fm - 1000 Hits Deutschland
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/1000italohits
+#DESCRIPTION laut.fm - 1000 Italohits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/1000lovesongs
+#DESCRIPTION laut.fm - 1000 Lovesongs
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/1000oldies
+#DESCRIPTION laut.fm - 1000 Oldies
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/1000rockhits
+#DESCRIPTION laut.fm - 1000 Rockhits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/100070er
+#DESCRIPTION laut.fm - 1000 70er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/100080er
+#DESCRIPTION laut.fm - 1000 80er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/100090er
+#DESCRIPTION laut.fm - 1000 90er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/1974
+#DESCRIPTION laut.fm - 1974 Duisburg
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/70er-revival
+#DESCRIPTION laut.fm - 70er Revival
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/80er-radio
+#DESCRIPTION laut.fm - 80er Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/80s-mix-radio
+#DESCRIPTION laut.fm - 80s Mix Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/airship10
+#DESCRIPTION laut.fm - Airship 10 (MI)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/alpenradio
+#DESCRIPTION laut.fm - Alpenradio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/antenne3
+#DESCRIPTION laut.fm - Antenne 3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/antenne80
+#DESCRIPTION laut.fm - Antenne 80
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/antenne_b
+#DESCRIPTION laut.fm - Antenne B
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/antenne
+#DESCRIPTION laut.fm - Antenne Düsseldorf
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/antennefm
+#DESCRIPTION laut.fm - Antenne FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/antenne-herford
+#DESCRIPTION laut.fm - Antenne Herford
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/antenne-hueckeswagen
+#DESCRIPTION laut.fm - Antenne Hückeswagen
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/antenne-mix24
+#DESCRIPTION laut.fm - Antenne Mix 24
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/antenne-oldies
+#DESCRIPTION laut.fm - Antenne Oldies
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/antenne-plus
+#DESCRIPTION laut.fm - Antenne Plus
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/antenne-sachsen-anhalt
+#DESCRIPTION laut.fm - Antenne Sachsen Anhalt
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/antenneww
+#DESCRIPTION laut.fm - Antenne WW
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/atlanticomega
+#DESCRIPTION laut.fm - Atlanticomega
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/basspartyclub
+#DESCRIPTION laut.fm - basspartyclub. (MI)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/bauer-fm
+#DESCRIPTION laut.fm - Bauer FM Hannover
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/best_of_80s
+#DESCRIPTION laut.fm - Best of 80s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//big-jake.stream.laut.fm/big-jake
+#DESCRIPTION laut.fm - Big Jake
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/blasmusikradio
+#DESCRIPTION laut.fm - Blasmusikradio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/blues
+#DESCRIPTION laut.fm - Blues
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/bluesclub
+#DESCRIPTION laut.fm - Bluesclub
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/bluesfan
+#DESCRIPTION laut.fm - Blues Fan
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/bluesrockcafe
+#DESCRIPTION laut.fm - Blues Rock Cafe
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/bluesstation4you
+#DESCRIPTION laut.fm - Bluesstation 4 YOU
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/bluesundrockgarage
+#DESCRIPTION laut.fm - Blues und Rock Garage
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/b_o
+#DESCRIPTION laut.fm - Bo Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/castle-rock
+#DESCRIPTION laut.fm - Castle Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/claudias-vinyl-jukebox
+#DESCRIPTION laut.fm - Claudias Vinyl Jukebox
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/cocoundjambo
+#DESCRIPTION laut.fm - Coco und Jambo (SHG)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/country-fm24
+#DESCRIPTION laut.fm - Country fm24
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/darkrp
+#DESCRIPTION laut.fm - Darkrp (RI)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/darksynthradio
+#DESCRIPTION laut.fm - Darksynth Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/darkwaves-chan
+#DESCRIPTION laut.fm - Darkwaves Chan (NI)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/deutscher-reggae
+#DESCRIPTION laut.fm - Deutscher Reggae
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/deutschrockradio
+#DESCRIPTION laut.fm - Deutschrock Radio (Vlo)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/depeche-mode-universe
+#DESCRIPTION laut.fm - Depeche Mode Universe
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/diakoniesalem
+#DESCRIPTION laut.fm - Diakoniesalem (MI)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/1000discofox
+#DESCRIPTION laut.fm - Discofox
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/discofox-1
+#DESCRIPTION laut.fm - Discofox 1
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/discofox
+#DESCRIPTION laut.fm - Discofox Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/discofox-fm
+#DESCRIPTION laut.fm - Discofox FM - Bremen
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/dj_cee_tee
+#DESCRIPTION laut.fm - DJ Cee Tee (NI)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/dsm
+#DESCRIPTION laut.fm - DSM Ostfriesland
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/easylounge
+#DESCRIPTION laut.fm - Easylounge (MI)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/einfachblasmusik
+#DESCRIPTION laut.fm - Einfach Blasmusik
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/electropop
+#DESCRIPTION laut.fm - Electropop Hannover
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/fmgermany
+#DESCRIPTION laut.fm - FMgermany (MI)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/foreverrock
+#DESCRIPTION laut.fm - Forever Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/fox-club-radio
+#DESCRIPTION laut.fm - Fox Club Radio Duisburg
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/fox-in
+#DESCRIPTION laut.fm - Fox In - Mönchengladbach
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/foxpalast
+#DESCRIPTION laut.fm - Foxpalast (MI)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/foxpalastradio
+#DESCRIPTION laut.fm - Foxpalast Radio (MI)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/frakar
+#DESCRIPTION laut.fm - Frakar
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/fwr-gothic
+#DESCRIPTION laut.fm - FWR Gothic
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/gitarrefm
+#DESCRIPTION laut.fm - Gitarre FM Hannover
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/gm-charts
+#DESCRIPTION laut.fm - GM Charts Hannover
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/greensleevesradio
+#DESCRIPTION laut.fm - Greensleeves-Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/greller
+#DESCRIPTION laut.fm - Greller (MI)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.laut.fm/hard-trance
+#DESCRIPTION laut.fm - Hard Trance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/harfe
+#DESCRIPTION laut.fm - Harfe Rheinsee
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/hellradio666
+#DESCRIPTION laut.fm - Hellradio 666
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/hits_80s
+#DESCRIPTION laut.fm - Hits 80s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/hotradio-rock
+#DESCRIPTION laut.fm - Hotradio Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/illerkanal
+#DESCRIPTION laut.fm - Illerkanal
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/inferno-radio
+#DESCRIPTION laut.fm - Inferno Radio (MI)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/irieholidaysunshine
+#DESCRIPTION laut.fm - Irieholidaysunshine
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/isenstedt
+#DESCRIPTION laut.fm - Isenstedt 32339
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/jayswebradio
+#DESCRIPTION laut.fm - jaysweb-Radio (NI)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/jukejoint-blues-special
+#DESCRIPTION laut.fm - Jukejoint Blues Special
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/just80s_maximal
+#DESCRIPTION laut.fm - Just 80s Maximal
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/kanal-discofox
+#DESCRIPTION laut.fm - Kanal Discofox
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/klangwelt
+#DESCRIPTION laut.fm - Klangwelt Göttingen
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/lionfm
+#DESCRIPTION laut.fm - LionFM Hannover
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/living-synthesizer
+#DESCRIPTION laut.fm - Living Synthesizer
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/metal-hammer
+#DESCRIPTION laut.fm - Metal Hammer
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//music-hall.stream.laut.fm/music-hall
+#DESCRIPTION laut.fm - Music Hall Frankfurt
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/mycore
+#DESCRIPTION laut.fm - Mycore Hannover
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/neue-burg-radio
+#DESCRIPTION laut.fm - Neue Burg Radio (NI)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/newradiojump
+#DESCRIPTION laut.fm - Newradiojump (SHG)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/news-radio
+#DESCRIPTION laut.fm - News-Radio Deutschland
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/no_stairway
+#DESCRIPTION laut.fm - No Stairway
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/nordseeradio
+#DESCRIPTION laut.fm - Nordsee Radio Werdum
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/nordseefunk
+#DESCRIPTION laut.fm - Nordseefunk
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/oesterreichradio
+#DESCRIPTION laut.fm - Oesterreich-Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/oldoldies
+#DESCRIPTION laut.fm - Old Oldies
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/party-of-the-galaxy
+#DESCRIPTION laut.fm - Party Of The Galaxy (LK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/petshopboys
+#DESCRIPTION laut.fm - Petshopboys
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/p-b-r2020
+#DESCRIPTION laut.fm - P B R 2020 (LK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/powerbeatz
+#DESCRIPTION laut.fm - Powerbeatz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/progressiv-rock
+#DESCRIPTION laut.fm - Progressiv Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/pure-stuff-reggae-station
+#DESCRIPTION laut.fm - Pure Stuff Reggae Station
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/radio70
+#DESCRIPTION laut.fm - Radio 70
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/radio_bagwahn
+#DESCRIPTION laut.fm - Radio Bagwahn
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/radiobuende
+#DESCRIPTION laut.fm - Radio Buende
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/radio-dance-welle
+#DESCRIPTION laut.fm - Radio Dance Welle
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/radiomegastar
+#DESCRIPTION laut.fm - Radio Megastar - 60s 70s 80s 90s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/radio_pyrocluster
+#DESCRIPTION laut.fm - Radio Pyrocluster
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/radioschlaerpara
+#DESCRIPTION laut.fm - Radio Schlärpara Karstädt
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/radiodancing
+#DESCRIPTION laut.fm - Radiodancing Karstädt
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/radioweser
+#DESCRIPTION laut.fm - Radioweser (MI)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/recordsradio
+#DESCRIPTION laut.fm - Records Radio Bochum
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/reggae
+#DESCRIPTION laut.fm - Reggae
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/reggae-paradise
+#DESCRIPTION laut.fm - Reggae Paradise
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/reggaeone
+#DESCRIPTION laut.fm - Reggaeone
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/reggaeton-fm
+#DESCRIPTION laut.fm - Reggaeton FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/rocknblues
+#DESCRIPTION laut.fm - Rock´n´Blues
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/rockcorner
+#DESCRIPTION laut.fm - Rockcorner
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/rock_n_radio
+#DESCRIPTION laut.fm - Rock-n-Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/rock-the-blues
+#DESCRIPTION laut.fm - Rock the Blues
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/rocksong-radio
+#DESCRIPTION laut.fm - Rocksong Radio / 24h Alles Rock!!
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/rockstellar
+#DESCRIPTION laut.fm - Rockstellar
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/rammusic
+#DESCRIPTION laut.fm - Rammusic
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/salsa_y_mas
+#DESCRIPTION laut.fm - Salsa Y Mas (MI)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/servfm
+#DESCRIPTION laut.fm - Serv FM Hannover
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/shroud-city
+#DESCRIPTION laut.fm - Shroud City
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/skullyz-rfr
+#DESCRIPTION laut.fm - Skullyz Rfr (RI)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/skyradiofm
+#DESCRIPTION laut.fm - Skyradiofm
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.laut.fm/smooth-jazz
+#DESCRIPTION laut.fm - Smooth Jazz Instrumental 24/7
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/song
+#DESCRIPTION laut.fm - Song (MI)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/sound-of-the-icebreaker
+#DESCRIPTION laut.fm - Sound Of The Icebreaker
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/soundsystem
+#DESCRIPTION laut.fm - Soundsystem synthcity
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/studiohowe
+#DESCRIPTION laut.fm - Studiohowe Hohenwestedt
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/maximix
+#DESCRIPTION laut.fm - Supersound Maxi-Singles der 70er,80er,90er!
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/symphonische-blasmusik
+#DESCRIPTION laut.fm - Symphonische Blasmusik
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/synthesizergreatest
+#DESCRIPTION laut.fm - Synthesizergreatest
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/synthpop
+#DESCRIPTION laut.fm - Synthpop - Future World
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.laut.fm/tech4live
+#DESCRIPTION laut.fm - Tech4live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.laut.fm/technofm
+#DESCRIPTION laut.fm - Techno-FM.
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.laut.fm/technobunkerfm
+#DESCRIPTION laut.fm - Technobunker FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.laut.fm/techno
+#DESCRIPTION laut.fm - Technoo.
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/teuto-fm
+#DESCRIPTION laut.fm - Teuto-FM Bielefeld
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/the17
+#DESCRIPTION laut.fm - The 17 Hannover
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/the-beat-goes-on
+#DESCRIPTION laut.fm - The Beat Goes On
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//the-dorian-gray-music.stream.laut.fm/the-dorian-gray-music
+#DESCRIPTION laut.fm - The Dorian Gray Music
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.laut.fm/trance
+#DESCRIPTION laut.fm - Trance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.laut.fm/trance02
+#DESCRIPTION laut.fm - Trance 02
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//trancebeats.stream.laut.fm/trancebeats
+#DESCRIPTION laut.fm - Trancebeats
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.laut.fm/trancemotionfm
+#DESCRIPTION laut.fm - Trancemotion FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/turn-on-your-receiver
+#DESCRIPTION laut.fm - Turn On Your Receiver
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/vinyl-maxi-fm
+#DESCRIPTION laut.fm - Vinyl Maxi FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/vinyl-xl
+#DESCRIPTION laut.fm - Vinyl XL Maxis
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/wattenscheid-eins
+#DESCRIPTION laut.fm - Wattenscheid Eins Bochum
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/wupperradio
+#DESCRIPTION laut.fm - Wupper Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/wim
+#DESCRIPTION laut.fm - Wim
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.laut.fm/jetzt
+#DESCRIPTION laut.fm - Jetzt - Radio für 55+
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.laut.fm/radio-grafenwoehr
+#DESCRIPTION laut.fm - Radio Grafenwöhr
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.laut.fm/top100
+#DESCRIPTION laut.fm - TOP 100 Berlin

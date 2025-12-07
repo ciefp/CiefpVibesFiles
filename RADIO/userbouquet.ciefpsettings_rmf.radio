@@ -1,0 +1,229 @@
+#NAME CiefpSettings RMF RADIO
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_fm
+#DESCRIPTION RMF - FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_2
+#DESCRIPTION RMF - 2 Pop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_3
+#DESCRIPTION RMF - 3 Pop-Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_4
+#DESCRIPTION RMF - 4 Dance & RNB
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_5
+#DESCRIPTION RMF - 5 Łagodne Przeboje
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_24
+#DESCRIPTION RMF - 24.pl
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_20lat
+#DESCRIPTION RMF - 30 lat
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_2010
+#DESCRIPTION RMF - 10s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_50s
+#DESCRIPTION RMF - 50s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_60s
+#DESCRIPTION RMF - 60s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_70s
+#DESCRIPTION RMF - 70s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_70s_disco
+#DESCRIPTION RMF - 70s Disco
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_80s
+#DESCRIPTION RMF - 80s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_80s_disco
+#DESCRIPTION RMF - 80s Disco
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_90s
+#DESCRIPTION RMF - 90s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_90s_dance
+#DESCRIPTION RMF - 90s Dance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_2000
+#DESCRIPTION RMF - 2000
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_alternatywa
+#DESCRIPTION RMF - Alternatywa
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_top_5_rock
+#DESCRIPTION RMF - Bajkowe Piosenki
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_nostalgia
+#DESCRIPTION RMF - Ballady
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_beatlemania
+#DESCRIPTION RMF - Beatlemania
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/best_of_rmfon
+#DESCRIPTION RMF - Best Of RMFon
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_blues
+#DESCRIPTION RMF - Blues
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_bravo
+#DESCRIPTION RMF - Bravo
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_celtic
+#DESCRIPTION RMF - Celtic
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_chillout
+#DESCRIPTION RMF - Chillout
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_classic
+#DESCRIPTION RMF - Classic
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_classic_rock
+#DESCRIPTION RMF - Classic Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_club
+#DESCRIPTION RMF - Club
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_cuba
+#DESCRIPTION RMF - Cuba
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_dance
+#DESCRIPTION RMF - Dance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_depeche_mode
+#DESCRIPTION RMF - Depeche Mode
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_disco
+#DESCRIPTION RMF - Disco
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_disco_polo
+#DESCRIPTION RMF - Disco Polo
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_baby
+#DESCRIPTION RMF - Dla Dzieci
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_fitness
+#DESCRIPTION RMF - Fitness
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_fitness_rock
+#DESCRIPTION RMF - Fitness Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_francais
+#DESCRIPTION RMF - Francais
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_top
+#DESCRIPTION RMF - Fresh 2022
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_funk
+#DESCRIPTION RMF - Funk
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_gamemusic
+#DESCRIPTION RMF - GameMusic
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_gold
+#DESCRIPTION RMF - Gold
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_grunge
+#DESCRIPTION RMF - Grunge
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_hard_heavy
+#DESCRIPTION RMF - Hard & Heavy
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_hip_hop
+#DESCRIPTION RMF - Hip Hop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_hot_new
+#DESCRIPTION RMF - Hot New
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_koledy
+#DESCRIPTION RMF - Kolędy
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_lady_pank
+#DESCRIPTION RMF - Lady Pank
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_latino
+#DESCRIPTION RMF - Latino
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_love
+#DESCRIPTION RMF - Love
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_Michael_Jackson
+#DESCRIPTION RMF - Michael Jackson
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_muzyka_filmowa
+#DESCRIPTION RMF - Muzyka Filmowa
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_muzyka_klasyczna
+#DESCRIPTION RMF - Muzyka Klasyczna
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/npp_rmf_on
+#DESCRIPTION RMF - Największe Polskie Przeboje
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_niezapomniane_melodie
+#DESCRIPTION RMF - Niezapomniane Melodie
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_party
+#DESCRIPTION RMF - Party
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_piosenka_filmowa
+#DESCRIPTION RMF - Piosenka Filmowa
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_piosenka_literacka
+#DESCRIPTION RMF - Piosenka Literacka
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_pobudka
+#DESCRIPTION RMF - Pobudka
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_polska_prywatka
+#DESCRIPTION RMF - Polska Prywatka
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_ziom
+#DESCRIPTION RMF - Polski Hip Hop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_polski_rock
+#DESCRIPTION RMF - Polski Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_polskie_przeboje
+#DESCRIPTION RMF - Polskie Przeboje
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_poplista
+#DESCRIPTION RMF - Poplista
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_prl
+#DESCRIPTION RMF - PRL
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_top3
+#DESCRIPTION RMF - Przebój Lata 2022
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_przeboj_roku
+#DESCRIPTION RMF - Przebój Roku 2022
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_queen
+#DESCRIPTION RMF - Queen
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_rnb
+#DESCRIPTION RMF - R&B
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_reggae
+#DESCRIPTION RMF - Reggae
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_relaks
+#DESCRIPTION RMF - Relaks
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_rock
+#DESCRIPTION RMF - Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_rock_progresywny
+#DESCRIPTION RMF - Rock Progresywny
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_sloneczne_przeboje
+#DESCRIPTION RMF - Słoneczne Przeboje
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_smooth_jazz
+#DESCRIPTION RMF - Smooth Jazz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_studencka_impreza
+#DESCRIPTION RMF - Studencka Impreza
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_styl
+#DESCRIPTION RMF - Styl
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_szanty
+#DESCRIPTION RMF - Szanty
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_top5
+#DESCRIPTION RMF - Świąteczne Nowości 2022
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_swieta
+#DESCRIPTION RMF - Święta
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_groove
+#DESCRIPTION RMF - Teen
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_top_5_dance
+#DESCRIPTION RMF - Top 30 Dance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_top_5_rnb
+#DESCRIPTION RMF - Top 30 Disco Polo
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_top_5_pl
+#DESCRIPTION RMF - Top 30 PL
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_top_5_pop
+#DESCRIPTION RMF - Top 30 Pop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_top_30_swieta
+#DESCRIPTION RMF - Top 30 Święta
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_top2
+#DESCRIPTION RMF - Top 2022 Disco polo
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_trend_sounds
+#DESCRIPTION RMF - Trend Sounds
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_w_pracy
+#DESCRIPTION RMF - W Pracy
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_top4
+#DESCRIPTION RMF - Wakacyjne Top 100
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_maxxx
+#DESCRIPTION RMF MAXX
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_hop_bec
+#DESCRIPTION RMF MAXX Hop-Bęc
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_maxxx_byd
+#DESCRIPTION RMF MAXX - Bydgoszcz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_maxxx_cze
+#DESCRIPTION RMF MAXX - Częstochowa
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_maxxx_wal
+#DESCRIPTION RMF MAXX - Dolny Śląsk
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_maxxx_ino
+#DESCRIPTION RMF MAXX - Inowrocław
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_maxxx_knn
+#DESCRIPTION RMF MAXX - Konin
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_maxxx_kra
+#DESCRIPTION RMF MAXX - Kraków
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_maxxx_ksn
+#DESCRIPTION RMF MAXX - Krosno
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_maxxx_zgr
+#DESCRIPTION RMF MAXX - Lubuskie
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_maxxx_cie
+#DESCRIPTION RMF MAXX - Mazowsze
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_maxxx_nsa
+#DESCRIPTION RMF MAXX - Nowy Sącz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_maxxx_ole
+#DESCRIPTION RMF MAXX - Oleśnica
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_maxxx_opo
+#DESCRIPTION RMF MAXX - Opole
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_maxxx_pil
+#DESCRIPTION RMF MAXX - Piła
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_maxxx_lom
+#DESCRIPTION RMF MAXX - Podlasie
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_maxxx_slu
+#DESCRIPTION RMF MAXX - Pomorze
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_maxxx_poz
+#DESCRIPTION RMF MAXX - Poznań
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_maxxx_szc
+#DESCRIPTION RMF MAXX - Szczecin
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_maxxx_slk
+#DESCRIPTION RMF MAXX - Śląsk
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_maxxx_kie
+#DESCRIPTION RMF MAXX - Świętokrzyskie
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_maxxx_gda
+#DESCRIPTION RMF MAXX - Trójmiasto
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_maxxx_waw
+#DESCRIPTION RMF MAXX - Warszawa
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_maxxx_wlc
+#DESCRIPTION RMF MAXX - Włocławek

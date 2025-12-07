@@ -1,8 +1,4 @@
 #NAME CiefpSettings Portugal WEB-RADIO
-#SERVICE 1:64:644:0:0:0:0:0:0:0:
-#DESCRIPTION ++RDP-zenders++
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming-live.rtp.pt/liveradio/antena180a/chunklist.m3u8:RDP Antena 1
-#DESCRIPTION RDP Antena 1
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiocast.rtp.pt/antena1acores80a.mp3:RDP Antena 1 Açores
 #DESCRIPTION RDP Antena 1 Açores
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioip.rtp.pt/liveradio/antena1fado80a/chunklist.m3u8:RDP Antena 1 Fado
@@ -27,8 +23,6 @@
 #DESCRIPTION RDP África Mocambique
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming-live.rtp.pt/liveradio/rdpint80a/chunklist.m3u8:RDP Internacional
 #DESCRIPTION RDP Internacional
-#SERVICE 1:64:645:0:0:0:0:0:0:0:
-#DESCRIPTION ++overige zenders++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//play.radioregional.pt/stream/10/:100$ Dance
 #DESCRIPTION 100$ Dance
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//play.radioregional.pt/stream/6/:100%25 Portugal

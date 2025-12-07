@@ -1,27 +1,103 @@
 #NAME CiefpSettings Greece Hellas WEB-RADIO
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.akous.gr/akouspalko:Akous Palko Hellas
-#DESCRIPTION Akous Palko Hellas
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//golive.onestreaming.com/arionlaikos:Arion Laikos Hellas
-#DESCRIPTION Arion Laikos Hellas
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//derti.live24.gr/derty1000:Derti 98.6  Hellas
-#DESCRIPTION Derti 98.6  Hellas
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//diesi.live24.gr/diesi1013:Diesi FM Hellas
-#DESCRIPTION Diesi FM Hellas
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//sc.greekstream.net/;:Kalamaria FM 101.7 Hellas
-#DESCRIPTION Kalamaria FM 101.7 Hellas
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//cast4.my-control-panel.com/proxy/anastas2/stream:KPHTH Radio 9.84
-#DESCRIPTION KPHTH Radio 9.84
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//eco.onestreaming.com%3a8286/;:Lakka Souli Radio Hellas
-#DESCRIPTION Lakka Souli Radio Hellas
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live3.istoikona.net%3a8203/stream:London Greek Radio (Londen - Engeland)
-#DESCRIPTION London Greek Radio (Londen - Engeland)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//176.9.78.226%3a30122/stream:Radio Nikita Hellas
-#DESCRIPTION Radio Nikita Hellas
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.isol.biz%3a8500/;:Skai Aegean Hellas
-#DESCRIPTION Skai Aegean Hellas
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live3.istoikona.com%3a8010/:Traffic FM Hellas
-#DESCRIPTION Traffic FM Hellas
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s10.voscast.com%3a9942/;:Velvet 96.8 FM Hellas
-#DESCRIPTION Velvet 96.8 FM Hellas
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiostreaming.ert.gr/ert-zeppelin:Zeppelin
-#DESCRIPTION Zeppelin
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.e-streaming.eu%3a8100/stream/1/
+#DESCRIPTION Akroamaradio Greek Music
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.onweb.gr%3a8008/
+#DESCRIPTION AQUARIUS FM 105 GREECE
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//68.68.109.106%3a6626
+#DESCRIPTION BeirutNights.com Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//sip.blueradio.gr%3a8033/stream/1/
+#DESCRIPTION BLUE RADIO - Greece
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//blueswave.radio%3a8050/FlacBlues
+#DESCRIPTION BluesWave Radio Greece (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//i4.streams.ovh%3a8262/stream/1/
+#DESCRIPTION Captain-Radio.com
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cast.streams.ovh%3a9145/autodj
+#DESCRIPTION christodoulou Stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//sh.onweb.gr%3a7083/stream/1/
+#DESCRIPTION DeeJay 97.5 Corfu Greece
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//divafm.yourstreaming.gr%3a9996
+#DESCRIPTION Diva Fm 106.1 - Greece - 320 kbit/s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//85.17.75.143%3a80
+#DESCRIPTION ECHOES.gr NetRadio - Thessaloniki
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//perseus.shoutca.st%3a10060/stream/1/
+#DESCRIPTION ELLINIKI RADIOFONIA MANA ELLADA
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.ellinikos.gr%3a8010/903.aac
+#DESCRIPTION ELLHNIKOS 90.3 aac
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.ellinikos.gr%3a8010/903.mp3
+#DESCRIPTION ELLHNIKOS 90.3 FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//hyades.shoutca.st%3a8570/stream/1/
+#DESCRIPTION Evripos 90Fm
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//www.1431am.org%3a8000/1431high
+#DESCRIPTION Free Social Radio 1431AM - Thessaloniki
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s3.onweb.gr%3a8006
+#DESCRIPTION HIT 93.5
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cast.streams.ovh%3a9249/autodj
+#DESCRIPTION kostas Laser Stream - 320 kbit/s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//sp3.streams.ovh/8018/stream
+#DESCRIPTION KSENYHTIS  MYTILINI
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.onweb.gr%3a8028
+#DESCRIPTION KYMA FM 90.3 CORFU GREECE
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//eco.onestreaming.com%3a8286/stream/1/
+#DESCRIPTION Lakka Souli Radio - 320 kbit/s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s3.onweb.gr%3a8472
+#DESCRIPTION LRadio 87.5 Loutraki Greece
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.468.gr%3a9902
+#DESCRIPTION MasterFM 90.2 | Aigio | Greece - 320 kbit/s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//176.31.118.194%3a11840/stream/1/
+#DESCRIPTION Melodia Artas 101.1 fm
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//i4.streams.ovh/sc/musicfactory/stream
+#DESCRIPTION Music Factory | Athens | Greece
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//eco.onestreaming.com%3a8414/stream/1/
+#DESCRIPTION Netcast
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.onweb.gr%3a8422/stream/1/
+#DESCRIPTION Pop Fm 102  Corfu Greece Kerkyra
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//eco.onestreaming.com%3a8105/stream/1/
+#DESCRIPTION Original 94.4 - Greece
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.mousikopanorama.gr%3a8015/live
+#DESCRIPTION Panorama 108FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.onweb.gr%3a8098
+#DESCRIPTION paros fm (Greece)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.radio69.gr%3a6969/stream/1/
+#DESCRIPTION Radio 69 | TA KALYTERA LAIKA
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s5.onweb.gr%3a8846
+#DESCRIPTION Radio Arhagelos 94.1 Rhodes Greece
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s3.onweb.gr%3a8536
+#DESCRIPTION Radio ARGOSARONIKOS 104
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//usa2-vn.mixstream.net%3a8018/stream/1/
+#DESCRIPTION Radio Dee Jay 94.2 Greece
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.onweb.gr%3a8828
+#DESCRIPTION Radio Energeia 106.4 Korinthos Greece
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//i6.streams.ovh/sc/radiolampsi/stream
+#DESCRIPTION Radio Lampsi
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//i6.streams.ovh%3a16078/
+#DESCRIPTION Radio LAMPSI MYTILINI
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s4.onweb.gr%3a8468
+#DESCRIPTION Radio LEHOVO 971 GREECE
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//46.105.122.141%3a4476/stream/1/
+#DESCRIPTION Radio Melodia - Adelaide
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//79.143.187.96%3a8070/stream
+#DESCRIPTION Radio Nyxtopoyli
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s6.onweb.gr%3a8058
+#DESCRIPTION Radio Play 91.5 Fm Stereo (Gr Xanthi)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.onweb.gr%3a8040
+#DESCRIPTION Radio RIZITES 94 FM CRETA ( GREECE )
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.onweb.gr%3a8830
+#DESCRIPTION Radio STAGON KALAMPAKA-GREECE
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//i8.streams.ovh%3a18051/stream/1/
+#DESCRIPTION Radio Stournareika 92.5 FM Stereo (Trikala)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cast5.magicstreams.gr%3a8019/autodj
+#DESCRIPTION Radio ZWHMETRELAKEFIA Stream - 320 kbit/s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s3.onweb.gr%3a8816
+#DESCRIPTION sfaira 101.6
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream3.468.gr%3a9994/stream/1/
+#DESCRIPTION Studio3 | Thessaloniki | Greece
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.skyradio.gr%3a9920/stream/1/
+#DESCRIPTION Sky Radio 99.2 | Live From Ioannina Greece
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//178.32.146.187%3a2046/stream/1/
+#DESCRIPTION Sohos FM 88.7 - Thessaloniki
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//157.90.133.87%3a8808/stream/1/
+#DESCRIPTION Venus FM 101 GREECE
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//157.90.133.87%3a8030/stream/1/
+#DESCRIPTION Viva 83 - Katerini / Greece / Greek
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice.streams.ovh/volosrtv
+#DESCRIPTION Volos RTV 87.9 RADIO - 320 kbit/s

@@ -32,8 +32,6 @@
 #DESCRIPTION countrymusic24
 #SERVICE 4097:0:2:45:0:0:0:0:0:0:http%3a//tuner.country108.com%3a80:COUNTRY 108 - Your Country Music Station!
 #DESCRIPTION COUNTRY 108 - Your Country Music Station!
-#SERVICE 1:64:555:0:0:0:0:0:0:0:
-#DESCRIPTION ++ARD-zenders++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dispatcher.rndfnk.com/br/br1/franken/mp3/mid:BR - Bayern 1 - Franken
 #DESCRIPTION BR - Bayern 1 - Franken
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dispatcher.rndfnk.com/br/br1/mainfranken/mp3/mid:BR - Bayern 1 - Mainfranken
@@ -434,8 +432,6 @@
 #DESCRIPTION WDR - Die Maus
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//d111.rndfnk.com/ard/wdr/wdr/event/mp3/128/stream.mp3?aggregator=web&cid=01FC1VHKSA446AN8QN07VP9XCQ&sid=2ybYp4rkZQYGZqF9unyS5vOoysF&token=UUvyv6LfiWRw8EqR3BlIHzlAM-MSV3Rq7Z1gxDYazMU&tvf=Jsnh9cuySRhkMTExLnJuZGZuay5jb20:WDR - Event
 #DESCRIPTION WDR - Event
-#SERVICE 1:64:556:0:0:0:0:0:0:0:
-#DESCRIPTION ++overige zenders++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-80s80smweb2517500-mp3-192-1672667:80s80s
 #DESCRIPTION 80s80s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//regiocast.streamabc.net/regc-80s80smweb2517500-mp3-192-1672667:80s80s Niedersachsen / National

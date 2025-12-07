@@ -1,18 +1,4 @@
 #NAME CiefpSettings Sweden WEB-RADIO
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//lyssna.fnf.nu%3a8080/radioboras.mp3:Borås Närradio
-#DESCRIPTION Borås Närradio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.dbmedia.se/dbkMP3:Dansbandskanalen
-#DESCRIPTION Dansbandskanalen
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.dbmedia.se/dbk96:Dansbandskanalen
-#DESCRIPTION Dansbandskanalen
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//wr14-ice.stream.khz.se/wr14_mp3:Go Country
-#DESCRIPTION Go Country
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//gold24.xnk.nu%3a8080/;:Gold FM
-#DESCRIPTION Gold FM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//lyssna.fnf.nu%3a8080/gnf103.mp3:Gteborgs-Nrradio-1031-MHz
-#DESCRIPTION Gteborgs-Nrradio-1031-MHz
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//lyssna.fnf.nu%3a8080/gnf094.mp3:Gteborgs-Nrradio-949-Mhz
-#DESCRIPTION Gteborgs-Nrradio-949-Mhz
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.dbmedia.se/gkMP3:Guldkanalen
 #DESCRIPTION Guldkanalen
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.dbmedia.se/gk96:Guldkanalen
@@ -25,6 +11,18 @@
 #DESCRIPTION Guldkanalen-80-tal
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.dbmedia.se/gk90talMP3:Guldkanalen-90-tal
 #DESCRIPTION Guldkanalen-90-tal
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//lyssna.fnf.nu%3a8080/radioboras.mp3:Borås Närradio
+#DESCRIPTION Borås Närradio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.dbmedia.se/dbkMP3:Dansbandskanalen
+#DESCRIPTION Dansbandskanalen
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.dbmedia.se/dbk96:Dansbandskanalen
+#DESCRIPTION Dansbandskanalen
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//wr14-ice.stream.khz.se/wr14_mp3:Go Country
+#DESCRIPTION Go Country
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//lyssna.fnf.nu%3a8080/gnf103.mp3:Gteborgs-Nrradio-1031-MHz
+#DESCRIPTION Gteborgs-Nrradio-1031-MHz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//lyssna.fnf.nu%3a8080/gnf094.mp3:Gteborgs-Nrradio-949-Mhz
+#DESCRIPTION Gteborgs-Nrradio-949-Mhz
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//89.160.63.63%3a80/hitcity392kbps:Hitcity
 #DESCRIPTION Hitcity
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//89.160.63.63%3a80/live:Hitcity-945
