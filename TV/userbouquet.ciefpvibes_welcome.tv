@@ -1,6 +1,6 @@
 #NAME CiefpVibes – Welcome Demo
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fdance%2f007_Dee%20Robert%20-%20I%20Believe%20(Albert%20Cs%20Breakin%20It%20Up%20radio%20ed.mp3:Welcome to CiefpVibes v1.0 – the ultimate jukebox!
-#DESCRIPTION Welcome to CiefpVibes v1.0 – the ultimate jukebox!
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fdance%2f007_Dee%20Robert%20-%20I%20Believe%20(Albert%20Cs%20Breakin%20It%20Up%20radio%20ed.mp3:Welcome to CiefpVibes v1.4 – the ultimate jukebox!
+#DESCRIPTION Welcome to CiefpVibes v1.4 – the ultimate jukebox!
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fdance%2f004_ATB%20-%20Ecstasy%20(radio%20cut).mp3:Green button → Choose local .m3u or .tv file
 #DESCRIPTION Green button → Choose local .m3u or .tv file
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fdance%2f005_Magic%20Affair%20-%20Fly%20Away%20(La%20Serenissima%20Yanuo%20remix).mp3:Blue button → Download fresh playlists from GitHub
