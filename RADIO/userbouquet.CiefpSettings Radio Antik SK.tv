@@ -1,0 +1,85 @@
+#NAME CiefpSettings Radio Antik SK
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dash4.antik.sk/live/test_fun_radio/playlist.m3u8:Fun rádio
+#DESCRIPTION Fun rádio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dash4.antik.sk/live/test_express_radio/playlist.m3u8:Rádio Expres
+#DESCRIPTION Rádio Expres
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dash4.antik.sk/live/test_europa2/playlist.m3u8:Europa2
+#DESCRIPTION Europa2
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dash2.antik.sk/live/test_radio_rock_atk/playlist.m3u8:Radio Rock
+#DESCRIPTION Radio Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dash3.antik.sk/live/test_radio_kosice_atk/playlist.m3u8:Rádio Košice
+#DESCRIPTION Rádio Košice
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dash3.antik.sk/live/test_best_fm_atk/playlist.m3u8:BestFM
+#DESCRIPTION BestFM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dash2.antik.sk/live/test_vlna_radio/playlist.m3u8:Rádio Vlna
+#DESCRIPTION Rádio Vlna
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dash4.antik.sk/live/test_detske_radio_atk/playlist.m3u8:Detské rádio
+#DESCRIPTION Detské rádio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dash4.antik.sk/live/test_radio_kiks/playlist.m3u8:Rádio KIKS
+#DESCRIPTION Rádio KIKS
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dash4.antik.sk/live/test_kiks_rock/playlist.m3u8:Rádio KIKS Rock Music
+#DESCRIPTION Rádio KIKS Rock Music
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dash3.antik.sk/live/test_lem_fm_atk/playlist.m3u8:LEM.fm
+#DESCRIPTION LEM.fm
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dash2.antik.sk/live/test_radio_sky_atk/playlist.m3u8:Rádio SKY
+#DESCRIPTION Rádio SKY
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dash2.antik.sk/live/test_cro_sever_atk/playlist.m3u8:ČRO  Sever
+#DESCRIPTION ČRO  Sever
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dash3.antik.sk/live/test_rusyn_fm_atk/playlist.m3u8:rusyn FM
+#DESCRIPTION rusyn FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dash3.antik.sk/live/test_slovensko_radio/playlist.m3u8:Rádio Slovensko
+#DESCRIPTION Rádio Slovensko
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dash4.antik.sk/live/test_regina_ke/playlist.m3u8:Rádio Regina Východ
+#DESCRIPTION Rádio Regina Východ
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dash4.antik.sk/live/test_regina_bb/playlist.m3u8:Rádio Regina Stred
+#DESCRIPTION Rádio Regina Stred
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dash3.antik.sk/live/test_regina_ba/playlist.m3u8:Rádio Regina Západ
+#DESCRIPTION Rádio Regina Západ
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dash3.antik.sk/live/test_devin_radio/playlist.m3u8:Rádio Devín
+#DESCRIPTION Rádio Devín
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dash3.antik.sk/live/test_fm_radio/playlist.m3u8:Rádio_FM
+#DESCRIPTION Rádio_FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dash3.antik.sk/live/test_patria_radio/playlist.m3u8:Rádio Patria
+#DESCRIPTION Rádio Patria
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dash3.antik.sk/live/test_sloint_radio/playlist.m3u8:Rádio Slovakia International
+#DESCRIPTION Rádio Slovakia International
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dash2.antik.sk/live/test_litera_radio/playlist.m3u8:Rádio Litera
+#DESCRIPTION Rádio Litera
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dash3.antik.sk/live/test_junior_radio/playlist.m3u8:Rádio Junior
+#DESCRIPTION Rádio Junior
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dash2.antik.sk/live/test_jemne/playlist.m3u8:Melody
+#DESCRIPTION Melody
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dash4.antik.sk/live/test_viva_radio/playlist.m3u8:Rádio Viva
+#DESCRIPTION Rádio Viva
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dash4.antik.sk/live/test_dance_radio_atk/playlist.m3u8:Dance Rádio
+#DESCRIPTION Dance Rádio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dash2.antik.sk/live/test_fit_family_radio_atk/playlist.m3u8:FIT Family Radio
+#DESCRIPTION FIT Family Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dash4.antik.sk/live/test_dobre_radio_atktv/playlist.m3u8:Dobré Rádio
+#DESCRIPTION Dobré Rádio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dash2.antik.sk/live/test_radio_world/playlist.m3u8:World Radio
+#DESCRIPTION World Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dash4.antik.sk/live/fun_radio_dance/playlist.m3u8:Fun Rádio Dance
+#DESCRIPTION Fun Rádio Dance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dash3.antik.sk/live/fun_radio_skcz/playlist.m3u8:Fun Rádio CZSK
+#DESCRIPTION Fun Rádio CZSK
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dash2.antik.sk/live/fun_radio_8090/playlist.m3u8:Fun Rádio 80s  90s
+#DESCRIPTION Fun Rádio 80s  90s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dash4.antik.sk/live/fun_radio_chill/playlist.m3u8:Fun Rádio Chill
+#DESCRIPTION Fun Rádio Chill
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dash4.antik.sk/live/test_janko_hrasko_atk/playlist.m3u8:Janko Hraško
+#DESCRIPTION Janko Hraško
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dash4.antik.sk/live/test_dychovka/playlist.m3u8:Rádio Dychovka
+#DESCRIPTION Rádio Dychovka
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dash3.antik.sk/live/test_radio_dechovka_atk/playlist.m3u8:Rádio Dechovka
+#DESCRIPTION Rádio Dechovka
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dash4.antik.sk/live/test_cro_1_radiozurnal_atk/playlist.m3u8:ČRO Rádiožurnál
+#DESCRIPTION ČRO Rádiožurnál
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dash4.antik.sk/live/test_cro2_praha/playlist.m3u8ž:ČRO Dvojka
+#DESCRIPTION ČRO Dvojka
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dash3.antik.sk/live/test_cro3_vltava/playlist.m3u8:ČRO Vltava
+#DESCRIPTION ČRO Vltava
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dash2.antik.sk/live/test_cro_sportzurnal/playlist.m3u8:ČRo  Radiožurnál Sport
+#DESCRIPTION ČRo  Radiožurnál Sport
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dash2.antik.sk/live/test_cro_d_dur_atk/playlist.m3u8:ČRO  Ddur
+#DESCRIPTION ČRO  Ddur
