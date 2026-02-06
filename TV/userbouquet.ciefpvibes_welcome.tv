@@ -1,6 +1,6 @@
 #NAME CiefpVibes – Welcome Demo
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fdance%2f007_Dee%20Robert%20-%20I%20Believe%20(Albert%20Cs%20Breakin%20It%20Up%20radio%20ed.mp3:Welcome to CiefpVibes v1.7 – the ultimate jukebox!
-#DESCRIPTION Welcome to CiefpVibes v1.7 – the ultimate jukebox!
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fdance%2f007_Dee%20Robert%20-%20I%20Believe%20(Albert%20Cs%20Breakin%20It%20Up%20radio%20ed.mp3:Welcome to CiefpVibes v1.8 – the ultimate jukebox!
+#DESCRIPTION Welcome to CiefpVibes v1.8 – the ultimate jukebox!
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fdance%2f004_ATB%20-%20Ecstasy%20(radio%20cut).mp3:Green button → Choose local .m3u or .tv file
 #DESCRIPTION Green button → Choose local .m3u or .tv file
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fdance%2f005_Magic%20Affair%20-%20Fly%20Away%20(La%20Serenissima%20Yanuo%20remix).mp3:Blue button → Download fresh playlists from GitHub
@@ -9,3 +9,7 @@
 #DESCRIPTION Yellow button → Skins, repeat, shuffle,clear cache, settings
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD4%2f15-%20Emf%20-%20Unbelievable.mp3:Made by ciefp – turn up the volume!
 #DESCRIPTION Made by ciefp – turn up the volume!
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2faa%2fEnya%2fPaint%20the%20sky%20with%20Stars%2f(01)%20[Enya]%20Orinoco%20Flow.mp3:Ciefp Plugins.mp3
+#DESCRIPTION <<< Ciefp Plugins >>>.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2faa%2fEnya%2fPaint%20the%20sky%20with%20Stars%2f(02)%20[Enya]%20Caribbean%20Blue.mp3:CiefpSettings.mp3
+#DESCRIPTION ¤¤¤ CiefpSettings ¤¤¤.mp3
