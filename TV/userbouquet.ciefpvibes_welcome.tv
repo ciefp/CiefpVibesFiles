@@ -7,8 +7,8 @@
 #DESCRIPTION Blue button → Download fresh playlists from GitHub
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fdance%2f006_Cappella%20-%20U%20Got%202%20Let%20The%20Music%20(Unreleased%20Original%20re.mp3:Yellow button → Skins, repeat, shuffle, settings
 #DESCRIPTION Yellow button → Skins, repeat, shuffle,clear cache, settings
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2faa%2fEnya%2fPaint%20the%20sky%20with%20Stars%2f(01)%20[Enya]%20Orinoco%20Flow.mp3:Menu button → Network Android FTP connection, Laptop SMB, Browse Network, Auto-scan
-#DESCRIPTION Menu button → Network Android FTP connection, Laptop SMB, Browse Network, Auto-scan
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2faa%2fEnya%2fPaint%20the%20sky%20with%20Stars%2f(01)%20[Enya]%20Orinoco%20Flow.mp3:Menu button → Android FTP connection, Laptop SMB, Browse Network, Auto-scan
+#DESCRIPTION Menu button → Android FTP connection, Laptop SMB, Browse Network, Auto-scan
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD4%2f15-%20Emf%20-%20Unbelievable.mp3:Made by ciefp – turn up the volume!
 #DESCRIPTION Made by ciefp – turn up the volume!
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2faa%2fEnya%2fPaint%20the%20sky%20with%20Stars%2f(02)%20[Enya]%20Caribbean%20Blue.mp3:CiefpSettings.mp3
