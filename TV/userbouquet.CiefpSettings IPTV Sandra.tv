@@ -1,0 +1,103 @@
+#NAME CiefpSettings IPTV Sandra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Sandra/1-01%20Maria%20Magdalena%20(Single%20Version).m4a:Maria Magdalena (Single Version)
+#DESCRIPTION Maria Magdalena (Single Version)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Sandra/1-02%20In%20The%20Heat%20Of%20The%20Night%20(Single%20Version).m4a:In The Heat Of The Night (Single Version)
+#DESCRIPTION In The Heat Of The Night (Single Version)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Sandra/1-03%20Little%20Girl.m4a:Little Girl
+#DESCRIPTION Little Girl
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Sandra/1-04%20Sisters%20And%20Brothers.m4a:Sisters And Brothers
+#DESCRIPTION Sisters And Brothers
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Sandra/1-05%20Innocent%20Love%20(Single%20Version).m4a:Innocent Love (Single Version)
+#DESCRIPTION Innocent Love (Single Version)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Sandra/1-06%20Hi!%20Hi!%20Hi!%20(Single%20Version).m4a:Hi! Hi! Hi! (Single Version)
+#DESCRIPTION Hi! Hi! Hi! (Single Version)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Sandra/1-07%20Loreen.m4a:Loreen
+#DESCRIPTION Loreen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Sandra/1-08%20Midnight%20Man%20(Single%20Version).m4a:Midnight Man (Single Version)
+#DESCRIPTION Midnight Man (Single Version)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Sandra/1-09%20Everlasting%20Love.m4a:Everlasting Love
+#DESCRIPTION Everlasting Love
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Sandra/1-10%20Stop%20For%20A%20Minute%20(Single%20Version).m4a:Stop For A Minute (Single Version)
+#DESCRIPTION Stop For A Minute (Single Version)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Sandra/1-11%20Heaven%20Can%20Wait%20(Single%20Version).m4a:Heaven Can Wait (Single Version)
+#DESCRIPTION Heaven Can Wait (Single Version)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Sandra/1-12%20Secret%20Land%20(Single%20Version).m4a:Secret Land (Single Version)
+#DESCRIPTION Secret Land (Single Version)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Sandra/1-13%20Celebrate%20Your%20Life.m4a:Celebrate Your Life
+#DESCRIPTION Celebrate Your Life
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Sandra/1-14%20We'll%20Be%20Together%20(Single%20Remix).m4a:We'll Be Together (Single Remix)
+#DESCRIPTION We'll Be Together (Single Remix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Sandra/1-15%20Around%20My%20Heart%20(Single%20Version).m4a:Around My Heart (Single Version)
+#DESCRIPTION Around My Heart (Single Version)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Sandra/1-16%20Hiroshima%20(Single%20Version).m4a:Hiroshima (Single Version)
+#DESCRIPTION Hiroshima (Single Version)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Sandra/1-17%20(Life%20May%20Be)%20A%20Big%20Insanity.m4a:(Life May Be) A Big Insanity
+#DESCRIPTION (Life May Be) A Big Insanity
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Sandra/1-18%20One%20More%20Night%20(Single%20Version).m4a:One More Night (Single Version)
+#DESCRIPTION One More Night (Single Version)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Sandra/1-19%20Lovelight%20In%20Your%20Eyes.m4a:Lovelight In Your Eyes
+#DESCRIPTION Lovelight In Your Eyes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Sandra/1-20%20Johnny%20Wanna%20Live%20(Single%20Remix).m4a:Johnny Wanna Live (Single Remix)
+#DESCRIPTION Johnny Wanna Live (Single Remix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Sandra/2-01%20Don't%20Be%20Aggressive%20(Radio%20Edit).m4a:Don't Be Aggressive (Radio Edit)
+#DESCRIPTION Don't Be Aggressive (Radio Edit)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Sandra/2-02%20I%20Need%20Love%20(Radio%20Edit).m4a:I Need Love (Radio Edit)
+#DESCRIPTION I Need Love (Radio Edit)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Sandra/2-03%20Steady%20Me.m4a:Steady Me
+#DESCRIPTION Steady Me
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Sandra/2-04%20Mirrored%20In%20Your%20Eyes.m4a:Mirrored In Your Eyes
+#DESCRIPTION Mirrored In Your Eyes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Sandra/2-05%20Maria%20Magdalena%20'93.m4a:Maria Magdalena '93
+#DESCRIPTION Maria Magdalena '93
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Sandra/2-06%20Nights%20In%20White%20Satin%20(Radio%20Edit).m4a:Nights In White Satin (Radio Edit)
+#DESCRIPTION Nights In White Satin (Radio Edit)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Sandra/2-07%20Won't%20Run%20Away.m4a:Won't Run Away
+#DESCRIPTION Won't Run Away
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Sandra/2-08%20Secret%20Land%20'99%20(Ultra%20Violet%20Radio%20Edit).m4a:Secret Land '(Ultra Violet Radio Edit)
+#DESCRIPTION Secret Land '(Ultra Violet Radio Edit)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Sandra/2-09%20Forever.m4a:Forever
+#DESCRIPTION Forever
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Sandra/2-10%20Such%20A%20Shame.m4a:Such A Shame
+#DESCRIPTION Such A Shame
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Sandra/2-11%20Forgive%20Me%20(Radio%20Edit).m4a:Forgive Me (Radio Edit)
+#DESCRIPTION Forgive Me (Radio Edit)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Sandra/2-12%20I%20Close%20My%20Eyes.m4a:I Close My Eyes
+#DESCRIPTION I Close My Eyes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Sandra/2-13%20Secrets%20Of%20Love%20%5bDuet%20with%20DJ%20Bobo%5d.m4a:Secrets Of Love [Duet with DJ Bobo]
+#DESCRIPTION Secrets Of Love [Duet with DJ Bobo]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Sandra/2-14%20The%20Way%20I%20Am%20(Radio%20Edit).m4a:The Way I Am (Radio Edit)
+#DESCRIPTION The Way I Am (Radio Edit)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Sandra/2-15%20What%20Is%20It%20About%20Me%20(Radio%20Edit).m4a:What Is It About Me (Radio Edit)
+#DESCRIPTION What Is It About Me (Radio Edit)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Sandra/2-16%20All%20You%20Zombies.m4a:All You Zombies
+#DESCRIPTION All You Zombies
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Sandra/2-17%20In%20A%20Heartbeat%20(Album%20Version).m4a:In A Heartbeat (Album Version)
+#DESCRIPTION In A Heartbeat (Album Version)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Sandra/2-18%20The%20Night%20Is%20Still%20Young.m4a:The Night Is Still Young
+#DESCRIPTION The Night Is Still Young
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Sandra/2-19%20What%20If.m4a:What If
+#DESCRIPTION What If
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Sandra/2-20%20Tete%20A%20Tete.m4a:Tete A Tete
+#DESCRIPTION Tete A Tete
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Sandra/3-01%20Maria%20Magdalena%20(Extended%20Version).m4a:Maria Magdalena (Extended Version)
+#DESCRIPTION Maria Magdalena (Extended Version)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Sandra/3-02%20In%20the%20Heat%20of%20the%20Night%20(Extended%20Version).m4a:In the Heat of the Night (Extended Version)
+#DESCRIPTION In the Heat of the Night (Extended Version)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Sandra/3-03%20Little%20Girl%20(Extended%20Version).m4a:Little Girl (Extended Version)
+#DESCRIPTION Little Girl (Extended Version)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Sandra/3-04%20Innocent%20Love%20(Extended%20Version).m4a:Innocent Love (Extended Version)
+#DESCRIPTION Innocent Love (Extended Version)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Sandra/3-05%20Hi!%20Hi!%20Hi!%20(Extended%20Version).m4a:Hi! Hi! Hi! (Extended Version)
+#DESCRIPTION Hi! Hi! Hi! (Extended Version)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Sandra/3-06%20Midnight%20Man%20(Extended%20Version).m4a:Midnight Man (Extended Version)
+#DESCRIPTION Midnight Man (Extended Version)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Sandra/3-07%20Everlasting%20Love%20(Extended%20Version).m4a:Everlasting Love (Extended Version)
+#DESCRIPTION Everlasting Love (Extended Version)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Sandra/3-08%20Stop%20for%20a%20Minute%20(Extended%20Version).m4a:Stop for a Minute (Extended Version)
+#DESCRIPTION Stop for a Minute (Extended Version)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Sandra/3-09%20Heaven%20Can%20Wait.%20(Extended%20Version).m4a:Heaven Can Wait. (Extended Version)
+#DESCRIPTION Heaven Can Wait. (Extended Version)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Sandra/3-10%20Secret%20Land%20(Reverse%20Mix).m4a:Secret Land (Reverse Mix)
+#DESCRIPTION Secret Land (Reverse Mix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Sandra/3-11%20Everlasting%20Love%20(PWL%2012_%20Remix).m4a:Everlasting Love (PWL  Remix)
+#DESCRIPTION Everlasting Love (PWL  Remix)

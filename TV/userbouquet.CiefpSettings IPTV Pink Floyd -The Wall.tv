@@ -1,0 +1,27 @@
+#NAME CiefpSettings IPTV Pink Floyd -The Wall
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//miya.nipah.moe%3a81/public/music/Pink%20Floyd%20-%20(2012)%20-%20The%20Wall%20-%20CD%20-%20FLAC/01%20The%20Wall%20(disc%201)/1%20In%20the%20Flesh_.flac:In the Flesh
+#DESCRIPTION In the Flesh
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//miya.nipah.moe%3a81/public/music/Pink%20Floyd%20-%20(2012)%20-%20The%20Wall%20-%20CD%20-%20FLAC/01%20The%20Wall%20(disc%201)/10%20One%20of%20My%20Turns.flac:One of My Turns
+#DESCRIPTION One of My Turns
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//miya.nipah.moe%3a81/public/music/Pink%20Floyd%20-%20(2012)%20-%20The%20Wall%20-%20CD%20-%20FLAC/01%20The%20Wall%20(disc%201)/11%20Don't%20Leave%20Me%20Now.flac:Don't Leave Me Now
+#DESCRIPTION Don't Leave Me Now
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//miya.nipah.moe%3a81/public/music/Pink%20Floyd%20-%20(2012)%20-%20The%20Wall%20-%20CD%20-%20FLAC/01%20The%20Wall%20(disc%201)/12%20Another%20Brick%20in%20the%20Wall,%20Part%203.flac:Another Brick in the Wall Part 3
+#DESCRIPTION Another Brick in the Wall Part 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//miya.nipah.moe%3a81/public/music/Pink%20Floyd%20-%20(2012)%20-%20The%20Wall%20-%20CD%20-%20FLAC/01%20The%20Wall%20(disc%201)/13%20Goodbye%20Cruel%20World.flac:Goodbye Cruel World
+#DESCRIPTION Goodbye Cruel World
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//miya.nipah.moe%3a81/public/music/Pink%20Floyd%20-%20(2012)%20-%20The%20Wall%20-%20CD%20-%20FLAC/01%20The%20Wall%20(disc%201)/2%20The%20Thin%20Ice.flac:The Thin Ice
+#DESCRIPTION The Thin Ice
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//miya.nipah.moe%3a81/public/music/Pink%20Floyd%20-%20(2012)%20-%20The%20Wall%20-%20CD%20-%20FLAC/01%20The%20Wall%20(disc%201)/3%20Another%20Brick%20in%20the%20Wall,%20Part%201.flac:Another Brick in the Wall Part 1
+#DESCRIPTION Another Brick in the Wall Part 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//miya.nipah.moe%3a81/public/music/Pink%20Floyd%20-%20(2012)%20-%20The%20Wall%20-%20CD%20-%20FLAC/01%20The%20Wall%20(disc%201)/4%20The%20Happiest%20Days%20of%20Our%20Lives.flac:The Happiest Days of Our Lives
+#DESCRIPTION The Happiest Days of Our Lives
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//miya.nipah.moe%3a81/public/music/Pink%20Floyd%20-%20(2012)%20-%20The%20Wall%20-%20CD%20-%20FLAC/01%20The%20Wall%20(disc%201)/5%20Another%20Brick%20in%20the%20Wall,%20Part%202.flac:Another Brick in the Wall Part 2
+#DESCRIPTION Another Brick in the Wall Part 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//miya.nipah.moe%3a81/public/music/Pink%20Floyd%20-%20(2012)%20-%20The%20Wall%20-%20CD%20-%20FLAC/01%20The%20Wall%20(disc%201)/6%20Mother.flac:Mother
+#DESCRIPTION Mother
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//miya.nipah.moe%3a81/public/music/Pink%20Floyd%20-%20(2012)%20-%20The%20Wall%20-%20CD%20-%20FLAC/01%20The%20Wall%20(disc%201)/7%20Goodbye%20Blue%20Sky.flac:Goodbye Blue Sky
+#DESCRIPTION Goodbye Blue Sky
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//miya.nipah.moe%3a81/public/music/Pink%20Floyd%20-%20(2012)%20-%20The%20Wall%20-%20CD%20-%20FLAC/01%20The%20Wall%20(disc%201)/8%20Empty%20Spaces.flac:Empty Spaces
+#DESCRIPTION Empty Spaces
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//miya.nipah.moe%3a81/public/music/Pink%20Floyd%20-%20(2012)%20-%20The%20Wall%20-%20CD%20-%20FLAC/01%20The%20Wall%20(disc%201)/9%20Young%20Lust.flac:Young Lust
+#DESCRIPTION Young Lust

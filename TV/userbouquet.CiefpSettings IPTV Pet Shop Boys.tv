@@ -1,0 +1,35 @@
+#NAME CiefpSettings IPTV Pet Shop Boys
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Golden%20Disco%20Hits/2001%20-%20Pet%20Shop%20Boys/01.%20Go%20West.mp3:Go West
+#DESCRIPTION Go West
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Golden%20Disco%20Hits/2001%20-%20Pet%20Shop%20Boys/02.%20Paninaro%2095.mp3:Paninaro 95
+#DESCRIPTION Paninaro 95
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Golden%20Disco%20Hits/2001%20-%20Pet%20Shop%20Boys/03.%20It's%20a%20Sin.mp3:It's a Sin
+#DESCRIPTION It's a Sin
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Golden%20Disco%20Hits/2001%20-%20Pet%20Shop%20Boys/04.%20Rent.mp3:Rent
+#DESCRIPTION Rent
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Golden%20Disco%20Hits/2001%20-%20Pet%20Shop%20Boys/05.%20A%20Red%20Letter%20Day.mp3:A Red Letter Day
+#DESCRIPTION A Red Letter Day
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Golden%20Disco%20Hits/2001%20-%20Pet%20Shop%20Boys/06.%20Alweys%20On%20My%20Mind.mp3:Alweys On My Mind
+#DESCRIPTION Alweys On My Mind
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Golden%20Disco%20Hits/2001%20-%20Pet%20Shop%20Boys/07.%20Domino%20Dancing.mp3:Domino Dancing
+#DESCRIPTION Domino Dancing
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Golden%20Disco%20Hits/2001%20-%20Pet%20Shop%20Boys/08.%20Can%20You%20Forgive%20Her.mp3:Can You Forgive Her
+#DESCRIPTION Can You Forgive Her
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Golden%20Disco%20Hits/2001%20-%20Pet%20Shop%20Boys/09.%20Losing%20My%20Mind.mp3:Losing My Mind
+#DESCRIPTION Losing My Mind
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Golden%20Disco%20Hits/2001%20-%20Pet%20Shop%20Boys/10.%20Opportunities%20(Let's%20Make%20Lots%20Of%20Money).mp3:Opportunities (Let's Make Lots Of Money)
+#DESCRIPTION Opportunities (Let's Make Lots Of Money)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Golden%20Disco%20Hits/2001%20-%20Pet%20Shop%20Boys/11.%20Single.mp3:Single
+#DESCRIPTION Single
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Golden%20Disco%20Hits/2001%20-%20Pet%20Shop%20Boys/12.%20Left%20To%20My%20Own%20Devices.mp3:Left To My Own Devices
+#DESCRIPTION Left To My Own Devices
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Golden%20Disco%20Hits/2001%20-%20Pet%20Shop%20Boys/13.%20Radiophonic.mp3:Radiophonic
+#DESCRIPTION Radiophonic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Golden%20Disco%20Hits/2001%20-%20Pet%20Shop%20Boys/14.%20West%20End%20Gerls.mp3:West End Gerls
+#DESCRIPTION West End Gerls
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Golden%20Disco%20Hits/2001%20-%20Pet%20Shop%20Boys/15.%20Suburbia.mp3:Suburbia
+#DESCRIPTION Suburbia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Golden%20Disco%20Hits/2001%20-%20Pet%20Shop%20Boys/16.%20New%20York%20City%20Boy.mp3:New York City Boy
+#DESCRIPTION New York City Boy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Golden%20Disco%20Hits/2001%20-%20Pet%20Shop%20Boys/17.%20In%20The%20Night.mp3:In The Night
+#DESCRIPTION In The Night

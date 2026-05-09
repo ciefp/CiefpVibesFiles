@@ -1,0 +1,971 @@
+#NAME CiefpSettings IPTV NewTunes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/NewTunes/80's%2014%20Minute%20Medley.mp3:80's Minute Medley
+#DESCRIPTION 80's Minute Medley
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/NewTunes/90's%20Medley%20OG.mp3:90's Medley OG
+#DESCRIPTION 90's Medley OG
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/NewTunes/DON'T%20YOU%20WORRY%20-%20Black%20Eyed%20Peas,%20Shakira,%20David%20Guetta.mp3:DON'T YOU WORRY  Black Eyed Peas Shakira David Guetta
+#DESCRIPTION DON'T YOU WORRY  Black Eyed Peas Shakira David Guetta
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/NewTunes/Don't%20You%20Worry_I%20Got%20A%20Feeling%20Medley.mp3:Don't You Worry I Got A Feeling Medley
+#DESCRIPTION Don't You Worry I Got A Feeling Medley
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/NewTunes/FP%20Shout%20Sex%20Medley%201.mp3:FP Shout Sex Medley 1
+#DESCRIPTION FP Shout Sex Medley 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/NewTunes/Flowers%20-%20Miley%20Cyrus.mp3:Flowers  Miley Cyrus
+#DESCRIPTION Flowers  Miley Cyrus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/NewTunes/Hung%20Up%20On%20Abba%202023.2%202.mp3:Hung Up On Abba 2
+#DESCRIPTION Hung Up On Abba 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/NewTunes/I'm%20Every%20Woman%20%20-%20Whitney%20Houston%20-(SG%20Lewis%20Remix).mp3:I'm Every Woman   Whitney Houston (SG Lewis Remix)
+#DESCRIPTION I'm Every Woman   Whitney Houston (SG Lewis Remix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/NewTunes/I'm%20Good%20(Blue)%20-%20David%20Guetta%20&amp;%20Bebe%20Rexha.mp3:I'm Good (Blue)  David Guetta &amp; Bebe Rexha
+#DESCRIPTION I'm Good (Blue)  David Guetta &amp; Bebe Rexha
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/NewTunes/I%20Ain't%20Worried%20-%20OneRepublic.mp3:I Ain't Worried  OneRepublic
+#DESCRIPTION I Ain't Worried  OneRepublic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/NewTunes/In%20the%20Stone%20-%20Earth,%20Wind%20&amp;%20Fire.mp3:In the Stone  Earth Wind &amp; Fire
+#DESCRIPTION In the Stone  Earth Wind &amp; Fire
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/NewTunes/Lizzo%20Medley%202022.mp3:Lizzo Medley 2022
+#DESCRIPTION Lizzo Medley 2022
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/NewTunes/Made%20You%20Look%20-%20Meghan%20Trainor%20ft.%20Kim%20Petras%20(Remix).mp3:Made You Look  Meghan Trainor ft. Kim Petras (Remix)
+#DESCRIPTION Made You Look  Meghan Trainor ft. Kim Petras (Remix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/NewTunes/My%20Girl%20-%20The%20Temtations.mp3:My Girl  The Temtations
+#DESCRIPTION My Girl  The Temtations
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/NewTunes/Perfect%20-%20Ed%20Sheeran.mp3:Perfect  Ed Sheeran
+#DESCRIPTION Perfect  Ed Sheeran
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/NewTunes/Stand%20%20By%20Me%20-%20Ben%20E%20King.mp3:Stand  By Me  Ben E King
+#DESCRIPTION Stand  By Me  Ben E King
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/NewTunes/Take%20On%20Me%20-%20As%20It%20Was%20FP%20Medley%20L.mp3:Take On Me  As It Was FP Medley L
+#DESCRIPTION Take On Me  As It Was FP Medley L
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/NewTunes/Waffle%20House-%20Jonas-Brothers.mp3:Waffle House JonasBrothers
+#DESCRIPTION Waffle House JonasBrothers
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/NewTunes/Watermelon%20Sugar-Harry%20Styles.mp3:Watermelon SugarHarry Styles
+#DESCRIPTION Watermelon SugarHarry Styles
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/NewTunes/We%20Built%20This%20City%20-%20Starship.mp3:We Built This City  Starship
+#DESCRIPTION We Built This City  Starship
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/24K%20Magic%20-%20Bruno%20Mars.mp3:24K Magic  Bruno Mars
+#DESCRIPTION 24K Magic  Bruno Mars
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/60's%20Medley_2.mp3:60's Medley 2
+#DESCRIPTION 60's Medley 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/80's%2014%20Minute%20Medley.mp3:80's Minute Medley
+#DESCRIPTION 80's Minute Medley
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/90's%20Medley%20OG.mp3:90's Medley OG
+#DESCRIPTION 90's Medley OG
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/99%20Luft%20Balloons.mp3:Luft Balloons
+#DESCRIPTION Luft Balloons
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/ABBA%20Lido%20Medley%20SHORT%202015.mp3:ABBA Lido Medley SHORT 2015
+#DESCRIPTION ABBA Lido Medley SHORT 2015
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/About%20Damn%20Time%20-%20Lizzo.mp3:About Damn Time  Lizzo
+#DESCRIPTION About Damn Time  Lizzo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Africa%20-%20Toto.mp3:Africa  Toto
+#DESCRIPTION Africa  Toto
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Ain't%20No%20Mountain%20High%20Enough.mp3:Ain't No Mountain High Enough
+#DESCRIPTION Ain't No Mountain High Enough
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Ain't%20No%20Mountain%20Medley.mp3:Ain't No Mountain Medley
+#DESCRIPTION Ain't No Mountain Medley
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Akon%20ft.%20Gwen%20stephanie%20-%20The%20Sweet%20Escape.mp3:Akon ft. Gwen stephanie  The Sweet Escape
+#DESCRIPTION Akon ft. Gwen stephanie  The Sweet Escape
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/All%20About%20That%20Bass%20-%20Meghan%20Trainor.mp3:All About That Bass  Meghan Trainor
+#DESCRIPTION All About That Bass  Meghan Trainor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/All%20I%20Want%20For%20Christmas%20Is%20You%20-%20Mariah%20Carey.mp3:All I Want For Christmas Is You  Mariah Carey
+#DESCRIPTION All I Want For Christmas Is You  Mariah Carey
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/All%20Night%20Long%20-%20Lionel%20Richie%20**FP%20VERSION**.mp3:All Night Long  Lionel Richie **FP VERSION**
+#DESCRIPTION All Night Long  Lionel Richie **FP VERSION**
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/All%20of%20Me%20FP%20Edit2.mp3:All of Me FP Edit2
+#DESCRIPTION All of Me FP Edit2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Am%20I%20Wrong%20-%20Nico%20&amp;%20Vinz.mp3:Am I Wrong  Nico &amp; Vinz
+#DESCRIPTION Am I Wrong  Nico &amp; Vinz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/American%20Authors%20-%20Best%20Day%20Of%20My%20Life%20(Official%20Video).mp3:American Authors  Best Day Of My Life (Official Video)
+#DESCRIPTION American Authors  Best Day Of My Life (Official Video)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Animal%20-%20Neon%20Trees.mp3:Animal  Neon Trees
+#DESCRIPTION Animal  Neon Trees
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Another%20One%20Bites%20The%20Dust_Rappers%20Delight_Let%e2%80%99s%20Get%20It%20Started%20Medley.mp3:Another One Bites The Dust Rappers Delight Let’s Get It Started Medley
+#DESCRIPTION Another One Bites The Dust Rappers Delight Let’s Get It Started Medley
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Any%20Man%20Of%20Mine%20-%20Shania%20Twain.mp3:Any Man Of Mine  Shania Twain
+#DESCRIPTION Any Man Of Mine  Shania Twain
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Any%20Way%20You%20Want%20It.mp3:Any Way You Want It
+#DESCRIPTION Any Way You Want It
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Aretha%20Medley%20Dec%202008%20really%20final.mp3:Aretha Medley Dec really final
+#DESCRIPTION Aretha Medley Dec really final
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/At%20Last%20-%20Etta%20James.mp3:At Last  Etta James
+#DESCRIPTION At Last  Etta James
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/At%20Last.mp3:At Last
+#DESCRIPTION At Last
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Attention-Charlie%20Puth.mp3:AttentionCharlie Puth
+#DESCRIPTION AttentionCharlie Puth
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/BOY%20GIRL%20MEDLEY3.mp3:BOY GIRL MEDLEY3
+#DESCRIPTION BOY GIRL MEDLEY3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Baby%20I%20Love%20You.mp3:Baby I Love You
+#DESCRIPTION Baby I Love You
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Back%20In%20Black-%20ACDC.mp3:Back In Black ACDC
+#DESCRIPTION Back In Black ACDC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Bad%20Guy%20-%20Billie%20Eilish.mp3:Bad Guy  Billie Eilish
+#DESCRIPTION Bad Guy  Billie Eilish
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Bad%20Romance%20-%20Lady%20Gaga.mp3:Bad Romance  Lady Gaga
+#DESCRIPTION Bad Romance  Lady Gaga
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Bam%20Bam%20-%20Camila%20Cabello%20ft.%20Ed%20Sheeran.mp3:Bam Bam  Camila Cabello ft. Ed Sheeran
+#DESCRIPTION Bam Bam  Camila Cabello ft. Ed Sheeran
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Beatles%20-%20Twist%20and%20Shout.mp3:Beatles  Twist and Shout
+#DESCRIPTION Beatles  Twist and Shout
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Beatles%20Medley.mp3:Beatles Medley
+#DESCRIPTION Beatles Medley
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Best%20Day%20Of%20My%20Life-American%20Authors.mp3:Best Day Of My LifeAmerican Authors
+#DESCRIPTION Best Day Of My LifeAmerican Authors
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Best%20Friend%20-%20Sofi%20Tukker.mp3:Best Friend  Sofi Tukker
+#DESCRIPTION Best Friend  Sofi Tukker
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Better%20When%20I'm%20Dancin'-Meghan%20Trainor.mp3:Better When I'm Dancin'Meghan Trainor
+#DESCRIPTION Better When I'm Dancin'Meghan Trainor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Beyonce%20-%20Single%20Ladies%20(Put%20a%20Ring%20on%20it).mp3:Beyonce  Single Ladies (Put a Ring on it)
+#DESCRIPTION Beyonce  Single Ladies (Put a Ring on it)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Billy%20Jean%20-%20Micheal%20Jackson.mp3:Billy Jean  Micheal Jackson
+#DESCRIPTION Billy Jean  Micheal Jackson
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Birthday%20-%20Katy%20Perry.mp3:Birthday  Katy Perry
+#DESCRIPTION Birthday  Katy Perry
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Black%20Eyed%20Peas%20-%20I%20Gotta%20Feeling%20(Radio).mp3:Black Eyed Peas  I Gotta Feeling (Radio)
+#DESCRIPTION Black Eyed Peas  I Gotta Feeling (Radio)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Black%20Widow%20(feat.%20Rita%20Ora).mp3:Black Widow (feat. Rita Ora)
+#DESCRIPTION Black Widow (feat. Rita Ora)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Black_Street-_No_Diggity.mp3:Black Street No Diggity
+#DESCRIPTION Black Street No Diggity
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Black%20or%20White%20-%20Michael%20Jackson.mp3:Black or White  Michael Jackson
+#DESCRIPTION Black or White  Michael Jackson
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Blake%20Shelton%20ft.%20Pistol%20Annies%20&amp;%20Friends%20-%20Boys%20'Round%20Here.mp3:Blake Shelton ft. Pistol Annies &amp; Friends  Boys 'Round Here
+#DESCRIPTION Blake Shelton ft. Pistol Annies &amp; Friends  Boys 'Round Here
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Body%20Like%20A%20Back%20Road-Sam%20Hunt.mp3:Body Like A Back RoadSam Hunt
+#DESCRIPTION Body Like A Back RoadSam Hunt
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Boogie%20Oogie.mp3:Boogie Oogie
+#DESCRIPTION Boogie Oogie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Boom%20Clap%20Medley.mp3:Boom Clap Medley
+#DESCRIPTION Boom Clap Medley
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Break%20Free%20-%20Ariana%20Grande%20ft.%20Zedd.mp3:Break Free  Ariana Grande ft. Zedd
+#DESCRIPTION Break Free  Ariana Grande ft. Zedd
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Britney%20Medley.mp3:Britney Medley
+#DESCRIPTION Britney Medley
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Broken%20-%20Lovelytheband.mp3:Broken  Lovelytheband
+#DESCRIPTION Broken  Lovelytheband
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Brokenhearted%20-%20Karmin.mp3:Brokenhearted  Karmin
+#DESCRIPTION Brokenhearted  Karmin
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Brown%20Eyed%20Girl.mp3:Brown Eyed Girl
+#DESCRIPTION Brown Eyed Girl
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Brown%20Sugar%20-%20Rolling%20Stones.mp3:Brown Sugar  Rolling Stones
+#DESCRIPTION Brown Sugar  Rolling Stones
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Bryan%20Adams%20-%20Summer%20of%2069.mp3:Bryan Adams  Summer of 69
+#DESCRIPTION Bryan Adams  Summer of 69
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Butterfly%20Kisses%20-%20Jermaine%20Paul.mp3:Butterfly Kisses  Jermaine Paul
+#DESCRIPTION Butterfly Kisses  Jermaine Paul
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/CAN'T%20STOP%20THE%20FEELING!%20First%20Listen%20(Featuring%20the%20cast%20of%20DreamWorks%20Animation's%20Trolls).mp3:CAN'T STOP THE FEELING! First Listen (Featuring the cast of DreamWorks Animation's Trolls)
+#DESCRIPTION CAN'T STOP THE FEELING! First Listen (Featuring the cast of DreamWorks Animation's Trolls)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Cake%20By%20The%20Ocean%20-%20DNCE.mp3:Cake By The Ocean  DNCE
+#DESCRIPTION Cake By The Ocean  DNCE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Cake_Bust%20A%20Move%20Medley2.mp3:Cake Bust A Move Medley2
+#DESCRIPTION Cake Bust A Move Medley2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/California%20Gurls%20-%20Katy%20Perry.mp3:California Gurls  Katy Perry
+#DESCRIPTION California Gurls  Katy Perry
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/California%20Love%20-%202pac%20feat%20Dr.Dre.mp3:California Love  2pac feat Dr.Dre
+#DESCRIPTION California Love  2pac feat Dr.Dre
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Calvin%20Harris%20-%20Feel%20So%20Close.mp3:Calvin Harris  Feel So Close
+#DESCRIPTION Calvin Harris  Feel So Close
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Can%e2%80%99t%20Feel%20My%20Face-The%20Weeknd.mp3:Can’t Feel My FaceThe Weeknd
+#DESCRIPTION Can’t Feel My FaceThe Weeknd
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Can't%20Buy%20Me%20Love%20(Remastered%202015).mp3:Can't Buy Me Love (Remastered 2015)
+#DESCRIPTION Can't Buy Me Love (Remastered 2015)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Can't%20Take%20My%20Eyes%20Off%20You%20(FULL)%20_%20Motown%20II.mp3:Can't Take My Eyes Off You (FULL)   Motown II
+#DESCRIPTION Can't Take My Eyes Off You (FULL)   Motown II
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Can't%20Take%20My%20Eyes%20Off%20You.mp3:Can't Take My Eyes Off You
+#DESCRIPTION Can't Take My Eyes Off You
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Can't%20Take%20My%20Eyes%20off%20You%20-%20Frankie%20Valli%20and%20The%204%20Seasons.mp3:Can't Take My Eyes off You  Frankie Valli and The Seasons
+#DESCRIPTION Can't Take My Eyes off You  Frankie Valli and The Seasons
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Canned%20Heat%20-%20Jamiroquai.mp3:Canned Heat  Jamiroquai
+#DESCRIPTION Canned Heat  Jamiroquai
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Cant%20Feel%20My%20Face%20-%20The%20Weeknd.mp3:Cant Feel My Face  The Weeknd
+#DESCRIPTION Cant Feel My Face  The Weeknd
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Carly%20Rae%20Jepsen%20-%20Call%20Me%20Maybe.mp3:Carly Rae Jepsen  Call Me Maybe
+#DESCRIPTION Carly Rae Jepsen  Call Me Maybe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Cheap%20Thrills%20-%20Sia%20ft.%20Sean%20Paul.mp3:Cheap Thrills  Sia ft. Sean Paul
+#DESCRIPTION Cheap Thrills  Sia ft. Sean Paul
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Cheerleader-Omi.mp3:CheerleaderOmi
+#DESCRIPTION CheerleaderOmi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Cher%20-%20Believe.mp3:Cher  Believe
+#DESCRIPTION Cher  Believe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Cindy%20Lauper%20-%20Girls%20just%20want%20to%20have%20fun.mp3.wav:Cindy Lauper  Girls just want to have fun.wav
+#DESCRIPTION Cindy Lauper  Girls just want to have fun.wav
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Classic%20Rock%20Medley.mp3:Classic Rock Medley
+#DESCRIPTION Classic Rock Medley
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Classic%20Rock%20Medley%2008'.mp3:Classic Rock Medley 08'
+#DESCRIPTION Classic Rock Medley 08'
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Closing%20Time%20-%20Semisonic.mp3:Closing Time  Semisonic
+#DESCRIPTION Closing Time  Semisonic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Cold%20Heart%20(PNAU%20Remix).mp3:Cold Heart (PNAU Remix)
+#DESCRIPTION Cold Heart (PNAU Remix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Coldplay%20-%20Viva%20La%20Vida.mp3:Coldplay  Viva La Vida
+#DESCRIPTION Coldplay  Viva La Vida
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Come%20On%20Eileen.mp3:Come On Eileen
+#DESCRIPTION Come On Eileen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Corey%20Hart%20-%20I%20Wear%20my%20Sunglasses%20at%20Night%20(80s).mp3..mp3:Corey Hart  I Wear my Sunglasses at Night (80s).
+#DESCRIPTION Corey Hart  I Wear my Sunglasses at Night (80s).
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Could%20You%20Be%20Loved_.mp3:Could You Be Loved
+#DESCRIPTION Could You Be Loved
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Counting%20Stars%20-OneRepublic.mp3:Counting Stars OneRepublic
+#DESCRIPTION Counting Stars OneRepublic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Country%20Rock%20Medley.mp3:Country Rock Medley
+#DESCRIPTION Country Rock Medley
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Cracklin%20Rose%20-%20Neil%20Diamond.mp3:Cracklin Rose  Neil Diamond
+#DESCRIPTION Cracklin Rose  Neil Diamond
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Crazy%20Little%20Thing%20Called%20Love%20-%20Queen.mp3:Crazy Little Thing Called Love  Queen
+#DESCRIPTION Crazy Little Thing Called Love  Queen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Crazy%20Love%20(Van%20Morrison).mp3:Crazy Love (Van Morrison)
+#DESCRIPTION Crazy Love (Van Morrison)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Crazy%20in%20Love%20Medley%20(e).mp3:Crazy in Love Medley (e)
+#DESCRIPTION Crazy in Love Medley (e)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/DJ%20Got%20Us%20Fallin%e2%80%99%20In%20Love%20-%20Usher%20featuring%20Pitbull.mp3:DJ Got Us Fallin’ In Love  Usher featuring Pitbull
+#DESCRIPTION DJ Got Us Fallin’ In Love  Usher featuring Pitbull
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/DNCE%20-%20Cake%20By%20The%20Ocean%20(Lyric).mp3:DNCE  Cake By The Ocean (Lyric)
+#DESCRIPTION DNCE  Cake By The Ocean (Lyric)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Dance%20Monkey%20-%20Tones%20and%20I.mp3:Dance Monkey  Tones and I
+#DESCRIPTION Dance Monkey  Tones and I
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Dance%20and%20Shout%20-%20Shaggy.mp3:Dance and Shout  Shaggy
+#DESCRIPTION Dance and Shout  Shaggy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Dancing%20Queen%20Medley_4.mp3:Dancing Queen Medley 4
+#DESCRIPTION Dancing Queen Medley 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/David%20Guetta%20ft%20Nicki%20Minaj%20&amp;%20Afrojack%20-%20Hey%20Mama.mp3:David Guetta ft Nicki Minaj &amp; Afrojack  Hey Mama
+#DESCRIPTION David Guetta ft Nicki Minaj &amp; Afrojack  Hey Mama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Despacito%20(feat.%20Justin%20Bieber)%20%5b.mp3:Despacito (feat. Justin Bieber) [
+#DESCRIPTION Despacito (feat. Justin Bieber) [
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Devil%20Inside%20-%20INXS.mp3:Devil Inside  INXS
+#DESCRIPTION Devil Inside  INXS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Diana%20Ross%20&amp;%20the%20Supremes%20-%20You%20Can't%20Hurry%20Love(1).mp3:Diana Ross &amp; the Supremes  You Can't Hurry Love(1)
+#DESCRIPTION Diana Ross &amp; the Supremes  You Can't Hurry Love(1)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Disco%20Medley%20(no%20Macho%20Man).mp3:Disco Medley (no Macho Man)
+#DESCRIPTION Disco Medley (no Macho Man)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Disco%20Medley_4%201.mp3:Disco Medley 1
+#DESCRIPTION Disco Medley 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Disco%20Medley%20fp2%202012%20w%20YMCA%20BOML%20LO%20FI.mp3:Disco Medley fpw YMCA BOML LO FI
+#DESCRIPTION Disco Medley fpw YMCA BOML LO FI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Do%20You%20Love%20Me%20(Now%20That%20I%20Can%20Dance).mp3:Do You Love Me (Now That I Can Dance)
+#DESCRIPTION Do You Love Me (Now That I Can Dance)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Domino%20-%20Jessie%20J%20ft.%20Katy%20Perry.mp3:Domino  Jessie J ft. Katy Perry
+#DESCRIPTION Domino  Jessie J ft. Katy Perry
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Don't%20-%20Ed%20Sheeran.mp3:Don't  Ed Sheeran
+#DESCRIPTION Don't  Ed Sheeran
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Don't%20Feel%20Like%20Dancing%20-%20Scissor%20Sisters.mp3:Don't Feel Like Dancing  Scissor Sisters
+#DESCRIPTION Don't Feel Like Dancing  Scissor Sisters
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Don't%20Know%20Why.mp3:Don't Know Why
+#DESCRIPTION Don't Know Why
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Don't%20Let%20Me%20Down%20-%20The%20Chainsmokers%20ft.%20Daya.mp3:Don't Let Me Down  The Chainsmokers ft. Daya
+#DESCRIPTION Don't Let Me Down  The Chainsmokers ft. Daya
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Don't%20Stop%20Wanna%20Be%20MJFP%20Edit.mp3:Don't Stop Wanna Be MJFP Edit
+#DESCRIPTION Don't Stop Wanna Be MJFP Edit
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Don't%20Stop%20the%20Party%20(feat.%20TJR).mp3:Don't Stop the Party (feat. TJR)
+#DESCRIPTION Don't Stop the Party (feat. TJR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Don't%20You%20Worry%20Child%20(Radio%20Edit)%20%5bfeat.%20John%20Martin%5d.mp3:Don't You Worry Child (Radio Edit) [feat. John Martin]
+#DESCRIPTION Don't You Worry Child (Radio Edit) [feat. John Martin]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Don't%20let%20the%20sun%20go%20down%20on%20me%20-%20Elton%20John%20George%20Michael.mp3:Don't let the sun go down on me  Elton John George Michael
+#DESCRIPTION Don't let the sun go down on me  Elton John George Michael
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Dont%20You%20Want%20Me%20Baby%20-%20Human%20League.mp3:Dont You Want Me Baby  Human League
+#DESCRIPTION Dont You Want Me Baby  Human League
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Drake%20-%20Hotline%20Bling.mp3:Drake  Hotline Bling
+#DESCRIPTION Drake  Hotline Bling
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Drake%20-%20In%20My%20Feelings%20(Lyrics).mp3:Drake  In My Feelings (Lyrics)
+#DESCRIPTION Drake  In My Feelings (Lyrics)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Drowning%20-%20Backstreet%20Boys.mp3:Drowning  Backstreet Boys
+#DESCRIPTION Drowning  Backstreet Boys
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Dua%20Lipa%20-%20Break%20My%20Heart.mp3:Dua Lipa  Break My Heart
+#DESCRIPTION Dua Lipa  Break My Heart
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Dua%20Lipa%20-%20Don't%20Start%20Now.mp3:Dua Lipa  Don't Start Now
+#DESCRIPTION Dua Lipa  Don't Start Now
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Dua%20Lipa%20-%20New%20Rules.mp3:Dua Lipa  New Rules
+#DESCRIPTION Dua Lipa  New Rules
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Dua%20Lupa%20Medley.mp3:Dua Lupa Medley
+#DESCRIPTION Dua Lupa Medley
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Dynamite%20Medley_2.mp3:Dynamite Medley 2
+#DESCRIPTION Dynamite Medley 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/EDM%20Medley%201.mp3:EDM Medley 1
+#DESCRIPTION EDM Medley 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/EDM%20Medley%202.mp3:EDM Medley 2
+#DESCRIPTION EDM Medley 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Electricity%20-%20Silk%20City,%20Dua%20Lipa%20ft.%20Diplo,%20Mark%20Ronson.mp3:Electricity  Silk City Dua Lipa ft. Diplo Mark Ronson
+#DESCRIPTION Electricity  Silk City Dua Lipa ft. Diplo Mark Ronson
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Ellie%20Goulding%20-%20Love%20Me%20Like%20You%20Do.mp3:Ellie Goulding  Love Me Like You Do
+#DESCRIPTION Ellie Goulding  Love Me Like You Do
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Empire%20State%20of%20Mind%20-%20Jay%20Z%20ft.%20Alicia%20Keys.mp3:Empire State of Mind  Jay Z ft. Alicia Keys
+#DESCRIPTION Empire State of Mind  Jay Z ft. Alicia Keys
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Estelle%20-%20American%20Boy%20ft%20Kanye%20West.mp3:Estelle  American Boy ft Kanye West
+#DESCRIPTION Estelle  American Boy ft Kanye West
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Everybody's%20Working%20For%20The%20Weekend%20-%20Loverboy.mp3:Everybody's Working For The Weekend  Loverboy
+#DESCRIPTION Everybody's Working For The Weekend  Loverboy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Everybody's%20Working%20For%20The%20Weekend%20Loverboy.mp3:Everybody's Working For The Weekend Loverboy
+#DESCRIPTION Everybody's Working For The Weekend Loverboy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Ex's%20&amp;%20Oh's%20-%20Elle%20King.mp3:Ex's &amp; Oh's  Elle King
+#DESCRIPTION Ex's &amp; Oh's  Elle King
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/FP2%20Dance%20Medley.mp3:FPDance Medley
+#DESCRIPTION FPDance Medley
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/FP2%20Dance%20Medley1.mp3:FPDance Medley1
+#DESCRIPTION FPDance Medley1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/FP2%20Gloria%20Medley.mp3:FPGloria Medley
+#DESCRIPTION FPGloria Medley
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/FP2%20Gloria%20Medley%20SHORTER%20WHITNEY1.mp3:FPGloria Medley SHORTER WHITNEY1
+#DESCRIPTION FPGloria Medley SHORTER WHITNEY1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/FP%20Grease%20Med..mp3:FP Grease Med.
+#DESCRIPTION FP Grease Med.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/FP%20What's%20Goin'%20On-Mercy%20Me%201.mp3:FP What's Goin' OnMercy Me 1
+#DESCRIPTION FP What's Goin' OnMercy Me 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Faith%20-%20George%20Michael.mp3:Faith  George Michael
+#DESCRIPTION Faith  George Michael
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Falling%20Slowly%20-%20Once%20Sound%20Track.mp3:Falling Slowly  Once Sound Track
+#DESCRIPTION Falling Slowly  Once Sound Track
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Family%20Affairs%20-%20Mary%20J.%20Blidge.mp3:Family Affairs  Mary J. Blidge
+#DESCRIPTION Family Affairs  Mary J. Blidge
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Fancy%20(feat.%20Charli%20XCX).mp3:Fancy (feat. Charli XCX)
+#DESCRIPTION Fancy (feat. Charli XCX)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Fancy%20Like%20-%20Walker%20Hayes.mp3:Fancy Like  Walker Hayes
+#DESCRIPTION Fancy Like  Walker Hayes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Fantasy%20-%20Mariah%20Carey.mp3:Fantasy  Mariah Carey
+#DESCRIPTION Fantasy  Mariah Carey
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Fast%20Love%20-%20George%20Michael.mp3:Fast Love  George Michael
+#DESCRIPTION Fast Love  George Michael
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Feel%20It%20Still%20-%20Portugal.%20The%20Man.mp3:Feel It Still  Portugal. The Man
+#DESCRIPTION Feel It Still  Portugal. The Man
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Feel%20This%20Moment%20-%20Pitbull%20ft.%20Christina%20Aguilera.mp3:Feel This Moment  Pitbull ft. Christina Aguilera
+#DESCRIPTION Feel This Moment  Pitbull ft. Christina Aguilera
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Feel%20it%20still_Happy_shake%20it%20off.mp3:Feel it still Happy shake it off
+#DESCRIPTION Feel it still Happy shake it off
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Feels%20-%20Calvin%20Harris%20ft.%20Pharrell%20Williams,%20Katy%20Perry,%20Big%20Sean.mp3:Feels  Calvin Harris ft. Pharrell Williams Katy Perry Big Sean
+#DESCRIPTION Feels  Calvin Harris ft. Pharrell Williams Katy Perry Big Sean
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Feels%20Like%20Armin%20van%20Buuren%20feat.%20Trevor%20Guthrie.mp3:Feels Like Armin van Buuren feat. Trevor Guthrie
+#DESCRIPTION Feels Like Armin van Buuren feat. Trevor Guthrie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Fight%20For%20Your%20Right%20To%20Party.mp3:Fight For Your Right To Party
+#DESCRIPTION Fight For Your Right To Party
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Finesse%20-%20Bruno%20Mars%20%5bfeat.%20Cardi%20B%5d.mp3:Finesse  Bruno Mars [feat. Cardi B]
+#DESCRIPTION Finesse  Bruno Mars [feat. Cardi B]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Fireball%20-%20Pitbull%20ft.%20John%20Ryan.mp3:Fireball  Pitbull ft. John Ryan
+#DESCRIPTION Fireball  Pitbull ft. John Ryan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Firework%20-%20Katy%20Perry.mp3:Firework  Katy Perry
+#DESCRIPTION Firework  Katy Perry
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Fishing%20In%20The%20Dark%20-%20Nitty%20Gritty%20Dirt%20Band.mp3:Fishing In The Dark  Nitty Gritty Dirt Band
+#DESCRIPTION Fishing In The Dark  Nitty Gritty Dirt Band
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Flo%20Rida%20-%20My%20House.mp3:Flo Rida  My House
+#DESCRIPTION Flo Rida  My House
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Flo%20Rida%20ft.%20Sage%20The%20Gemini%20and%20Lookas%20-%20GDFR.mp3:Flo Rida ft. Sage The Gemini and Lookas  GDFR
+#DESCRIPTION Flo Rida ft. Sage The Gemini and Lookas  GDFR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Fly%20Me%20to%20The%20Moon.mp3:Fly Me to The Moon
+#DESCRIPTION Fly Me to The Moon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Focus-Ariana%20Grande.mp3:FocusAriana Grande
+#DESCRIPTION FocusAriana Grande
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Forever%20Young%20-%20Rod%20Stewart%20-%20Whole%20tone%20down.wav:Forever Young  Rod Stewart  Whole tone down.wav
+#DESCRIPTION Forever Young  Rod Stewart  Whole tone down.wav
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/FourFiveSeconds%20-%20Rihanna%20And%20Kanye%20West%20And%20Paul%20McCartney.mp3:FourFiveSeconds  Rihanna And Kanye West And Paul McCartney
+#DESCRIPTION FourFiveSeconds  Rihanna And Kanye West And Paul McCartney
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Friends%20In%20Low%20Places-Garth%20Brooks.mp3:Friends In Low PlacesGarth Brooks
+#DESCRIPTION Friends In Low PlacesGarth Brooks
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Fuck%20You%20-%20Cee%20Lo%20Green.mp3:Fuck You  Cee Lo Green
+#DESCRIPTION Fuck You  Cee Lo Green
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Gangnam%20Style.mp3:Gangnam Style
+#DESCRIPTION Gangnam Style
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Get%20Lucky%20(Radio%20Edit)%20%5bfeat.%20Pharrell%20Williams%5d.mp3:Get Lucky (Radio Edit) [feat. Pharrell Williams]
+#DESCRIPTION Get Lucky (Radio Edit) [feat. Pharrell Williams]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Get%20Lucky%20(feat.%20Pharrell%20Williams).m4a:Get Lucky (feat. Pharrell Williams).m4a
+#DESCRIPTION Get Lucky (feat. Pharrell Williams).m4a
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Ghost%20-%20Ella%20Henderson.mp3:Ghost  Ella Henderson
+#DESCRIPTION Ghost  Ella Henderson
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Ginuwine%20-%20Pony.mp3:Ginuwine  Pony
+#DESCRIPTION Ginuwine  Pony
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Girls%20Just%20Want%20to%20Have%20Fun%20-Cyndi%20Lauper.mp3:Girls Just Want to Have Fun Cyndi Lauper
+#DESCRIPTION Girls Just Want to Have Fun Cyndi Lauper
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Girls%20Like%20You%20-%20Maroon%205%20ft.%20Cardi%20B.mp3:Girls Like You  Maroon ft. Cardi B
+#DESCRIPTION Girls Like You  Maroon ft. Cardi B
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Gloria.mp3:Gloria
+#DESCRIPTION Gloria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Go%20For%20A%20Soda%20-%20Kim%20Mitchell.mp3:Go For A Soda  Kim Mitchell
+#DESCRIPTION Go For A Soda  Kim Mitchell
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/God%20Is%20A%20Woman%20-%20Ariana%20Grande.mp3:God Is A Woman  Ariana Grande
+#DESCRIPTION God Is A Woman  Ariana Grande
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Gold%20Diggers%20-%20Kanye%20west%20ft.%20Jamie%20foxx.mp3:Gold Diggers  Kanye west ft. Jamie foxx
+#DESCRIPTION Gold Diggers  Kanye west ft. Jamie foxx
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Good%20As%20Hell%20-%20Lizzo.mp3:Good As Hell  Lizzo
+#DESCRIPTION Good As Hell  Lizzo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Good%20Feeling%20Medley_6.mp3:Good Feeling Medley 6
+#DESCRIPTION Good Feeling Medley 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Graffiti%20Lights%20Medley.mp3:Graffiti Lights Medley
+#DESCRIPTION Graffiti Lights Medley
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Graffiti%20Summer%20Lights%20Medley.mp3:Graffiti Summer Lights Medley
+#DESCRIPTION Graffiti Summer Lights Medley
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Grease%20Medley%2009'.mp3:Grease Medley 09'
+#DESCRIPTION Grease Medley 09'
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Groove-Stir-No%20Woman%201.mp3:GrooveStirNo Woman 1
+#DESCRIPTION GrooveStirNo Woman 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Groove%20Is%20In%20The%20Heart.mp3:Groove Is In The Heart
+#DESCRIPTION Groove Is In The Heart
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/HB%20Medley%20-%20FP2%20version.mp3:HB Medley  FPversion
+#DESCRIPTION HB Medley  FPversion
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Hammer%20To%20Fall%20-%20Queen.mp3:Hammer To Fall  Queen
+#DESCRIPTION Hammer To Fall  Queen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Happy%20-%20Pharrell%20Williams.mp3:Happy  Pharrell Williams
+#DESCRIPTION Happy  Pharrell Williams
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Happy_Hey%20Ya%20Medley.mp3:Happy Hey Ya Medley
+#DESCRIPTION Happy Hey Ya Medley
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Hava%20Nagila%20FP%20Live.mp3:Hava Nagila FP Live
+#DESCRIPTION Hava Nagila FP Live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Havana%20-%20Camila%20Cabello%20ft.%20Young%20Thug%20.mp3:Havana  Camila Cabello ft. Young Thug
+#DESCRIPTION Havana  Camila Cabello ft. Young Thug
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Heroes%20(we%20could%20be)%20-%20Alesso%20ft.%20Tove%20Lo.mp3:Heroes (we could be)  Alesso ft. Tove Lo
+#DESCRIPTION Heroes (we could be)  Alesso ft. Tove Lo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Hey%20Brother%20-%20Avicii.mp3:Hey Brother  Avicii
+#DESCRIPTION Hey Brother  Avicii
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Hey%20Ya%20-%20OutKast.mp3:Hey Ya  OutKast
+#DESCRIPTION Hey Ya  OutKast
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/High%20Hopes%20-%20Panic!%20At%20The%20Disco%20-%20Eb.mp3:High Hopes  Panic! At The Disco  Eb
+#DESCRIPTION High Hopes  Panic! At The Disco  Eb
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Higher%20Love%20-%20Kygo%20ft.%20Whitney%20Houston%20(Single%20Version).mp3:Higher Love  Kygo ft. Whitney Houston (Single Version)
+#DESCRIPTION Higher Love  Kygo ft. Whitney Houston (Single Version)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/History%20of%20Rap%20Medley4.mp3:History of Rap Medley4
+#DESCRIPTION History of Rap Medley4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Hit%20me%20with%20your%20best%20shot.mp3:Hit me with your best shot
+#DESCRIPTION Hit me with your best shot
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Holiday%20-%20Madonna.mp3:Holiday  Madonna
+#DESCRIPTION Holiday  Madonna
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Honey,%20I'm%20Good-%20Andy%20Grammer.mp3:Honey I'm Good Andy Grammer
+#DESCRIPTION Honey I'm Good Andy Grammer
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Hot%20In%20Here%20-%20Nelly.mp3:Hot In Here  Nelly
+#DESCRIPTION Hot In Here  Nelly
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/How%20Will%20I%20Know%20-%20Whitney%20Houston.mp3:How Will I Know  Whitney Houston
+#DESCRIPTION How Will I Know  Whitney Houston
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Huey%20Lewis%20&amp;%20The%20News%20-%20The%20Power%20Of%20Love44.mp3:Huey Lewis &amp; The News  The Power Of Love44
+#DESCRIPTION Huey Lewis &amp; The News  The Power Of Love44
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Hungry%20Like%20The%20Wolf%20-%20Duran%20Duran.mp3:Hungry Like The Wolf  Duran Duran
+#DESCRIPTION Hungry Like The Wolf  Duran Duran
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Hypnotize%20-%20Notorius%20_%20Biggy%20smalls.mp3:Hypnotize  Notorius   Biggy smalls
+#DESCRIPTION Hypnotize  Notorius   Biggy smalls
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/I'm%20Coming%20Out%20Medley.mp3:I'm Coming Out Medley
+#DESCRIPTION I'm Coming Out Medley
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/I'm%20Good%20(Blue)%20-%20David%20Guetta%20&amp;%20Bebe%20Rexha.mp3:I'm Good (Blue)  David Guetta &amp; Bebe Rexha
+#DESCRIPTION I'm Good (Blue)  David Guetta &amp; Bebe Rexha
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/I%20Ain't%20Worried%20-%20OneRepublic.mp3:I Ain't Worried  OneRepublic
+#DESCRIPTION I Ain't Worried  OneRepublic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/I%20Can't%20Get%20No%20Satisfaction.mp3:I Can't Get No Satisfaction
+#DESCRIPTION I Can't Get No Satisfaction
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/I%20Can't%20Go%20For%20That%20(No%20Can%20Do)%20-%20Hall%20&amp;%20Oates.mp3:I Can't Go For That (No Can Do)  Hall &amp; Oates
+#DESCRIPTION I Can't Go For That (No Can Do)  Hall &amp; Oates
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/I%20Don't%20Care-%20Ed%20Sheeran%20&amp;%20Justin%20Bieber.mp3:I Don't Care Ed Sheeran &amp; Justin Bieber
+#DESCRIPTION I Don't Care Ed Sheeran &amp; Justin Bieber
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/I%20Don't%20Feel%20Like%20Dancing%20-%20Scissor%20Sisters.mp3:I Don't Feel Like Dancing  Scissor Sisters
+#DESCRIPTION I Don't Feel Like Dancing  Scissor Sisters
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/I%20Gotta%20Party%20Over%20You.mp3:I Gotta Party Over You
+#DESCRIPTION I Gotta Party Over You
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/I%20Gotta%20Party%20Sexy%20Medley.mp3:I Gotta Party Sexy Medley
+#DESCRIPTION I Gotta Party Sexy Medley
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/I%20Gotta%20Party%20Sexy%20Medley%201.mp3:I Gotta Party Sexy Medley 1
+#DESCRIPTION I Gotta Party Sexy Medley 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/I%20Like%20It%20Like%20That%20Medley%202.mp3:I Like It Like That Medley 2
+#DESCRIPTION I Like It Like That Medley 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/I%20Wanna%20Dance%20With%20Somebody-Whitney%20Houston.mp3:I Wanna Dance With SomebodyWhitney Houston
+#DESCRIPTION I Wanna Dance With SomebodyWhitney Houston
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/I%20Want%20You%20Back.mp3:I Want You Back
+#DESCRIPTION I Want You Back
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/I%20Want%20You%20Back%20_%20OPP%20Mash%20Up.mp3:I Want You Back   OPP Mash Up
+#DESCRIPTION I Want You Back   OPP Mash Up
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/I%20Will%20Survive.mp3:I Will Survive
+#DESCRIPTION I Will Survive
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/If%20I%20Had%20a%20Million%20Dollars.mp3:If I Had a Million Dollars
+#DESCRIPTION If I Had a Million Dollars
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/If%20You%20Could%20Read%20My%20Mind%20-%2054%20Soundtrack.mp3:If You Could Read My Mind  Soundtrack
+#DESCRIPTION If You Could Read My Mind  Soundtrack
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/If%20You%20Could%20Read%20My%20Mind.mp3:If You Could Read My Mind
+#DESCRIPTION If You Could Read My Mind
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Ignition%20(Remix)%20-%20R.%20Kelly.mp3:Ignition (Remix)  R. Kelly
+#DESCRIPTION Ignition (Remix)  R. Kelly
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/In%20Da%20Club-Fifty%20Cent%20.mp3:In Da ClubFifty Cent
+#DESCRIPTION In Da ClubFifty Cent
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/In%20Da%20Club%20Bootylicious%20Rock%20You%20Panama.mp3:In Da Club Bootylicious Rock You Panama
+#DESCRIPTION In Da Club Bootylicious Rock You Panama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Into%20You%20-%20Ariana%20Grande.mp3:Into You  Ariana Grande
+#DESCRIPTION Into You  Ariana Grande
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/It's%20In%20His%20Kiss%20-%20Betty%20Everett%20(Shoop%20Shoop%20Song)%20-%20Greatest%20Hits%20of%20the%2060s%2070s%2080s%20Vol.%205%20-%20Oldies.mp3:It's In His Kiss  Betty Everett (Shoop Shoop Song)  Greatest Hits of the 60s 70s 80s Vol.  Oldies
+#DESCRIPTION It's In His Kiss  Betty Everett (Shoop Shoop Song)  Greatest Hits of the 60s 70s 80s Vol.  Oldies
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Its%20My%20Life%20(CDS).mp3:Its My Life (CDS)
+#DESCRIPTION Its My Life (CDS)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Janet%20Jackson%20-%20Together%20Again-1.mp3:Janet Jackson  Together Again1
+#DESCRIPTION Janet Jackson  Together Again1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Jason%20Derulo%20-%20Talk%20Dirty.mp3:Jason Derulo  Talk Dirty
+#DESCRIPTION Jason Derulo  Talk Dirty
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Jason%20Mraz%20-%20I'm%20Yours%20(radio%20edit).mp3:Jason Mraz  I'm Yours (radio edit)
+#DESCRIPTION Jason Mraz  I'm Yours (radio edit)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Jealous%20-%20Chromeo.mp3:Jealous  Chromeo
+#DESCRIPTION Jealous  Chromeo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Jessies%20Girl.mp3:Jessies Girl
+#DESCRIPTION Jessies Girl
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Jet%20Airliner-Steve%20Miller%20Band.mp3:Jet AirlinerSteve Miller Band
+#DESCRIPTION Jet AirlinerSteve Miller Band
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/John%20Newman%20-%20Love%20Me%20Again.mp3:John Newman  Love Me Again
+#DESCRIPTION John Newman  Love Me Again
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Jonas%20Brothers%20%20-%20Only%20Human.mp3:Jonas Brothers   Only Human
+#DESCRIPTION Jonas Brothers   Only Human
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Jonas%20Brothers%20-%20Only%20Human.mp3:Jonas Brothers  Only Human
+#DESCRIPTION Jonas Brothers  Only Human
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Journey%20-%20Don't%20Stop%20Believing%202.mp3:Journey  Don't Stop Believing 2
+#DESCRIPTION Journey  Don't Stop Believing 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Juice%20-%20Lizzo.mp3:Juice  Lizzo
+#DESCRIPTION Juice  Lizzo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Juicy%20-%20Biggy%20smalls.mp3:Juicy  Biggy smalls
+#DESCRIPTION Juicy  Biggy smalls
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Just%20Can't%20Get%20Enough-%20Black%20Eyed%20Peas.mp3:Just Can't Get Enough Black Eyed Peas
+#DESCRIPTION Just Can't Get Enough Black Eyed Peas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Just%20Dance%20-%20Lady%20GaGa.mp3:Just Dance  Lady GaGa
+#DESCRIPTION Just Dance  Lady GaGa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Just%20Like%20A%20Prayer%20-%20Madonna.mp3:Just Like A Prayer  Madonna
+#DESCRIPTION Just Like A Prayer  Madonna
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Justin%20Timberlake%20-%20Take%20Back%20The%20Night.mp3:Justin Timberlake  Take Back The Night
+#DESCRIPTION Justin Timberlake  Take Back The Night
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Katrina%20&amp;%20the%20Waves%20-%20I'm%20Walking%20On%20Sunshine.mp3:Katrina &amp; the Waves  I'm Walking On Sunshine
+#DESCRIPTION Katrina &amp; the Waves  I'm Walking On Sunshine
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Katy%20Perry%20-%20Dark%20Horse%20(Audio)%20ft.%20Juicy%20J.mp3:Katy Perry  Dark Horse (Audio) ft. Juicy J
+#DESCRIPTION Katy Perry  Dark Horse (Audio) ft. Juicy J
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Katy%20Perry%20-%20Roar%20(Lyric%20Video).mp3:Katy Perry  Roar (Lyric Video)
+#DESCRIPTION Katy Perry  Roar (Lyric Video)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Kesha-TiK-ToK.mp3:KeshaTiKToK
+#DESCRIPTION KeshaTiKToK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Killin'%20Me%20Softly.mp3:Killin' Me Softly
+#DESCRIPTION Killin' Me Softly
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Killing%20Me%20Softly%20With%20His%20Song.mp3:Killing Me Softly With His Song
+#DESCRIPTION Killing Me Softly With His Song
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Kings%20&amp;%20Queens%20-%20Ava%20Max.mp3:Kings &amp; Queens  Ava Max
+#DESCRIPTION Kings &amp; Queens  Ava Max
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Kings%20Of%20Leon-%20Use%20Somebody.mp3:Kings Of Leon Use Somebody
+#DESCRIPTION Kings Of Leon Use Somebody
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Kiss%20-%20Prince.mp3:Kiss  Prince
+#DESCRIPTION Kiss  Prince
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/La%20Vie%20en%20Rose%20-%20Sophie%20Milman.m4a:La Vie en Rose  Sophie Milman.m4a
+#DESCRIPTION La Vie en Rose  Sophie Milman.m4a
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Lady%20Gaga%20-%20Applause%20(Official).mp3:Lady Gaga  Applause (Official)
+#DESCRIPTION Lady Gaga  Applause (Official)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Lady%20Marmalade-%20Labelle.mp3:Lady Marmalade Labelle
+#DESCRIPTION Lady Marmalade Labelle
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Last%20Christmas%20-%20Wham!.mp3:Last Christmas  Wham!
+#DESCRIPTION Last Christmas  Wham!
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Last%20Friday%20Night%20(T.G.I.F.).mp3:Last Friday Night (T.G.I.F.)
+#DESCRIPTION Last Friday Night (T.G.I.F.)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Latin%20Medley%20FP2.mp3:Latin Medley FP2
+#DESCRIPTION Latin Medley FP2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Lenny%20Kravitz%20-%20fly%20away.mp3:Lenny Kravitz  fly away
+#DESCRIPTION Lenny Kravitz  fly away
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Let's%20Dance%20-%20David%20Bowie.mp3:Let's Dance  David Bowie
+#DESCRIPTION Let's Dance  David Bowie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Let's%20Groove%20-%20Earth%20Wind%20&amp;%20Fire.mp3:Let's Groove  Earth Wind &amp; Fire
+#DESCRIPTION Let's Groove  Earth Wind &amp; Fire
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Let's%20Groove__September%20FP%20Medley.m4a:Let's Groove  September FP Medley.m4a
+#DESCRIPTION Let's Groove  September FP Medley.m4a
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Let's%20Hear%20it%20for%20the%20Boy%20-%20Deniece%20Williams.mp3:Let's Hear it for the Boy  Deniece Williams
+#DESCRIPTION Let's Hear it for the Boy  Deniece Williams
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Let's%20Hear%20it%20for%20the%20Boy.mp3:Let's Hear it for the Boy
+#DESCRIPTION Let's Hear it for the Boy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Let's%20stay%20together.mp3:Let's stay together
+#DESCRIPTION Let's stay together
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Lets%20Get%20it%20Started%20(Radio%20Edi.mp3:Lets Get it Started (Radio Edi
+#DESCRIPTION Lets Get it Started (Radio Edi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Liar%20-%20Camila%20Cabello.mp3:Liar  Camila Cabello
+#DESCRIPTION Liar  Camila Cabello
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Life%20is%20a%20Highway%20-%20Tom%20Cochrane.mp3:Life is a Highway  Tom Cochrane
+#DESCRIPTION Life is a Highway  Tom Cochrane
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Lil%20Nas%20X%20-%20Old%20Town%20Road%20(feat.%20Billy%20Ray%20Cyrus).mp3:Lil Nas X  Old Town Road (feat. Billy Ray Cyrus)
+#DESCRIPTION Lil Nas X  Old Town Road (feat. Billy Ray Cyrus)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Lil%20Nas%20X%20-%20THATS%20WHAT%20I%20WANT.mp3:Lil Nas X  THATS WHAT I WANT
+#DESCRIPTION Lil Nas X  THATS WHAT I WANT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Lips%20Are%20Movin%20-%20Meghan%20Trainor.mp3:Lips Are Movin  Meghan Trainor
+#DESCRIPTION Lips Are Movin  Meghan Trainor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Lizzo%20-%20Good%20As%20Hell.mp3:Lizzo  Good As Hell
+#DESCRIPTION Lizzo  Good As Hell
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Locked%20Away%20-%20R.%20City%20ft.%20Adam%20Levine.mp3:Locked Away  R. City ft. Adam Levine
+#DESCRIPTION Locked Away  R. City ft. Adam Levine
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Locked%20Out%20Of%20Heaven%20-%20Bruno%20Mars.mp3:Locked Out Of Heaven  Bruno Mars
+#DESCRIPTION Locked Out Of Heaven  Bruno Mars
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Locked%20Out%20Of%20Heaven-%20Bruno%20Mars.mp3:Locked Out Of Heaven Bruno Mars
+#DESCRIPTION Locked Out Of Heaven Bruno Mars
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Lose%20Yourself%20Gangsta%20Mashup.mp3:Lose Yourself Gangsta Mashup
+#DESCRIPTION Lose Yourself Gangsta Mashup
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Lose%20Yourself%20Gangsters%20Mash%20Up%20FP%20Edit.mp3:Lose Yourself Gangsters Mash Up FP Edit
+#DESCRIPTION Lose Yourself Gangsters Mash Up FP Edit
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Lose%20Yourself_Gangstas%20Paradise%20Mashup.mp3:Lose Yourself Gangstas Paradise Mashup
+#DESCRIPTION Lose Yourself Gangstas Paradise Mashup
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Love%20Myself%20-%20Hailee%20Steinfeld.mp3:Love Myself  Hailee Steinfeld
+#DESCRIPTION Love Myself  Hailee Steinfeld
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Love%20Never%20Felt%20So%20Good%20Michael%20Jackson%20&amp;%20Justin%20Timberlake.mp3:Love Never Felt So Good Michael Jackson &amp; Justin Timberlake
+#DESCRIPTION Love Never Felt So Good Michael Jackson &amp; Justin Timberlake
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Love%20On%20The%20Brain%20-Rihanna.mp3:Love On The Brain Rihanna
+#DESCRIPTION Love On The Brain Rihanna
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Love%20Runs%20Out%20-%20OneRepublic.mp3:Love Runs Out  OneRepublic
+#DESCRIPTION Love Runs Out  OneRepublic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Love%20Shack.mp3:Love Shack
+#DESCRIPTION Love Shack
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Love%20The%20Way%20You%20Lie%20-%20Rihanna.mp3:Love The Way You Lie  Rihanna
+#DESCRIPTION Love The Way You Lie  Rihanna
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Love%20Will%20Keep%20Us%20Together-%20Captain%20&amp;%20Tennille.mp3:Love Will Keep Us Together Captain &amp; Tennille
+#DESCRIPTION Love Will Keep Us Together Captain &amp; Tennille
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Love%20Will%20Never%20Do%20(Without%20You)%20-%20Janet%20Jackson.mp3:Love Will Never Do (Without You)  Janet Jackson
+#DESCRIPTION Love Will Never Do (Without You)  Janet Jackson
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Love%20YOURself%20REMIX%20FP%20Edit.mp3:Love YOURself REMIX FP Edit
+#DESCRIPTION Love YOURself REMIX FP Edit
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/MAGIC!%20-%20Rude.mp3:MAGIC!  Rude
+#DESCRIPTION MAGIC!  Rude
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Macklemore%20-%20Can't%20Hold%20Us.mp3:Macklemore  Can't Hold Us
+#DESCRIPTION Macklemore  Can't Hold Us
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Madcon_Beggin.mp3:Madcon Beggin
+#DESCRIPTION Madcon Beggin
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Mambo%20No.%205%20-%20Lou%20Bega.mp3:Mambo No.  Lou Bega
+#DESCRIPTION Mambo No.  Lou Bega
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Man!%20I%20Feel%20Like%20A%20Woman%20(live)%20-%20Shania%20Twain.mp3:Man! I Feel Like A Woman (live)  Shania Twain
+#DESCRIPTION Man! I Feel Like A Woman (live)  Shania Twain
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Maroon%205%20-%20This%20Love%20(Radio%20Edit).mp3:Maroon  This Love (Radio Edit)
+#DESCRIPTION Maroon  This Love (Radio Edit)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Marry%20You%20-%20Bruno%20Mars.mp3:Marry You  Bruno Mars
+#DESCRIPTION Marry You  Bruno Mars
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Maybe%20I'm%20Amazed%201.mp3:Maybe I'm Amazed 1
+#DESCRIPTION Maybe I'm Amazed 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Maybe%20I'm%20Amazed%20%5bLive%5d.mp3:Maybe I'm Amazed [Live]
+#DESCRIPTION Maybe I'm Amazed [Live]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Meant%20to%20Be%20-%20Bebe%20Rexha(feat.%20Florida%20Georgia%20Line).mp3:Meant to Be  Bebe Rexha(feat. Florida Georgia Line)
+#DESCRIPTION Meant to Be  Bebe Rexha(feat. Florida Georgia Line)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Memories%20-%20Maroon%205%20.mp3:Memories  Maroon 5
+#DESCRIPTION Memories  Maroon 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Michael%20Jackson%20-%20PYT%20(Pretty%20Young%20Thing).mp3:Michael Jackson  PYT (Pretty Young Thing)
+#DESCRIPTION Michael Jackson  PYT (Pretty Young Thing)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Mony%20Mony%20-%20Billy%20Idol.mp3:Mony Mony  Billy Idol
+#DESCRIPTION Mony Mony  Billy Idol
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Motown%20Medley%202.mp3:Motown Medley 2
+#DESCRIPTION Motown Medley 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Motown%20Medley%20fp2%202012.mp3:Motown Medley fp2012
+#DESCRIPTION Motown Medley fp2012
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Moving%20On%20Up%20-%20The%20Jeffersons.mp3:Moving On Up  The Jeffersons
+#DESCRIPTION Moving On Up  The Jeffersons
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Mr.%20Brightside%20-%20Killers.mp3:Mr. Brightside  Killers
+#DESCRIPTION Mr. Brightside  Killers
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Mumford%20and%20Sons%20-%20I%20will%20wait%20for%20you.mp3:Mumford and Sons  I will wait for you
+#DESCRIPTION Mumford and Sons  I will wait for you
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Mumford%20and%20Sons%20-%20I%20will%20wait%20for%20you%20%5b%20Lyrics%5d.mp3:Mumford and Sons  I will wait for you [ Lyrics]
+#DESCRIPTION Mumford and Sons  I will wait for you [ Lyrics]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Mustang%20Sally.mp3:Mustang Sally
+#DESCRIPTION Mustang Sally
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/My%20Girl%20-%20The%20Temtations.mp3:My Girl  The Temtations
+#DESCRIPTION My Girl  The Temtations
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/NO-Meghan%20Trainor.mp3:NOMeghan Trainor
+#DESCRIPTION NOMeghan Trainor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Nathaniel%20Rateliff%20&amp;%20The%20Night%20Sweats%20-%20S.O.B..mp3:Nathaniel Rateliff &amp; The Night Sweats  S.O.B.
+#DESCRIPTION Nathaniel Rateliff &amp; The Night Sweats  S.O.B.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Need%20Your%20Love%20-%20Curtis%20Harding.mp3:Need Your Love  Curtis Harding
+#DESCRIPTION Need Your Love  Curtis Harding
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/New%20Sensation%20-%20INXS.mp3:New Sensation  INXS
+#DESCRIPTION New Sensation  INXS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Next%20-%20Too%20Close.mp3:Next  Too Close
+#DESCRIPTION Next  Too Close
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Nine%20To%20Five.mp3:Nine To Five
+#DESCRIPTION Nine To Five
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/No%20Diggity-Black%20Street.mp3:No DiggityBlack Street
+#DESCRIPTION No DiggityBlack Street
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/No%20Tears%20Left%20To%20Cry%20-%20Ariana%20Grande.mp3:No Tears Left To Cry  Ariana Grande
+#DESCRIPTION No Tears Left To Cry  Ariana Grande
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Nothing%20Breaks%20Like%20a%20Heart%20-%20Miley%20Cyrus.mp3:Nothing Breaks Like a Heart  Miley Cyrus
+#DESCRIPTION Nothing Breaks Like a Heart  Miley Cyrus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/OPP%20-%20Naughty%20By%20Nature.mp3:OPP  Naughty By Nature
+#DESCRIPTION OPP  Naughty By Nature
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/OPP%20Medley.mp3:OPP Medley
+#DESCRIPTION OPP Medley
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Oh%20What%20A%20Night.mp3:Oh What A Night
+#DESCRIPTION Oh What A Night
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Ol'%20Skool%20Medley%20(short).mp3:Ol' Skool Medley (short)
+#DESCRIPTION Ol' Skool Medley (short)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Old%20Time%20Rock%20and%20Roll%201.mp3:Old Time Rock and Roll 1
+#DESCRIPTION Old Time Rock and Roll 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/One%20Dance%20(feat.%20Wizkid%20&amp;%20Kyla).mp3:One Dance (feat. Wizkid &amp; Kyla)
+#DESCRIPTION One Dance (feat. Wizkid &amp; Kyla)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/One%20More%20Night%20-%20Maroon%205.mp3:One More Night  Maroon 5
+#DESCRIPTION One More Night  Maroon 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/OneRepublic%20-%20Love%20Runs%20Out.mp3:OneRepublic  Love Runs Out
+#DESCRIPTION OneRepublic  Love Runs Out
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/OutKast%20-%20Hey%20Ya.mp3:OutKast  Hey Ya
+#DESCRIPTION OutKast  Hey Ya
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Party_In_The_USA%20-%20Miley%20Cyrus.mp3:Party In The USA  Miley Cyrus
+#DESCRIPTION Party In The USA  Miley Cyrus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Payphone%20-%20Maroon%205.mp3:Payphone  Maroon 5
+#DESCRIPTION Payphone  Maroon 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Peg.mp3:Peg
+#DESCRIPTION Peg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Perfect%20-%20Ed%20Sheeran%20&amp;%20Andrea%20Bocelli%20(Lyrics%20in%20Italian%20and%20English).mp3:Perfect  Ed Sheeran &amp; Andrea Bocelli (Lyrics in Italian and English)
+#DESCRIPTION Perfect  Ed Sheeran &amp; Andrea Bocelli (Lyrics in Italian and English)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Perfect%20-%20Ed%20Sheeran.mp3:Perfect  Ed Sheeran
+#DESCRIPTION Perfect  Ed Sheeran
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Pink%20-%20Raise%20Your%20Glass.mp3:Pink  Raise Your Glass
+#DESCRIPTION Pink  Raise Your Glass
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Pitbull%20ft.%20Chris%20Brown%20-%20Fun.mp3:Pitbull ft. Chris Brown  Fun
+#DESCRIPTION Pitbull ft. Chris Brown  Fun
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Prince%20Medley%20%20wPurple%20Rain.mp3:Prince Medley  wPurple Rain
+#DESCRIPTION Prince Medley  wPurple Rain
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Problem%20-%20ft.%20Iggy%20Azalea.mp3:Problem  ft. Iggy Azalea
+#DESCRIPTION Problem  ft. Iggy Azalea
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Push%20It%20-%20Salt%20N%20Pepa.mp3:Push It  Salt N Pepa
+#DESCRIPTION Push It  Salt N Pepa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Queen%20-%20Another%20One%20Bites%20The%20Dust.mp3:Queen  Another One Bites The Dust
+#DESCRIPTION Queen  Another One Bites The Dust
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Ray%20LaMontagne-%20You%20Are%20the%20Best%20Thing.mp3:Ray LaMontagne You Are the Best Thing
+#DESCRIPTION Ray LaMontagne You Are the Best Thing
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Red%20Neck%20Woman2.mp3:Red Neck Woman2
+#DESCRIPTION Red Neck Woman2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Ride%20Wit%20Me_Get%20Down%20On%20It%20Medley.mp3:Ride Wit Me Get Down On It Medley
+#DESCRIPTION Ride Wit Me Get Down On It Medley
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Right%20Here%20(Human%20Nature%20Radio%20Mix)%20SWV.mp3:Right Here (Human Nature Radio Mix) SWV
+#DESCRIPTION Right Here (Human Nature Radio Mix) SWV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Rihanna%20-%20Diamonds%20(2012).mp3:Rihanna  Diamonds (2012)
+#DESCRIPTION Rihanna  Diamonds (2012)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Rihanna%20-%20Disturbia%20(New%20Singles).mp3:Rihanna  Disturbia (New Singles)
+#DESCRIPTION Rihanna  Disturbia (New Singles)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Rihanna%20Medley_2.mp3:Rihanna Medley 2
+#DESCRIPTION Rihanna Medley 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Rihanna%20ft.%20Drake%20-%20Work%20(Explicit).mp3:Rihanna ft. Drake  Work (Explicit)
+#DESCRIPTION Rihanna ft. Drake  Work (Explicit)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Robin%20Thicke%20ft.%20T.I.,%20Pharrell%20-%20Blurred%20Lines%20Clean.mp3:Robin Thicke ft. T.I. Pharrell  Blurred Lines Clean
+#DESCRIPTION Robin Thicke ft. T.I. Pharrell  Blurred Lines Clean
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Rock%20Medley%20w_Bohemian.mp3:Rock Medley w Bohemian
+#DESCRIPTION Rock Medley w Bohemian
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Rock%20With%20You%20FP2%20ending%20edit.mp3:Rock With You FPending edit
+#DESCRIPTION Rock With You FPending edit
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Rockabye-Clean%20Bandit%20ft.%20Sean%20Paul%20&amp;%20Anne-Marie.mp3:RockabyeClean Bandit ft. Sean Paul &amp; AnneMarie
+#DESCRIPTION RockabyeClean Bandit ft. Sean Paul &amp; AnneMarie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Rod%20Stewart%20-%20Do%20Ya%20Think%20I'm%20Sexy.mp3:Rod Stewart  Do Ya Think I'm Sexy
+#DESCRIPTION Rod Stewart  Do Ya Think I'm Sexy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Rod%20Stewart%20-%20Forever%20Young.mp3:Rod Stewart  Forever Young
+#DESCRIPTION Rod Stewart  Forever Young
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Rolling%20In%20The%20Deep%20-%20Adele.mp3:Rolling In The Deep  Adele
+#DESCRIPTION Rolling In The Deep  Adele
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Romantics%20-%20I%20Hear%20The%20Secrets%20That%20You%20Keep.mp3:Romantics  I Hear The Secrets That You Keep
+#DESCRIPTION Romantics  I Hear The Secrets That You Keep
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Roxanne-Arizona%20Zervas.mp3:RoxanneArizona Zervas
+#DESCRIPTION RoxanneArizona Zervas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/SING%20-%20Ed%20Sheeran.mp3:SING  Ed Sheeran
+#DESCRIPTION SING  Ed Sheeran
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Sade%20-%20Smooth%20Operator.mp3:Sade  Smooth Operator
+#DESCRIPTION Sade  Smooth Operator
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Same%20Old%20Love%20-%20Selena%20Gomez.mp3:Same Old Love  Selena Gomez
+#DESCRIPTION Same Old Love  Selena Gomez
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Say%20You'll%20Be%20There%20-%20Spice%20Girls.mp3:Say You'll Be There  Spice Girls
+#DESCRIPTION Say You'll Be There  Spice Girls
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Scissor%20Sisters%20-%20I%20Don't%20Feel%20Like%20Dancing%201.mp3:Scissor Sisters  I Don't Feel Like Dancing 1
+#DESCRIPTION Scissor Sisters  I Don't Feel Like Dancing 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Scream%20Medley.mp3:Scream Medley
+#DESCRIPTION Scream Medley
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Senorita%20-%20Shawn%20Mendes%20&amp;%20Camila%20Cabello.mp3:Senorita  Shawn Mendes &amp; Camila Cabello
+#DESCRIPTION Senorita  Shawn Mendes &amp; Camila Cabello
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/September.mp3:September
+#DESCRIPTION September
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Sexy%20Thing%201.mp3:Sexy Thing 1
+#DESCRIPTION Sexy Thing 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Shake%20It%20Off%20-%20Taylor%20Swift.mp3:Shake It Off  Taylor Swift
+#DESCRIPTION Shake It Off  Taylor Swift
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Shake%20Your%20Booty%20-KC%20&amp;%20The%20Sunshine%20Band.mp3:Shake Your Booty KC &amp; The Sunshine Band
+#DESCRIPTION Shake Your Booty KC &amp; The Sunshine Band
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Shape%20Of%20You%20-%20Ed%20Sheeran.mp3:Shape Of You  Ed Sheeran
+#DESCRIPTION Shape Of You  Ed Sheeran
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/She's%20So%20High%20-%20Tal%20Bachman.mp3:She's So High  Tal Bachman
+#DESCRIPTION She's So High  Tal Bachman
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Shivers%20-%20Ed%20Sheeran.mp3:Shivers  Ed Sheeran
+#DESCRIPTION Shivers  Ed Sheeran
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Shoop%20-%20Salt-N-Pepa.mp3:Shoop  SaltNPepa
+#DESCRIPTION Shoop  SaltNPepa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Shout.mp3:Shout
+#DESCRIPTION Shout
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Shout%20Sex%20Medley.mp3:Shout Sex Medley
+#DESCRIPTION Shout Sex Medley
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Show%20Me%20Love%20-%20Robyn%20Carlsson.mp3:Show Me Love  Robyn Carlsson
+#DESCRIPTION Show Me Love  Robyn Carlsson
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Shut%20Up%20and%20Dance%20-%20WALK%20THE%20MOON%20.mp3:Shut Up and Dance  WALK THE MOON
+#DESCRIPTION Shut Up and Dance  WALK THE MOON
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Side%20To%20Side%20-%20Ariana%20Grande%20ft.%20Nicki%20Minaj.mp3:Side To Side  Ariana Grande ft. Nicki Minaj
+#DESCRIPTION Side To Side  Ariana Grande ft. Nicki Minaj
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Signed,%20Sealed,%20Delivered%20I'm%20Yours%20-%20Stevie%20Wonder.mp3:Signed Sealed Delivered I'm Yours  Stevie Wonder
+#DESCRIPTION Signed Sealed Delivered I'm Yours  Stevie Wonder
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Simply%20The%20Best%20-%20Tina%20Turner.mp3:Simply The Best  Tina Turner
+#DESCRIPTION Simply The Best  Tina Turner
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Since%20You've%20Been%20Gone.mp3:Since You've Been Gone
+#DESCRIPTION Since You've Been Gone
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Some%20Nights-Fun.mp3:Some NightsFun
+#DESCRIPTION Some NightsFun
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Somebody%20That%20I%20Used%20To%20KnowGotye%20Feat.%20Kimbra.mp3:Somebody That I Used To KnowGotye Feat. Kimbra
+#DESCRIPTION Somebody That I Used To KnowGotye Feat. Kimbra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Son%20of%20Preacher%20Man.mp3:Son of Preacher Man
+#DESCRIPTION Son of Preacher Man
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Sorry%20-%20Justin%20Bieber.mp3:Sorry  Justin Bieber
+#DESCRIPTION Sorry  Justin Bieber
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Sorry%20Not%20Sorry%20-%20Demi%20Lovato.mp3:Sorry Not Sorry  Demi Lovato
+#DESCRIPTION Sorry Not Sorry  Demi Lovato
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/SoundWave%20-%20R3hab%20&amp;%20Trevor%20Guthrie.mp3:SoundWave  R3hab &amp; Trevor Guthrie
+#DESCRIPTION SoundWave  R3hab &amp; Trevor Guthrie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Spice%20Girls%20-%20Say%20You'll%20Be%20There.mp3:Spice Girls  Say You'll Be There
+#DESCRIPTION Spice Girls  Say You'll Be There
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Stand%20By%20Me%20-%20Ben%20E.%20King.mp3:Stand By Me  Ben E. King
+#DESCRIPTION Stand By Me  Ben E. King
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Stand%20%20By%20Me.mp3:Stand  By Me
+#DESCRIPTION Stand  By Me
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Starships.mp3:Starships
+#DESCRIPTION Starships
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Stay%20-%20Rihanna%20(feat.%20Mikky%20Ekko).mp3:Stay  Rihanna (feat. Mikky Ekko)
+#DESCRIPTION Stay  Rihanna (feat. Mikky Ekko)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Staying%20Alive-Bee%20Gees.mp3:Staying AliveBee Gees
+#DESCRIPTION Staying AliveBee Gees
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Stevie%20Wonder%20-%20You%20Are%20the%20Sunshine%20Of%20My%20Life%20(1973).mp3:Stevie Wonder  You Are the Sunshine Of My Life (1973)
+#DESCRIPTION Stevie Wonder  You Are the Sunshine Of My Life (1973)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Stitches-Shawn%20Mendes.mp3:StitchesShawn Mendes
+#DESCRIPTION StitchesShawn Mendes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Stop-%20Spice%20Girls.mp3:Stop Spice Girls
+#DESCRIPTION Stop Spice Girls
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Strip%20That%20Down%20-%20Liam%20Payne%20ft%20Quavo.mp3:Strip That Down  Liam Payne ft Quavo
+#DESCRIPTION Strip That Down  Liam Payne ft Quavo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Stuck%20In%20The%20Middle%20With%20You%20-%20Three%20Dog%20Night.mp3:Stuck In The Middle With You  Three Dog Night
+#DESCRIPTION Stuck In The Middle With You  Three Dog Night
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Sucker%20-%20Jonas%20Brothers.mp3:Sucker  Jonas Brothers
+#DESCRIPTION Sucker  Jonas Brothers
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Sugar%20-%20Maroon%205.mp3:Sugar  Maroon 5
+#DESCRIPTION Sugar  Maroon 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Suit_Tie_Get%20Lucky%20FP%20Edit.mp3:Suit Tie Get Lucky FP Edit
+#DESCRIPTION Suit Tie Get Lucky FP Edit
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Summer%20of%20'69.mp3:Summer of '69
+#DESCRIPTION Summer of '69
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Sweet%20Caroline.mp3:Sweet Caroline
+#DESCRIPTION Sweet Caroline
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Sweet%20Home%20Alabama.mp3:Sweet Home Alabama
+#DESCRIPTION Sweet Home Alabama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/TLC%20-%20Waterfalls.mp3:TLC  Waterfalls
+#DESCRIPTION TLC  Waterfalls
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Take%20On%20Me%20-%20Ah%20Ha.mp3:Take On Me  Ah Ha
+#DESCRIPTION Take On Me  Ah Ha
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Taki%20Taki%20-%20DJ%20Snake%20%20ft.%20Selena%20Gomez,%20Ozuna,%20Cardi%20B.mp3:Taki Taki  DJ Snake  ft. Selena Gomez Ozuna Cardi B
+#DESCRIPTION Taki Taki  DJ Snake  ft. Selena Gomez Ozuna Cardi B
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Talking%20In%20Your%20Sleep%20-%20Romantics%20.mp3:Talking In Your Sleep  Romantics
+#DESCRIPTION Talking In Your Sleep  Romantics
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Taylor%20Swift%20ft.%20Kendrick%20Lamar%20-%20Bad%20Blood.mp3:Taylor Swift ft. Kendrick Lamar  Bad Blood
+#DESCRIPTION Taylor Swift ft. Kendrick Lamar  Bad Blood
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Telephone%20-%20Lady%20Gaga%20feat.%20Beyonc%c3%a9.mp3:Telephone  Lady Gaga feat. Beyoncé
+#DESCRIPTION Telephone  Lady Gaga feat. Beyoncé
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Tennessee%20Whiskey%20-%20Chris%20Stapleton.mp3:Tennessee Whiskey  Chris Stapleton
+#DESCRIPTION Tennessee Whiskey  Chris Stapleton
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Thank%20You.mp3:Thank You
+#DESCRIPTION Thank You
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Thank%20u,%20next%20Ariana%20Grande.mp3:Thank u next Ariana Grande
+#DESCRIPTION Thank u next Ariana Grande
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/That's%20What%20I%20Like%20-%20Bruno%20Mars.mp3:That's What I Like  Bruno Mars
+#DESCRIPTION That's What I Like  Bruno Mars
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Thats%20What%20I%20Want%20Hey%20Ya%20Medley.mp3:Thats What I Want Hey Ya Medley
+#DESCRIPTION Thats What I Want Hey Ya Medley
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/The%20Edge%20Of%20Glory%20-%20Lady%20GaGa.mp3:The Edge Of Glory  Lady GaGa
+#DESCRIPTION The Edge Of Glory  Lady GaGa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/The%20Greatest%20Showman%20%7c%20From%20Now%20On%20Lyric%20Video%20%7c%20Fox%20Family%20Entertainment.mp3:The Greatest Showman | From Now On Lyric Video | Fox Family Entertainment
+#DESCRIPTION The Greatest Showman | From Now On Lyric Video | Fox Family Entertainment
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/The%20Lumineers%20-%20Ho%20Hey.mp3:The Lumineers  Ho Hey
+#DESCRIPTION The Lumineers  Ho Hey
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/The%20Middle%20-%20Zedd,%20Maren%20Morris,%20Grey.mp3:The Middle  Zedd Maren Morris Grey
+#DESCRIPTION The Middle  Zedd Maren Morris Grey
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/The%20Temtations%20-%20My%20Girl.mp3:The Temtations  My Girl
+#DESCRIPTION The Temtations  My Girl
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/The%20Time%20We%20Found%20Love.mp3:The Time We Found Love
+#DESCRIPTION The Time We Found Love
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/The%20Time%20We%20Found%20Love%20Medley.mp3:The Time We Found Love Medley
+#DESCRIPTION The Time We Found Love Medley
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/The%20Weeknd%20-%20Blinding%20Lights.mp3:The Weeknd  Blinding Lights
+#DESCRIPTION The Weeknd  Blinding Lights
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/The%20Weeknd%20-%20Save%20Your%20Tears.mp3:The Weeknd  Save Your Tears
+#DESCRIPTION The Weeknd  Save Your Tears
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/There's%20Nothing%20Holdin'%20Me%20Back%20-%20Shawn%20Mendes.mp3:There's Nothing Holdin' Me Back  Shawn Mendes
+#DESCRIPTION There's Nothing Holdin' Me Back  Shawn Mendes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/The%20sweetest%20escape%20-Gwen%20Stefani.mp3:The sweetest escape Gwen Stefani
+#DESCRIPTION The sweetest escape Gwen Stefani
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/The%20way%20you%20look%20tonight.mp3:The way you look tonight
+#DESCRIPTION The way you look tonight
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Thinking%20Out%20Loud%20-%20Ed%20Sheeran.mp3:Thinking Out Loud  Ed Sheeran
+#DESCRIPTION Thinking Out Loud  Ed Sheeran
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/This%20Girl%20-%20Kungs%20vs%20Cookin%e2%80%99%20on%203%20Burners.mp3:This Girl  Kungs vs Cookin’ on Burners
+#DESCRIPTION This Girl  Kungs vs Cookin’ on Burners
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/This%20Is%20What%20it%20Feels%20Like%20-%20Trevor%20Guthrie.mp3:This Is What it Feels Like  Trevor Guthrie
+#DESCRIPTION This Is What it Feels Like  Trevor Guthrie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/This%20Will%20Be%20(An%20Everlasting%20Love)%20Natalie%20Cole.mp3:This Will Be (An Everlasting Love) Natalie Cole
+#DESCRIPTION This Will Be (An Everlasting Love) Natalie Cole
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/This%20is%20How%20We%20Do%20It%20-Montell%20Jordan.mp3:This is How We Do It Montell Jordan
+#DESCRIPTION This is How We Do It Montell Jordan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Timber%20-%20Pitbull%20ft.%20Ke$ha.mp3:Timber  Pitbull ft. Ke$ha
+#DESCRIPTION Timber  Pitbull ft. Ke$ha
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Timber.mp3:Timber
+#DESCRIPTION Timber
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Time%20Warp.mp3:Time Warp
+#DESCRIPTION Time Warp
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Time%20of%20Our%20Lives%20-%20Pitbull%20&amp;%20Ne-Yo.mp3:Time of Our Lives  Pitbull &amp; NeYo
+#DESCRIPTION Time of Our Lives  Pitbull &amp; NeYo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Together%20Again-Janet%20Jackson.mp3:Together AgainJanet Jackson
+#DESCRIPTION Together AgainJanet Jackson
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Tom%20Jones%20-%20Delilah.mp3:Tom Jones  Delilah
+#DESCRIPTION Tom Jones  Delilah
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Torn%20-%20Natalie%20Imbruglia.mp3:Torn  Natalie Imbruglia
+#DESCRIPTION Torn  Natalie Imbruglia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Tove%20Lo%20-%20Talking%20Body.mp3:Tove Lo  Talking Body
+#DESCRIPTION Tove Lo  Talking Body
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Train%20-%20Drive%20By.mp3:Train  Drive By
+#DESCRIPTION Train  Drive By
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Treasure%20-%20Bruno%20Mars%20Performs%20On%20Jimmey%20Kimmel%20Live.mp3:Treasure  Bruno Mars Performs On Jimmey Kimmel Live
+#DESCRIPTION Treasure  Bruno Mars Performs On Jimmey Kimmel Live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Trouble%20-%20Iggy%20Azalea%20ft.%20Jennifer%20Hudson.mp3:Trouble  Iggy Azalea ft. Jennifer Hudson
+#DESCRIPTION Trouble  Iggy Azalea ft. Jennifer Hudson
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Truth%20Hurts%20-%20Lizzo.mp3:Truth Hurts  Lizzo
+#DESCRIPTION Truth Hurts  Lizzo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Upside%20Down%20-%20Diana%20Ross.mp3:Upside Down  Diana Ross
+#DESCRIPTION Upside Down  Diana Ross
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Uptown%20Funk%20(feat.%20Bruno%20Mars).mp3:Uptown Funk (feat. Bruno Mars)
+#DESCRIPTION Uptown Funk (feat. Bruno Mars)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Valery%20-%20Amy%20Winehouse.mp3:Valery  Amy Winehouse
+#DESCRIPTION Valery  Amy Winehouse
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Vampire%20weekend%20-%20A-Punk.mp3:Vampire weekend  APunk
+#DESCRIPTION Vampire weekend  APunk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Village%20People%20-%20YMCA.mp3:Village People  YMCA
+#DESCRIPTION Village People  YMCA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Violent%20Femmes%20-%20Blister%20in%20the%20Sun.mp3:Violent Femmes  Blister in the Sun
+#DESCRIPTION Violent Femmes  Blister in the Sun
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Wack%20Medley.mp3:Wack Medley
+#DESCRIPTION Wack Medley
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Wagon%20Wheel%20-Darius%20Rucker.mp3:Wagon Wheel Darius Rucker
+#DESCRIPTION Wagon Wheel Darius Rucker
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Wannabe%20-%20Spice%20Girls.mp3:Wannabe  Spice Girls
+#DESCRIPTION Wannabe  Spice Girls
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Want%20To%20Want%20Me-Jason%20Derulo.mp3:Want To Want MeJason Derulo
+#DESCRIPTION Want To Want MeJason Derulo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Waterfalls%20-%20TLC.mp3:Waterfalls  TLC
+#DESCRIPTION Waterfalls  TLC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/We%20Are%20Young%20-Fun.mp3:We Are Young Fun
+#DESCRIPTION We Are Young Fun
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/We%20Built%20This%20City%20-%20Starship.mp3:We Built This City  Starship
+#DESCRIPTION We Built This City  Starship
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/We%20Will%20Rock%20You%20-Queen.mp3:We Will Rock You Queen
+#DESCRIPTION We Will Rock You Queen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/We%20are%20the%20champions-Queen.mp3:We are the championsQueen
+#DESCRIPTION We are the championsQueen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/What%20Do%20You%20Mean%20-%20Justin%20Bieber.mp3:What Do You Mean  Justin Bieber
+#DESCRIPTION What Do You Mean  Justin Bieber
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/What%20I%20got%20-%20Sublime.mp3:What I got  Sublime
+#DESCRIPTION What I got  Sublime
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/What%20Lovers%20Do%20-%20Maroon%205%20ft.%20SZA.mp3:What Lovers Do  Maroon ft. SZA
+#DESCRIPTION What Lovers Do  Maroon ft. SZA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/When%20The%20Night%20Feels%20My%20Song%20-%20Bedouin%20Soundclash.mp3:When The Night Feels My Song  Bedouin Soundclash
+#DESCRIPTION When The Night Feels My Song  Bedouin Soundclash
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Whip%20It!%20-%20LunchMoney%20Lewis%20ft.%20Chloe%20Angelides.mp3:Whip It!  LunchMoney Lewis ft. Chloe Angelides
+#DESCRIPTION Whip It!  LunchMoney Lewis ft. Chloe Angelides
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Whistle%20Hello%20Medley%20REVISED.mp3:Whistle Hello Medley REVISED
+#DESCRIPTION Whistle Hello Medley REVISED
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Whistle%20Medley.mp3:Whistle Medley
+#DESCRIPTION Whistle Medley
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Work%20from%20Home%20-%20Fifth%20Harmony%20ft.%20Ty%20Dolla%20$ign.mp3:Work from Home  Fifth Harmony ft. Ty Dolla $ign
+#DESCRIPTION Work from Home  Fifth Harmony ft. Ty Dolla $ign
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/You're%20My%20Best%20Friend%20-%20Queen.mp3:You're My Best Friend  Queen
+#DESCRIPTION You're My Best Friend  Queen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/You%20Are%20the%20Sunshine%20Of%20My%20Life%20-Stevie%20Wonder.mp3:You Are the Sunshine Of My Life Stevie Wonder
+#DESCRIPTION You Are the Sunshine Of My Life Stevie Wonder
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/You%20Give%20Love%20A%20Bad%20Name%20(Shot%20Throught%20The%20Heart)%20Bon%20Jovi.mp3:You Give Love A Bad Name (Shot Throught The Heart) Bon Jovi
+#DESCRIPTION You Give Love A Bad Name (Shot Throught The Heart) Bon Jovi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/You%20Make%20My%20Dreams%20Come%20True%20-%20Hall%20&amp;%20Oates.mp3:You Make My Dreams Come True  Hall &amp; Oates
+#DESCRIPTION You Make My Dreams Come True  Hall &amp; Oates
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/You%20Shook%20Me%20All%20Night.mp3:You Shook Me All Night
+#DESCRIPTION You Shook Me All Night
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/You%20Should%20Be%20Dancin%20-%20Bee%20Gees.mp3:You Should Be Dancin  Bee Gees
+#DESCRIPTION You Should Be Dancin  Bee Gees
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Youngblood%20-%205%20Seconds%20Of%20Summer.mp3:Youngblood  Seconds Of Summer
+#DESCRIPTION Youngblood  Seconds Of Summer
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/Your%20Love%20-%20The%20Outfield.mp3:Your Love  The Outfield
+#DESCRIPTION Your Love  The Outfield
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//themamaship.com/music/Catalog/wonderful%20world.mp3:wonderful world
+#DESCRIPTION wonderful world

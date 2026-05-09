@@ -1,0 +1,259 @@
+#NAME CiefpSettings IPTV Hard Trance
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/DJ%20Spoke%20-%20Rave%20Olympia/08%20The%20Realm%20(Central%20Seven%20Remix).mp3:The Realm (Central Seven Remix)
+#DESCRIPTION The Realm (Central Seven Remix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/DJ%20Spoke%20-%20Rave%20Olympia/09%20Ignitin%20(Original%20Mix).mp3:Ignitin (Original Mix)
+#DESCRIPTION Ignitin (Original Mix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/DJ%20Spoke%20-%20Rave%20Olympia/12%20Incoming%20(Arome%20Remix).mp3:Incoming (Arome Remix)
+#DESCRIPTION Incoming (Arome Remix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/DJ%20Spoke%20-%20Rave%20Olympia/13%20Burning%20.mp3:Burning
+#DESCRIPTION Burning
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/DJ%20Spoke%20-%20Rave%20Olympia/16%20Did%20You%20Here%20Me%20.mp3:Did You Here Me
+#DESCRIPTION Did You Here Me
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20Bootlegs%20vol4/01-hard_trance--hard_trance_bootlegs_vol_4_(mixed_by_steve_hill)-wus.mp3:hard trance    hard trance bootlegs vol (mixed by steve hill)  wus
+#DESCRIPTION hard trance    hard trance bootlegs vol (mixed by steve hill)  wus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20Bootlegs%20vol4/02-hard_trance--hard_trance_bootlegs_vol_4_(mixed_by_masif_djs)-wus.mp3:hard trance    hard trance bootlegs vol (mixed by masif djs)  wus
+#DESCRIPTION hard trance    hard trance bootlegs vol (mixed by masif djs)  wus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hardtrance%20classix%20only%20for%20djs%20vol%201%202008/101-Cern%20-%20The%20message%20(northern%20mix).mp3:Cern    The message (northern mix)
+#DESCRIPTION Cern    The message (northern mix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hardtrance%20classix%20only%20for%20djs%20vol%201%202008/102-Clokx%20-%20Clocks%20(original%20club%20mix).mp3:Clokx    Clocks (original club mix)
+#DESCRIPTION Clokx    Clocks (original club mix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hardtrance%20classix%20only%20for%20djs%20vol%201%202008/103-Das%20Licht%20-%20Pull%20down.mp3:Das Licht    Pull down
+#DESCRIPTION Das Licht    Pull down
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hardtrance%20classix%20only%20for%20djs%20vol%201%202008/104-Derb%20-%20Derb%20(derbus).mp3:Derb    Derb (derbus)
+#DESCRIPTION Derb    Derb (derbus)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hardtrance%20classix%20only%20for%20djs%20vol%201%202008/105-Digital%20Pressure%20-%20Aftershokk%20(original%20mix).mp3:Digital Pressure    Aftershokk (original mix)
+#DESCRIPTION Digital Pressure    Aftershokk (original mix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hardtrance%20classix%20only%20for%20djs%20vol%201%202008/106-Dj%20JamX%20-%20Sexomatic%20(dj%20jamx%20&amp;%20de%20leon%20s%20dumonde%20remix)(radio%20edit).mp3:Dj JamX    Sexomatic (dj jamx & de leon s dumonde remix)(radio edit)
+#DESCRIPTION Dj JamX    Sexomatic (dj jamx & de leon s dumonde remix)(radio edit)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hardtrance%20classix%20only%20for%20djs%20vol%201%202008/107-Dj%20Kim%20-%20Get%20ready%20to%20explode%20(alphazone%20remix).mp3:Dj Kim    Get ready to explode (alphazone remix)
+#DESCRIPTION Dj Kim    Get ready to explode (alphazone remix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hardtrance%20classix%20only%20for%20djs%20vol%201%202008/108-Dj%20Tom-X%20-%20Cocaine%20(bush%20remix).mp3:Dj Tom  X    Cocaine (bush remix)
+#DESCRIPTION Dj Tom  X    Cocaine (bush remix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hardtrance%20classix%20only%20for%20djs%20vol%201%202008/109-E-Craig%20-%20Smoke%20(rough%20mix).mp3:E  Craig    Smoke (rough mix)
+#DESCRIPTION E  Craig    Smoke (rough mix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hardtrance%20classix%20only%20for%20djs%20vol%201%202008/110-Euphonic%20-%20Sahara%20(equinox%20mix).mp3:Euphonic    Sahara (equinox mix)
+#DESCRIPTION Euphonic    Sahara (equinox mix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hardtrance%20classix%20only%20for%20djs%20vol%201%202008/201-Cosmic%20Gate%20-%20The%20Wave%20(svenson%20&amp;%20gielen%20remix).mp3:Cosmic Gate    The Wave (svenson & gielen remix)
+#DESCRIPTION Cosmic Gate    The Wave (svenson & gielen remix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hardtrance%20classix%20only%20for%20djs%20vol%201%202008/202-CRW%20-%20I%20feel%20love%20(dj%20isaac%20remix).mp3:CRW    I feel love (dj isaac remix)
+#DESCRIPTION CRW    I feel love (dj isaac remix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hardtrance%20classix%20only%20for%20djs%20vol%201%202008/203-CRW%20-%20I%20feel%20love%20(dumonde%20mix).mp3:CRW    I feel love (dumonde mix)
+#DESCRIPTION CRW    I feel love (dumonde mix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hardtrance%20classix%20only%20for%20djs%20vol%201%202008/204-Dave%20202%20&amp;%20Phil%20Green%20-%20Legends%20(green%20court%20remix).mp3:Dave & Phil Green    Legends (green court remix)
+#DESCRIPTION Dave & Phil Green    Legends (green court remix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hardtrance%20classix%20only%20for%20djs%20vol%201%202008/205-Dave%20Joy%20-%20First%20impression%20(original%20version).mp3:Dave Joy    First impression (original version)
+#DESCRIPTION Dave Joy    First impression (original version)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hardtrance%20classix%20only%20for%20djs%20vol%201%202008/206-Dj%20Hein%20-%20Energetic%20rhythm%20(donkey%20rollers%20remix).mp3:Dj Hein    Energetic rhythm (donkey rollers remix)
+#DESCRIPTION Dj Hein    Energetic rhythm (donkey rollers remix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hardtrance%20classix%20only%20for%20djs%20vol%201%202008/207-Dj%20JamX%20-%20Sexomatic%20(dumonde%20remix).mp3:Dj JamX    Sexomatic (dumonde remix)
+#DESCRIPTION Dj JamX    Sexomatic (dumonde remix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hardtrance%20classix%20only%20for%20djs%20vol%201%202008/208-Dj%20Scot%20Project%20-%20U%20(i%20got%20the%20feeling).mp3:Dj Scot Project    U (i got the feeling)
+#DESCRIPTION Dj Scot Project    U (i got the feeling)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hardtrance%20classix%20only%20for%20djs%20vol%201%202008/209-Dj%20Shog%20-%20The%202nd%20Dimension%20(green%20court%20mix).mp3:Dj Shog    The 2nd Dimension (green court mix)
+#DESCRIPTION Dj Shog    The 2nd Dimension (green court mix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hardtrance%20classix%20only%20for%20djs%20vol%201%202008/210-Dumonde%20-%20See%20the%20light%20(dj%20jamx%20mix).mp3:Dumonde    See the light (dj jamx mix)
+#DESCRIPTION Dumonde    See the light (dj jamx mix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hardtrance%20classix%20only%20for%20djs%20vol%201%202008/211-Flutlicht%20-%20Ahmea%20(dj%20giotto%c2%b4s%20mix).mp3:Flutlicht    Ahmea (dj giotto´s mix)
+#DESCRIPTION Flutlicht    Ahmea (dj giotto´s mix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/MOS%20Rave%20Anthems%201990-1996/101-va-mos_rave_anthems_1990_-_1996.mp3:va  mos rave anthems    1996
+#DESCRIPTION va  mos rave anthems    1996
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/MOS%20Rave%20Anthems%201990-1996/201-va-mos_rave_anthems_1990_-_1996.mp3:va  mos rave anthems    1996
+#DESCRIPTION va  mos rave anthems    1996
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/MOS%20Rave%20Anthems%201990-1996/301-va-mos_rave_anthems_1990_-_1996.mp3:va  mos rave anthems    1996
+#DESCRIPTION va  mos rave anthems    1996
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Masif%20Hard%20Trance%20Anthems%20vol1%20(Mixed%20By%20Steve%20Hill%20And%20Alex%20Kidd)/101-va-masif_hard_trance_anthems_vol_1_cd1_mixed_by_steve_hill.mp3:va  masif hard trance anthems vol cdmixed by steve hill
+#DESCRIPTION va  masif hard trance anthems vol cdmixed by steve hill
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Masif%20Hard%20Trance%20Anthems%20vol1%20(Mixed%20By%20Steve%20Hill%20And%20Alex%20Kidd)/201-va-masif_hard_trance_anthems_vol_1_cd2_mixed_by_dj_alex_kidd.mp3:va  masif hard trance anthems vol cdmixed by dj alex kidd
+#DESCRIPTION va  masif hard trance anthems vol cdmixed by dj alex kidd
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Goa%20Trance%20Vol.5/CD1/01%20L'Ange%20Gabriella%20-%20Ultra%20Triq%20Bandpass.mp3:L'Ange Gabriella    Ultra Triq Bandpass
+#DESCRIPTION L'Ange Gabriella    Ultra Triq Bandpass
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Goa%20Trance%20Vol.5/CD1/02%20Aminate%20FX%20-%20Hi%20Frequency%20Energy.mp3:Aminate FX    Hi Frequency Energy
+#DESCRIPTION Aminate FX    Hi Frequency Energy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Goa%20Trance%20Vol.5/CD1/03%20AVI%20Missum%20-%20Psychedelic%20Overflow.mp3:AVI Missum    Psychedelic Overflow
+#DESCRIPTION AVI Missum    Psychedelic Overflow
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Goa%20Trance%20Vol.5/CD1/04%20Enfusia%20-%20Mystic%20Trance%20Dimension.mp3:Enfusia    Mystic Trance Dimension
+#DESCRIPTION Enfusia    Mystic Trance Dimension
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Goa%20Trance%20Vol.5/CD1/05%20Sphinx%20&amp;%20Joking%20-%20Gares%20to%20Eternity.mp3:Sphinx & Joking    Gares to Eternity
+#DESCRIPTION Sphinx & Joking    Gares to Eternity
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Goa%20Trance%20Vol.5/CD1/06%20Hi%20Tune%20-%20Open%20the%20Secret.mp3:Hi Tune    Open the Secret
+#DESCRIPTION Hi Tune    Open the Secret
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Goa%20Trance%20Vol.5/CD1/07%20Color%20Dox%20-%20Full%20Power%20Saturator.mp3:Color Dox    Full Power Saturator
+#DESCRIPTION Color Dox    Full Power Saturator
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Goa%20Trance%20Vol.5/CD1/08%20Dangerous%20Timeflow%20-%20Xenos.mp3:Dangerous Timeflow    Xenos
+#DESCRIPTION Dangerous Timeflow    Xenos
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Goa%20Trance%20Vol.5/CD1/09%20Gigamorphosys%20-%20Hyper%20Flow.mp3:Gigamorphosys    Hyper Flow
+#DESCRIPTION Gigamorphosys    Hyper Flow
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Goa%20Trance%20Vol.5/CD1/10%20Deep%20Happiness%20-%20SFX.mp3:Deep Happiness    SFX
+#DESCRIPTION Deep Happiness    SFX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Goa%20Trance%20Vol.5/CD1/11%20Glasswhysper%20-%20Dark%20Dimension.mp3:Glasswhysper    Dark Dimension
+#DESCRIPTION Glasswhysper    Dark Dimension
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Goa%20Trance%20Vol.5/CD2/01%20Alysium%20-%20Mega%20Psychedelic%20Q.mp3:Alysium    Mega Psychedelic Q
+#DESCRIPTION Alysium    Mega Psychedelic Q
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Goa%20Trance%20Vol.5/CD2/02%20L.A.S.E.R.-R.A.Y.%20-%20Super%20Goa%20Field.mp3:L.A.S.E.R.  R.A.Y.    Super Goa Field
+#DESCRIPTION L.A.S.E.R.  R.A.Y.    Super Goa Field
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Goa%20Trance%20Vol.5/CD2/03%20Synchron%20-%20Straight%20Overflow.mp3:Synchron    Straight Overflow
+#DESCRIPTION Synchron    Straight Overflow
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Goa%20Trance%20Vol.5/CD2/04%20Lasertrancer%20-%20Vogotube%20Distrip.mp3:Lasertrancer    Vogotube Distrip
+#DESCRIPTION Lasertrancer    Vogotube Distrip
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Goa%20Trance%20Vol.5/CD2/05%20Multi%20Freeman%20-%20Deep%20Space%20Consciousness.mp3:Multi Freeman    Deep Space Consciousness
+#DESCRIPTION Multi Freeman    Deep Space Consciousness
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Goa%20Trance%20Vol.5/CD2/06%20Mark%20Nicholson%20-%20Piano%20in%20Trance.mp3:Mark Nicholson    Piano in Trance
+#DESCRIPTION Mark Nicholson    Piano in Trance
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Goa%20Trance%20Vol.5/CD2/07%20The%20Technician%20-%20Trance%20Fiction.mp3:The Technician    Trance Fiction
+#DESCRIPTION The Technician    Trance Fiction
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Goa%20Trance%20Vol.5/CD2/08%20Pascal%20Hagen%20-%20Analog%20Era.mp3:Pascal Hagen    Analog Era
+#DESCRIPTION Pascal Hagen    Analog Era
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Goa%20Trance%20Vol.5/CD2/09%20Cyber%20Spy%20-%20Electronic%20Dance%20Universe.mp3:Cyber Spy    Electronic Dance Universe
+#DESCRIPTION Cyber Spy    Electronic Dance Universe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Goa%20Trance%20Vol.5/CD2/10%20Psychedelic%20Trance%20Force%20-%20Goa%20System%201999%20(Progressive%20Dance%20Mix).mp3:Psychedelic Trance Force    Goa System (Progressive Dance Mix)
+#DESCRIPTION Psychedelic Trance Force    Goa System (Progressive Dance Mix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Goa%20Trance%20Vol.5/CD2/11%20Harmonic%20Saturation%20-%20Jigsaw.mp3:Harmonic Saturation    Jigsaw
+#DESCRIPTION Harmonic Saturation    Jigsaw
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20Bootlegs%202005/CD1/(01)%20%5bCosmic%20Gate%5d%20I%20Feel%20Wonderful.mp3:(01) [Cosmic Gate] I Feel Wonderful
+#DESCRIPTION (01) [Cosmic Gate] I Feel Wonderful
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20Bootlegs%202005/CD1/(02)%20%5bNeon%20Lights%5d%20As%20The%20Rush%20Comes%20(P.H.A.T.T.%20Mix).mp3:(02) [Neon Lights] As The Rush Comes (P.H.A.T.T. Mix)
+#DESCRIPTION (02) [Neon Lights] As The Rush Comes (P.H.A.T.T. Mix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20Bootlegs%202005/CD1/(03)%20%5bEuphony%5d%20Care%20Blanche%20(Lee%20Haslam%20vs%20Guyver%20Mix).mp3:(03) [Euphony] Care Blanche (Lee Haslam vs Guyver Mix)
+#DESCRIPTION (03) [Euphony] Care Blanche (Lee Haslam vs Guyver Mix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20Bootlegs%202005/CD1/(04)%20%5bDigitek%5d%20Zombie%20Nation%20(Vinylgroover%20+%20Redhead%20Mix).mp3:(04) [Digitek] Zombie Nation (Vinylgroover + Redhead Mix)
+#DESCRIPTION (04) [Digitek] Zombie Nation (Vinylgroover + Redhead Mix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20Bootlegs%202005/CD1/(05)%20%5bSteve%20Hill%20vs%20Technikal%5d%20Ecstacy.mp3:(05) [Steve Hill vs Technikal] Ecstacy
+#DESCRIPTION (05) [Steve Hill vs Technikal] Ecstacy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20Bootlegs%202005/CD1/(06)%20%5bRob%20Tissera%20vs%20Quake%5d%20The%20Day%20Will%20Come%20(Steve%20Hill%20vs%20K-Series%20Bootleg%20Mix).mp3:(06) [Rob Tissera vs Quake] The Day Will Come (Steve Hill vs K  Series Bootleg Mix)
+#DESCRIPTION (06) [Rob Tissera vs Quake] The Day Will Come (Steve Hill vs K  Series Bootleg Mix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20Bootlegs%202005/CD1/(07)%20%5bK6%5d%20Punk.mp3:(07) [K6] Punk
+#DESCRIPTION (07) [K6] Punk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20Bootlegs%202005/CD1/(08)%20%5bNeon%20Lights%5d%20Not%20Over%20Yet%20(D10%20Mix).mp3:(08) [Neon Lights] Not Over Yet (DMix)
+#DESCRIPTION (08) [Neon Lights] Not Over Yet (DMix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20Bootlegs%202005/CD1/(09)%20%5bSteve%20Hill%20vs%20D10%5d%20Ready%20Or%20Not.mp3:(09) [Steve Hill vs D10] Ready Or Not
+#DESCRIPTION (09) [Steve Hill vs D10] Ready Or Not
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20Bootlegs%202005/CD1/(10)%20%5bMasif%20Dj's%5d%20Awakening%20(Steve%20Hill%20vs%20Dark%20By%20Design%20Mix).mp3:(10) [Masif Dj's] Awakening (Steve Hill vs Dark By Design Mix)
+#DESCRIPTION (10) [Masif Dj's] Awakening (Steve Hill vs Dark By Design Mix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20Bootlegs%202005/CD1/(11)%20%5bSteve%20Hill%20vs%20Nervous%5d%20Tricky%20Tricky%20(Black%20Magic%20Anthem%20Mix).mp3:(11) [Steve Hill vs Nervous] Tricky Tricky (Black Magic Anthem Mix)
+#DESCRIPTION (11) [Steve Hill vs Nervous] Tricky Tricky (Black Magic Anthem Mix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20Bootlegs%202005/CD1/(12)%20%5bASYS%5d%20No%20More%20Fuckin%20Rock%20n%20Roll.mp3:(12) [ASYS] No More Fuckin Rock n Roll
+#DESCRIPTION (12) [ASYS] No More Fuckin Rock n Roll
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20Bootlegs%202005/CD1/(13)%20%5bNeon%20Lights%5d%20Fine%20Day%20(Steve%20Hill%20vs%20D10).mp3:(13) [Neon Lights] Fine Day (Steve Hill vs D10)
+#DESCRIPTION (13) [Neon Lights] Fine Day (Steve Hill vs D10)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20Bootlegs%202005/CD1/(14)%20%5bAlex%20Fakey%5d%20Painted%20Black.mp3:(14) [Alex Fakey] Painted Black
+#DESCRIPTION (14) [Alex Fakey] Painted Black
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20Bootlegs%202005/CD1/(15)%20%5bVinylgroover%20+%20Redhead%5d%20Don't%20You%20Want%20Me.mp3:(15) [Vinylgroover + Redhead] Don't You Want Me
+#DESCRIPTION (15) [Vinylgroover + Redhead] Don't You Want Me
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20Bootlegs%202005/CD1/(16)%20%5bMasif%20Dj's%5d%20No%20Good%20For%20Me%20(Matt%20Williams%20Mix).mp3:(16) [Masif Dj's] No Good For Me (Matt Williams Mix)
+#DESCRIPTION (16) [Masif Dj's] No Good For Me (Matt Williams Mix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20Bootlegs%202005/CD1/(17)%20%5bSteve%20Hill%20vs%20Technikal%5d%20Attention%20(Masif%20Dj's%20Mix).mp3:(17) [Steve Hill vs Technikal] Attention (Masif Dj's Mix)
+#DESCRIPTION (17) [Steve Hill vs Technikal] Attention (Masif Dj's Mix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20Bootlegs%202005/CD1/(18)%20%5bMasif%20Dj's%5d%20Gouryella%20(Steve%20Hill%20vs%20Guyver%20Mix).mp3:(18) [Masif Dj's] Gouryella (Steve Hill vs Guyver Mix)
+#DESCRIPTION (18) [Masif Dj's] Gouryella (Steve Hill vs Guyver Mix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20Bootlegs%202005/CD1/(19)%20%5bHeaven's%20Cry%5d%20Til%20Tears%20Do%20Us%20Part%20(K-Series%20Unreleased%20Mix).mp3:(19) [Heaven's Cry] Til Tears Do Us Part (K  Series Unreleased Mix)
+#DESCRIPTION (19) [Heaven's Cry] Til Tears Do Us Part (K  Series Unreleased Mix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20Bootlegs%202005/CD1/(20)%20%5bMr%20Bishi%5d%20One%20More%20%5bAlone%5d%20(Steve%20Hill%20vs%20K-Series%20Mix).mp3:(20) [Mr Bishi] One More [Alone] (Steve Hill vs K  Series Mix)
+#DESCRIPTION (20) [Mr Bishi] One More [Alone] (Steve Hill vs K  Series Mix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20Bootlegs%202005/CD2/(01)%20%5bNeon%20Lights%5d%20Let%20Be%20Your%20Fantasy%20(P.H.A.T.T.%20Mix).mp3:(01) [Neon Lights] Let Be Your Fantasy (P.H.A.T.T. Mix)
+#DESCRIPTION (01) [Neon Lights] Let Be Your Fantasy (P.H.A.T.T. Mix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20Bootlegs%202005/CD2/(02)%20%5bSteve%20Hill%20Vs%20Technikal%5d%20Adagio%20For%20Strings.mp3:(02) [Steve Hill Vs Technikal] Adagio For Strings
+#DESCRIPTION (02) [Steve Hill Vs Technikal] Adagio For Strings
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20Bootlegs%202005/CD2/(03)%20%5bMasif%20DJ's%5d%20Silence%20(Techinikal%20Remix).mp3:(03) [Masif DJ's] Silence (Techinikal Remix)
+#DESCRIPTION (03) [Masif DJ's] Silence (Techinikal Remix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20Bootlegs%202005/CD2/(04)%20%5bK-Series%5d%20Fiji.mp3:(04) [K  Series] Fiji
+#DESCRIPTION (04) [K  Series] Fiji
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20Bootlegs%202005/CD2/(05)%20%5bA-Ian%20Betts%20B-Neon%20Lights%5d%20A-Love%20Ressurection%20(Steve%20Hill%20Rise%20Remix)%20B-Not%20Over%20Yet%20(Acapella).mp3:(05) [A  Ian Betts B  Neon Lights] A  Love Ressurection (Steve Hill Rise Remix) B  Not Over Yet (Acapella)
+#DESCRIPTION (05) [A  Ian Betts B  Neon Lights] A  Love Ressurection (Steve Hill Rise Remix) B  Not Over Yet (Acapella)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20Bootlegs%202005/CD2/(06)%20%5bNeon%20Lights%5d%20Buttle%20In%20the%20Gun%20(Steve%20Hill%20&amp;%20Jon%20Langford%20Remix).mp3:(06) [Neon Lights] Buttle In the Gun (Steve Hill & Jon Langford Remix)
+#DESCRIPTION (06) [Neon Lights] Buttle In the Gun (Steve Hill & Jon Langford Remix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20Bootlegs%202005/CD2/(07)%20%5bAndy%20Whitby%5d%20I%20Need%20Your%20Loving.mp3:(07) [Andy Whitby] I Need Your Loving
+#DESCRIPTION (07) [Andy Whitby] I Need Your Loving
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20Bootlegs%202005/CD2/(08)%20%5bMasif%20DJ's%5d%20Cafe%20Del%20Mar%20(Andy%20Whitby%20Vs%20Serge%20&amp;%20Withenshaw%20Remix).mp3:(08) [Masif DJ's] Cafe Del Mar (Andy Whitby Vs Serge & Withenshaw Remix)
+#DESCRIPTION (08) [Masif DJ's] Cafe Del Mar (Andy Whitby Vs Serge & Withenshaw Remix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20Bootlegs%202005/CD2/(09)%20%5bA-K-Series%20B-Neon%20Lights%5d%20A-Members%20Of%20Mayday%20B-Let%20Me%20Be%20Your%20Fantasy%20(Acapella).mp3:(09) [A  K  Series B  Neon Lights] A  Members Of Mayday B  Let Me Be Your Fantasy (Acapella)
+#DESCRIPTION (09) [A  K  Series B  Neon Lights] A  Members Of Mayday B  Let Me Be Your Fantasy (Acapella)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20Bootlegs%202005/CD2/(10)%20%5bMasif%20DJ's%5d%20Loving%20You%20(Andy%20Whitby%20Remix).mp3:(10) [Masif DJ's] Loving You (Andy Whitby Remix)
+#DESCRIPTION (10) [Masif DJ's] Loving You (Andy Whitby Remix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20Bootlegs%202005/CD2/(11)%20%5bK-Series%5d%20What%20Time.mp3:(11) [K  Series] What Time
+#DESCRIPTION (11) [K  Series] What Time
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20Bootlegs%202005/CD2/(12)%20%5bNeon%20Lights%5d%20Not%20Alone%20(Andy%20Whitby%20Remix).mp3:(12) [Neon Lights] Not Alone (Andy Whitby Remix)
+#DESCRIPTION (12) [Neon Lights] Not Alone (Andy Whitby Remix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20Bootlegs%202005/CD2/(13)%20%5bA-Flash-Headz%20B-Neon%20Lights%5d%20A-Wizards%20Of%20The%20Sonic%20B-Shine%20(Acapella).mp3:(13) [A  Flash  Headz B  Neon Lights] A  Wizards Of The Sonic B  Shine (Acapella)
+#DESCRIPTION (13) [A  Flash  Headz B  Neon Lights] A  Wizards Of The Sonic B  Shine (Acapella)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20Bootlegs%202005/CD2/(14)%20%5bTrauma%5d%20Wanna%20Ride%20(Bulletproof%20Mix).mp3:(14) [Trauma] Wanna Ride (Bulletproof Mix)
+#DESCRIPTION (14) [Trauma] Wanna Ride (Bulletproof Mix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20Bootlegs%202005/CD2/(15)%20%5bA-Masif%20DJ's%20B-Masif%20DJ's%5d%20A-No%20Good%20For%20Me%20(Steve%20Hill%20Vs%20Dark%20by%20Design%20Mix)%20B-No%20Good%20For%20Me%20(Acapella).mp3:(15) [A  Masif DJ's B  Masif DJ's] A  No Good For Me (Steve Hill Vs Dark by Design Mix) B  No Good For Me (Acapella)
+#DESCRIPTION (15) [A  Masif DJ's B  Masif DJ's] A  No Good For Me (Steve Hill Vs Dark by Design Mix) B  No Good For Me (Acapella)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20Bootlegs%202005/CD2/(16)%20%5bMasif%20DJ's%5d%20Universal%20Nation%20(Dark%20by%20Design%20&amp;%20Steve%20Hill%20Remix).mp3:(16) [Masif DJ's] Universal Nation (Dark by Design & Steve Hill Remix)
+#DESCRIPTION (16) [Masif DJ's] Universal Nation (Dark by Design & Steve Hill Remix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20X-Plosion/Hard%20Trance%20X-Plosion%20Vol.9/01%20-%20Paraphonatic%20-%20The%20Past,%20The%20Present,%20The%20Future%20(DJ%20Mellow-D's%20Pure%20nrg-%20Remix).flac:Paraphonatic    The Past The Present The Future (DJ Mellow  D's Pure nrg   Remix)
+#DESCRIPTION Paraphonatic    The Past The Present The Future (DJ Mellow  D's Pure nrg   Remix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20X-Plosion/Hard%20Trance%20X-Plosion%20Vol.9/02%20-%20B-Voice%20-%20Turn%20Of%20The%20Year.flac:B  Voice    Turn Of The Year
+#DESCRIPTION B  Voice    Turn Of The Year
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20X-Plosion/Hard%20Trance%20X-Plosion%20Vol.9/03%20-%20Rodd-Y-Ler%20-%20Remember.flac:Rodd  Y  Ler    Remember
+#DESCRIPTION Rodd  Y  Ler    Remember
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20X-Plosion/Hard%20Trance%20X-Plosion%20Vol.9/04%20-%20Mandala%20-%20Astralia%20'97.flac:Mandala    Astralia '97
+#DESCRIPTION Mandala    Astralia '97
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20X-Plosion/Hard%20Trance%20X-Plosion%20Vol.9/05%20-%20Sound%20Structure%20-%20I'm%20Ready.flac:Sound Structure    I'm Ready
+#DESCRIPTION Sound Structure    I'm Ready
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20X-Plosion/Hard%20Trance%20X-Plosion%20Vol.9/06%20-%20A%20Nice%20Cup%20Of%20T%20-%20T-Time.flac:A Nice Cup Of T    T  Time
+#DESCRIPTION A Nice Cup Of T    T  Time
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20X-Plosion/Hard%20Trance%20X-Plosion%20Vol.9/07%20-%20Loving%20Loop%20-%20Listen%20Of%20That%20Fat%20Bass.flac:Loving Loop    Listen Of That Fat Bass
+#DESCRIPTION Loving Loop    Listen Of That Fat Bass
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20X-Plosion/Hard%20Trance%20X-Plosion%20Vol.9/08%20-%20Free%20Jack%20-%20Sunburst.flac:Free Jack    Sunburst
+#DESCRIPTION Free Jack    Sunburst
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20X-Plosion/Hard%20Trance%20X-Plosion%20Vol.9/09%20-%20Stargate%20-%20Back%20In%20Time.flac:Stargate    Back In Time
+#DESCRIPTION Stargate    Back In Time
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20X-Plosion/Hard%20Trance%20X-Plosion%20Vol.9/10%20-%20DJ%20Crack%20-%20Bring%20The%20Bass%20Back.flac:DJ Crack    Bring The Bass Back
+#DESCRIPTION DJ Crack    Bring The Bass Back
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20X-Plosion/Hard%20Trance%20X-Plosion%20Vol.9/11%20-%20Tranceport%20X%20-%20Moments%20Of%20Silence.flac:Tranceport X    Moments Of Silence
+#DESCRIPTION Tranceport X    Moments Of Silence
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20X-Plosion/Hard%20Trance%20X-Plosion%20Vol.9/12%20-%20Los%20Bonitos%20-%20Hand%20In%20Hand.flac:Los Bonitos    Hand In Hand
+#DESCRIPTION Los Bonitos    Hand In Hand
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20X-Plosion/Hard%20Trance%20X-Plosion%20Vol.9/13%20-%20Frank%20E.%20&amp;%20Mars%20L.%20-%20Last%20But%20Not%20Least.flac:Frank E. & Mars L.    Last But Not Least
+#DESCRIPTION Frank E. & Mars L.    Last But Not Least
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20X-Plosion/Hard%20Trance%20X-Plosion%20Vol.9/14%20-%20DJ%20Sonic-T%20-%20It's%20Nice%20In%20Space.flac:DJ Sonic  T    It's Nice In Space
+#DESCRIPTION DJ Sonic  T    It's Nice In Space
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20X-Plosion/Hard%20Trance%20X-Plosion%20Vol.9/15%20-%20Plastic%20Enemy%20-%20Plastic%20House.flac:Plastic Enemy    Plastic House
+#DESCRIPTION Plastic Enemy    Plastic House
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20X-Plosion/Hard%20Trance%20X-Plosion%20Vol.21/03%20-%20Freedom%20-%20Nexus.mp3:Freedom    Nexus
+#DESCRIPTION Freedom    Nexus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20X-Plosion/Hard%20Trance%20X-Plosion%20Vol.21/04%20-%20Alone%20with%20Me%20(Flutlicht%20Mix)%20%20-%20Nexus.mp3:Alone with Me (Flutlicht Mix)     Nexus
+#DESCRIPTION Alone with Me (Flutlicht Mix)     Nexus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20X-Plosion/Hard%20Trance%20X-Plosion%20Vol.21/05%20-%20First%20Impression%20%20-%20Nexus.mp3:First Impression     Nexus
+#DESCRIPTION First Impression     Nexus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20X-Plosion/Hard%20Trance%20X-Plosion%20Vol.21/07%20-%20Destiny%20(DJ%20Mellow-D%20Remix)%20%20-%20Nexus.mp3:Destiny (DJ Mellow  D Remix)     Nexus
+#DESCRIPTION Destiny (DJ Mellow  D Remix)     Nexus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20X-Plosion/Hard%20Trance%20X-Plosion%20Vol.21/08%20-%20Deep%20Sonar%20-%20Nexus.mp3:Deep Sonar    Nexus
+#DESCRIPTION Deep Sonar    Nexus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20X-Plosion/Hard%20Trance%20X-Plosion%20Vol.21/10%20-%20The%20Perfect%20Wave%20%20-%20Nexus.mp3:The Perfect Wave     Nexus
+#DESCRIPTION The Perfect Wave     Nexus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20X-Plosion/Hard%20Trance%20X-Plosion%20Vol.21/13%20-%20X-T-Cee%20-%20Nexus.mp3:X  T  Cee    Nexus
+#DESCRIPTION X  T  Cee    Nexus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20X-Plosion/Hard%20Trance%20X-Plosion%20Vol.21/14%20-%20Life%20on%20Mars%20-%20Nexus.mp3:Life on Mars    Nexus
+#DESCRIPTION Life on Mars    Nexus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20X-Plosion/Hard%20Trance%20X-Plosion%20Vol.12/CD1/04%20Final%20Fantasy.mp3:Final Fantasy
+#DESCRIPTION Final Fantasy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20X-Plosion/Hard%20Trance%20X-Plosion%20Vol.12/CD1/05%20Lost%20in%20Space%2098.mp3:Lost in Space 98
+#DESCRIPTION Lost in Space 98
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20X-Plosion/Hard%20Trance%20X-Plosion%20Vol.12/CD1/06%20Tainted%20Love.mp3:Tainted Love
+#DESCRIPTION Tainted Love
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20X-Plosion/Hard%20Trance%20X-Plosion%20Vol.12/CD1/08%20silent%20Wishes.mp3:silent Wishes
+#DESCRIPTION silent Wishes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20X-Plosion/Hard%20Trance%20X-Plosion%20Vol.12/CD1/11%20Dont%20stop%20me.mp3:Dont stop me
+#DESCRIPTION Dont stop me
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20X-Plosion/Hard%20Trance%20X-Plosion%20Vol.12/CD2/01%20Trancemission.mp3:Trancemission
+#DESCRIPTION Trancemission
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20X-Plosion/Hard%20Trance%20X-Plosion%20Vol.12/CD2/04%20Be%20tree.mp3:Be tree
+#DESCRIPTION Be tree
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20X-Plosion/Hard%20Trance%20X-Plosion%20Vol.23/CD1/02%20Rapid%20EyeCirca%20Forever%20(Iberi.mp3:Rapid EyeCirca Forever (Iberi
+#DESCRIPTION Rapid EyeCirca Forever (Iberi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20X-Plosion/Hard%20Trance%20X-Plosion%20Vol.23/CD1/04%20SurenoLove%20is%20an%20Ocean%20(Silve.mp3:SurenoLove is an Ocean (Silve
+#DESCRIPTION SurenoLove is an Ocean (Silve
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20X-Plosion/Hard%20Trance%20X-Plosion%20Vol.23/CD1/05%20Svenson%20and%20GielenWe%20know%20wha.mp3:Svenson and GielenWe know wha
+#DESCRIPTION Svenson and GielenWe know wha
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20X-Plosion/Hard%20Trance%20X-Plosion%20Vol.23/CD1/08%20George%20AcostaThe%20Reaper.mp3:George AcostaThe Reaper
+#DESCRIPTION George AcostaThe Reaper
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20X-Plosion/Hard%20Trance%20X-Plosion%20Vol.23/CD1/15%20DJ%20D-Light%20feat.%20Climax%2069Mas.mp3:DJ D  Light feat. Climax 69Mas
+#DESCRIPTION DJ D  Light feat. Climax 69Mas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20X-Plosion/Hard%20Trance%20X-Plosion%20Vol.23/CD2/04%20Ralphie%20B.Massive%20(Mirco%20de%20G.mp3:Ralphie B.Massive (Mirco de G
+#DESCRIPTION Ralphie B.Massive (Mirco de G
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20X-Plosion/Hard%20Trance%20X-Plosion%20Vol.23/CD2/06%20TaikoSilence%20(Darren%20Stayle%20R.mp3:TaikoSilence (Darren Stayle R
+#DESCRIPTION TaikoSilence (Darren Stayle R
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/hardtrance/Hard%20Trance%20X-Plosion/Hard%20Trance%20X-Plosion%20Vol.23/CD2/08%20Alien%20FactoryRebel.mp3:Alien FactoryRebel
+#DESCRIPTION Alien FactoryRebel

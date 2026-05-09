@@ -1,0 +1,209 @@
+#NAME CiefpSettings IPTV Ace of Base
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1992%20-%20Happy%20Nation%20(RM%202015)/01.%20Voulez-Vous%20Danser.mp3:Voulez  Vous Danser
+#DESCRIPTION Voulez  Vous Danser
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1992%20-%20Happy%20Nation%20(RM%202015)/02.%20All%20That%20She%20Wants.mp3:All That She Wants
+#DESCRIPTION All That She Wants
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1992%20-%20Happy%20Nation%20(RM%202015)/03.%20Munchhausen%20(Just%20Chaos).mp3:Munchhausen (Just Chaos)
+#DESCRIPTION Munchhausen (Just Chaos)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1992%20-%20Happy%20Nation%20(RM%202015)/04.%20Happy%20Nation.mp3:Happy Nation
+#DESCRIPTION Happy Nation
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1992%20-%20Happy%20Nation%20(RM%202015)/05.%20Waiting%20For%20Magic.mp3:Waiting For Magic
+#DESCRIPTION Waiting For Magic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1992%20-%20Happy%20Nation%20(RM%202015)/06.%20Fashion%20Party.mp3:Fashion Party
+#DESCRIPTION Fashion Party
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1992%20-%20Happy%20Nation%20(RM%202015)/07.%20Wheel%20Of%20Fortune.mp3:Wheel Of Fortune
+#DESCRIPTION Wheel Of Fortune
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1992%20-%20Happy%20Nation%20(RM%202015)/08.%20Dancer%20In%20A%20Daydream.mp3:Dancer In A Daydream
+#DESCRIPTION Dancer In A Daydream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1992%20-%20Happy%20Nation%20(RM%202015)/09.%20My%20Mind%20(Mindless%20Mix).mp3:My Mind (Mindless Mix)
+#DESCRIPTION My Mind (Mindless Mix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1992%20-%20Happy%20Nation%20(RM%202015)/10.%20Wheel%20Of%20Fortune%20(Original%20Club%20Mix).mp3:Wheel Of Fortune (Original Club Mix)
+#DESCRIPTION Wheel Of Fortune (Original Club Mix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1992%20-%20Happy%20Nation%20(RM%202015)/11.%20Dimension%20Of%20Depth.mp3:Dimension Of Depth
+#DESCRIPTION Dimension Of Depth
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1992%20-%20Happy%20Nation%20(RM%202015)/12.%20Young%20And%20Proud.mp3:Young And Proud
+#DESCRIPTION Young And Proud
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1992%20-%20Happy%20Nation%20(RM%202015)/13.%20All%20That%20She%20Wants%20(Banghra%20Version).mp3:All That She Wants (Banghra Version)
+#DESCRIPTION All That She Wants (Banghra Version)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1992%20-%20Happy%20Nation%20(RM%202015)/14.%20Moogoperator%20(Bonus%20Track).mp3:Moogoperator (Bonus Track)
+#DESCRIPTION Moogoperator (Bonus Track)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1993%20-%20Happy%20Nation%20-%20U.S.%20Version%20(RM%202015)/01.%20All%20That%20She%20Wants.mp3:All That She Wants
+#DESCRIPTION All That She Wants
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1993%20-%20Happy%20Nation%20-%20U.S.%20Version%20(RM%202015)/02.%20Don't%20Turn%20Around.mp3:Don't Turn Around
+#DESCRIPTION Don't Turn Around
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1993%20-%20Happy%20Nation%20-%20U.S.%20Version%20(RM%202015)/03.%20Young%20And%20Proud.mp3:Young And Proud
+#DESCRIPTION Young And Proud
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1993%20-%20Happy%20Nation%20-%20U.S.%20Version%20(RM%202015)/04.%20The%20Sign.mp3:The Sign
+#DESCRIPTION The Sign
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1993%20-%20Happy%20Nation%20-%20U.S.%20Version%20(RM%202015)/05.%20Living%20In%20Danger.mp3:Living In Danger
+#DESCRIPTION Living In Danger
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1993%20-%20Happy%20Nation%20-%20U.S.%20Version%20(RM%202015)/06.%20Voulez-Vous%20Danser.mp3:Voulez  Vous Danser
+#DESCRIPTION Voulez  Vous Danser
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1993%20-%20Happy%20Nation%20-%20U.S.%20Version%20(RM%202015)/07.%20Happy%20Nation.mp3:Happy Nation
+#DESCRIPTION Happy Nation
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1993%20-%20Happy%20Nation%20-%20U.S.%20Version%20(RM%202015)/08.%20Hear%20Me%20Calling.mp3:Hear Me Calling
+#DESCRIPTION Hear Me Calling
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1993%20-%20Happy%20Nation%20-%20U.S.%20Version%20(RM%202015)/09.%20Waiting%20For%20Magic%20(Total%20Remix).mp3:Waiting For Magic (Total Remix)
+#DESCRIPTION Waiting For Magic (Total Remix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1993%20-%20Happy%20Nation%20-%20U.S.%20Version%20(RM%202015)/10.%20Fashion%20Party.mp3:Fashion Party
+#DESCRIPTION Fashion Party
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1993%20-%20Happy%20Nation%20-%20U.S.%20Version%20(RM%202015)/11.%20Wheel%20Of%20Fortune.mp3:Wheel Of Fortune
+#DESCRIPTION Wheel Of Fortune
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1993%20-%20Happy%20Nation%20-%20U.S.%20Version%20(RM%202015)/12.%20Dancer%20In%20A%20Daydream.mp3:Dancer In A Daydream
+#DESCRIPTION Dancer In A Daydream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1993%20-%20Happy%20Nation%20-%20U.S.%20Version%20(RM%202015)/13.%20My%20Mind%20(Mindless%20Mix).mp3:My Mind (Mindless Mix)
+#DESCRIPTION My Mind (Mindless Mix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1993%20-%20Happy%20Nation%20-%20U.S.%20Version%20(RM%202015)/14.%20All%20That%20She%20Wants%20(Banghra%20Version).mp3:All That She Wants (Banghra Version)
+#DESCRIPTION All That She Wants (Banghra Version)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1993%20-%20Happy%20Nation%20-%20U.S.%20Version%20(RM%202015)/15.%20Happy%20Nation%20(Remix).mp3:Happy Nation (Remix)
+#DESCRIPTION Happy Nation (Remix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1993%20-%20Happy%20Nation%20-%20U.S.%20Version%20(RM%202015)/16.%20Giving%20It%20Up%20(Ace%20Version)%20(Bonus%20Track).mp3:Giving It Up (Ace Version) (Bonus Track)
+#DESCRIPTION Giving It Up (Ace Version) (Bonus Track)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1995%20-%20The%20Bridge%20(RM%202015)/01.%20Beautiful%20Life.mp3:Beautiful Life
+#DESCRIPTION Beautiful Life
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1995%20-%20The%20Bridge%20(RM%202015)/02.%20Never%20Gonna%20Say%20I'm%20Sorry.mp3:Never Gonna Say I'm Sorry
+#DESCRIPTION Never Gonna Say I'm Sorry
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1995%20-%20The%20Bridge%20(RM%202015)/03.%20Lucky%20Love.mp3:Lucky Love
+#DESCRIPTION Lucky Love
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1995%20-%20The%20Bridge%20(RM%202015)/04.%20Edge%20Of%20Heaven.mp3:Edge Of Heaven
+#DESCRIPTION Edge Of Heaven
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1995%20-%20The%20Bridge%20(RM%202015)/05.%20Strange%20Ways.mp3:Strange Ways
+#DESCRIPTION Strange Ways
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1995%20-%20The%20Bridge%20(RM%202015)/06.%20Ravine.mp3:Ravine
+#DESCRIPTION Ravine
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1995%20-%20The%20Bridge%20(RM%202015)/07.%20Perfect%20World.mp3:Perfect World
+#DESCRIPTION Perfect World
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1995%20-%20The%20Bridge%20(RM%202015)/08.%20Angel%20Eyes.mp3:Angel Eyes
+#DESCRIPTION Angel Eyes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1995%20-%20The%20Bridge%20(RM%202015)/09.%20Whispers%20In%20Blindness.mp3:Whispers In Blindness
+#DESCRIPTION Whispers In Blindness
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1995%20-%20The%20Bridge%20(RM%202015)/10.%20My%20Deja%20Vu.mp3:My Deja Vu
+#DESCRIPTION My Deja Vu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1995%20-%20The%20Bridge%20(RM%202015)/11.%20You%20And%20I.mp3:You And I
+#DESCRIPTION You And I
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1995%20-%20The%20Bridge%20(RM%202015)/12.%20Wave%20Wet%20Sand.mp3:Wave Wet Sand
+#DESCRIPTION Wave Wet Sand
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1995%20-%20The%20Bridge%20(RM%202015)/13.%20Que%20Sera.mp3:Que Sera
+#DESCRIPTION Que Sera
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1995%20-%20The%20Bridge%20(RM%202015)/14.%20Just%20'n'%20Image.mp3:Just 'n' Image
+#DESCRIPTION Just 'n' Image
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1995%20-%20The%20Bridge%20(RM%202015)/15.%20Lucky%20Love%20(Acoustic%20Version).mp3:Lucky Love (Acoustic Version)
+#DESCRIPTION Lucky Love (Acoustic Version)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1995%20-%20The%20Bridge%20(RM%202015)/16.%20Experience%20Pearls.mp3:Experience Pearls
+#DESCRIPTION Experience Pearls
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1995%20-%20The%20Bridge%20(RM%202015)/17.%20Blooming%2018.mp3:Blooming 18
+#DESCRIPTION Blooming 18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1995%20-%20The%20Bridge%20(RM%202015)/18.%20Love%20For%20Sale%20(Bonus%20Track).mp3:Love For Sale (Bonus Track)
+#DESCRIPTION Love For Sale (Bonus Track)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1998%20-%20Cruel%20Summer%20(RM%202015)/01.%20Cruel%20Summer.mp3:Cruel Summer
+#DESCRIPTION Cruel Summer
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1998%20-%20Cruel%20Summer%20(RM%202015)/02.%20Donnie%20(Ole%20Evenrude%20Version).mp3:Donnie (Ole Evenrude Version)
+#DESCRIPTION Donnie (Ole Evenrude Version)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1998%20-%20Cruel%20Summer%20(RM%202015)/03.%20Whenever%20You're%20Near%20Me%20(US%20Album%20Version).mp3:Whenever You're Near Me (US Album Version)
+#DESCRIPTION Whenever You're Near Me (US Album Version)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1998%20-%20Cruel%20Summer%20(RM%202015)/04.%20Everytime%20It%20Rains.mp3:Everytime It Rains
+#DESCRIPTION Everytime It Rains
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1998%20-%20Cruel%20Summer%20(RM%202015)/05.%20Adventures%20In%20Paradise.mp3:Adventures In Paradise
+#DESCRIPTION Adventures In Paradise
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1998%20-%20Cruel%20Summer%20(RM%202015)/06.%20Don't%20Go%20Away.mp3:Don't Go Away
+#DESCRIPTION Don't Go Away
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1998%20-%20Cruel%20Summer%20(RM%202015)/07.%20Cecilia.mp3:Cecilia
+#DESCRIPTION Cecilia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1998%20-%20Cruel%20Summer%20(RM%202015)/08.%20He%20Decides%20(Charles%20Fisher%20Mix).mp3:He Decides (Charles Fisher Mix)
+#DESCRIPTION He Decides (Charles Fisher Mix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1998%20-%20Cruel%20Summer%20(RM%202015)/09.%20Always%20Have,%20Always%20Will%20(Edit).mp3:Always Have Always Will (Edit)
+#DESCRIPTION Always Have Always Will (Edit)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1998%20-%20Cruel%20Summer%20(RM%202015)/10.%20Tokyo%20Girl.mp3:Tokyo Girl
+#DESCRIPTION Tokyo Girl
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1998%20-%20Cruel%20Summer%20(RM%202015)/11.%20Travel%20To%20Romantis%20(Love%20To%20Infinity%20Mix).mp3:Travel To Romantis (Love To Infinity Mix)
+#DESCRIPTION Travel To Romantis (Love To Infinity Mix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1998%20-%20Cruel%20Summer%20(RM%202015)/12.%20Cruel%20Summer%20(Blazin'%20Rhythm%20Remix).mp3:Cruel Summer (Blazin' Rhythm Remix)
+#DESCRIPTION Cruel Summer (Blazin' Rhythm Remix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1998%20-%20Cruel%20Summer%20(RM%202015)/13.%20Kings%20And%20Queens%20(Bonus%20Track).mp3:Kings And Queens (Bonus Track)
+#DESCRIPTION Kings And Queens (Bonus Track)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1998%20-%20Flowers%20(RM%202015)/01.%20Life%20Is%20A%20Flower.mp3:Life Is A Flower
+#DESCRIPTION Life Is A Flower
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1998%20-%20Flowers%20(RM%202015)/02.%20Always%20Have,%20Always%20Will.mp3:Always Have Always Will
+#DESCRIPTION Always Have Always Will
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1998%20-%20Flowers%20(RM%202015)/03.%20Cruel%20Summer.mp3:Cruel Summer
+#DESCRIPTION Cruel Summer
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1998%20-%20Flowers%20(RM%202015)/04.%20Travel%20To%20Romantis.mp3:Travel To Romantis
+#DESCRIPTION Travel To Romantis
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1998%20-%20Flowers%20(RM%202015)/05.%20Adventures%20In%20Paradise.mp3:Adventures In Paradise
+#DESCRIPTION Adventures In Paradise
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1998%20-%20Flowers%20(RM%202015)/06.%20Dr.%20Sun.mp3:Dr. Sun
+#DESCRIPTION Dr. Sun
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1998%20-%20Flowers%20(RM%202015)/07.%20Cecilia.mp3:Cecilia
+#DESCRIPTION Cecilia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1998%20-%20Flowers%20(RM%202015)/08.%20He%20Decides.mp3:He Decides
+#DESCRIPTION He Decides
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1998%20-%20Flowers%20(RM%202015)/09.%20I%20Pray.mp3:I Pray
+#DESCRIPTION I Pray
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1998%20-%20Flowers%20(RM%202015)/10.%20Tokyo%20Girl.mp3:Tokyo Girl
+#DESCRIPTION Tokyo Girl
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1998%20-%20Flowers%20(RM%202015)/11.%20Don't%20Go%20Away.mp3:Don't Go Away
+#DESCRIPTION Don't Go Away
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1998%20-%20Flowers%20(RM%202015)/12.%20Captain%20Nemo.mp3:Captain Nemo
+#DESCRIPTION Captain Nemo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1998%20-%20Flowers%20(RM%202015)/13.%20Donnie.mp3:Donnie
+#DESCRIPTION Donnie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1998%20-%20Flowers%20(RM%202015)/14.%20Cruel%20Summer%20(Big%20Bonus%20Mix).mp3:Cruel Summer (Big Bonus Mix)
+#DESCRIPTION Cruel Summer (Big Bonus Mix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/1998%20-%20Flowers%20(RM%202015)/15.%20L'amour%20(Bonus%20Track).mp3:L'amour (Bonus Track)
+#DESCRIPTION L'amour (Bonus Track)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/2002%20-%20Da%20Capo%20(RM%202015)/01.%20Unspeakable.mp3:Unspeakable
+#DESCRIPTION Unspeakable
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/2002%20-%20Da%20Capo%20(RM%202015)/02.%20Beautiful%20Morning.mp3:Beautiful Morning
+#DESCRIPTION Beautiful Morning
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/2002%20-%20Da%20Capo%20(RM%202015)/03.%20Remember%20The%20Words.mp3:Remember The Words
+#DESCRIPTION Remember The Words
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/2002%20-%20Da%20Capo%20(RM%202015)/04.%20Da%20Capo.mp3:Da Capo
+#DESCRIPTION Da Capo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/2002%20-%20Da%20Capo%20(RM%202015)/05.%20World%20Down%20Under.mp3:World Down Under
+#DESCRIPTION World Down Under
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/2002%20-%20Da%20Capo%20(RM%202015)/06.%20Ordinary%20Day.mp3:Ordinary Day
+#DESCRIPTION Ordinary Day
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/2002%20-%20Da%20Capo%20(RM%202015)/07.%20Wonderful%20Life.mp3:Wonderful Life
+#DESCRIPTION Wonderful Life
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/2002%20-%20Da%20Capo%20(RM%202015)/08.%20Show%20Me%20Love.mp3:Show Me Love
+#DESCRIPTION Show Me Love
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/2002%20-%20Da%20Capo%20(RM%202015)/09.%20What's%20The%20Name%20Of%20The%20Game.mp3:What's The Name Of The Game
+#DESCRIPTION What's The Name Of The Game
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/2002%20-%20Da%20Capo%20(RM%202015)/10.%20Change%20With%20The%20Light.mp3:Change With The Light
+#DESCRIPTION Change With The Light
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/2002%20-%20Da%20Capo%20(RM%202015)/11.%20Hey%20Darling.mp3:Hey Darling
+#DESCRIPTION Hey Darling
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/2002%20-%20Da%20Capo%20(RM%202015)/12.%20The%20Juvenile.mp3:The Juvenile
+#DESCRIPTION The Juvenile
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/2002%20-%20Da%20Capo%20(RM%202015)/13.%20Da%20Capo%20(Alternative%20Version)%20(Bonus%20Track).mp3:Da Capo (Alternative Version) (Bonus Track)
+#DESCRIPTION Da Capo (Alternative Version) (Bonus Track)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/2015%20-%20Hidden%20Gems/01.%20Would%20You%20Believe.mp3:Would You Believe
+#DESCRIPTION Would You Believe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/2015%20-%20Hidden%20Gems/02.%20Go%20Go%20Go.mp3:Go Go Go
+#DESCRIPTION Go Go Go
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/2015%20-%20Hidden%20Gems/03.%20Into%20The%20Night%20Of%20Blue.mp3:Into The Night Of Blue
+#DESCRIPTION Into The Night Of Blue
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/2015%20-%20Hidden%20Gems/04.%20Don't%20Stop.mp3:Don't Stop
+#DESCRIPTION Don't Stop
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/2015%20-%20Hidden%20Gems/05.%20Make%20My%20Day.mp3:Make My Day
+#DESCRIPTION Make My Day
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/2015%20-%20Hidden%20Gems/06.%20Mercy%20Mercy.mp3:Mercy Mercy
+#DESCRIPTION Mercy Mercy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/2015%20-%20Hidden%20Gems/07.%20No%20Good%20Lover.mp3:No Good Lover
+#DESCRIPTION No Good Lover
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/2015%20-%20Hidden%20Gems/08.%20Summer%20Days.mp3:Summer Days
+#DESCRIPTION Summer Days
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/2015%20-%20Hidden%20Gems/09.%20Giving%20It%20Up%20(2014%20Remake).mp3:Giving It Up (Remake)
+#DESCRIPTION Giving It Up (Remake)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/2015%20-%20Hidden%20Gems/10.%20Come%20To%20Me.mp3:Come To Me
+#DESCRIPTION Come To Me
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/2015%20-%20Hidden%20Gems/11.%20Prime%20Time.mp3:Prime Time
+#DESCRIPTION Prime Time
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/2015%20-%20Hidden%20Gems/12.%20Look%20Around%20Me.mp3:Look Around Me
+#DESCRIPTION Look Around Me
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/2015%20-%20Hidden%20Gems/13.%20Pole%20Position.mp3:Pole Position
+#DESCRIPTION Pole Position
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/2015%20-%20Hidden%20Gems/14.%20Sunset%20In%20Southern%20California.mp3:Sunset In Southern California
+#DESCRIPTION Sunset In Southern California
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Ace%20Of%20Base/2015%20-%20Hidden%20Gems/15.%20Moment%20Of%20Magic.mp3:Moment Of Magic
+#DESCRIPTION Moment Of Magic

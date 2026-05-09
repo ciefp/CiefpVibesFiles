@@ -1,0 +1,451 @@
+#NAME CiefpSettings IPTV Gary Moore - Still got the Blues
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2002%20-%20Still%20Got%20The%20Blues/01.%20Moving%20On.mp3:Moving On
+#DESCRIPTION Moving On
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2002%20-%20Still%20Got%20The%20Blues/02.%20Oh%20Pretty%20Woman.mp3:Oh Pretty Woman
+#DESCRIPTION Oh Pretty Woman
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2002%20-%20Still%20Got%20The%20Blues/03.%20Walking%20By%20Myself.mp3:Walking By Myself
+#DESCRIPTION Walking By Myself
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2002%20-%20Still%20Got%20The%20Blues/04.%20Still%20Got%20The%20Blues.mp3:Still Got The Blues
+#DESCRIPTION Still Got The Blues
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2002%20-%20Still%20Got%20The%20Blues/05.%20Texas%20Strut.mp3:Texas Strut
+#DESCRIPTION Texas Strut
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2002%20-%20Still%20Got%20The%20Blues/06.%20Too%20Tired.mp3:Too Tired
+#DESCRIPTION Too Tired
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2002%20-%20Still%20Got%20The%20Blues/07.%20King%20Of%20The%20Blues.mp3:King Of The Blues
+#DESCRIPTION King Of The Blues
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2002%20-%20Still%20Got%20The%20Blues/08.%20As%20The%20Years%20Go%20Passing%20By.mp3:As The Years Go Passing By
+#DESCRIPTION As The Years Go Passing By
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2002%20-%20Still%20Got%20The%20Blues/09.%20Midnight%20Blues.mp3:Midnight Blues
+#DESCRIPTION Midnight Blues
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2002%20-%20Still%20Got%20The%20Blues/10.%20That%20Kind%20Of%20Woman.mp3:That Kind Of Woman
+#DESCRIPTION That Kind Of Woman
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2002%20-%20Still%20Got%20The%20Blues/11.%20All%20Your%20Love.mp3:All Your Love
+#DESCRIPTION All Your Love
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2002%20-%20Still%20Got%20The%20Blues/12.%20Stop%20Messin'%20Around.mp3:Stop Messin' Around
+#DESCRIPTION Stop Messin' Around
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2002%20-%20Still%20Got%20The%20Blues/13.%20The%20Stumble.mp3:The Stumble
+#DESCRIPTION The Stumble
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2002%20-%20Still%20Got%20The%20Blues/14.%20Left%20Me%20With%20The%20Blues.mp3:Left Me With The Blues
+#DESCRIPTION Left Me With The Blues
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2002%20-%20Still%20Got%20The%20Blues/15.%20Further%20On%20Up%20The%20Road.mp3:Further On Up The Road
+#DESCRIPTION Further On Up The Road
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2002%20-%20Still%20Got%20The%20Blues/16.%20Mean%20Cruel%20Woman.mp3:Mean Cruel Woman
+#DESCRIPTION Mean Cruel Woman
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2002%20-%20Still%20Got%20The%20Blues/17.%20The%20Sky%20Is%20Crying.mp3:The Sky Is Crying
+#DESCRIPTION The Sky Is Crying
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2000%20-%20Corridors%20Of%20Power/01.%20Run%20For%20Cover.mp3:Run For Cover
+#DESCRIPTION Run For Cover
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2000%20-%20Corridors%20Of%20Power/02.%20Reach%20For%20The%20Sky.mp3:Reach For The Sky
+#DESCRIPTION Reach For The Sky
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2000%20-%20Corridors%20Of%20Power/03.%20Military%20Man.mp3:Military Man
+#DESCRIPTION Military Man
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2000%20-%20Corridors%20Of%20Power/04.%20Empty%20Rooms.mp3:Empty Rooms
+#DESCRIPTION Empty Rooms
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2000%20-%20Corridors%20Of%20Power/05.%20Out%20Of%20My%20System.mp3:Out Of My System
+#DESCRIPTION Out Of My System
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2000%20-%20Corridors%20Of%20Power/06.%20Out%20In%20The%20Fields.mp3:Out In The Fields
+#DESCRIPTION Out In The Fields
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2000%20-%20Corridors%20Of%20Power/07.%20Nothing%20To%20Loose.mp3:Nothing To Loose
+#DESCRIPTION Nothing To Loose
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2000%20-%20Corridors%20Of%20Power/08.%20Once%20In%20A%20Lifetime.mp3:Once In A Lifetime
+#DESCRIPTION Once In A Lifetime
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2000%20-%20Corridors%20Of%20Power/09.%20All%20Messed%20Up.mp3:All Messed Up
+#DESCRIPTION All Messed Up
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2000%20-%20Corridors%20Of%20Power/10.%20Listen%20To%20Your%20Heartbeat.mp3:Listen To Your Heartbeat
+#DESCRIPTION Listen To Your Heartbeat
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2000%20-%20Corridors%20Of%20Power/11.%20Still%20In%20Love%20With%20You.mp3:Still In Love With You
+#DESCRIPTION Still In Love With You
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2000%20-%20Live%20At%20The%20Marquee/01.%20Back%20On%20The%20Streets.mp3:Back On The Streets
+#DESCRIPTION Back On The Streets
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2000%20-%20Live%20At%20The%20Marquee/02.%20Run%20To%20Your%20Mama.mp3:Run To Your Mama
+#DESCRIPTION Run To Your Mama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2000%20-%20Live%20At%20The%20Marquee/03.%20Dancin'.mp3:Dancin'
+#DESCRIPTION Dancin'
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2000%20-%20Live%20At%20The%20Marquee/04.%20She's%20Got%20You.mp3:She's Got You
+#DESCRIPTION She's Got You
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2000%20-%20Live%20At%20The%20Marquee/05.%20Parisienne%20Walkways.mp3:Parisienne Walkways
+#DESCRIPTION Parisienne Walkways
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2000%20-%20Live%20At%20The%20Marquee/06.%20You.mp3:You
+#DESCRIPTION You
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2000%20-%20Live%20At%20The%20Marquee/07.%20Nuclear%20Attack.mp3:Nuclear Attack
+#DESCRIPTION Nuclear Attack
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2000%20-%20Live%20At%20The%20Marquee/08.%20Dallas%20Warhead.mp3:Dallas Warhead
+#DESCRIPTION Dallas Warhead
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2002%20-%20After%20Hours/01.%20Cold%20Day%20In%20Hell.mp3:Cold Day In Hell
+#DESCRIPTION Cold Day In Hell
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2002%20-%20After%20Hours/02.%20Don't%20You%20Lie%20To%20Me%20%5bI%20Get%20Evil%5d.mp3:Don't You Lie To Me [I Get Evil]
+#DESCRIPTION Don't You Lie To Me [I Get Evil]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2002%20-%20After%20Hours/03.%20Story%20Of%20The%20Blues.mp3:Story Of The Blues
+#DESCRIPTION Story Of The Blues
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2002%20-%20After%20Hours/04.%20Since%20I%20Met%20You%20Baby.mp3:Since I Met You Baby
+#DESCRIPTION Since I Met You Baby
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2002%20-%20After%20Hours/05.%20Separate%20Ways.mp3:Separate Ways
+#DESCRIPTION Separate Ways
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2002%20-%20After%20Hours/06.%20Only%20Fool%20In%20Town.mp3:Only Fool In Town
+#DESCRIPTION Only Fool In Town
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2002%20-%20After%20Hours/07.%20Key%20To%20Love.mp3:Key To Love
+#DESCRIPTION Key To Love
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2002%20-%20After%20Hours/08.%20Jumpin'%20At%20Shadows.mp3:Jumpin' At Shadows
+#DESCRIPTION Jumpin' At Shadows
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2002%20-%20After%20Hours/09.%20The%20Bluse%20Is%20Alright.mp3:The Bluse Is Alright
+#DESCRIPTION The Bluse Is Alright
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2002%20-%20After%20Hours/10.%20The%20Hurt%20Inside.mp3:The Hurt Inside
+#DESCRIPTION The Hurt Inside
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2002%20-%20After%20Hours/11.%20Nothing's%20The%20Same.mp3:Nothing's The Same
+#DESCRIPTION Nothing's The Same
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2002%20-%20After%20Hours/12.%20All%20Time%20Low%20%5bExtended%20Version%5d.mp3:All Time Low [Extended Version]
+#DESCRIPTION All Time Low [Extended Version]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2002%20-%20After%20Hours/13.%20Woke%20Up%20This%20Morning.mp3:Woke Up This Morning
+#DESCRIPTION Woke Up This Morning
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2002%20-%20After%20Hours/14.%20Movin'%20On%20Down%20The%20Road.mp3:Movin' On Down The Road
+#DESCRIPTION Movin' On Down The Road
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2002%20-%20After%20Hours/15.%20Don't%20Start%20Me%20Talkin'.mp3:Don't Start Me Talkin'
+#DESCRIPTION Don't Start Me Talkin'
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2002%20-%20After%20Hours/16.%20Once%20In%20A%20Blue%20Mood.mp3:Once In A Blue Mood
+#DESCRIPTION Once In A Blue Mood
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20After%20The%20War/01.%20Dunluce%20%5bPart%20I%5d.mp3:Dunluce [Part I]
+#DESCRIPTION Dunluce [Part I]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20After%20The%20War/02.%20After%20The%20War.mp3:After The War
+#DESCRIPTION After The War
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20After%20The%20War/03.%20Speak%20For%20Youself.mp3:Speak For Youself
+#DESCRIPTION Speak For Youself
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20After%20The%20War/04.%20Livin'%20On%20Dreams.mp3:Livin' On Dreams
+#DESCRIPTION Livin' On Dreams
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20After%20The%20War/05.%20Led%20Clones.mp3:Led Clones
+#DESCRIPTION Led Clones
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20After%20The%20War/06.%20The%20Messiah%20Will%20Come%20Again.mp3:The Messiah Will Come Again
+#DESCRIPTION The Messiah Will Come Again
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20After%20The%20War/07.%20Running%20From%20The%20Storm.mp3:Running From The Storm
+#DESCRIPTION Running From The Storm
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20After%20The%20War/08.%20This%20Thing%20Called%20Love.mp3:This Thing Called Love
+#DESCRIPTION This Thing Called Love
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20After%20The%20War/09.%20Ready%20For%20Love.mp3:Ready For Love
+#DESCRIPTION Ready For Love
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20After%20The%20War/10.%20Blood%20Of%20Emeralds.mp3:Blood Of Emeralds
+#DESCRIPTION Blood Of Emeralds
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20After%20The%20War/11.%20Dunluce%20%5bPart%20II%5d.mp3:Dunluce [Part II]
+#DESCRIPTION Dunluce [Part II]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20After%20The%20War/12.%20Emerald.mp3:Emerald
+#DESCRIPTION Emerald
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20After%20The%20War/13.%20Over%20The%20Hills%20And%20Far%20Away%20%5bLive%5d.mp3:Over The Hills And Far Away [Live]
+#DESCRIPTION Over The Hills And Far Away [Live]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20After%20The%20War/14.%20Military%20Man%20%5bLive%5d.mp3:Military Man [Live]
+#DESCRIPTION Military Man [Live]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20After%20The%20War/15.%20Wild%20Frontier%20%5bLive%5d.mp3:Wild Frontier [Live]
+#DESCRIPTION Wild Frontier [Live]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20BBM%20-%20Around%20The%20Next%20Dream%20%5bExpanded%20Edition%5d/01.%20Waiting%20In%20The%20Wings.mp3:Waiting In The Wings
+#DESCRIPTION Waiting In The Wings
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20BBM%20-%20Around%20The%20Next%20Dream%20%5bExpanded%20Edition%5d/02.%20City%20Of%20Gold.mp3:City Of Gold
+#DESCRIPTION City Of Gold
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20BBM%20-%20Around%20The%20Next%20Dream%20%5bExpanded%20Edition%5d/03.%20Where%20In%20The%20World.mp3:Where In The World
+#DESCRIPTION Where In The World
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20BBM%20-%20Around%20The%20Next%20Dream%20%5bExpanded%20Edition%5d/04.%20Can't%20Fool%20The%20Blues.mp3:Can't Fool The Blues
+#DESCRIPTION Can't Fool The Blues
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20BBM%20-%20Around%20The%20Next%20Dream%20%5bExpanded%20Edition%5d/05.%20High%20Cost%20Of%20Loving.mp3:High Cost Of Loving
+#DESCRIPTION High Cost Of Loving
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20BBM%20-%20Around%20The%20Next%20Dream%20%5bExpanded%20Edition%5d/06.%20Glory%20Days.mp3:Glory Days
+#DESCRIPTION Glory Days
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20BBM%20-%20Around%20The%20Next%20Dream%20%5bExpanded%20Edition%5d/07.%20Why%20Does%20Love%20%5bHave%20To%20Go%20Wrong%5d.mp3:Why Does Love [Have To Go Wrong]
+#DESCRIPTION Why Does Love [Have To Go Wrong]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20BBM%20-%20Around%20The%20Next%20Dream%20%5bExpanded%20Edition%5d/08.%20Naked%20Flame.mp3:Naked Flame
+#DESCRIPTION Naked Flame
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20BBM%20-%20Around%20The%20Next%20Dream%20%5bExpanded%20Edition%5d/09.%20I%20Wonder%20Why%20%5bAre%20You%20So%20Mean%20To%20Me%5d.mp3:I Wonder Why [Are You So Mean To Me]
+#DESCRIPTION I Wonder Why [Are You So Mean To Me]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20BBM%20-%20Around%20The%20Next%20Dream%20%5bExpanded%20Edition%5d/10.%20Wrong%20Side%20Of%20Town.mp3:Wrong Side Of Town
+#DESCRIPTION Wrong Side Of Town
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20BBM%20-%20Around%20The%20Next%20Dream%20%5bExpanded%20Edition%5d/11.%20Danger%20Zone.mp3:Danger Zone
+#DESCRIPTION Danger Zone
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20BBM%20-%20Around%20The%20Next%20Dream%20%5bExpanded%20Edition%5d/12.%20The%20World%20Keeps%20On%20Turnin'.mp3:The World Keeps On Turnin'
+#DESCRIPTION The World Keeps On Turnin'
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20BBM%20-%20Around%20The%20Next%20Dream%20%5bExpanded%20Edition%5d/13.%20Sitting%20On%20Top%20Of%20The%20World%20%5bLive%5d.mp3:Sitting On Top Of The World [Live]
+#DESCRIPTION Sitting On Top Of The World [Live]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20BBM%20-%20Around%20The%20Next%20Dream%20%5bExpanded%20Edition%5d/14.%20I%20Wonder%20Why%20%5bAre%20You%20So%20Mean%20To%20Me%5d%20%5bLive%5d.mp3:I Wonder Why [Are You So Mean To Me] [Live]
+#DESCRIPTION I Wonder Why [Are You So Mean To Me] [Live]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20Corridors%20Of%20Power/01.%20Don't%20Take%20Me%20For%20A%20Loser.mp3:Don't Take Me For A Loser
+#DESCRIPTION Don't Take Me For A Loser
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20Corridors%20Of%20Power/02.%20Always%20Gonna%20Love%20You.mp3:Always Gonna Love You
+#DESCRIPTION Always Gonna Love You
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20Corridors%20Of%20Power/03.%20Wishing%20Well.mp3:Wishing Well
+#DESCRIPTION Wishing Well
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20Corridors%20Of%20Power/04.%20Gonna%20Break%20My%20Heart%20Again.mp3:Gonna Break My Heart Again
+#DESCRIPTION Gonna Break My Heart Again
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20Corridors%20Of%20Power/05.%20Falling%20In%20Love%20With%20You.mp3:Falling In Love With You
+#DESCRIPTION Falling In Love With You
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20Corridors%20Of%20Power/06.%20End%20Of%20The%20World.mp3:End Of The World
+#DESCRIPTION End Of The World
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20Corridors%20Of%20Power/07.%20Rockin'%20Every%20Night.mp3:Rockin' Every Night
+#DESCRIPTION Rockin' Every Night
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20Corridors%20Of%20Power/08.%20Cold%20Hearted.mp3:Cold Hearted
+#DESCRIPTION Cold Hearted
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20Corridors%20Of%20Power/09.%20I%20Can't%20Wait%20Until%20Tomorrow.mp3:I Can't Wait Until Tomorrow
+#DESCRIPTION I Can't Wait Until Tomorrow
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20Corridors%20Of%20Power/10.%20Falling%20In%20Love%20With%20You%20%5bRemix%5d.mp3:Falling In Love With You [Remix]
+#DESCRIPTION Falling In Love With You [Remix]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20Corridors%20Of%20Power/11.%20Falling%20In%20Love%20With%20You%20%5bRemix%20Instrumental%5d.mp3:Falling In Love With You [Remix Instrumental]
+#DESCRIPTION Falling In Love With You [Remix Instrumental]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20Corridors%20Of%20Power/12.%20Love%20Can%20Make%20A%20Fool%20Of%20You.mp3:Love Can Make A Fool Of You
+#DESCRIPTION Love Can Make A Fool Of You
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20Rockin'%20Every%20Night%20-%20Live%20In%20Japan/01.%20Rockin'%20Every%20Night.mp3:Rockin' Every Night
+#DESCRIPTION Rockin' Every Night
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20Rockin'%20Every%20Night%20-%20Live%20In%20Japan/02.%20Wishing%20Well.mp3:Wishing Well
+#DESCRIPTION Wishing Well
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20Rockin'%20Every%20Night%20-%20Live%20In%20Japan/03.%20I%20Can't%20Wait%20Until%20Tomorrow.mp3:I Can't Wait Until Tomorrow
+#DESCRIPTION I Can't Wait Until Tomorrow
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20Rockin'%20Every%20Night%20-%20Live%20In%20Japan/04.%20Nuclear%20Attack.mp3:Nuclear Attack
+#DESCRIPTION Nuclear Attack
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20Rockin'%20Every%20Night%20-%20Live%20In%20Japan/05.%20White%20Knuckles.mp3:White Knuckles
+#DESCRIPTION White Knuckles
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20Rockin'%20Every%20Night%20-%20Live%20In%20Japan/06.%20Rockin'%20And%20Rollin'.mp3:Rockin' And Rollin'
+#DESCRIPTION Rockin' And Rollin'
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20Rockin'%20Every%20Night%20-%20Live%20In%20Japan/07.%20Back%20On%20The%20Streets.mp3:Back On The Streets
+#DESCRIPTION Back On The Streets
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20Rockin'%20Every%20Night%20-%20Live%20In%20Japan/08.%20Sunset.mp3:Sunset
+#DESCRIPTION Sunset
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20Rockin'%20Every%20Night%20-%20Live%20In%20Japan/09.%20Back%20On%20The%20Streets.mp3:Back On The Streets
+#DESCRIPTION Back On The Streets
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20Rockin'%20Every%20Night%20-%20Live%20In%20Japan/10.%20Rockin'%20Every%20Night.mp3:Rockin' Every Night
+#DESCRIPTION Rockin' Every Night
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20Rockin'%20Every%20Night%20-%20Live%20In%20Japan/11.%20Parisienne%20Walkway.mp3:Parisienne Walkway
+#DESCRIPTION Parisienne Walkway
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20Run%20For%20Cover/01.%20Run%20For%20Cover.mp3:Run For Cover
+#DESCRIPTION Run For Cover
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20Run%20For%20Cover/02.%20Reach%20For%20The%20Sky.mp3:Reach For The Sky
+#DESCRIPTION Reach For The Sky
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20Run%20For%20Cover/03.%20Military%20Man.mp3:Military Man
+#DESCRIPTION Military Man
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20Run%20For%20Cover/04.%20Empty%20Rooms.mp3:Empty Rooms
+#DESCRIPTION Empty Rooms
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20Run%20For%20Cover/05.%20Out%20Of%20My%20System.mp3:Out Of My System
+#DESCRIPTION Out Of My System
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20Run%20For%20Cover/06.%20Out%20In%20The%20Fields.mp3:Out In The Fields
+#DESCRIPTION Out In The Fields
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20Run%20For%20Cover/07.%20Nothing%20To%20Lose.mp3:Nothing To Lose
+#DESCRIPTION Nothing To Lose
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20Run%20For%20Cover/08.%20Once%20In%20A%20Lifetime.mp3:Once In A Lifetime
+#DESCRIPTION Once In A Lifetime
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20Run%20For%20Cover/09.%20All%20Messed%20Up.mp3:All Messed Up
+#DESCRIPTION All Messed Up
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20Run%20For%20Cover/10.%20Listen%20To%20Your%20Heartbeat.mp3:Listen To Your Heartbeat
+#DESCRIPTION Listen To Your Heartbeat
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20Run%20For%20Cover/11.%20Still%20In%20Love%20With%20You.mp3:Still In Love With You
+#DESCRIPTION Still In Love With You
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20Run%20For%20Cover/12.%20Stop%20Messin'%20Around%20%5bLive%5d.mp3:Stop Messin' Around [Live]
+#DESCRIPTION Stop Messin' Around [Live]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20Run%20For%20Cover/13.%20Murder%20In%20The%20Skies%20%5bLive%5d.mp3:Murder In The Skies [Live]
+#DESCRIPTION Murder In The Skies [Live]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20We%20Want%20Moore!/01.%20Murder%20In%20The%20Skies.mp3:Murder In The Skies
+#DESCRIPTION Murder In The Skies
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20We%20Want%20Moore!/02.%20Shapes%20Of%20Things.mp3:Shapes Of Things
+#DESCRIPTION Shapes Of Things
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20We%20Want%20Moore!/03.%20Victims%20Of%20The%20Future.mp3:Victims Of The Future
+#DESCRIPTION Victims Of The Future
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20We%20Want%20Moore!/04.%20Cold%20Hearted.mp3:Cold Hearted
+#DESCRIPTION Cold Hearted
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20We%20Want%20Moore!/05.%20End%20Of%20The%20World.mp3:End Of The World
+#DESCRIPTION End Of The World
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20We%20Want%20Moore!/06.%20Back%20On%20The%20Streets.mp3:Back On The Streets
+#DESCRIPTION Back On The Streets
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20We%20Want%20Moore!/07.%20So%20Far%20Away.mp3:So Far Away
+#DESCRIPTION So Far Away
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20We%20Want%20Moore!/08.%20Empty%20Rooms.mp3:Empty Rooms
+#DESCRIPTION Empty Rooms
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20We%20Want%20Moore!/09.%20Don't%20Take%20Me%20For%20A%20Loser.mp3:Don't Take Me For A Loser
+#DESCRIPTION Don't Take Me For A Loser
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20We%20Want%20Moore!/10.%20Rockin'%20And%20Rollin'.mp3:Rockin' And Rollin'
+#DESCRIPTION Rockin' And Rollin'
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20We%20Want%20Moore!/11.%20Parisienne%20Walkways.mp3:Parisienne Walkways
+#DESCRIPTION Parisienne Walkways
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20Wild%20Frontier/01.%20Over%20The%20Hills%20And%20Far%20Away.mp3:Over The Hills And Far Away
+#DESCRIPTION Over The Hills And Far Away
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20Wild%20Frontier/02.%20Wild%20Frontier.mp3:Wild Frontier
+#DESCRIPTION Wild Frontier
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20Wild%20Frontier/03.%20Take%20A%20Little%20Time.mp3:Take A Little Time
+#DESCRIPTION Take A Little Time
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20Wild%20Frontier/04.%20The%20Loner.mp3:The Loner
+#DESCRIPTION The Loner
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20Wild%20Frontier/05.%20Friday%20On%20My%20Mind.mp3:Friday On My Mind
+#DESCRIPTION Friday On My Mind
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20Wild%20Frontier/06.%20Stranger%20In%20The%20Darkness.mp3:Stranger In The Darkness
+#DESCRIPTION Stranger In The Darkness
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20Wild%20Frontier/07.%20Thunder%20Rising.mp3:Thunder Rising
+#DESCRIPTION Thunder Rising
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20Wild%20Frontier/08.%20Johnny%20Boy.mp3:Johnny Boy
+#DESCRIPTION Johnny Boy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20Wild%20Frontier/09.%20Over%20The%20Hills%20And%20Far%20Away%20%5b12''%20Version%5d.mp3:Over The Hills And Far Away [12'' Version]
+#DESCRIPTION Over The Hills And Far Away [12'' Version]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20Wild%20Frontier/10.%20Wild%20Frontier%20%5b12''%20Version%5d.mp3:Wild Frontier [12'' Version]
+#DESCRIPTION Wild Frontier [12'' Version]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20Wild%20Frontier/11.%20Crying%20In%20The%20Shadows.mp3:Crying In The Shadows
+#DESCRIPTION Crying In The Shadows
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20Wild%20Frontier/12.%20The%20Loner%20%5bExtended%20Mix%5d.mp3:The Loner [Extended Mix]
+#DESCRIPTION The Loner [Extended Mix]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20Wild%20Frontier/13.%20Friday%20In%20My%20Mind%20%5b12''%20Version%5d.mp3:Friday In My Mind [12'' Version]
+#DESCRIPTION Friday In My Mind [12'' Version]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2003%20-%20Wild%20Frontier/14.%20Out%20In%20The%20Fields%20%5bLive%5d.mp3:Out In The Fields [Live]
+#DESCRIPTION Out In The Fields [Live]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2005%20-%20Grinding%20Stone/01.%20Grinding%20Stone.mp3:Grinding Stone
+#DESCRIPTION Grinding Stone
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2005%20-%20Grinding%20Stone/02.%20Time%20To%20Heal.mp3:Time To Heal
+#DESCRIPTION Time To Heal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2005%20-%20Grinding%20Stone/03.%20Sail%20Across%20The%20Mountain.mp3:Sail Across The Mountain
+#DESCRIPTION Sail Across The Mountain
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2005%20-%20Grinding%20Stone/04.%20The%20Energy%20Dance.mp3:The Energy Dance
+#DESCRIPTION The Energy Dance
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2005%20-%20Grinding%20Stone/05.%20Spirit.mp3:Spirit
+#DESCRIPTION Spirit
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2005%20-%20Grinding%20Stone/06.%20Boogie%20My%20Way%20Back%20Home.mp3:Boogie My Way Back Home
+#DESCRIPTION Boogie My Way Back Home
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2008%20-%20Run%20For%20Cover/01.%20Run%20For%20Cover.mp3:Run For Cover
+#DESCRIPTION Run For Cover
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2008%20-%20Run%20For%20Cover/02.%20Reach%20For%20The%20Sky.mp3:Reach For The Sky
+#DESCRIPTION Reach For The Sky
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2008%20-%20Run%20For%20Cover/03.%20Military%20Man.mp3:Military Man
+#DESCRIPTION Military Man
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2008%20-%20Run%20For%20Cover/04.%20Empty%20Rooms%20%5b'85%20Version%5d.mp3:Empty Rooms ['Version]
+#DESCRIPTION Empty Rooms ['Version]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2008%20-%20Run%20For%20Cover/05.%20Out%20Of%20My%20System.mp3:Out Of My System
+#DESCRIPTION Out Of My System
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2008%20-%20Run%20For%20Cover/06.%20Out%20In%20The%20Fields.mp3:Out In The Fields
+#DESCRIPTION Out In The Fields
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2008%20-%20Run%20For%20Cover/07.%20Nothing%20To%20Lose.mp3:Nothing To Lose
+#DESCRIPTION Nothing To Lose
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2008%20-%20Run%20For%20Cover/08.%20Once%20In%20A%20Lifetime.mp3:Once In A Lifetime
+#DESCRIPTION Once In A Lifetime
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2008%20-%20Run%20For%20Cover/09.%20All%20Messed%20Up.mp3:All Messed Up
+#DESCRIPTION All Messed Up
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2008%20-%20Run%20For%20Cover/10.%20Listen%20To%20Your%20Heartbeat.mp3:Listen To Your Heartbeat
+#DESCRIPTION Listen To Your Heartbeat
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2008%20-%20Run%20For%20Cover/11.%20Still%20In%20Love%20With%20You.mp3:Still In Love With You
+#DESCRIPTION Still In Love With You
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2008%20-%20Run%20For%20Cover/12.%20Stop%20Messin'%20Around%20%5bLive%5d.mp3:Stop Messin' Around [Live]
+#DESCRIPTION Stop Messin' Around [Live]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2008%20-%20Run%20For%20Cover/13.%20Murder%20In%20The%20Skies%20%5bLive%5d.mp3:Murder In The Skies [Live]
+#DESCRIPTION Murder In The Skies [Live]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2008%20-%20Spanish%20Guitar/01.%20Back%20On%20The%20Streets.mp3:Back On The Streets
+#DESCRIPTION Back On The Streets
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2008%20-%20Spanish%20Guitar/02.%20Fanatical%20Fascists.mp3:Fanatical Fascists
+#DESCRIPTION Fanatical Fascists
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2008%20-%20Spanish%20Guitar/03.%20Don't%20Believe%20A%20Word.mp3:Don't Believe A Word
+#DESCRIPTION Don't Believe A Word
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2008%20-%20Spanish%20Guitar/04.%20Spanish%20Guitar%20%5bPhilip%20Lynott%20Vocal%5d.mp3:Spanish Guitar [Philip Lynott Vocal]
+#DESCRIPTION Spanish Guitar [Philip Lynott Vocal]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2008%20-%20Spanish%20Guitar/05.%20Parisienne%20Walkways.mp3:Parisienne Walkways
+#DESCRIPTION Parisienne Walkways
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2008%20-%20Spanish%20Guitar/06.%20Put%20It%20This%20Way.mp3:Put It This Way
+#DESCRIPTION Put It This Way
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2008%20-%20Spanish%20Guitar/07.%20Desperado.mp3:Desperado
+#DESCRIPTION Desperado
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2008%20-%20Spanish%20Guitar/08.%20Castles.mp3:Castles
+#DESCRIPTION Castles
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2008%20-%20Spanish%20Guitar/09.%20Fighting%20Talk.mp3:Fighting Talk
+#DESCRIPTION Fighting Talk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2008%20-%20Spanish%20Guitar/10.%20The%20Scorch.mp3:The Scorch
+#DESCRIPTION The Scorch
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2008%20-%20Spanish%20Guitar/11.%20Spanish%20Guitar%20%5bGary%20Moore%20Vocal%5d.mp3:Spanish Guitar [Gary Moore Vocal]
+#DESCRIPTION Spanish Guitar [Gary Moore Vocal]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2008%20-%20Spanish%20Guitar/12.%20Spanish%20Guitar%20%5bInstrumental%5d.mp3:Spanish Guitar [Instrumental]
+#DESCRIPTION Spanish Guitar [Instrumental]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2008%20-%20Wild%20Frontier/01.%20Over%20The%20Hills%20And%20Far%20Away.mp3:Over The Hills And Far Away
+#DESCRIPTION Over The Hills And Far Away
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2008%20-%20Wild%20Frontier/02.%20Wild%20Frontier.mp3:Wild Frontier
+#DESCRIPTION Wild Frontier
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2008%20-%20Wild%20Frontier/03.%20Take%20A%20Little%20Time.mp3:Take A Little Time
+#DESCRIPTION Take A Little Time
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2008%20-%20Wild%20Frontier/04.%20The%20Loner.mp3:The Loner
+#DESCRIPTION The Loner
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2008%20-%20Wild%20Frontier/05.%20Friday%20On%20My%20Mind.mp3:Friday On My Mind
+#DESCRIPTION Friday On My Mind
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2008%20-%20Wild%20Frontier/06.%20Strangers%20In%20The%20Darkness.mp3:Strangers In The Darkness
+#DESCRIPTION Strangers In The Darkness
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2008%20-%20Wild%20Frontier/07.%20Thunder%20Rising.mp3:Thunder Rising
+#DESCRIPTION Thunder Rising
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2008%20-%20Wild%20Frontier/08.%20Johnny%20Boy.mp3:Johnny Boy
+#DESCRIPTION Johnny Boy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2008%20-%20Wild%20Frontier/09.%20Over%20The%20Hills%20And%20Far%20Away%20%5b12''%20Version%5d.mp3:Over The Hills And Far Away [12'' Version]
+#DESCRIPTION Over The Hills And Far Away [12'' Version]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2008%20-%20Wild%20Frontier/10.%20Wild%20Frontier%20%5b12''%20Version%5d.mp3:Wild Frontier [12'' Version]
+#DESCRIPTION Wild Frontier [12'' Version]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2008%20-%20Wild%20Frontier/11.%20Crying%20In%20The%20Shadows.mp3:Crying In The Shadows
+#DESCRIPTION Crying In The Shadows
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2008%20-%20Wild%20Frontier/12.%20The%20Loner%20%5bExtended%20Mix%5d.mp3:The Loner [Extended Mix]
+#DESCRIPTION The Loner [Extended Mix]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2008%20-%20Wild%20Frontier/13.%20Friday%20On%20My%20Mind%20%5b12''%20Version%5d.mp3:Friday On My Mind [12'' Version]
+#DESCRIPTION Friday On My Mind [12'' Version]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2008%20-%20Wild%20Frontier/14.%20Out%20In%20The%20Fields%20%5bLive%5d.mp3:Out In The Fields [Live]
+#DESCRIPTION Out In The Fields [Live]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2010%20-%20White%20Knuckles/01.%20Nuclear%20Attack.mp3:Nuclear Attack
+#DESCRIPTION Nuclear Attack
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2010%20-%20White%20Knuckles/02.%20White%20Knuckles%20-%20Rockin'%20&amp;%20Rollin'.mp3:White Knuckles    Rockin' & Rollin'
+#DESCRIPTION White Knuckles    Rockin' & Rollin'
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2010%20-%20White%20Knuckles/03.%20Run%20To%20Your%20Mama%20%5bLive%5d.mp3:Run To Your Mama [Live]
+#DESCRIPTION Run To Your Mama [Live]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2010%20-%20White%20Knuckles/04.%20You.mp3:You
+#DESCRIPTION You
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2010%20-%20White%20Knuckles/05.%20Dirty%20Fingers.mp3:Dirty Fingers
+#DESCRIPTION Dirty Fingers
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2010%20-%20White%20Knuckles/06.%20Parisienne%20Walkways%20%5bLive%5d.mp3:Parisienne Walkways [Live]
+#DESCRIPTION Parisienne Walkways [Live]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2010%20-%20White%20Knuckles/07.%20Really%20Gonna%20Rock.mp3:Really Gonna Rock
+#DESCRIPTION Really Gonna Rock
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2010%20-%20White%20Knuckles/08.%20Hiroshima.mp3:Hiroshima
+#DESCRIPTION Hiroshima
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2010%20-%20White%20Knuckles/09.%20You%20Kissed%20Me%20Sweetly.mp3:You Kissed Me Sweetly
+#DESCRIPTION You Kissed Me Sweetly
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2010%20-%20White%20Knuckles/10.%20Dancin'.mp3:Dancin'
+#DESCRIPTION Dancin'
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2010%20-%20White%20Knuckles/11.%20Hot%20Gossip.mp3:Hot Gossip
+#DESCRIPTION Hot Gossip
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2010%20-%20White%20Knuckles/12.%20She's%20Got%20You%20%5bLive%5d.mp3:She's Got You [Live]
+#DESCRIPTION She's Got You [Live]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2013%20-%20Back%20On%20The%20Streets/01.%20Back%20On%20The%20Streets.mp3:Back On The Streets
+#DESCRIPTION Back On The Streets
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2013%20-%20Back%20On%20The%20Streets/02.%20Don't%20Believe%20A%20Word.mp3:Don't Believe A Word
+#DESCRIPTION Don't Believe A Word
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2013%20-%20Back%20On%20The%20Streets/03.%20Fanatical%20Fascists.mp3:Fanatical Fascists
+#DESCRIPTION Fanatical Fascists
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2013%20-%20Back%20On%20The%20Streets/04.%20Flight%20Of%20The%20Snow%20Moose.mp3:Flight Of The Snow Moose
+#DESCRIPTION Flight Of The Snow Moose
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2013%20-%20Back%20On%20The%20Streets/05.%20Hurricane.mp3:Hurricane
+#DESCRIPTION Hurricane
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2013%20-%20Back%20On%20The%20Streets/06.%20Song%20For%20Donna.mp3:Song For Donna
+#DESCRIPTION Song For Donna
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2013%20-%20Back%20On%20The%20Streets/07.%20What%20Would%20You%20Rather%20Bee%20Or%20A%20Wasp.mp3:What Would You Rather Bee Or A Wasp
+#DESCRIPTION What Would You Rather Bee Or A Wasp
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2013%20-%20Back%20On%20The%20Streets/08.%20Parisienne%20Walkways.mp3:Parisienne Walkways
+#DESCRIPTION Parisienne Walkways
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2013%20-%20Back%20On%20The%20Streets/09.%20Track%20Nine.mp3:Track Nine
+#DESCRIPTION Track Nine
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2013%20-%20Back%20On%20The%20Streets/10.%20Spanish%20Guitar%20%5bPhil%20Lynott%20-%20Vocals%5d.mp3:Spanish Guitar [Phil Lynott    Vocals]
+#DESCRIPTION Spanish Guitar [Phil Lynott    Vocals]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2013%20-%20Back%20On%20The%20Streets/11.%20Spanish%20Guitar%20%5bGary%20Moore%20-%20Vocals%5d.mp3:Spanish Guitar [Gary Moore    Vocals]
+#DESCRIPTION Spanish Guitar [Gary Moore    Vocals]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2013%20-%20Back%20On%20The%20Streets/12.%20Spanish%20Guitar%20%5bInstrumental%5d.mp3:Spanish Guitar [Instrumental]
+#DESCRIPTION Spanish Guitar [Instrumental]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2016%20-%20Wild%20Frontier/01.%20Over%20The%20Hills%20And%20Far%20Away.mp3:Over The Hills And Far Away
+#DESCRIPTION Over The Hills And Far Away
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2016%20-%20Wild%20Frontier/02.%20Wild%20Frontier.mp3:Wild Frontier
+#DESCRIPTION Wild Frontier
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2016%20-%20Wild%20Frontier/03.%20Take%20A%20Little%20Time.mp3:Take A Little Time
+#DESCRIPTION Take A Little Time
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2016%20-%20Wild%20Frontier/04.%20The%20Loner.mp3:The Loner
+#DESCRIPTION The Loner
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2016%20-%20Wild%20Frontier/05.%20Friday%20On%20My%20Mind.mp3:Friday On My Mind
+#DESCRIPTION Friday On My Mind
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2016%20-%20Wild%20Frontier/06.%20Strangers%20In%20The%20Darkness.mp3:Strangers In The Darkness
+#DESCRIPTION Strangers In The Darkness
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2016%20-%20Wild%20Frontier/07.%20Thunder%20Rising.mp3:Thunder Rising
+#DESCRIPTION Thunder Rising
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2016%20-%20Wild%20Frontier/08.%20Johnny%20Boy.mp3:Johnny Boy
+#DESCRIPTION Johnny Boy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2016%20-%20Wild%20Frontier/09.%20Over%20The%20Hills%20And%20Far%20Away%20%5b12''%20Version%5d.mp3:Over The Hills And Far Away [12'' Version]
+#DESCRIPTION Over The Hills And Far Away [12'' Version]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2016%20-%20Wild%20Frontier/10.%20Wild%20Frontier%20%5b12'%20Version%5d.mp3:Wild Frontier [12' Version]
+#DESCRIPTION Wild Frontier [12' Version]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2016%20-%20Wild%20Frontier/11.%20Crying%20In%20The%20Shadows.mp3:Crying In The Shadows
+#DESCRIPTION Crying In The Shadows
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2016%20-%20Wild%20Frontier/12.%20The%20Loner%20%5bExtended%20Mix%5d.mp3:The Loner [Extended Mix]
+#DESCRIPTION The Loner [Extended Mix]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2016%20-%20Wild%20Frontier/13.%20Friday%20On%20My%20Mind%20%5b12''%20Version%5d.mp3:Friday On My Mind [12'' Version]
+#DESCRIPTION Friday On My Mind [12'' Version]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Gary%20Moore/04%20-%20Remastered%20Edition/2016%20-%20Wild%20Frontier/14.%20Out%20In%20The%20Fields%20%5bLive%5d.mp3:Out In The Fields [Live]
+#DESCRIPTION Out In The Fields [Live]

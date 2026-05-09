@@ -1,0 +1,257 @@
+#NAME CiefpSettings IPTV Trance Mix 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Anthems%202008/CD1/05%20Not%20Over%20Yet%20(Perfecto%20Mix).mp3:Not Over Yet (Perfecto Mix)
+#DESCRIPTION Not Over Yet (Perfecto Mix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Anthems%202008/CD1/11%20Pitchin.mp3:Pitchin
+#DESCRIPTION Pitchin
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Anthems%202008/CD1/13%20Passion.mp3:Passion
+#DESCRIPTION Passion
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Anthems%202008/CD1/14%201998.mp3:1998
+#DESCRIPTION 1998
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Anthems%202008/CD1/20%20Children.mp3:Children
+#DESCRIPTION Children
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Anthems%202008/CD2/06%20Bullit%20In%20A%20Gun.mp3:Bullit In A Gun
+#DESCRIPTION Bullit In A Gun
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Anthems%202008/CD2/11%20Bellissima.mp3:Bellissima
+#DESCRIPTION Bellissima
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Anthems%202008/CD2/19%20Greece%202000.mp3:Greece 2000
+#DESCRIPTION Greece 2000
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Anthems%202008/CD3/01%20Tocas%20Miracle%2008%20(Inpetto%20Uk%20R.mp3:Tocas Miracle (Inpetto Uk R
+#DESCRIPTION Tocas Miracle (Inpetto Uk R
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Anthems%202008/CD3/05%20Walk%20On%20Water%20(H20%20Extended%20Mi.mp3:Walk On Water (HExtended Mi
+#DESCRIPTION Walk On Water (HExtended Mi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Anthems%202008/CD3/07%20Castles%20In%20The%20Sky.mp3:Castles In The Sky
+#DESCRIPTION Castles In The Sky
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Anthems%202008/CD3/08%20Into%20The%20Night.mp3:Into The Night
+#DESCRIPTION Into The Night
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Anthems%202008/CD3/09%20I%20Need%20Your%20Lovin.mp3:I Need Your Lovin
+#DESCRIPTION I Need Your Lovin
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Anthems%202008/CD3/11%20Dance4life.mp3:Dance4life
+#DESCRIPTION Dance4life
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Anthems%202008/CD3/14%20Into%20The%20Dark%20(Ferry%20Fix).mp3:Into The Dark (Ferry Fix)
+#DESCRIPTION Into The Dark (Ferry Fix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Anthems%202008/CD4/03%20The%20Vision.mp3:The Vision
+#DESCRIPTION The Vision
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Anthems%202008/CD4/06%20I%20Feel%20Love.mp3:I Feel Love
+#DESCRIPTION I Feel Love
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Anthems%202008/CD4/08%20Shivers.mp3:Shivers
+#DESCRIPTION Shivers
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Anthems%202008/CD4/16%20Why%20Does%20My%20Heart%20Feel%20So%20Bad.mp3:Why Does My Heart Feel So Bad
+#DESCRIPTION Why Does My Heart Feel So Bad
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Anthems%202008/CD4/19%20Time%20Of%20Our%20Lives%20(Paul%20Van%20Dy.mp3:Time Of Our Lives (Paul Van Dy
+#DESCRIPTION Time Of Our Lives (Paul Van Dy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Anthems%202008/CD5/01%20Adagio%20For%20Strings.mp3:Adagio For Strings
+#DESCRIPTION Adagio For Strings
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Anthems%202008/CD5/03%20Back%20To%20Call%20(P.u.s.h.%20Remix).mp3:Back To Call (P.u.s.h. Remix)
+#DESCRIPTION Back To Call (P.u.s.h. Remix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Anthems%202008/CD5/07%20La.mp3:La
+#DESCRIPTION La
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Anthems%202008/CD5/08%20Timerider%20(Lange%20Remix).mp3:Timerider (Lange Remix)
+#DESCRIPTION Timerider (Lange Remix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Anthems%202008/CD5/10%20Dark%20Side%20Of%20The%20Moon.mp3:Dark Side Of The Moon
+#DESCRIPTION Dark Side Of The Moon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Anthems%202008/CD5/13%20Till%20Tears%20Do%20Us%20Part%20(Flash%20H.mp3:Till Tears Do Us Part (Flash H
+#DESCRIPTION Till Tears Do Us Part (Flash H
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Anthems%202008/CD5/15%20The%20Dawn%20(Bryan%20Kearney%20Remix).mp3:The Dawn (Bryan Kearney Remix)
+#DESCRIPTION The Dawn (Bryan Kearney Remix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Anthems%202008/CD6/02%20Iguana%20(Blank%20And%20Jones%20Remix).mp3:Iguana (Blank And Jones Remix)
+#DESCRIPTION Iguana (Blank And Jones Remix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Anthems%202008/CD6/04%20Like%20A%20Cat%20(Tillmann%20Uhrmacher.mp3:Like A Cat (Tillmann Uhrmacher
+#DESCRIPTION Like A Cat (Tillmann Uhrmacher
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Anthems%202008/CD6/07%20The%20Bass.mp3:The Bass
+#DESCRIPTION The Bass
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Anthems%202008/CD6/09%20Turn%20It%20Around%20(DJ%204%20Strings%20V.mp3:Turn It Around (DJ Strings V
+#DESCRIPTION Turn It Around (DJ Strings V
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Anthems%202008/CD6/11%20A%20Feeling%20(Technikal%20Vocal%20Mix.mp3:A Feeling (Technikal Vocal Mix
+#DESCRIPTION A Feeling (Technikal Vocal Mix
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Battle%20Episode%2001/CD1/01%20Tommorrow.mp3:Tommorrow
+#DESCRIPTION Tommorrow
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Battle%20Episode%2001/CD1/02%20Trance%20Will%20Never%20Die%20(White%20E.mp3:Trance Will Never Die (White E
+#DESCRIPTION Trance Will Never Die (White E
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Battle%20Episode%2001/CD1/11%20Realize.mp3:Realize
+#DESCRIPTION Realize
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Battle%20Episode%2001/CD1/12%20Reflections%20Of%20Passion%20(Villa.mp3:Reflections Of Passion (Villa
+#DESCRIPTION Reflections Of Passion (Villa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Battle%20Episode%2001/CD1/17%20Passion.mp3:Passion
+#DESCRIPTION Passion
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Battle%20Episode%2001/CD1/20%20Evolution.mp3:Evolution
+#DESCRIPTION Evolution
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Battle%20Episode%2001/CD2/05%20Iceland.mp3:Iceland
+#DESCRIPTION Iceland
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Battle%20Episode%2001/CD2/06%20Morris%20(White%20Label).mp3:Morris (White Label)
+#DESCRIPTION Morris (White Label)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Battle%20Episode%2001/CD2/09%20It's%20A%20Dream.mp3:It's A Dream
+#DESCRIPTION It's A Dream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Battle%20Episode%2001/CD2/10%20Icebreaker.mp3:Icebreaker
+#DESCRIPTION Icebreaker
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Classics%20Top%20100/CD1/06%20-%20Luvstruck%20-%20Southside%20Spinners.mp3:Luvstruck    Southside Spinners
+#DESCRIPTION Luvstruck    Southside Spinners
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Classics%20Top%20100/CD1/09%20-%20Love%20Stimulation%20(Love%20Mix)%20-%20Humate.mp3:Love Stimulation (Love Mix)    Humate
+#DESCRIPTION Love Stimulation (Love Mix)    Humate
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Classics%20Top%20100/CD1/10%20-%20Aira%20Force%20-%20Arrakis.mp3:Aira Force    Arrakis
+#DESCRIPTION Aira Force    Arrakis
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Classics%20Top%20100/CD1/11%20-%20Shamu%20-%20Vincent%20De%20Moor.mp3:Shamu    Vincent De Moor
+#DESCRIPTION Shamu    Vincent De Moor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Classics%20Top%20100/CD1/19%20-%20L'Annonce%20Des%20Couleurs%20-%20Mac%20Zimms.mp3:L'Annonce Des Couleurs    Mac Zimms
+#DESCRIPTION L'Annonce Des Couleurs    Mac Zimms
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Classics%20Top%20100/CD1/20%20-%20Madagascar%20(ferry%20Corsten%20Remix)%20-%20Art%20Of%20Trance.mp3:Madagascar (ferry Corsten Remix)    Art Of Trance
+#DESCRIPTION Madagascar (ferry Corsten Remix)    Art Of Trance
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Classics%20Top%20100/CD1/22%20-%20The%20Beauty%20Of%20Silence%20-%20Svenson%20&amp;%20Gielen.mp3:The Beauty Of Silence    Svenson & Gielen
+#DESCRIPTION The Beauty Of Silence    Svenson & Gielen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Classics%20Top%20100/CD2/03%20-%20Higher%20&amp;%20Higher%20-%20DJ%20Jurgen.mp3:Higher & Higher    DJ Jurgen
+#DESCRIPTION Higher & Higher    DJ Jurgen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Classics%20Top%20100/CD2/11%20-%20Communication%20-%20Armin%20Vn%20Buuren.mp3:Communication    Armin Vn Buuren
+#DESCRIPTION Communication    Armin Vn Buuren
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Classics%20Top%20100/CD2/21%20-%20Flight%20643%20-%20DJ%20Tiesto.mp3:Flight    DJ Tiesto
+#DESCRIPTION Flight    DJ Tiesto
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Classics%20Top%20100/CD2/23%20-%20Apache%20-%20Starfighter.mp3:Apache    Starfighter
+#DESCRIPTION Apache    Starfighter
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Classics%20Top%20100/CD2/24%20-%20The%20Orange%20Theme%20-%20Cygnus%20X.mp3:The Orange Theme    Cygnus X
+#DESCRIPTION The Orange Theme    Cygnus X
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Classics%20Top%20100/CD3/01%20-%20Galaxia%20-%20Moonman.mp3:Galaxia    Moonman
+#DESCRIPTION Galaxia    Moonman
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Classics%20Top%20100/CD3/05%20-%20Cafe%20Del%20Mar%20(Three%20'n'%20One%20Remix)%20-%20Energy%2052.mp3:Cafe Del Mar (Three 'n' One Remix)    Energy 52
+#DESCRIPTION Cafe Del Mar (Three 'n' One Remix)    Energy 52
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Classics%20Top%20100/CD3/14%20-%20Anglia%20-%20Out%20Of%20Grace.mp3:Anglia    Out Of Grace
+#DESCRIPTION Anglia    Out Of Grace
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Classics%20Top%20100/CD3/22%20-%20Mindsensations%20-%20Sidewinder.mp3:Mindsensations    Sidewinder
+#DESCRIPTION Mindsensations    Sidewinder
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Classics%20Top%20100/CD4/03%20-%20Another%20Way%20-%20Paul%20Van%20Dyk.mp3:Another Way    Paul Van Dyk
+#DESCRIPTION Another Way    Paul Van Dyk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Classics%20Top%20100/CD4/07%20-%20Coming%20On%20Strong%20-%20Signum.mp3:Coming On Strong    Signum
+#DESCRIPTION Coming On Strong    Signum
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Classics%20Top%20100/CD4/08%20-%20Paul%20Van%20Dyk%20-%20Forbidden%20Fruit%20(Fruit%20Of%20Love%20Mix).mp3:Paul Van Dyk    Forbidden Fruit (Fruit Of Love Mix)
+#DESCRIPTION Paul Van Dyk    Forbidden Fruit (Fruit Of Love Mix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Classics%20Top%20100/CD4/09%20-%20Morninglight%20-%20Team%20Deep.mp3:Morninglight    Team Deep
+#DESCRIPTION Morninglight    Team Deep
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Classics%20Top%20100/CD4/10%20-%20Breathe%20(Cygnus%20X%20mix)%20-%20Art%20Of%20Trance.mp3:Breathe (Cygnus X mix)    Art Of Trance
+#DESCRIPTION Breathe (Cygnus X mix)    Art Of Trance
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Classics%20Top%20100/CD4/11%20-%20Such%20Is%20Life%20-%20Rank%201.mp3:Such Is Life    Rank 1
+#DESCRIPTION Such Is Life    Rank 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Classics%20Top%20100/CD4/14%20-%20Moonflight%20-%20Green%20Court.mp3:Moonflight    Green Court
+#DESCRIPTION Moonflight    Green Court
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Classics%20Top%20100/CD4/21%20-%20Flash%20-%20BBE.mp3:Flash    BBE
+#DESCRIPTION Flash    BBE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Classics%20Top%20100/CD4/23%20-%20The%20Spice%20-%20Arrakis.mp3:The Spice    Arrakis
+#DESCRIPTION The Spice    Arrakis
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Escape/Trance%20Escape%202/02%20Mario%20Lopez%20&amp;%20RED%20SECTOR%20-%20Into%20My%20Brain.mp3:Mario Lopez & RED SECTOR    Into My Brain
+#DESCRIPTION Mario Lopez & RED SECTOR    Into My Brain
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Escape/Trance%20Escape%202/04%20Karuma%20-%20On%20y%20va%20(DJ%20Tandu%20vs%20Mind-X%20Mix).mp3:Karuma    On y va (DJ Tandu vs Mind  X Mix)
+#DESCRIPTION Karuma    On y va (DJ Tandu vs Mind  X Mix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Escape/Trance%20Escape%202/05%20Tekknova%20-%20Dancin%20in%20outer%20space.mp3:Tekknova    Dancin in outer space
+#DESCRIPTION Tekknova    Dancin in outer space
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Escape/Trance%20Escape%202/08%20Van%20Gott%20-%20World%20of%20life.mp3:Van Gott    World of life
+#DESCRIPTION Van Gott    World of life
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Escape/Trance%20Escape%202/10%20DJ%20Jan%20-%20X-Santo%20(The%20Year%202000).mp3:DJ Jan    X  Santo (The Year 2000)
+#DESCRIPTION DJ Jan    X  Santo (The Year 2000)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Escape/Trance%20Escape%202/14%20G-2000%20-%20Millenium%20(DJ%20Alici%20Mix).mp3:G     Millenium (DJ Alici Mix)
+#DESCRIPTION G     Millenium (DJ Alici Mix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Escape/Trance%20Escape%204/02%20-%20Square%20-%20Nova%20(D%60Tec%20Mix).mp3:Square    Nova (D`Tec Mix)
+#DESCRIPTION Square    Nova (D`Tec Mix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Escape/Trance%20Escape%204/05%20-%20Sergio%20Ercolino%20-%20Out%20There%20(blue).mp3:Sergio Ercolino    Out There (blue)
+#DESCRIPTION Sergio Ercolino    Out There (blue)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Escape/Trance%20Escape%204/11%20-%20Intoxica%20-%20Heavensent%20(Collusion%20Rmx).mp3:Intoxica    Heavensent (Collusion Rmx)
+#DESCRIPTION Intoxica    Heavensent (Collusion Rmx)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Trance%20Escape/Trance%20Escape%204/12%20-%20Dj%20Hitch%20Hiker%20-%20Show%20me%20Heaven%20(Dan%20Dillon%20C.mp3:Dj Hitch Hiker    Show me Heaven (Dan Dillon C
+#DESCRIPTION Dj Hitch Hiker    Show me Heaven (Dan Dillon C
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Tunnel%20goes%20Ibiza%202001/cd1%20at%20the%20beach/01%20dj's,%20fans,%20freaks%20-%20blank%20&amp;%20jones.mp3:dj's fans freaks    blank & jones
+#DESCRIPTION dj's fans freaks    blank & jones
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Tunnel%20goes%20Ibiza%202001/cd1%20at%20the%20beach/02%20blind%20-%20mario%20lopez.mp3:blind    mario lopez
+#DESCRIPTION blind    mario lopez
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Tunnel%20goes%20Ibiza%202001/cd1%20at%20the%20beach/03%20never%20look%20back%20-%20dumonde.mp3:never look back    dumonde
+#DESCRIPTION never look back    dumonde
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Tunnel%20goes%20Ibiza%202001/cd1%20at%20the%20beach/04%20melt%20to%20the%20ocean%20-%20cosmic%20gate.mp3:melt to the ocean    cosmic gate
+#DESCRIPTION melt to the ocean    cosmic gate
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Tunnel%20goes%20Ibiza%202001/cd1%20at%20the%20beach/05%20trip%20to%20africa%20-%20session%20one%20meets%20manuel%20oettl.mp3:trip to africa    session one meets manuel oettl
+#DESCRIPTION trip to africa    session one meets manuel oettl
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Tunnel%20goes%20Ibiza%202001/cd1%20at%20the%20beach/06%20someday%20-%20djs%20@%20work.mp3:someday    djs @ work
+#DESCRIPTION someday    djs @ work
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Tunnel%20goes%20Ibiza%202001/cd1%20at%20the%20beach/07%20tides%20of%20time%20-%20dj%20shah%20feat.%20no%20iron.mp3:tides of time    dj shah feat. no iron
+#DESCRIPTION tides of time    dj shah feat. no iron
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Tunnel%20goes%20Ibiza%202001/cd1%20at%20the%20beach/08%20galaxy%20of%20time%20-%20d-lution.mp3:galaxy of time    d  lution
+#DESCRIPTION galaxy of time    d  lution
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Tunnel%20goes%20Ibiza%202001/cd1%20at%20the%20beach/09%20kathy's%20song%20-%20apoptygma-berzerk.mp3:kathy's song    apoptygma  berzerk
+#DESCRIPTION kathy's song    apoptygma  berzerk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Tunnel%20goes%20Ibiza%202001/cd1%20at%20the%20beach/10%20virus%20x%20-%20skr%20309.mp3:virus x    skr 309
+#DESCRIPTION virus x    skr 309
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Tunnel%20goes%20Ibiza%202001/cd1%20at%20the%20beach/11%20turn%20the%20tides%20-%20sylver.mp3:turn the tides    sylver
+#DESCRIPTION turn the tides    sylver
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Tunnel%20goes%20Ibiza%202001/cd1%20at%20the%20beach/12%20night%20in%20motion%20-%20nostrum.mp3:night in motion    nostrum
+#DESCRIPTION night in motion    nostrum
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Tunnel%20goes%20Ibiza%202001/cd1%20at%20the%20beach/13%20listen%20to%20the%20sound%20-%20hardenbrook.mp3:listen to the sound    hardenbrook
+#DESCRIPTION listen to the sound    hardenbrook
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Tunnel%20goes%20Ibiza%202001/cd1%20at%20the%20beach/14%20groovebird%20-%20clan%20dj%20team.mp3:groovebird    clan dj team
+#DESCRIPTION groovebird    clan dj team
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Tunnel%20goes%20Ibiza%202001/cd1%20at%20the%20beach/15%20electric%20confusion%20-%20niels%20van%20gogh%20.mp3:electric confusion    niels van gogh
+#DESCRIPTION electric confusion    niels van gogh
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Tunnel%20goes%20Ibiza%202001/cd1%20at%20the%20beach/16%20tears%20-%20para%20x.mp3:tears    para x
+#DESCRIPTION tears    para x
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Tunnel%20goes%20Ibiza%202001/cd2%20clear%20sky/01%20follow%20up%20-%20dj%20digress.mp3:follow up    dj digress
+#DESCRIPTION follow up    dj digress
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Tunnel%20goes%20Ibiza%202001/cd2%20clear%20sky/02%20derb%20-%20derb.mp3:derb    derb
+#DESCRIPTION derb    derb
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Tunnel%20goes%20Ibiza%202001/cd2%20clear%20sky/03%20the%20game%20-%20motion%20control%20.mp3:the game    motion control
+#DESCRIPTION the game    motion control
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Tunnel%20goes%20Ibiza%202001/cd2%20clear%20sky/04%20forever%20friends%20-%20gigi%20lav%20meets%20ben%20dj.mp3:forever friends    gigi lav meets ben dj
+#DESCRIPTION forever friends    gigi lav meets ben dj
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Tunnel%20goes%20Ibiza%202001/cd2%20clear%20sky/05%20dance%20nomore%20-%20yoni.mp3:dance nomore    yoni
+#DESCRIPTION dance nomore    yoni
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Tunnel%20goes%20Ibiza%202001/cd2%20clear%20sky/06%20sacred%20city%20-%20steve%20morley.mp3:sacred city    steve morley
+#DESCRIPTION sacred city    steve morley
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Tunnel%20goes%20Ibiza%202001/cd2%20clear%20sky/07%20eternal%20silence%20-%20baltes%20vs.%20stevens.mp3:eternal silence    baltes vs. stevens
+#DESCRIPTION eternal silence    baltes vs. stevens
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Tunnel%20goes%20Ibiza%202001/cd2%20clear%20sky/08%20feel%20the%20fire%20-%20impegment%20syndrom.mp3:feel the fire    impegment syndrom
+#DESCRIPTION feel the fire    impegment syndrom
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Tunnel%20goes%20Ibiza%202001/cd2%20clear%20sky/09%20don't%20want%20your%20life%20-%20lumination.mp3:don't want your life    lumination
+#DESCRIPTION don't want your life    lumination
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Tunnel%20goes%20Ibiza%202001/cd2%20clear%20sky/10%20koala%20sunrise%20-%20uluro%20.mp3:koala sunrise    uluro
+#DESCRIPTION koala sunrise    uluro
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Tunnel%20goes%20Ibiza%202001/cd2%20clear%20sky/11%20set%20you%20free%20-%20c.j.%20buchannon.mp3:set you free    c.j. buchannon
+#DESCRIPTION set you free    c.j. buchannon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Tunnel%20goes%20Ibiza%202001/cd2%20clear%20sky/12%20phyllit%20-%20servant%20of%20light.mp3:phyllit    servant of light
+#DESCRIPTION phyllit    servant of light
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Tunnel%20goes%20Ibiza%202001/cd2%20clear%20sky/13%20supernova%20-%20accuface.mp3:supernova    accuface
+#DESCRIPTION supernova    accuface
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Tunnel%20goes%20Ibiza%202001/cd2%20clear%20sky/14%20don't%20bring%20me%20down%20-%20orange%20inc.mp3:don't bring me down    orange inc
+#DESCRIPTION don't bring me down    orange inc
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Tunnel%20goes%20Ibiza%202001/cd2%20clear%20sky/15%20trip%20to%20earth%20-%20space%20planet.mp3:trip to earth    space planet
+#DESCRIPTION trip to earth    space planet
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Tunnel%20goes%20Ibiza%202001/cd2%20clear%20sky/16%20aquanaut%20-%20a.t.%20project.mp3:aquanaut    a.t. project
+#DESCRIPTION aquanaut    a.t. project
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/Tunnel%20goes%20Ibiza%202001/cd2%20clear%20sky/17%2023%20-%20beta%20music%20.mp3:beta music
+#DESCRIPTION beta music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/United%20Ravers%20Compilation2/DISC1/01%20-%20spaceout%20-%20spaceout%201.mp3:spaceout    spaceout 1
+#DESCRIPTION spaceout    spaceout 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/United%20Ravers%20Compilation2/DISC1/02%20-%20nightfly%20-%20high%20check%20mix.mp3:nightfly    high check mix
+#DESCRIPTION nightfly    high check mix
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/United%20Ravers%20Compilation2/DISC1/03%20-%20welcome%20stranger%20-%20noise%20mix.mp3:welcome stranger    noise mix
+#DESCRIPTION welcome stranger    noise mix
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/United%20Ravers%20Compilation2/DISC1/04%20-%20no%20limits%20-%20hardtrance%20mix.mp3:no limits    hardtrance mix
+#DESCRIPTION no limits    hardtrance mix
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/United%20Ravers%20Compilation2/DISC1/05%20-%20take%20you%20higher%20-%20shattered%20trance%20mix.mp3:take you higher    shattered trance mix
+#DESCRIPTION take you higher    shattered trance mix
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/United%20Ravers%20Compilation2/DISC1/06%20-%20mystery%20-%20part%20one%20long.mp3:mystery    part one long
+#DESCRIPTION mystery    part one long
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/United%20Ravers%20Compilation2/DISC1/07%20-%20pure%20energy%20-%20tekkno%20trip.mp3:pure energy    tekkno trip
+#DESCRIPTION pure energy    tekkno trip
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/United%20Ravers%20Compilation2/DISC1/08%20-%20overflow%20-%20hardtrance%20mix.mp3:overflow    hardtrance mix
+#DESCRIPTION overflow    hardtrance mix
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/United%20Ravers%20Compilation2/DISC1/09%20-%20es%20geht%20los%20-%20hardtrance%20mix.mp3:es geht los    hardtrance mix
+#DESCRIPTION es geht los    hardtrance mix
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/United%20Ravers%20Compilation2/DISC1/10%20-%20progressiv%20attack%20-%20hardtrance%20mix.mp3:progressiv attack    hardtrance mix
+#DESCRIPTION progressiv attack    hardtrance mix
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/United%20Ravers%20Compilation2/DISC2/01%20-%20no%20limits%20-%20original%20mix.mp3:no limits    original mix
+#DESCRIPTION no limits    original mix
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/United%20Ravers%20Compilation2/DISC2/02%20-%20take%20you%20higher%20-%20house%20mix.mp3:take you higher    house mix
+#DESCRIPTION take you higher    house mix
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/United%20Ravers%20Compilation2/DISC2/03%20-%20mystery%20-%20part%20two.mp3:mystery    part two
+#DESCRIPTION mystery    part two
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/United%20Ravers%20Compilation2/DISC2/04%20-%20are%20you%20ready%20-%20future%20house%20mix.mp3:are you ready    future house mix
+#DESCRIPTION are you ready    future house mix
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/United%20Ravers%20Compilation2/DISC2/05%20-%20overflow%20-%20house%20mix.mp3:overflow    house mix
+#DESCRIPTION overflow    house mix
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/United%20Ravers%20Compilation2/DISC2/06%20-%20es%20geht%20los%20-%20elektro%20house%20mix.mp3:es geht los    elektro house mix
+#DESCRIPTION es geht los    elektro house mix
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/United%20Ravers%20Compilation2/DISC2/07%20-%20progressiv%20attack%20-%20Gary%20D's%20TTF%20mix.mp3:progressiv attack    Gary D's TTF mix
+#DESCRIPTION progressiv attack    Gary D's TTF mix
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/United%20Ravers%20Compilation2/DISC2/08%20-%20DJ%20Crack%20-%20follow%20me%20-%20progressiv%20mix.mp3:DJ Crack    follow me    progressiv mix
+#DESCRIPTION DJ Crack    follow me    progressiv mix

@@ -1,0 +1,255 @@
+#NAME CiefpSettings IPTV Romantic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/01.%20terence_trent_darby_-_sign_your_name-dgn.mp3:terence trent darby  sign your namedgn
+#DESCRIPTION terence trent darby  sign your namedgn
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/02.%203%20doors%20down%20-%20here%20without%20you.mp3:doors down  here without you
+#DESCRIPTION doors down  here without you
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/03.%2080102.mp3:80102
+#DESCRIPTION 80102
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/04.%2080112.mp3:80112
+#DESCRIPTION 80112
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/05.%20Roxette%20-%20Crash%20Boom%20Bang.mp3:Roxette  Crash Boom Bang
+#DESCRIPTION Roxette  Crash Boom Bang
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/06.%20Duran%20Duran%20-%20Come%20Undone.mp3:Duran Duran  Come Undone
+#DESCRIPTION Duran Duran  Come Undone
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/07.%20Andru%20Donalds%20-%2003%20-%20All%20Out%20Of%20Love.mp3:Andru Donalds   All Out Of Love
+#DESCRIPTION Andru Donalds   All Out Of Love
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/08.%20Phil%20Colins%20-%20Another%20Day%20In%20Paradise.mp3:Phil Colins  Another Day In Paradise
+#DESCRIPTION Phil Colins  Another Day In Paradise
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/09.%20Berlin%20-%20Take%20my%20breath%20away.mp3:Berlin  Take my breath away
+#DESCRIPTION Berlin  Take my breath away
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/10.%20Blue%20-%20Sorry%20Seems%20To%20Be%20The%20Hardest%20Word.mp3:Blue  Sorry Seems To Be The Hardest Word
+#DESCRIPTION Blue  Sorry Seems To Be The Hardest Word
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/100.%20total%20eclipse%20of%20the%20heart.mp3:total eclipse of the heart
+#DESCRIPTION total eclipse of the heart
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/101.%2080214.mp3:80214
+#DESCRIPTION 80214
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/102.%20Ugly%20Kid%20Joe%20-%20Cats%20In%20The%20Cradle.mp3:Ugly Kid Joe  Cats In The Cradle
+#DESCRIPTION Ugly Kid Joe  Cats In The Cradle
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/103.%20Kansas%20-%20Dust%20In%20The%20Wind.MP3:Kansas  Dust In The Wind.MP3
+#DESCRIPTION Kansas  Dust In The Wind.MP3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/104.%20Moody%20Blues%20-%20Night%20In%20White%20Satin.MP3:Moody Blues  Night In White Satin.MP3
+#DESCRIPTION Moody Blues  Night In White Satin.MP3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/105.%20Led%20Zeppelin%20-%20Stairway%20To%20Heaven.MP3:Led Zeppelin  Stairway To Heaven.MP3
+#DESCRIPTION Led Zeppelin  Stairway To Heaven.MP3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/106.%20Dreadful%20Shadows%20-%20Twist%20in%20My%20Sobriety.mp3:Dreadful Shadows  Twist in My Sobriety
+#DESCRIPTION Dreadful Shadows  Twist in My Sobriety
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/107.%20Linda%20Ronstadt%20Ft%20Aaron%20Neville%20-%20Don't%20Know%20Much-vvb.mp3:Linda Ronstadt Ft Aaron Neville  Don't Know Muchvvb
+#DESCRIPTION Linda Ronstadt Ft Aaron Neville  Don't Know Muchvvb
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/108.%20Soul%20Asylum%20-%20Runaway%20Train.mp3:Soul Asylum  Runaway Train
+#DESCRIPTION Soul Asylum  Runaway Train
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/109.%20Scorpions%20-%20Always%20Somewhere.mp3:Scorpions  Always Somewhere
+#DESCRIPTION Scorpions  Always Somewhere
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/11.%20Joe%20Cocker%20-%20N'Oubliez%20Jamais.mp3:Joe Cocker  N'Oubliez Jamais
+#DESCRIPTION Joe Cocker  N'Oubliez Jamais
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/110.%20The%20Beatles%20-%20Oh!Darling.MP3:The Beatles  Oh!Darling.MP3
+#DESCRIPTION The Beatles  Oh!Darling.MP3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/111.%20Roxette%20-%20Vulnerable.mp3:Roxette  Vulnerable
+#DESCRIPTION Roxette  Vulnerable
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/112.%20Ray%20Charles%20-%20I%20can't%20stop%20loving%20you.mp3:Ray Charles  I can't stop loving you
+#DESCRIPTION Ray Charles  I can't stop loving you
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/113.%20Prince%20-%20Purple%20Rain.mp3:Prince  Purple Rain
+#DESCRIPTION Prince  Purple Rain
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/114.%20Led%20Zeppelin%20-%20All%20My%20Love.MP3:Led Zeppelin  All My Love.MP3
+#DESCRIPTION Led Zeppelin  All My Love.MP3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/115.%20Theme%20-%20Beauty%20And%20The%20Beast.mp3:Theme  Beauty And The Beast
+#DESCRIPTION Theme  Beauty And The Beast
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/116.%20Bee%20Gees%20-%20How%20Deep%20Is%20Your%20Love.MP3:Bee Gees  How Deep Is Your Love.MP3
+#DESCRIPTION Bee Gees  How Deep Is Your Love.MP3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/117.%20Cher%20-%20If%20I%20Could%20Turn%20Back%20Time.mp3:Cher  If I Could Turn Back Time
+#DESCRIPTION Cher  If I Could Turn Back Time
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/118.%20Erasure%20-%20Always.mp3:Erasure  Always
+#DESCRIPTION Erasure  Always
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/119.%20Perfect%20day.mp3:Perfect day
+#DESCRIPTION Perfect day
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/12.%20Joe%20Dassin%20-%20A%20toi.mp3:Joe Dassin  A toi
+#DESCRIPTION Joe Dassin  A toi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/120.%20Rednex%20-%20Wish%20You%20Were%20Here.mp3:Rednex  Wish You Were Here
+#DESCRIPTION Rednex  Wish You Were Here
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/121.%20Bee%20Gees%20-%20Holiday.MP3:Bee Gees  Holiday.MP3
+#DESCRIPTION Bee Gees  Holiday.MP3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/122.%20Tanita%20Tikaram%20-%20Twist%20In%20My%20Sobriety.mp3:Tanita Tikaram  Twist In My Sobriety
+#DESCRIPTION Tanita Tikaram  Twist In My Sobriety
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/123.%20Peter%20Gabriel%20&amp;%20Kate%20Bush%20-%20Don't%20Give%20Up.mp3:Peter Gabriel & Kate Bush  Don't Give Up
+#DESCRIPTION Peter Gabriel & Kate Bush  Don't Give Up
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/124.%20Nazareth%20-%20Love%20Hurts.MP3:Nazareth  Love Hurts.MP3
+#DESCRIPTION Nazareth  Love Hurts.MP3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/125.%20Scorpions%20-%20Living%20For%20Tomorrow.mp3:Scorpions  Living For Tomorrow
+#DESCRIPTION Scorpions  Living For Tomorrow
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/126.%20Stars%20Of%20Bourla%20-%20We%20are%20the%20world.mp3:Stars Of Bourla  We are the world
+#DESCRIPTION Stars Of Bourla  We are the world
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/127.%20Paul%20McCartney%20-%20Yesterday.MP3:Paul McCartney  Yesterday.MP3
+#DESCRIPTION Paul McCartney  Yesterday.MP3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/13.%20SANTANA%20-%20PUT%20YOUR%20LIGHTS%20ON%20(90-98y).mp3:SANTANA  PUT YOUR LIGHTS ON (9098y)
+#DESCRIPTION SANTANA  PUT YOUR LIGHTS ON (9098y)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/14.%20George%20Michael%20&amp;%20Elton%20John%20-%20%20Don't%20Let%20The%20Sun%20Go%20Down%20On%20Me.mp3:George Michael & Elton John   Don't Let The Sun Go Down On Me
+#DESCRIPTION George Michael & Elton John   Don't Let The Sun Go Down On Me
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/15.%20Tina%20Turner%20-%20Better%20Be%20Good%20To%20Me.MP3:Tina Turner  Better Be Good To Me.MP3
+#DESCRIPTION Tina Turner  Better Be Good To Me.MP3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/16.%20Bruce%20Springsteen%20-%20Streets%20Of%20Filadelphia.mp3:Bruce Springsteen  Streets Of Filadelphia
+#DESCRIPTION Bruce Springsteen  Streets Of Filadelphia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/17.%20Atoimic%20kitten-eternal%20flame.mp3:Atoimic kitteneternal flame
+#DESCRIPTION Atoimic kitteneternal flame
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/18.%20Joyce%20Sims%20-%20Come%20Into%20My%20Life.mp3:Joyce Sims  Come Into My Life
+#DESCRIPTION Joyce Sims  Come Into My Life
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/19.%20Cher%20-%20Dove%60e%20l%60amore.mp3:Cher  Dove`e l`amore
+#DESCRIPTION Cher  Dove`e l`amore
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/20.%20Demis%20Roussos%20-%20Forever%20And%20Ever.mp3:Demis Roussos  Forever And Ever
+#DESCRIPTION Demis Roussos  Forever And Ever
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/21.%20Black%20-%20Wonderful%20life.mp3:Black  Wonderful life
+#DESCRIPTION Black  Wonderful life
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/22.%20Michael%20Jackson%20-%20Liberian%20Girl.mp3:Michael Jackson  Liberian Girl
+#DESCRIPTION Michael Jackson  Liberian Girl
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/23.%20T'Pau%20-%20China%20In%20Your%20Hand.mp3:T'Pau  China In Your Hand
+#DESCRIPTION T'Pau  China In Your Hand
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/24.%20Blackmore's%20Night%20-%20Wish%20You%20Were%20Here.MP3:Blackmore's Night  Wish You Were Here.MP3
+#DESCRIPTION Blackmore's Night  Wish You Were Here.MP3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/25.%20Paul%20McCartney%20-%20All%20My%20Loving.MP3:Paul McCartney  All My Loving.MP3
+#DESCRIPTION Paul McCartney  All My Loving.MP3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/26.%20Omega%20-%20The%20Girl%20With%20The%20Pearl's%20Hair.MP3:Omega  The Girl With The Pearl's Hair.MP3
+#DESCRIPTION Omega  The Girl With The Pearl's Hair.MP3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/27.%20Ben%20E.%20King%20-%20Stand%20By%20Me.mp3:Ben E. King  Stand By Me
+#DESCRIPTION Ben E. King  Stand By Me
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/28.%20Art%20Company%20-%20Suzana.mp3:Art Company  Suzana
+#DESCRIPTION Art Company  Suzana
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/29.%20Body%20Count%20-%20Hey%20Joe.mp3:Body Count  Hey Joe
+#DESCRIPTION Body Count  Hey Joe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/30.%2080216.mp3:80216
+#DESCRIPTION 80216
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/31.%20Bee%20Gees%20-%20For%20Whom%20The%20Bell%20Tolls.MP3:Bee Gees  For Whom The Bell Tolls.MP3
+#DESCRIPTION Bee Gees  For Whom The Bell Tolls.MP3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/32.%20The%20Beatles%20-%20Let%20It%20Be.MP3:The Beatles  Let It Be.MP3
+#DESCRIPTION The Beatles  Let It Be.MP3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/33.%20Tina%20Turner%20-%20Simply%20the%20Best.mp3:Tina Turner  Simply the Best
+#DESCRIPTION Tina Turner  Simply the Best
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/34.%20The%20Rolling%20Stones%20-%20Angie.MP3:The Rolling Stones  Angie.MP3
+#DESCRIPTION The Rolling Stones  Angie.MP3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/35.%20Led%20Zeppelin%20-%20Since%20I,ve%20Been%20Loving%20You.MP3:Led Zeppelin  Since Ive Been Loving You.MP3
+#DESCRIPTION Led Zeppelin  Since Ive Been Loving You.MP3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/36.%20Kuschelrock%203%20(CD%201)%20-%2004%20-%20Cyndi%20Lauper%20-%20Time%20After%20Time.mp3:Kuschelrock (CD 1)   Cyndi Lauper  Time After Time
+#DESCRIPTION Kuschelrock (CD 1)   Cyndi Lauper  Time After Time
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/37.%20Bee%20Gees%20-%20Words.MP3:Bee Gees  Words.MP3
+#DESCRIPTION Bee Gees  Words.MP3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/38.%20Oscar%20Benton%20-%20Bensonhurst%20Blues.MP3:Oscar Benton  Bensonhurst Blues.MP3
+#DESCRIPTION Oscar Benton  Bensonhurst Blues.MP3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/39.%20The%20Eagles%20-%20Hotel%20California.mp3:The Eagles  Hotel California
+#DESCRIPTION The Eagles  Hotel California
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/40.%20M%20People%20-%20Search%20For%20The%20Hero.mp3:M People  Search For The Hero
+#DESCRIPTION M People  Search For The Hero
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/41.%20Lionel%20Richie%20-%20Hello.mp3:Lionel Richie  Hello
+#DESCRIPTION Lionel Richie  Hello
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/42.%20Bryan%20Adams%20-%20Please%20forgive%20me.mp3:Bryan Adams  Please forgive me
+#DESCRIPTION Bryan Adams  Please forgive me
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/43.%20Animals%20-%20House%20Of%20The%20Rising%20Sun.MP3:Animals  House Of The Rising Sun.MP3
+#DESCRIPTION Animals  House Of The Rising Sun.MP3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/44.%20Maria%20McKee%20-%20Show%20Me%20Heaven.mp3:Maria McKee  Show Me Heaven
+#DESCRIPTION Maria McKee  Show Me Heaven
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/45.%20Creedence%20-%20A%20Put%20A%20Spell%20On%20You.MP3:Creedence  A Put A Spell On You.MP3
+#DESCRIPTION Creedence  A Put A Spell On You.MP3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/46.%20Chicago%20-%20Hard%20To%20Say%20I'm%20Sorry.mp3:Chicago  Hard To Say I'm Sorry
+#DESCRIPTION Chicago  Hard To Say I'm Sorry
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/47.%20Marillion%20-%20Keyleigh.MP3:Marillion  Keyleigh.MP3
+#DESCRIPTION Marillion  Keyleigh.MP3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/48.%20scorpions%20-%20still%20loving%20you%2006.wind%20of%20change.mp3:scorpions  still loving you 06.wind of change
+#DESCRIPTION scorpions  still loving you 06.wind of change
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/49.%20Frankie%20Vallie%20-%20Can't%20take%20my%20eyes%20of%20off%20you.mp3:Frankie Vallie  Can't take my eyes of off you
+#DESCRIPTION Frankie Vallie  Can't take my eyes of off you
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/50.%20James%20Blunt%20-%20You're%20Beautiful.mp3:James Blunt  You're Beautiful
+#DESCRIPTION James Blunt  You're Beautiful
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/51.%20Irene%20Cara%20-%20Flash%20Dance...%20What%20A%20Feeling.mp3:Irene Cara  Flash Dance... What A Feeling
+#DESCRIPTION Irene Cara  Flash Dance... What A Feeling
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/52.%20Joe%20Cocker%20-%20Unchain%20My%20Heart.mp3:Joe Cocker  Unchain My Heart
+#DESCRIPTION Joe Cocker  Unchain My Heart
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/53.%20Joe%20Dassin%20-%20L%20Ete%20Indien.mp3:Joe Dassin  L Ete Indien
+#DESCRIPTION Joe Dassin  L Ete Indien
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/54.%20Barbara%20Streisand%20-%20Woman%20in%20love.mp3:Barbara Streisand  Woman in love
+#DESCRIPTION Barbara Streisand  Woman in love
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/55.%2080210.mp3:80210
+#DESCRIPTION 80210
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/56.%20Chicago%20-%20If%20You%20Leave%20Me%20Now.mp3:Chicago  If You Leave Me Now
+#DESCRIPTION Chicago  If You Leave Me Now
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/57.%20Chris%20Norman%20-%20Some%20Hearts%20Are%20Diamonds.mp3:Chris Norman  Some Hearts Are Diamonds
+#DESCRIPTION Chris Norman  Some Hearts Are Diamonds
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/58.%20nothin's%20gonna%20stop%20us%20now.mp3:nothin's gonna stop us now
+#DESCRIPTION nothin's gonna stop us now
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/59.%20Peter%20Gabriel%20-%20Book%20of%20Love.mp3:Peter Gabriel  Book of Love
+#DESCRIPTION Peter Gabriel  Book of Love
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/60.%20Smokie%20-%20What%20Can%20I%20Do.MP3:Smokie  What Can I Do.MP3
+#DESCRIPTION Smokie  What Can I Do.MP3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/61.%20Celine%20Dion%20-%20Because%20You%20Loved%20Me.mp3:Celine Dion  Because You Loved Me
+#DESCRIPTION Celine Dion  Because You Loved Me
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/62.%20Cutting%20Crew%20-%20(I%20Just)%20Died%20In%20Your%20Arms%20Tonight.mp3:Cutting Crew  (I Just) Died In Your Arms Tonight
+#DESCRIPTION Cutting Crew  (I Just) Died In Your Arms Tonight
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/63.%20eurythmics%20-%20miracle%20of%20love.mp3:eurythmics  miracle of love
+#DESCRIPTION eurythmics  miracle of love
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/64.%20Bee%20Gees%20-%20Massachusetts.MP3:Bee Gees  Massachusetts.MP3
+#DESCRIPTION Bee Gees  Massachusetts.MP3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/65.%20Foreigner%20-%20I%20Want%20To%20Know%20What%20Love%20Is.mp3:Foreigner  I Want To Know What Love Is
+#DESCRIPTION Foreigner  I Want To Know What Love Is
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/66.%20Pretenders%20-%20I'll%20Stand%20By%20You.mp3:Pretenders  I'll Stand By You
+#DESCRIPTION Pretenders  I'll Stand By You
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/67.%20Robie%20Wiliams%20&amp;%20Nicole%20Kidman%20-%20Something%20stupid.mp3:Robie Wiliams & Nicole Kidman  Something stupid
+#DESCRIPTION Robie Wiliams & Nicole Kidman  Something stupid
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/68.%20Jason%20Donovan%20-%20Sealed%20With%20A%20Kiss.mp3:Jason Donovan  Sealed With A Kiss
+#DESCRIPTION Jason Donovan  Sealed With A Kiss
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/69.%20Santana%20-%20Black%20Magic%20Woman.mp3:Santana  Black Magic Woman
+#DESCRIPTION Santana  Black Magic Woman
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/70.%20Roxette%20-%20QueenOfRain.mp3:Roxette  QueenOfRain
+#DESCRIPTION Roxette  QueenOfRain
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/71.%20Bee%20Gees%20-%20To%20Love%20Somebody.MP3:Bee Gees  To Love Somebody.MP3
+#DESCRIPTION Bee Gees  To Love Somebody.MP3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/72.%20Stevie%20Wonder%20-%20I%20Just%20Call%20To%20Say%20I%20Love%20You.mp3:Stevie Wonder  I Just Call To Say I Love You
+#DESCRIPTION Stevie Wonder  I Just Call To Say I Love You
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/73.%20Simon&amp;Garefunkel%20-%20The%20Sound%20Of%20Silence.MP3:Simon&Garefunkel  The Sound Of Silence.MP3
+#DESCRIPTION Simon&Garefunkel  The Sound Of Silence.MP3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/74.%20E.L.O.%20-%20Ticket%20To%20The%20Moon.MP3:E.L.O.  Ticket To The Moon.MP3
+#DESCRIPTION E.L.O.  Ticket To The Moon.MP3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/75.%20Ingrid%20Kup%20-%20I%20will%20not%20die.mp3:Ingrid Kup  I will not die
+#DESCRIPTION Ingrid Kup  I will not die
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/76.%20Joe%20Cocker%20-%20You%20can%20leave%20your%20hat%20on.mp3:Joe Cocker  You can leave your hat on
+#DESCRIPTION Joe Cocker  You can leave your hat on
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/77.%20Gerry%20Raferty%20-%20Baker%20Street.mp3:Gerry Raferty  Baker Street
+#DESCRIPTION Gerry Raferty  Baker Street
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/78.%2080213.mp3:80213
+#DESCRIPTION 80213
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/79.%20Foreigner%20-%20%20Blinded%20By%20Science.mp3:Foreigner   Blinded By Science
+#DESCRIPTION Foreigner   Blinded By Science
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/80.%20Supertramp%20-%20Breakfast%20In%20America.mp3:Supertramp  Breakfast In America
+#DESCRIPTION Supertramp  Breakfast In America
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/81.%20Lou%20Reed%20feat.%20Bono,%20David%20Bowie,%20Pavarotti&amp;%20etc.%20-%20Perfect%20Day.mp3:Lou Reed feat. Bono David Bowie Pavarotti& etc.  Perfect Day
+#DESCRIPTION Lou Reed feat. Bono David Bowie Pavarotti& etc.  Perfect Day
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/82.%20Bee%20Gees%20-%20I%20started%20A%20Joke.MP3:Bee Gees  I started A Joke.MP3
+#DESCRIPTION Bee Gees  I started A Joke.MP3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/83.%20Falco%20-%20Jeanny.mp3:Falco  Jeanny
+#DESCRIPTION Falco  Jeanny
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/84.%20Jason%20Donovan%20&amp;%20Kylie%20Minogue%20-%20Especially%20For%20You.mp3:Jason Donovan & Kylie Minogue  Especially For You
+#DESCRIPTION Jason Donovan & Kylie Minogue  Especially For You
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/85.%20Styx%20-%20Boat%20on%20the%20river.mp3:Styx  Boat on the river
+#DESCRIPTION Styx  Boat on the river
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/86.%20Harrison%20Crump%20-%20I%20Need%20Your%20Love.mp3:Harrison Crump  I Need Your Love
+#DESCRIPTION Harrison Crump  I Need Your Love
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/87.%20Jon%20Secada%20-%20Just%20Another%20Day.mp3:Jon Secada  Just Another Day
+#DESCRIPTION Jon Secada  Just Another Day
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/88.%20Sinead%20O'Conner%20-%20Nothing%20Compares%202%20U.mp3:Sinead O'Conner  Nothing Compares U
+#DESCRIPTION Sinead O'Conner  Nothing Compares U
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/89.%20Frankie%20Miller%20-%20Jealousy.MP3:Frankie Miller  Jealousy.MP3
+#DESCRIPTION Frankie Miller  Jealousy.MP3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/90.%20Grand%20Funk%20-%20It's%20A%20Man's%20World.MP3:Grand Funk  It's A Man's World.MP3
+#DESCRIPTION Grand Funk  It's A Man's World.MP3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/91.%20Rembrandts%20-%20That's%20Just%20The%20Way%20It%20Is%20Baby.mp3:Rembrandts  That's Just The Way It Is Baby
+#DESCRIPTION Rembrandts  That's Just The Way It Is Baby
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/92.%20James%20Blunt%20-%20Goodbye%20My%20Lover.mp3:James Blunt  Goodbye My Lover
+#DESCRIPTION James Blunt  Goodbye My Lover
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/93.%20Giorgio%20Moroder%20&amp;%20Paul%20Engemann%20-%20Shannon's%20Eyes%20(extended).mp3:Giorgio Moroder & Paul Engemann  Shannon's Eyes (extended)
+#DESCRIPTION Giorgio Moroder & Paul Engemann  Shannon's Eyes (extended)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/94.%20Kuschelrock%204%20(CD%201)%20-%2013%20-%20Richard%20Marx%20-%20Right%20Here%20Waiting.mp3:Kuschelrock (CD 1)   Richard Marx  Right Here Waiting
+#DESCRIPTION Kuschelrock (CD 1)   Richard Marx  Right Here Waiting
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/95.%20Patricia%20Kaas%20-%20It's%20a%20Man's%20World.mp3:Patricia Kaas  It's a Man's World
+#DESCRIPTION Patricia Kaas  It's a Man's World
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/96.%20I'm%20Sorry.mp3:I'm Sorry
+#DESCRIPTION I'm Sorry
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/97.%20Heart%20-%20All%20I%20Wanna%20Do%20Is%20Make%20Love%202U.mp3:Heart  All I Wanna Do Is Make Love 2U
+#DESCRIPTION Heart  All I Wanna Do Is Make Love 2U
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/98.%20Mr.%20Big%20-%20Wild%20World.mp3:Mr. Big  Wild World
+#DESCRIPTION Mr. Big  Wild World
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/99.%20Procol%20Harum%20-%20Whiter%20Shade%20Of%20Pale.MP3:Procol Harum  Whiter Shade Of Pale.MP3
+#DESCRIPTION Procol Harum  Whiter Shade Of Pale.MP3

@@ -1,0 +1,1035 @@
+#NAME CiefpSettings IPTV ABBA_REMASTERS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1973%20-%20Ring%20Ring%20(The%20ABBA%20Remasters%201997)/01.%20Ring%20Ring.mp3:Ring Ring
+#DESCRIPTION Ring Ring
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1973%20-%20Ring%20Ring%20(The%20ABBA%20Remasters%201997)/02.%20Another%20Town,%20Another%20Train.mp3:Another Town Another Train
+#DESCRIPTION Another Town Another Train
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1973%20-%20Ring%20Ring%20(The%20ABBA%20Remasters%201997)/03.%20Disillusion.mp3:Disillusion
+#DESCRIPTION Disillusion
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1973%20-%20Ring%20Ring%20(The%20ABBA%20Remasters%201997)/04.%20People%20Need%20Love.mp3:People Need Love
+#DESCRIPTION People Need Love
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1973%20-%20Ring%20Ring%20(The%20ABBA%20Remasters%201997)/05.%20I%20Saw%20It%20In%20The%20Mirror.mp3:I Saw It In The Mirror
+#DESCRIPTION I Saw It In The Mirror
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1973%20-%20Ring%20Ring%20(The%20ABBA%20Remasters%201997)/06.%20Nina,%20Pretty%20Ballerina.mp3:Nina Pretty Ballerina
+#DESCRIPTION Nina Pretty Ballerina
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1973%20-%20Ring%20Ring%20(The%20ABBA%20Remasters%201997)/07.%20Love%20Isn't%20Easy%20(But%20It%20Sure%20Is%20Hard%20Enough).mp3:Love Isn't Easy (But It Sure Is Hard Enough)
+#DESCRIPTION Love Isn't Easy (But It Sure Is Hard Enough)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1973%20-%20Ring%20Ring%20(The%20ABBA%20Remasters%201997)/08.%20Me%20And%20Bobby%20And%20Bobby's%20Brother.mp3:Me And Bobby And Bobby's Brother
+#DESCRIPTION Me And Bobby And Bobby's Brother
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1973%20-%20Ring%20Ring%20(The%20ABBA%20Remasters%201997)/09.%20He%20Is%20Your%20Brother.mp3:He Is Your Brother
+#DESCRIPTION He Is Your Brother
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1973%20-%20Ring%20Ring%20(The%20ABBA%20Remasters%201997)/10.%20She's%20My%20Kind%20Of%20Girl.mp3:She's My Kind Of Girl
+#DESCRIPTION She's My Kind Of Girl
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1973%20-%20Ring%20Ring%20(The%20ABBA%20Remasters%201997)/11.%20I%20Am%20Just%20A%20Girl.mp3:I Am Just A Girl
+#DESCRIPTION I Am Just A Girl
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1973%20-%20Ring%20Ring%20(The%20ABBA%20Remasters%201997)/12.%20Rock'N'Roll%20Band.mp3:Rock'N'Roll Band
+#DESCRIPTION Rock'N'Roll Band
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1974%20-%20Waterloo%20(The%20ABBA%20Remasters%201997)/01.%20Waterloo.mp3:Waterloo
+#DESCRIPTION Waterloo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1974%20-%20Waterloo%20(The%20ABBA%20Remasters%201997)/02.%20Sitting%20In%20The%20Palmtree.mp3:Sitting In The Palmtree
+#DESCRIPTION Sitting In The Palmtree
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1974%20-%20Waterloo%20(The%20ABBA%20Remasters%201997)/03.%20King%20Kong%20Song.mp3:King Kong Song
+#DESCRIPTION King Kong Song
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1974%20-%20Waterloo%20(The%20ABBA%20Remasters%201997)/04.%20Hasta%20Ma%d1%81ana.mp3:Hasta Maсana
+#DESCRIPTION Hasta Maсana
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1974%20-%20Waterloo%20(The%20ABBA%20Remasters%201997)/05.%20My%20Mama%20Said.mp3:My Mama Said
+#DESCRIPTION My Mama Said
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1974%20-%20Waterloo%20(The%20ABBA%20Remasters%201997)/06.%20Dance%20(While%20The%20Music%20Still%20Goes%20On).mp3:Dance (While The Music Still Goes On)
+#DESCRIPTION Dance (While The Music Still Goes On)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1974%20-%20Waterloo%20(The%20ABBA%20Remasters%201997)/07.%20Honey%20Honey.mp3:Honey Honey
+#DESCRIPTION Honey Honey
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1974%20-%20Waterloo%20(The%20ABBA%20Remasters%201997)/08.%20What%20About%20Livingstone.mp3:What About Livingstone
+#DESCRIPTION What About Livingstone
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1974%20-%20Waterloo%20(The%20ABBA%20Remasters%201997)/09.%20Watch%20Out.mp3:Watch Out
+#DESCRIPTION Watch Out
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1974%20-%20Waterloo%20(The%20ABBA%20Remasters%201997)/10.%20Gonna%20Sing%20You%20My%20Lovesong.mp3:Gonna Sing You My Lovesong
+#DESCRIPTION Gonna Sing You My Lovesong
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1974%20-%20Waterloo%20(The%20ABBA%20Remasters%201997)/11.%20Suzy-Hang-Around.mp3:Suzy  Hang  Around
+#DESCRIPTION Suzy  Hang  Around
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1975%20-%20ABBA%20(The%20ABBA%20Remasters%201997)/01.%20Mamma%20Mia.mp3:Mamma Mia
+#DESCRIPTION Mamma Mia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1975%20-%20ABBA%20(The%20ABBA%20Remasters%201997)/02.%20Hey,%20Hey%20Helen.mp3:Hey Hey Helen
+#DESCRIPTION Hey Hey Helen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1975%20-%20ABBA%20(The%20ABBA%20Remasters%201997)/03.%20Tropical%20Loveland.mp3:Tropical Loveland
+#DESCRIPTION Tropical Loveland
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1975%20-%20ABBA%20(The%20ABBA%20Remasters%201997)/04.%20S.O.S..mp3:S.O.S.
+#DESCRIPTION S.O.S.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1975%20-%20ABBA%20(The%20ABBA%20Remasters%201997)/05.%20Man%20In%20The%20Middle.mp3:Man In The Middle
+#DESCRIPTION Man In The Middle
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1975%20-%20ABBA%20(The%20ABBA%20Remasters%201997)/06.%20Bang-A-Boomerang.mp3:Bang  A  Boomerang
+#DESCRIPTION Bang  A  Boomerang
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1975%20-%20ABBA%20(The%20ABBA%20Remasters%201997)/07.%20I%20Do,%20I%20Do,%20I%20Do,%20I%20Do,%20I%20Do.mp3:I Do I Do I Do I Do I Do
+#DESCRIPTION I Do I Do I Do I Do I Do
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1975%20-%20ABBA%20(The%20ABBA%20Remasters%201997)/08.%20Rock%20Me.mp3:Rock Me
+#DESCRIPTION Rock Me
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1975%20-%20ABBA%20(The%20ABBA%20Remasters%201997)/09.%20Intermezzo%20No.%201.mp3:Intermezzo No. 1
+#DESCRIPTION Intermezzo No. 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1975%20-%20ABBA%20(The%20ABBA%20Remasters%201997)/10.%20I've%20Been%20Waiting%20For%20You.mp3:I've Been Waiting For You
+#DESCRIPTION I've Been Waiting For You
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1975%20-%20ABBA%20(The%20ABBA%20Remasters%201997)/11.%20So%20Long.mp3:So Long
+#DESCRIPTION So Long
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1975%20-%20ABBA%20(The%20ABBA%20Remasters%201997)/12.%20Waterloo.mp3:Waterloo
+#DESCRIPTION Waterloo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1975%20-%20ABBA%20(The%20ABBA%20Remasters%201997)/13.%20Hasta%20Manana.mp3:Hasta Manana
+#DESCRIPTION Hasta Manana
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1975%20-%20ABBA%20(The%20ABBA%20Remasters%201997)/14.%20Honey,%20Honey.mp3:Honey Honey
+#DESCRIPTION Honey Honey
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1975%20-%20ABBA%20(The%20ABBA%20Remasters%201997)/15.%20Ring%20Ring.mp3:Ring Ring
+#DESCRIPTION Ring Ring
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1975%20-%20ABBA%20(The%20ABBA%20Remasters%201997)/16.%20Nina,%20Pretty%20Ballerina.mp3:Nina Pretty Ballerina
+#DESCRIPTION Nina Pretty Ballerina
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1975%20-%20ABBA%20(The%20ABBA%20Remasters%201997)/17.%20Crazy%20World.mp3:Crazy World
+#DESCRIPTION Crazy World
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1975%20-%20ABBA%20(The%20ABBA%20Remasters%201997)/18.%20Medley%20(Pick%20A%20Bale%20Of%20Cotton%20-%20On%20Top%20Of%20Old%20Smokey%20-%20Midnight%20Special).mp3:Medley (Pick A Bale Of Cotton    On Top Of Old Smokey    Midnight Special)
+#DESCRIPTION Medley (Pick A Bale Of Cotton    On Top Of Old Smokey    Midnight Special)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1976%20-%20Arrival%20(The%20ABBA%20Remasters%201997)/01.%20When%20I%20Kissed%20The%20Teacher.mp3:When I Kissed The Teacher
+#DESCRIPTION When I Kissed The Teacher
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1976%20-%20Arrival%20(The%20ABBA%20Remasters%201997)/02.%20Dancing%20Queen.mp3:Dancing Queen
+#DESCRIPTION Dancing Queen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1976%20-%20Arrival%20(The%20ABBA%20Remasters%201997)/03.%20My%20Love,%20My%20Life.mp3:My Love My Life
+#DESCRIPTION My Love My Life
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1976%20-%20Arrival%20(The%20ABBA%20Remasters%201997)/04.%20Dum%20Dum%20Diddle.mp3:Dum Dum Diddle
+#DESCRIPTION Dum Dum Diddle
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1976%20-%20Arrival%20(The%20ABBA%20Remasters%201997)/05.%20Knowing%20Me,%20Knowing%20You.mp3:Knowing Me Knowing You
+#DESCRIPTION Knowing Me Knowing You
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1976%20-%20Arrival%20(The%20ABBA%20Remasters%201997)/06.%20Money,%20Money,%20Money.mp3:Money Money Money
+#DESCRIPTION Money Money Money
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1976%20-%20Arrival%20(The%20ABBA%20Remasters%201997)/07.%20That's%20Me.mp3:That's Me
+#DESCRIPTION That's Me
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1976%20-%20Arrival%20(The%20ABBA%20Remasters%201997)/08.%20Why%20Did%20It%20Have%20To%20Be%20Me.mp3:Why Did It Have To Be Me
+#DESCRIPTION Why Did It Have To Be Me
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1976%20-%20Arrival%20(The%20ABBA%20Remasters%201997)/09.%20Tiger.mp3:Tiger
+#DESCRIPTION Tiger
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1976%20-%20Arrival%20(The%20ABBA%20Remasters%201997)/10.%20Arrival.mp3:Arrival
+#DESCRIPTION Arrival
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1976%20-%20Arrival%20(The%20ABBA%20Remasters%201997)/11.%20Fernando.mp3:Fernando
+#DESCRIPTION Fernando
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1977%20-%20The%20Album%20(The%20ABBA%20Remasters%201997)/01.%20Eagle.mp3:Eagle
+#DESCRIPTION Eagle
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1977%20-%20The%20Album%20(The%20ABBA%20Remasters%201997)/02.%20Take%20A%20Chance%20On%20Me.mp3:Take A Chance On Me
+#DESCRIPTION Take A Chance On Me
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1977%20-%20The%20Album%20(The%20ABBA%20Remasters%201997)/03.%20One%20Man,%20One%20Woman.mp3:One Man One Woman
+#DESCRIPTION One Man One Woman
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1977%20-%20The%20Album%20(The%20ABBA%20Remasters%201997)/04.%20The%20Name%20Of%20The%20Game.mp3:The Name Of The Game
+#DESCRIPTION The Name Of The Game
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1977%20-%20The%20Album%20(The%20ABBA%20Remasters%201997)/05.%20Move%20On.mp3:Move On
+#DESCRIPTION Move On
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1977%20-%20The%20Album%20(The%20ABBA%20Remasters%201997)/06.%20Hole%20In%20Your%20Soul.mp3:Hole In Your Soul
+#DESCRIPTION Hole In Your Soul
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1977%20-%20The%20Album%20(The%20ABBA%20Remasters%201997)/07.%20Thank%20You%20For%20The%20Music.mp3:Thank You For The Music
+#DESCRIPTION Thank You For The Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1977%20-%20The%20Album%20(The%20ABBA%20Remasters%201997)/08.%20I%20Wonder%20(Departure).mp3:I Wonder (Departure)
+#DESCRIPTION I Wonder (Departure)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1977%20-%20The%20Album%20(The%20ABBA%20Remasters%201997)/09.%20I'm%20A%20Marionette.mp3:I'm A Marionette
+#DESCRIPTION I'm A Marionette
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1979%20-%20Voulez-Vous%20(The%20ABBA%20Remasters%201997)/01.%20As%20Good%20As%20New.mp3:As Good As New
+#DESCRIPTION As Good As New
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1979%20-%20Voulez-Vous%20(The%20ABBA%20Remasters%201997)/02.%20Voulez-Vous.mp3:Voulez  Vous
+#DESCRIPTION Voulez  Vous
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1979%20-%20Voulez-Vous%20(The%20ABBA%20Remasters%201997)/03.%20I%20Have%20A%20Dream.mp3:I Have A Dream
+#DESCRIPTION I Have A Dream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1979%20-%20Voulez-Vous%20(The%20ABBA%20Remasters%201997)/04.%20Angel%20Eyes.mp3:Angel Eyes
+#DESCRIPTION Angel Eyes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1979%20-%20Voulez-Vous%20(The%20ABBA%20Remasters%201997)/05.%20The%20King%20Has%20Lost%20His%20Crown.mp3:The King Has Lost His Crown
+#DESCRIPTION The King Has Lost His Crown
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1979%20-%20Voulez-Vous%20(The%20ABBA%20Remasters%201997)/06.%20Does%20Your%20Mother%20Know.mp3:Does Your Mother Know
+#DESCRIPTION Does Your Mother Know
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1979%20-%20Voulez-Vous%20(The%20ABBA%20Remasters%201997)/07.%20If%20It%20Wasn't%20For%20The%20Nights.mp3:If It Wasn't For The Nights
+#DESCRIPTION If It Wasn't For The Nights
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1979%20-%20Voulez-Vous%20(The%20ABBA%20Remasters%201997)/08.%20Chiquitita.mp3:Chiquitita
+#DESCRIPTION Chiquitita
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1979%20-%20Voulez-Vous%20(The%20ABBA%20Remasters%201997)/09.%20Lovers%20(Live%20A%20Little%20Longer).mp3:Lovers (Live A Little Longer)
+#DESCRIPTION Lovers (Live A Little Longer)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1979%20-%20Voulez-Vous%20(The%20ABBA%20Remasters%201997)/10.%20Kisses%20Of%20Fire.mp3:Kisses Of Fire
+#DESCRIPTION Kisses Of Fire
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1979%20-%20Voulez-Vous%20(The%20ABBA%20Remasters%201997)/11.%20Summer%20Night%20City.mp3:Summer Night City
+#DESCRIPTION Summer Night City
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1979%20-%20Voulez-Vous%20(The%20ABBA%20Remasters%201997)/12.%20Lovelight.mp3:Lovelight
+#DESCRIPTION Lovelight
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1980%20-%20Super%20Trouper%20(The%20ABBA%20Remasters%201997)/01.%20Super%20Trouper.mp3:Super Trouper
+#DESCRIPTION Super Trouper
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1980%20-%20Super%20Trouper%20(The%20ABBA%20Remasters%201997)/02.%20The%20Winner%20Takes%20It%20All.mp3:The Winner Takes It All
+#DESCRIPTION The Winner Takes It All
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1980%20-%20Super%20Trouper%20(The%20ABBA%20Remasters%201997)/03.%20On%20and%20On%20and%20On.mp3:On and On and On
+#DESCRIPTION On and On and On
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1980%20-%20Super%20Trouper%20(The%20ABBA%20Remasters%201997)/04.%20Andante,%20Andante.mp3:Andante Andante
+#DESCRIPTION Andante Andante
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1980%20-%20Super%20Trouper%20(The%20ABBA%20Remasters%201997)/05.%20Me%20and%20I.mp3:Me and I
+#DESCRIPTION Me and I
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1980%20-%20Super%20Trouper%20(The%20ABBA%20Remasters%201997)/06.%20Happy%20New%20Year.mp3:Happy New Year
+#DESCRIPTION Happy New Year
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1980%20-%20Super%20Trouper%20(The%20ABBA%20Remasters%201997)/07.%20Our%20Last%20Summer.mp3:Our Last Summer
+#DESCRIPTION Our Last Summer
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1980%20-%20Super%20Trouper%20(The%20ABBA%20Remasters%201997)/08.%20The%20Piper.mp3:The Piper
+#DESCRIPTION The Piper
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1980%20-%20Super%20Trouper%20(The%20ABBA%20Remasters%201997)/09.%20Lay%20All%20Your%20Love%20on%20Me.mp3:Lay All Your Love on Me
+#DESCRIPTION Lay All Your Love on Me
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1980%20-%20Super%20Trouper%20(The%20ABBA%20Remasters%201997)/10.%20The%20Way%20Old%20Friends%20Do.mp3:The Way Old Friends Do
+#DESCRIPTION The Way Old Friends Do
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1980%20-%20Super%20Trouper%20(The%20ABBA%20Remasters%201997)/11.%20Gimme!%20Gimme!%20Gimme!%20(A%20Man%20After%20Midnight).mp3:Gimme! Gimme! Gimme! (A Man After Midnight)
+#DESCRIPTION Gimme! Gimme! Gimme! (A Man After Midnight)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1980%20-%20Super%20Trouper%20(The%20ABBA%20Remasters%201997)/12.%20Elaine.mp3:Elaine
+#DESCRIPTION Elaine
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1980%20-%20Super%20Trouper%20(The%20ABBA%20Remasters%201997)/13.%20Put%20On%20Your%20White%20Sombrero.mp3:Put On Your White Sombrero
+#DESCRIPTION Put On Your White Sombrero
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1981%20-%20The%20Visitors%20(The%20ABBA%20Remasters%201997)/01.%20The%20Visitors.mp3:The Visitors
+#DESCRIPTION The Visitors
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1981%20-%20The%20Visitors%20(The%20ABBA%20Remasters%201997)/02.%20Head%20Over%20Heels.mp3:Head Over Heels
+#DESCRIPTION Head Over Heels
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1981%20-%20The%20Visitors%20(The%20ABBA%20Remasters%201997)/03.%20When%20All%20Is%20Said%20And%20Done.mp3:When All Is Said And Done
+#DESCRIPTION When All Is Said And Done
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1981%20-%20The%20Visitors%20(The%20ABBA%20Remasters%201997)/04.%20Soldiers.mp3:Soldiers
+#DESCRIPTION Soldiers
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1981%20-%20The%20Visitors%20(The%20ABBA%20Remasters%201997)/05.%20I%20Let%20The%20Music%20Speak.mp3:I Let The Music Speak
+#DESCRIPTION I Let The Music Speak
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1981%20-%20The%20Visitors%20(The%20ABBA%20Remasters%201997)/06.%20One%20Of%20Us.mp3:One Of Us
+#DESCRIPTION One Of Us
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1981%20-%20The%20Visitors%20(The%20ABBA%20Remasters%201997)/07.%20Two%20For%20The%20Price%20Of%20One.mp3:Two For The Price Of One
+#DESCRIPTION Two For The Price Of One
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1981%20-%20The%20Visitors%20(The%20ABBA%20Remasters%201997)/08.%20Slipping%20Through%20My%20Fingers.mp3:Slipping Through My Fingers
+#DESCRIPTION Slipping Through My Fingers
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1981%20-%20The%20Visitors%20(The%20ABBA%20Remasters%201997)/09.%20Like%20An%20Angel%20Passing%20Through%20My%20Room.mp3:Like An Angel Passing Through My Room
+#DESCRIPTION Like An Angel Passing Through My Room
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1981%20-%20The%20Visitors%20(The%20ABBA%20Remasters%201997)/10.%20Should%20I%20Laugh%20Or%20Cry.mp3:Should I Laugh Or Cry
+#DESCRIPTION Should I Laugh Or Cry
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1981%20-%20The%20Visitors%20(The%20ABBA%20Remasters%201997)/11.%20The%20Day%20Before%20You%20Came.mp3:The Day Before You Came
+#DESCRIPTION The Day Before You Came
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1981%20-%20The%20Visitors%20(The%20ABBA%20Remasters%201997)/12.%20Under%20Attack.mp3:Under Attack
+#DESCRIPTION Under Attack
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/THE%20ABBA%20REMASTERS/1981%20-%20The%20Visitors%20(The%20ABBA%20Remasters%201997)/13.%20You%20Owe%20Me%20One.mp3:You Owe Me One
+#DESCRIPTION You Owe Me One
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1973%20-%20Ring%20Ring%20(Deluxe%20Edition,%202013)/01.%20Ring%20Ring.mp3:Ring Ring
+#DESCRIPTION Ring Ring
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1973%20-%20Ring%20Ring%20(Deluxe%20Edition,%202013)/02.%20Another%20Town,%20Another%20Train.mp3:Another Town Another Train
+#DESCRIPTION Another Town Another Train
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1973%20-%20Ring%20Ring%20(Deluxe%20Edition,%202013)/03.%20Disillusion.mp3:Disillusion
+#DESCRIPTION Disillusion
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1973%20-%20Ring%20Ring%20(Deluxe%20Edition,%202013)/04.%20People%20Need%20Love.mp3:People Need Love
+#DESCRIPTION People Need Love
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1973%20-%20Ring%20Ring%20(Deluxe%20Edition,%202013)/05.%20I%20Saw%20It%20In%20The%20Mirror.mp3:I Saw It In The Mirror
+#DESCRIPTION I Saw It In The Mirror
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1973%20-%20Ring%20Ring%20(Deluxe%20Edition,%202013)/06.%20Nina,%20Pretty%20Ballerina.mp3:Nina Pretty Ballerina
+#DESCRIPTION Nina Pretty Ballerina
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1973%20-%20Ring%20Ring%20(Deluxe%20Edition,%202013)/07.%20Love%20Isn't%20Easy%20(But%20It%20Sure%20Is%20Hard%20Enough).mp3:Love Isn't Easy (But It Sure Is Hard Enough)
+#DESCRIPTION Love Isn't Easy (But It Sure Is Hard Enough)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1973%20-%20Ring%20Ring%20(Deluxe%20Edition,%202013)/08.%20Me%20And%20Bobby%20And%20Bobby's%20Brother.mp3:Me And Bobby And Bobby's Brother
+#DESCRIPTION Me And Bobby And Bobby's Brother
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1973%20-%20Ring%20Ring%20(Deluxe%20Edition,%202013)/09.%20He%20Is%20Your%20Brother.mp3:He Is Your Brother
+#DESCRIPTION He Is Your Brother
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1973%20-%20Ring%20Ring%20(Deluxe%20Edition,%202013)/10.%20She's%20My%20Kind%20Of%20Girl.mp3:She's My Kind Of Girl
+#DESCRIPTION She's My Kind Of Girl
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1973%20-%20Ring%20Ring%20(Deluxe%20Edition,%202013)/11.%20I%20Am%20Just%20A%20Girl.mp3:I Am Just A Girl
+#DESCRIPTION I Am Just A Girl
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1973%20-%20Ring%20Ring%20(Deluxe%20Edition,%202013)/12.%20Rock'n%20Roll%20Band.mp3:Rock'n Roll Band
+#DESCRIPTION Rock'n Roll Band
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1973%20-%20Ring%20Ring%20(Deluxe%20Edition,%202013)/13.%20Ring,%20Ring%20%5bBara%20Du%20Slog%20En%20Signal%5d%20%5bSwedish%20Version%5d.mp3:Ring Ring [Bara Du Slog En Signal] [Swedish Version]
+#DESCRIPTION Ring Ring [Bara Du Slog En Signal] [Swedish Version]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1973%20-%20Ring%20Ring%20(Deluxe%20Edition,%202013)/14.%20Merry-Go-Round.mp3:Merry  Go  Round
+#DESCRIPTION Merry  Go  Round
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1973%20-%20Ring%20Ring%20(Deluxe%20Edition,%202013)/15.%20Santa%20Rosa.mp3:Santa Rosa
+#DESCRIPTION Santa Rosa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1973%20-%20Ring%20Ring%20(Deluxe%20Edition,%202013)/16.%20Ring%20Ring%20%5bSpanish%20Version%5d.mp3:Ring Ring [Spanish Version]
+#DESCRIPTION Ring Ring [Spanish Version]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1973%20-%20Ring%20Ring%20(Deluxe%20Edition,%202013)/17.%20Wer%20Im%20Wartesaal%20Der%20Liebe%20Steht%20%5bGerman%20Version%20Of%20'Another%20Town,%20Another%20Tr....mp3:Wer Im Wartesaal Der Liebe Steht [German Version Of 'Another Town Another Tr...
+#DESCRIPTION Wer Im Wartesaal Der Liebe Steht [German Version Of 'Another Town Another Tr...
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1973%20-%20Ring%20Ring%20(Deluxe%20Edition,%202013)/18.%20Ring%20Ring%20%5bGerman%20Version%5d.mp3:Ring Ring [German Version]
+#DESCRIPTION Ring Ring [German Version]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1973%20-%20Ring%20Ring%20(Deluxe%20Edition,%202013)/19.%20En%20Halsning%20Till%20Vara%20Parkarrangorer.mp3:En Halsning Till Vara Parkarrangorer
+#DESCRIPTION En Halsning Till Vara Parkarrangorer
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1973%20-%20Ring%20Ring%20(Deluxe%20Edition,%202013)/20.%20Hej%20Gamle%20Man.mp3:Hej Gamle Man
+#DESCRIPTION Hej Gamle Man
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1973%20-%20Ring%20Ring%20(Deluxe%20Edition,%202013)/21.%20There%e2%80%99S%20A%20Little%20Man.mp3:There’S A Little Man
+#DESCRIPTION There’S A Little Man
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1973%20-%20Ring%20Ring%20(Deluxe%20Edition,%202013)/22.%20I%20Saw%20It%20In%20The%20Mirror.mp3:I Saw It In The Mirror
+#DESCRIPTION I Saw It In The Mirror
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1973%20-%20Ring%20Ring%20(Deluxe%20Edition,%202013)/23.%20Jag%20Ar%20Blott%20En%20Man.mp3:Jag Ar Blott En Man
+#DESCRIPTION Jag Ar Blott En Man
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1973%20-%20Ring%20Ring%20(Deluxe%20Edition,%202013)/24.%20Man%20Vill%20Ju%20Leva%20Lite%20Dessemellan.mp3:Man Vill Ju Leva Lite Dessemellan
+#DESCRIPTION Man Vill Ju Leva Lite Dessemellan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1973%20-%20Ring%20Ring%20(Deluxe%20Edition,%202013)/25.%20Valkommen%20Till%20Varlden.mp3:Valkommen Till Varlden
+#DESCRIPTION Valkommen Till Varlden
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1974%20-%20Waterloo%20(Deluxe%20Edition,%202014)/01.%20Waterloo.mp3:Waterloo
+#DESCRIPTION Waterloo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1974%20-%20Waterloo%20(Deluxe%20Edition,%202014)/02.%20Sitting%20In%20The%20Palmtree.mp3:Sitting In The Palmtree
+#DESCRIPTION Sitting In The Palmtree
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1974%20-%20Waterloo%20(Deluxe%20Edition,%202014)/03.%20King%20Kong%20Song.mp3:King Kong Song
+#DESCRIPTION King Kong Song
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1974%20-%20Waterloo%20(Deluxe%20Edition,%202014)/04.%20Hasta%20Manana.mp3:Hasta Manana
+#DESCRIPTION Hasta Manana
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1974%20-%20Waterloo%20(Deluxe%20Edition,%202014)/05.%20My%20Mama%20Said.mp3:My Mama Said
+#DESCRIPTION My Mama Said
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1974%20-%20Waterloo%20(Deluxe%20Edition,%202014)/06.%20Dance%20(While%20The%20Music%20Still%20Goes%20On).mp3:Dance (While The Music Still Goes On)
+#DESCRIPTION Dance (While The Music Still Goes On)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1974%20-%20Waterloo%20(Deluxe%20Edition,%202014)/07.%20Honey%20Honey.mp3:Honey Honey
+#DESCRIPTION Honey Honey
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1974%20-%20Waterloo%20(Deluxe%20Edition,%202014)/08.%20Watch%20Out.mp3:Watch Out
+#DESCRIPTION Watch Out
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1974%20-%20Waterloo%20(Deluxe%20Edition,%202014)/09.%20What%20About%20Livingstone.mp3:What About Livingstone
+#DESCRIPTION What About Livingstone
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1974%20-%20Waterloo%20(Deluxe%20Edition,%202014)/10.%20Gonna%20Sing%20You%20My%20Lovesong.mp3:Gonna Sing You My Lovesong
+#DESCRIPTION Gonna Sing You My Lovesong
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1974%20-%20Waterloo%20(Deluxe%20Edition,%202014)/11.%20Suzy-Hang-Around.mp3:Suzy  Hang  Around
+#DESCRIPTION Suzy  Hang  Around
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1974%20-%20Waterloo%20(Deluxe%20Edition,%202014)/12.%20Ring%20Ring%20(US%20Remix%201974).mp3:Ring Ring (US Remix 1974)
+#DESCRIPTION Ring Ring (US Remix 1974)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1974%20-%20Waterloo%20(Deluxe%20Edition,%202014)/13.%20Waterloo%20(Swedish%20Version).mp3:Waterloo (Swedish Version)
+#DESCRIPTION Waterloo (Swedish Version)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1974%20-%20Waterloo%20(Deluxe%20Edition,%202014)/14.%20Honey%20Honey%20(Swedish%20Version).mp3:Honey Honey (Swedish Version)
+#DESCRIPTION Honey Honey (Swedish Version)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1974%20-%20Waterloo%20(Deluxe%20Edition,%202014)/15.%20Waterloo%20(German%20Version).mp3:Waterloo (German Version)
+#DESCRIPTION Waterloo (German Version)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1974%20-%20Waterloo%20(Deluxe%20Edition,%202014)/16.%20Hasta%20Manana%20(Spanish%20Version).mp3:Hasta Manana (Spanish Version)
+#DESCRIPTION Hasta Manana (Spanish Version)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1974%20-%20Waterloo%20(Deluxe%20Edition,%202014)/17.%20Waterloo%20(French%20Version).mp3:Waterloo (French Version)
+#DESCRIPTION Waterloo (French Version)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1974%20-%20Waterloo%20(Deluxe%20Edition,%202014)/18.%20Ring%20Ring%20(1974%20Remix%20-%20Single%20Version).mp3:Ring Ring (Remix    Single Version)
+#DESCRIPTION Ring Ring (Remix    Single Version)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1974%20-%20Waterloo%20(Deluxe%20Edition,%202014)/19.%20Waterloo%20(Alternate%20Mix).mp3:Waterloo (Alternate Mix)
+#DESCRIPTION Waterloo (Alternate Mix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1975%20-%20ABBA%20(Deluxe%20Edition,%202012)/01.%20Mamma%20Mia.mp3:Mamma Mia
+#DESCRIPTION Mamma Mia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1975%20-%20ABBA%20(Deluxe%20Edition,%202012)/02.%20Hey,%20Hey,%20Helen.mp3:Hey Hey Helen
+#DESCRIPTION Hey Hey Helen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1975%20-%20ABBA%20(Deluxe%20Edition,%202012)/03.%20Tropical%20Loveland.mp3:Tropical Loveland
+#DESCRIPTION Tropical Loveland
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1975%20-%20ABBA%20(Deluxe%20Edition,%202012)/04.%20SOS.mp3:SOS
+#DESCRIPTION SOS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1975%20-%20ABBA%20(Deluxe%20Edition,%202012)/05.%20Man%20in%20the%20Middle.mp3:Man in the Middle
+#DESCRIPTION Man in the Middle
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1975%20-%20ABBA%20(Deluxe%20Edition,%202012)/06.%20Bang-A-Boomerang.mp3:Bang  A  Boomerang
+#DESCRIPTION Bang  A  Boomerang
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1975%20-%20ABBA%20(Deluxe%20Edition,%202012)/07.%20I%20do,%20I%20do,%20I%20do,%20I%20do,%20I%20do.mp3:I do I do I do I do I do
+#DESCRIPTION I do I do I do I do I do
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1975%20-%20ABBA%20(Deluxe%20Edition,%202012)/08.%20Rock%20Me.mp3:Rock Me
+#DESCRIPTION Rock Me
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1975%20-%20ABBA%20(Deluxe%20Edition,%202012)/09.%20Intermezzo%20No%201.mp3:Intermezzo No 1
+#DESCRIPTION Intermezzo No 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1975%20-%20ABBA%20(Deluxe%20Edition,%202012)/10.%20I.ve%20Been%20Waiting%20For%20You.mp3:I.ve Been Waiting For You
+#DESCRIPTION I.ve Been Waiting For You
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1975%20-%20ABBA%20(Deluxe%20Edition,%202012)/11.%20So%20Long.mp3:So Long
+#DESCRIPTION So Long
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1975%20-%20ABBA%20(Deluxe%20Edition,%202012)/12.%20Crazy%20World.mp3:Crazy World
+#DESCRIPTION Crazy World
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1975%20-%20ABBA%20(Deluxe%20Edition,%202012)/13.%20Medley%20(Pick%20a%20Bale%20of%20Cotton%20-%20On%20Top%20of%20Old%20Smokey%20-%20Midnight%20Special).mp3:Medley (Pick a Bale of Cotton    On Top of Old Smokey    Midnight Special)
+#DESCRIPTION Medley (Pick a Bale of Cotton    On Top of Old Smokey    Midnight Special)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1975%20-%20ABBA%20(Deluxe%20Edition,%202012)/14.%20Mamma%20Mia%20(Spanish%20version).mp3:Mamma Mia (Spanish version)
+#DESCRIPTION Mamma Mia (Spanish version)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1976%20-%20Arrival%20(Deluxe%20Edition,%202006)/01.%20When%20I%20Kissed%20The%20Teacher.mp3:When I Kissed The Teacher
+#DESCRIPTION When I Kissed The Teacher
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1976%20-%20Arrival%20(Deluxe%20Edition,%202006)/02.%20Dancing%20Queen.mp3:Dancing Queen
+#DESCRIPTION Dancing Queen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1976%20-%20Arrival%20(Deluxe%20Edition,%202006)/03.%20My%20Love,%20My%20Life.mp3:My Love My Life
+#DESCRIPTION My Love My Life
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1976%20-%20Arrival%20(Deluxe%20Edition,%202006)/04.%20Dum%20Dum%20Diddle.mp3:Dum Dum Diddle
+#DESCRIPTION Dum Dum Diddle
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1976%20-%20Arrival%20(Deluxe%20Edition,%202006)/05.%20Knowing%20Me,%20Knowing%20You.mp3:Knowing Me Knowing You
+#DESCRIPTION Knowing Me Knowing You
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1976%20-%20Arrival%20(Deluxe%20Edition,%202006)/06.%20Money,%20Money,%20Money.mp3:Money Money Money
+#DESCRIPTION Money Money Money
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1976%20-%20Arrival%20(Deluxe%20Edition,%202006)/07.%20That's%20Me.mp3:That's Me
+#DESCRIPTION That's Me
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1976%20-%20Arrival%20(Deluxe%20Edition,%202006)/08.%20Why%20Did%20It%20Have%20To%20Be%20Me.mp3:Why Did It Have To Be Me
+#DESCRIPTION Why Did It Have To Be Me
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1976%20-%20Arrival%20(Deluxe%20Edition,%202006)/09.%20Tiger.mp3:Tiger
+#DESCRIPTION Tiger
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1976%20-%20Arrival%20(Deluxe%20Edition,%202006)/10.%20Arrival.mp3:Arrival
+#DESCRIPTION Arrival
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1976%20-%20Arrival%20(Deluxe%20Edition,%202006)/11.%20Fernando.mp3:Fernando
+#DESCRIPTION Fernando
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1976%20-%20Arrival%20(Deluxe%20Edition,%202006)/12.%20Happy%20Hawaii.mp3:Happy Hawaii
+#DESCRIPTION Happy Hawaii
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1976%20-%20Arrival%20(Deluxe%20Edition,%202006)/13.%20Fernando%20(Spanish%20Version).mp3:Fernando (Spanish Version)
+#DESCRIPTION Fernando (Spanish Version)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1976%20-%20Arrival%20(Deluxe%20Edition,%202006)/14.%20La%20Reina%20Del%20Baile%20(Spanish%20Version%20Of%20Dancing%20Queen).mp3:La Reina Del Baile (Spanish Version Of Dancing Queen)
+#DESCRIPTION La Reina Del Baile (Spanish Version Of Dancing Queen)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1976%20-%20Arrival%20(Deluxe%20Edition,%202006)/15.%20Conociendome,%20Conociendote%20(Spanish%20Version%20Of%20Knowing%20Me,%20Knowing%20You).mp3:Conociendome Conociendote (Spanish Version Of Knowing Me Knowing You)
+#DESCRIPTION Conociendome Conociendote (Spanish Version Of Knowing Me Knowing You)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1976%20-%20Arrival%20(Deluxe%20Edition,%202006)/16.%20Fernando%20(Frida's%20Swedish%20Solo%20Version).mp3:Fernando (Frida's Swedish Solo Version)
+#DESCRIPTION Fernando (Frida's Swedish Solo Version)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1977%20-%20The%20Album%20(Deluxe%20Edition,%202007)/01.%20Eagle.mp3:Eagle
+#DESCRIPTION Eagle
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1977%20-%20The%20Album%20(Deluxe%20Edition,%202007)/02.%20Take%20A%20Chance%20On%20Me.mp3:Take A Chance On Me
+#DESCRIPTION Take A Chance On Me
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1977%20-%20The%20Album%20(Deluxe%20Edition,%202007)/03.%20One%20Man,%20One%20Woman.mp3:One Man One Woman
+#DESCRIPTION One Man One Woman
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1977%20-%20The%20Album%20(Deluxe%20Edition,%202007)/04.%20The%20Name%20Of%20The%20Game.mp3:The Name Of The Game
+#DESCRIPTION The Name Of The Game
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1977%20-%20The%20Album%20(Deluxe%20Edition,%202007)/05.%20Move%20On.mp3:Move On
+#DESCRIPTION Move On
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1977%20-%20The%20Album%20(Deluxe%20Edition,%202007)/06.%20Hole%20In%20Your%20Soul.mp3:Hole In Your Soul
+#DESCRIPTION Hole In Your Soul
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1977%20-%20The%20Album%20(Deluxe%20Edition,%202007)/07.%20Thank%20You%20For%20The%20Music.mp3:Thank You For The Music
+#DESCRIPTION Thank You For The Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1977%20-%20The%20Album%20(Deluxe%20Edition,%202007)/08.%20I%20Wonder%20(Departure).mp3:I Wonder (Departure)
+#DESCRIPTION I Wonder (Departure)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1977%20-%20The%20Album%20(Deluxe%20Edition,%202007)/09.%20I'm%20A%20Marionette.mp3:I'm A Marionette
+#DESCRIPTION I'm A Marionette
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1977%20-%20The%20Album%20(Deluxe%20Edition,%202007)/10.%20Eagle%20(Single%20Edit).mp3:Eagle (Single Edit)
+#DESCRIPTION Eagle (Single Edit)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1977%20-%20The%20Album%20(Deluxe%20Edition,%202007)/11.%20Take%20A%20Chance%20On%20Me%20(Live%20Version%20Alternate%20Mix).mp3:Take A Chance On Me (Live Version Alternate Mix)
+#DESCRIPTION Take A Chance On Me (Live Version Alternate Mix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1977%20-%20The%20Album%20(Deluxe%20Edition,%202007)/12.%20Thank%20You%20For%20The%20Music%20(Doris%20Day%20Version).mp3:Thank You For The Music (Doris Day Version)
+#DESCRIPTION Thank You For The Music (Doris Day Version)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1977%20-%20The%20Album%20(Deluxe%20Edition,%202007)/13.%20Al%20Andar%20(Spanish%20Version%20Of%20'Move%20On').mp3:Al Andar (Spanish Version Of 'Move On')
+#DESCRIPTION Al Andar (Spanish Version Of 'Move On')
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1977%20-%20The%20Album%20(Deluxe%20Edition,%202007)/14.%20I%20Wonder%20(Departure)%20(Live%20Version).mp3:I Wonder (Departure) (Live Version)
+#DESCRIPTION I Wonder (Departure) (Live Version)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1977%20-%20The%20Album%20(Deluxe%20Edition,%202007)/15.%20Gracias%20Por%20La%20Musica%20(Spanish%20Version%20Of%20'Thank%20You%20For%20The%20Music').mp3:Gracias Por La Musica (Spanish Version Of 'Thank You For The Music')
+#DESCRIPTION Gracias Por La Musica (Spanish Version Of 'Thank You For The Music')
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1979%20-%20Voulez-Vous%20(Deluxe%20Edition,%202010)/01.%20As%20Good%20As%20New.mp3:As Good As New
+#DESCRIPTION As Good As New
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1979%20-%20Voulez-Vous%20(Deluxe%20Edition,%202010)/02.%20Voulez-Vous.mp3:Voulez  Vous
+#DESCRIPTION Voulez  Vous
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1979%20-%20Voulez-Vous%20(Deluxe%20Edition,%202010)/03.%20I%20Have%20A%20Dream.mp3:I Have A Dream
+#DESCRIPTION I Have A Dream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1979%20-%20Voulez-Vous%20(Deluxe%20Edition,%202010)/04.%20Angeleyes.mp3:Angeleyes
+#DESCRIPTION Angeleyes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1979%20-%20Voulez-Vous%20(Deluxe%20Edition,%202010)/05.%20The%20King%20Has%20Lost%20His%20Crown.mp3:The King Has Lost His Crown
+#DESCRIPTION The King Has Lost His Crown
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1979%20-%20Voulez-Vous%20(Deluxe%20Edition,%202010)/06.%20Does%20Your%20Mother%20Know.mp3:Does Your Mother Know
+#DESCRIPTION Does Your Mother Know
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1979%20-%20Voulez-Vous%20(Deluxe%20Edition,%202010)/07.%20If%20It%20Wasn't%20For%20The%20Nights.mp3:If It Wasn't For The Nights
+#DESCRIPTION If It Wasn't For The Nights
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1979%20-%20Voulez-Vous%20(Deluxe%20Edition,%202010)/08.%20Chiquitita.mp3:Chiquitita
+#DESCRIPTION Chiquitita
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1979%20-%20Voulez-Vous%20(Deluxe%20Edition,%202010)/09.%20Lovers%20(Live%20A%20Little%20Longer).mp3:Lovers (Live A Little Longer)
+#DESCRIPTION Lovers (Live A Little Longer)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1979%20-%20Voulez-Vous%20(Deluxe%20Edition,%202010)/10.%20Kisses%20Of%20Fire.mp3:Kisses Of Fire
+#DESCRIPTION Kisses Of Fire
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1979%20-%20Voulez-Vous%20(Deluxe%20Edition,%202010)/11.%20Summer%20Night%20City%20%5bfull%20length%20version%5d.mp3:Summer Night City [full length version]
+#DESCRIPTION Summer Night City [full length version]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1979%20-%20Voulez-Vous%20(Deluxe%20Edition,%202010)/12.%20Lovelight.mp3:Lovelight
+#DESCRIPTION Lovelight
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1979%20-%20Voulez-Vous%20(Deluxe%20Edition,%202010)/13.%20Gimme!%20Gimme!%20Gimme!%20(A%20Man%20After%20Midnight).mp3:Gimme! Gimme! Gimme! (A Man After Midnight)
+#DESCRIPTION Gimme! Gimme! Gimme! (A Man After Midnight)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1979%20-%20Voulez-Vous%20(Deluxe%20Edition,%202010)/14.%20Dream%20World.mp3:Dream World
+#DESCRIPTION Dream World
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1979%20-%20Voulez-Vous%20(Deluxe%20Edition,%202010)/15.%20Voulez-Vous%20%5bextended%20remix,%201979%20promo%5d.mp3:Voulez  Vous [extended remix promo]
+#DESCRIPTION Voulez  Vous [extended remix promo]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1980%20-%20Super%20Trouper%20(Deluxe%20Edition,%202011)/01.%20Super%20Trouper.mp3:Super Trouper
+#DESCRIPTION Super Trouper
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1980%20-%20Super%20Trouper%20(Deluxe%20Edition,%202011)/02.%20The%20Winner%20Takes%20It%20All.mp3:The Winner Takes It All
+#DESCRIPTION The Winner Takes It All
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1980%20-%20Super%20Trouper%20(Deluxe%20Edition,%202011)/03.%20On%20And%20On%20And%20On.mp3:On And On And On
+#DESCRIPTION On And On And On
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1980%20-%20Super%20Trouper%20(Deluxe%20Edition,%202011)/04.%20Andante,%20Andante.mp3:Andante Andante
+#DESCRIPTION Andante Andante
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1980%20-%20Super%20Trouper%20(Deluxe%20Edition,%202011)/05.%20Me%20And%20I.mp3:Me And I
+#DESCRIPTION Me And I
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1980%20-%20Super%20Trouper%20(Deluxe%20Edition,%202011)/06.%20Happy%20New%20Year.mp3:Happy New Year
+#DESCRIPTION Happy New Year
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1980%20-%20Super%20Trouper%20(Deluxe%20Edition,%202011)/07.%20Our%20Last%20Summer.mp3:Our Last Summer
+#DESCRIPTION Our Last Summer
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1980%20-%20Super%20Trouper%20(Deluxe%20Edition,%202011)/08.%20The%20Piper.mp3:The Piper
+#DESCRIPTION The Piper
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1980%20-%20Super%20Trouper%20(Deluxe%20Edition,%202011)/09.%20Lay%20All%20Your%20Love%20On%20Me.mp3:Lay All Your Love On Me
+#DESCRIPTION Lay All Your Love On Me
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1980%20-%20Super%20Trouper%20(Deluxe%20Edition,%202011)/10.%20The%20Way%20Old%20Friends%20Do.mp3:The Way Old Friends Do
+#DESCRIPTION The Way Old Friends Do
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1980%20-%20Super%20Trouper%20(Deluxe%20Edition,%202011)/11.%20Elaine.mp3:Elaine
+#DESCRIPTION Elaine
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1980%20-%20Super%20Trouper%20(Deluxe%20Edition,%202011)/12.%20On%20And%20On%20And%20On%20(Full%20Length%20Version,%20Stereo%20Mix).mp3:On And On And On (Full Length Version Stereo Mix)
+#DESCRIPTION On And On And On (Full Length Version Stereo Mix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1980%20-%20Super%20Trouper%20(Deluxe%20Edition,%202011)/13.%20Put%20On%20Your%20White%20Sombrero.mp3:Put On Your White Sombrero
+#DESCRIPTION Put On Your White Sombrero
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1980%20-%20Super%20Trouper%20(Deluxe%20Edition,%202011)/14.%20Andante,%20Andante%20(Spanish%20Version).mp3:Andante Andante (Spanish Version)
+#DESCRIPTION Andante Andante (Spanish Version)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1980%20-%20Super%20Trouper%20(Deluxe%20Edition,%202011)/15.%20Felicidad%20(Spanish%20Version%20Of%20Happy%20New%20Year).mp3:Felicidad (Spanish Version Of Happy New Year)
+#DESCRIPTION Felicidad (Spanish Version Of Happy New Year)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1981%20-%20The%20Visitors%20(Deluxe%20Edition,%202012)/01.%20The%20Visitors.mp3:The Visitors
+#DESCRIPTION The Visitors
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1981%20-%20The%20Visitors%20(Deluxe%20Edition,%202012)/02.%20Head%20Over%20Heels.mp3:Head Over Heels
+#DESCRIPTION Head Over Heels
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1981%20-%20The%20Visitors%20(Deluxe%20Edition,%202012)/03.%20When%20All%20Is%20Said%20And%20Done.mp3:When All Is Said And Done
+#DESCRIPTION When All Is Said And Done
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1981%20-%20The%20Visitors%20(Deluxe%20Edition,%202012)/04.%20Soldiers.mp3:Soldiers
+#DESCRIPTION Soldiers
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1981%20-%20The%20Visitors%20(Deluxe%20Edition,%202012)/05.%20I%20Let%20The%20Music%20Speak.mp3:I Let The Music Speak
+#DESCRIPTION I Let The Music Speak
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1981%20-%20The%20Visitors%20(Deluxe%20Edition,%202012)/06.%20One%20Of%20Us.mp3:One Of Us
+#DESCRIPTION One Of Us
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1981%20-%20The%20Visitors%20(Deluxe%20Edition,%202012)/07.%20Two%20For%20The%20Price%20Of%20One.mp3:Two For The Price Of One
+#DESCRIPTION Two For The Price Of One
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1981%20-%20The%20Visitors%20(Deluxe%20Edition,%202012)/08.%20Slipping%20Through%20My%20Fingers.mp3:Slipping Through My Fingers
+#DESCRIPTION Slipping Through My Fingers
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1981%20-%20The%20Visitors%20(Deluxe%20Edition,%202012)/09.%20Like%20An%20Angel%20Passing%20Through%20My%20Room.mp3:Like An Angel Passing Through My Room
+#DESCRIPTION Like An Angel Passing Through My Room
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1981%20-%20The%20Visitors%20(Deluxe%20Edition,%202012)/10.%20Should%20I%20Laugh%20Or%20Cry.mp3:Should I Laugh Or Cry
+#DESCRIPTION Should I Laugh Or Cry
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1981%20-%20The%20Visitors%20(Deluxe%20Edition,%202012)/11.%20I%20Am%20The%20City.mp3:I Am The City
+#DESCRIPTION I Am The City
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1981%20-%20The%20Visitors%20(Deluxe%20Edition,%202012)/12.%20You%20Owe%20Me%20One.mp3:You Owe Me One
+#DESCRIPTION You Owe Me One
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1981%20-%20The%20Visitors%20(Deluxe%20Edition,%202012)/13.%20Cassandra.mp3:Cassandra
+#DESCRIPTION Cassandra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1981%20-%20The%20Visitors%20(Deluxe%20Edition,%202012)/14.%20Under%20Attack.mp3:Under Attack
+#DESCRIPTION Under Attack
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1981%20-%20The%20Visitors%20(Deluxe%20Edition,%202012)/15.%20The%20Day%20Before%20You%20Came.mp3:The Day Before You Came
+#DESCRIPTION The Day Before You Came
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/DELUXE%20EDITION/1981%20-%20The%20Visitors%20(Deluxe%20Edition,%202012)/16.%20From%20A%20Twinkling%20Star%20To%20A%20Passing%20Angel%20(Demos).mp3:From A Twinkling Star To A Passing Angel (Demos)
+#DESCRIPTION From A Twinkling Star To A Passing Angel (Demos)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1973%20-%20Ring%20Ring%20(SHM-CD,%202009)/01.%20Ring,%20Ring.mp3:Ring Ring
+#DESCRIPTION Ring Ring
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1973%20-%20Ring%20Ring%20(SHM-CD,%202009)/02.%20Another%20Town,%20Another%20Train.mp3:Another Town Another Train
+#DESCRIPTION Another Town Another Train
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1973%20-%20Ring%20Ring%20(SHM-CD,%202009)/03.%20Disillusion.mp3:Disillusion
+#DESCRIPTION Disillusion
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1973%20-%20Ring%20Ring%20(SHM-CD,%202009)/04.%20People%20Need%20Love.mp3:People Need Love
+#DESCRIPTION People Need Love
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1973%20-%20Ring%20Ring%20(SHM-CD,%202009)/05.%20I%20Saw%20It%20In%20The%20Mirror.mp3:I Saw It In The Mirror
+#DESCRIPTION I Saw It In The Mirror
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1973%20-%20Ring%20Ring%20(SHM-CD,%202009)/06.%20Nina,%20Pretty%20Ballerina.mp3:Nina Pretty Ballerina
+#DESCRIPTION Nina Pretty Ballerina
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1973%20-%20Ring%20Ring%20(SHM-CD,%202009)/07.%20Love%20Isn't%20Easy%20(But%20It%20Sure%20Is%20Hard%20Enough).mp3:Love Isn't Easy (But It Sure Is Hard Enough)
+#DESCRIPTION Love Isn't Easy (But It Sure Is Hard Enough)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1973%20-%20Ring%20Ring%20(SHM-CD,%202009)/08.%20Me%20And%20Bobby%20And%20Bobby's%20Brother.mp3:Me And Bobby And Bobby's Brother
+#DESCRIPTION Me And Bobby And Bobby's Brother
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1973%20-%20Ring%20Ring%20(SHM-CD,%202009)/09.%20He%20Is%20Your%20Brother.mp3:He Is Your Brother
+#DESCRIPTION He Is Your Brother
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1973%20-%20Ring%20Ring%20(SHM-CD,%202009)/10.%20She's%20My%20Kind%20Of%20Girl.mp3:She's My Kind Of Girl
+#DESCRIPTION She's My Kind Of Girl
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1973%20-%20Ring%20Ring%20(SHM-CD,%202009)/11.%20I%20Am%20Just%20A%20Girl.mp3:I Am Just A Girl
+#DESCRIPTION I Am Just A Girl
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1973%20-%20Ring%20Ring%20(SHM-CD,%202009)/12.%20Rock'N'Roll%20Band.mp3:Rock'N'Roll Band
+#DESCRIPTION Rock'N'Roll Band
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1973%20-%20Ring%20Ring%20(SHM-CD,%202009)/13.%20Merry-Go-Round%20%5bBonus%5d.mp3:Merry  Go  Round [Bonus]
+#DESCRIPTION Merry  Go  Round [Bonus]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1973%20-%20Ring%20Ring%20(SHM-CD,%202009)/14.%20Santa%20Rosa%20%5bBonus%5d.mp3:Santa Rosa [Bonus]
+#DESCRIPTION Santa Rosa [Bonus]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1973%20-%20Ring%20Ring%20(SHM-CD,%202009)/15.%20Ring,%20Ring%20%5bBonus%20-%20In%20Swedish%5d.mp3:Ring Ring [Bonus    In Swedish]
+#DESCRIPTION Ring Ring [Bonus    In Swedish]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1974%20-%20Waterloo%20(SHM-CD,%202009)/01.%20Waterloo.mp3:Waterloo
+#DESCRIPTION Waterloo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1974%20-%20Waterloo%20(SHM-CD,%202009)/02.%20Sitting%20In%20The%20Palmtree.mp3:Sitting In The Palmtree
+#DESCRIPTION Sitting In The Palmtree
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1974%20-%20Waterloo%20(SHM-CD,%202009)/03.%20King%20Kong%20Song.mp3:King Kong Song
+#DESCRIPTION King Kong Song
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1974%20-%20Waterloo%20(SHM-CD,%202009)/04.%20Hasta%20Manana.mp3:Hasta Manana
+#DESCRIPTION Hasta Manana
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1974%20-%20Waterloo%20(SHM-CD,%202009)/05.%20My%20Mama%20Said.mp3:My Mama Said
+#DESCRIPTION My Mama Said
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1974%20-%20Waterloo%20(SHM-CD,%202009)/06.%20Dance%20(While%20The%20Music%20Still%20Goes%20On).mp3:Dance (While The Music Still Goes On)
+#DESCRIPTION Dance (While The Music Still Goes On)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1974%20-%20Waterloo%20(SHM-CD,%202009)/07.%20Honey,%20Honey.mp3:Honey Honey
+#DESCRIPTION Honey Honey
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1974%20-%20Waterloo%20(SHM-CD,%202009)/08.%20Watch%20Out.mp3:Watch Out
+#DESCRIPTION Watch Out
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1974%20-%20Waterloo%20(SHM-CD,%202009)/09.%20What%20About%20Livingstone.mp3:What About Livingstone
+#DESCRIPTION What About Livingstone
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1974%20-%20Waterloo%20(SHM-CD,%202009)/10.%20Gonna%20Sing%20You%20My%20Lovesong.mp3:Gonna Sing You My Lovesong
+#DESCRIPTION Gonna Sing You My Lovesong
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1974%20-%20Waterloo%20(SHM-CD,%202009)/11.%20Suzy-Hang-Around.mp3:Suzy  Hang  Around
+#DESCRIPTION Suzy  Hang  Around
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1974%20-%20Waterloo%20(SHM-CD,%202009)/12.%20Ring,%20Ring%20(U.S.%20Remix%201974).mp3:Ring Ring (U.S. Remix 1974)
+#DESCRIPTION Ring Ring (U.S. Remix 1974)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1974%20-%20Waterloo%20(SHM-CD,%202009)/13.%20Waterloo%20(In%20Swedish).mp3:Waterloo (In Swedish)
+#DESCRIPTION Waterloo (In Swedish)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1974%20-%20Waterloo%20(SHM-CD,%202009)/14.%20Honey%20Honey%20(In%20Swedish).mp3:Honey Honey (In Swedish)
+#DESCRIPTION Honey Honey (In Swedish)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1975%20-%20ABBA%20(SHM-CD,%202009)/01.%20Mamma%20Mia.mp3:Mamma Mia
+#DESCRIPTION Mamma Mia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1975%20-%20ABBA%20(SHM-CD,%202009)/02.%20Hey,%20Hey%20Helen.mp3:Hey Hey Helen
+#DESCRIPTION Hey Hey Helen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1975%20-%20ABBA%20(SHM-CD,%202009)/03.%20Tropical%20Loveland.mp3:Tropical Loveland
+#DESCRIPTION Tropical Loveland
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1975%20-%20ABBA%20(SHM-CD,%202009)/04.%20SOS.mp3:SOS
+#DESCRIPTION SOS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1975%20-%20ABBA%20(SHM-CD,%202009)/05.%20Man%20In%20The%20Middle.mp3:Man In The Middle
+#DESCRIPTION Man In The Middle
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1975%20-%20ABBA%20(SHM-CD,%202009)/06.%20Bang-A-Boomerang.mp3:Bang  A  Boomerang
+#DESCRIPTION Bang  A  Boomerang
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1975%20-%20ABBA%20(SHM-CD,%202009)/07.%20I%20Do,%20I%20Do,%20I%20Do,%20I%20Do,%20I%20Do.mp3:I Do I Do I Do I Do I Do
+#DESCRIPTION I Do I Do I Do I Do I Do
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1975%20-%20ABBA%20(SHM-CD,%202009)/08.%20Rock%20Me.mp3:Rock Me
+#DESCRIPTION Rock Me
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1975%20-%20ABBA%20(SHM-CD,%202009)/09.%20Intermezzo%20No.1.mp3:Intermezzo No.1
+#DESCRIPTION Intermezzo No.1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1975%20-%20ABBA%20(SHM-CD,%202009)/10.%20I've%20Been%20Waiting%20For%20You.mp3:I've Been Waiting For You
+#DESCRIPTION I've Been Waiting For You
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1975%20-%20ABBA%20(SHM-CD,%202009)/11.%20So%20Long.mp3:So Long
+#DESCRIPTION So Long
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1975%20-%20ABBA%20(SHM-CD,%202009)/12.%20Crazy%20World.mp3:Crazy World
+#DESCRIPTION Crazy World
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1975%20-%20ABBA%20(SHM-CD,%202009)/13.%20Pick%20A%20Bale%20Of%20Cotton%20_%20On%20Top%20Of%20Old%20Smokey%20_%20Midnight%20Special.mp3:Pick A Bale Of Cotton   On Top Of Old Smokey   Midnight Special
+#DESCRIPTION Pick A Bale Of Cotton   On Top Of Old Smokey   Midnight Special
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1976%20-%20Arrival%20(SHM-CD,%202009)/01.%20When%20I%20Kissed%20The%20Teacher.mp3:When I Kissed The Teacher
+#DESCRIPTION When I Kissed The Teacher
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1976%20-%20Arrival%20(SHM-CD,%202009)/02.%20Dancing%20Queen.mp3:Dancing Queen
+#DESCRIPTION Dancing Queen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1976%20-%20Arrival%20(SHM-CD,%202009)/03.%20My%20Love,%20My%20Life.mp3:My Love My Life
+#DESCRIPTION My Love My Life
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1976%20-%20Arrival%20(SHM-CD,%202009)/04.%20Dum%20Dum%20Diddle.mp3:Dum Dum Diddle
+#DESCRIPTION Dum Dum Diddle
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1976%20-%20Arrival%20(SHM-CD,%202009)/05.%20Knowing%20Me,%20Knowing%20You.mp3:Knowing Me Knowing You
+#DESCRIPTION Knowing Me Knowing You
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1976%20-%20Arrival%20(SHM-CD,%202009)/06.%20Money,%20Money,%20Money.mp3:Money Money Money
+#DESCRIPTION Money Money Money
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1976%20-%20Arrival%20(SHM-CD,%202009)/07.%20That's%20Me.mp3:That's Me
+#DESCRIPTION That's Me
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1976%20-%20Arrival%20(SHM-CD,%202009)/08.%20Why%20Did%20It%20Have%20To%20Be%20Me.mp3:Why Did It Have To Be Me
+#DESCRIPTION Why Did It Have To Be Me
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1976%20-%20Arrival%20(SHM-CD,%202009)/09.%20Tiger.mp3:Tiger
+#DESCRIPTION Tiger
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1976%20-%20Arrival%20(SHM-CD,%202009)/10.%20Arrival.mp3:Arrival
+#DESCRIPTION Arrival
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1976%20-%20Arrival%20(SHM-CD,%202009)/11.%20Fernando.mp3:Fernando
+#DESCRIPTION Fernando
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1976%20-%20Arrival%20(SHM-CD,%202009)/12.%20Happy%20Hawaii.mp3:Happy Hawaii
+#DESCRIPTION Happy Hawaii
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1977%20-%20The%20Album%20(SHM-CD,%202009)/01.%20Eagle.mp3:Eagle
+#DESCRIPTION Eagle
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1977%20-%20The%20Album%20(SHM-CD,%202009)/02.%20Take%20A%20Chance%20On%20Me.mp3:Take A Chance On Me
+#DESCRIPTION Take A Chance On Me
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1977%20-%20The%20Album%20(SHM-CD,%202009)/03.%20One%20Man,%20One%20Woman.mp3:One Man One Woman
+#DESCRIPTION One Man One Woman
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1977%20-%20The%20Album%20(SHM-CD,%202009)/04.%20The%20Name%20Of%20The%20Game.mp3:The Name Of The Game
+#DESCRIPTION The Name Of The Game
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1977%20-%20The%20Album%20(SHM-CD,%202009)/05.%20Move%20On.mp3:Move On
+#DESCRIPTION Move On
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1977%20-%20The%20Album%20(SHM-CD,%202009)/06.%20Hole%20In%20Your%20Soul.mp3:Hole In Your Soul
+#DESCRIPTION Hole In Your Soul
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1977%20-%20The%20Album%20(SHM-CD,%202009)/07.%20Thank%20You%20For%20The%20Music.mp3:Thank You For The Music
+#DESCRIPTION Thank You For The Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1977%20-%20The%20Album%20(SHM-CD,%202009)/08.%20I%20Wonder%20(Departure).mp3:I Wonder (Departure)
+#DESCRIPTION I Wonder (Departure)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1977%20-%20The%20Album%20(SHM-CD,%202009)/09.%20I'm%20A%20Marionette.mp3:I'm A Marionette
+#DESCRIPTION I'm A Marionette
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1977%20-%20The%20Album%20(SHM-CD,%202009)/10.%20Thank%20You%20For%20The%20Music%20(Doris%20Day%20Version).mp3:Thank You For The Music (Doris Day Version)
+#DESCRIPTION Thank You For The Music (Doris Day Version)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1979%20-%20Voulez%20-Vous%20(SHM-CD,%202009)/01.%20As%20Good%20As%20New.mp3:As Good As New
+#DESCRIPTION As Good As New
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1979%20-%20Voulez%20-Vous%20(SHM-CD,%202009)/02.%20Voulez-Vous.mp3:Voulez  Vous
+#DESCRIPTION Voulez  Vous
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1979%20-%20Voulez%20-Vous%20(SHM-CD,%202009)/03.%20I%20Have%20A%20Dream.mp3:I Have A Dream
+#DESCRIPTION I Have A Dream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1979%20-%20Voulez%20-Vous%20(SHM-CD,%202009)/04.%20Angeleyes.mp3:Angeleyes
+#DESCRIPTION Angeleyes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1979%20-%20Voulez%20-Vous%20(SHM-CD,%202009)/05.%20The%20King%20Has%20Lost%20His%20Crown.mp3:The King Has Lost His Crown
+#DESCRIPTION The King Has Lost His Crown
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1979%20-%20Voulez%20-Vous%20(SHM-CD,%202009)/06.%20Does%20Your%20Mother%20Know.mp3:Does Your Mother Know
+#DESCRIPTION Does Your Mother Know
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1979%20-%20Voulez%20-Vous%20(SHM-CD,%202009)/07.%20If%20It%20Wasn't%20For%20The%20Night.mp3:If It Wasn't For The Night
+#DESCRIPTION If It Wasn't For The Night
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1979%20-%20Voulez%20-Vous%20(SHM-CD,%202009)/08.%20Chiquitita.mp3:Chiquitita
+#DESCRIPTION Chiquitita
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1979%20-%20Voulez%20-Vous%20(SHM-CD,%202009)/09.%20Lovers%20(Live%20A%20Little%20Longer).mp3:Lovers (Live A Little Longer)
+#DESCRIPTION Lovers (Live A Little Longer)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1979%20-%20Voulez%20-Vous%20(SHM-CD,%202009)/10.%20Kisses%20Of%20Fire.mp3:Kisses Of Fire
+#DESCRIPTION Kisses Of Fire
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1979%20-%20Voulez%20-Vous%20(SHM-CD,%202009)/11.%20Summer%20Night%20City.mp3:Summer Night City
+#DESCRIPTION Summer Night City
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1979%20-%20Voulez%20-Vous%20(SHM-CD,%202009)/12.%20Lovelight.mp3:Lovelight
+#DESCRIPTION Lovelight
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1979%20-%20Voulez%20-Vous%20(SHM-CD,%202009)/13.%20Gimme!%20Gimme!%20Gimme!%20(A%20Man%20After%20Midnight).mp3:Gimme! Gimme! Gimme! (A Man After Midnight)
+#DESCRIPTION Gimme! Gimme! Gimme! (A Man After Midnight)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1980%20-%20Super%20Trouper%20(SHM-CD,%202009)/01.%20Super%20Trouper.mp3:Super Trouper
+#DESCRIPTION Super Trouper
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1980%20-%20Super%20Trouper%20(SHM-CD,%202009)/02.%20The%20Winner%20Takes%20It%20All.mp3:The Winner Takes It All
+#DESCRIPTION The Winner Takes It All
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1980%20-%20Super%20Trouper%20(SHM-CD,%202009)/03.%20On%20And%20On%20And%20On.mp3:On And On And On
+#DESCRIPTION On And On And On
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1980%20-%20Super%20Trouper%20(SHM-CD,%202009)/04.%20Andante,%20Andante.mp3:Andante Andante
+#DESCRIPTION Andante Andante
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1980%20-%20Super%20Trouper%20(SHM-CD,%202009)/05.%20Me%20And%20I.mp3:Me And I
+#DESCRIPTION Me And I
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1980%20-%20Super%20Trouper%20(SHM-CD,%202009)/06.%20Happy%20New%20Year.mp3:Happy New Year
+#DESCRIPTION Happy New Year
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1980%20-%20Super%20Trouper%20(SHM-CD,%202009)/07.%20Our%20Last%20Summer.mp3:Our Last Summer
+#DESCRIPTION Our Last Summer
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1980%20-%20Super%20Trouper%20(SHM-CD,%202009)/08.%20The%20Piper.mp3:The Piper
+#DESCRIPTION The Piper
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1980%20-%20Super%20Trouper%20(SHM-CD,%202009)/09.%20Lay%20All%20Your%20Love%20On%20Me.mp3:Lay All Your Love On Me
+#DESCRIPTION Lay All Your Love On Me
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1980%20-%20Super%20Trouper%20(SHM-CD,%202009)/10.%20The%20Way%20Old%20Friends%20Do.mp3:The Way Old Friends Do
+#DESCRIPTION The Way Old Friends Do
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1980%20-%20Super%20Trouper%20(SHM-CD,%202009)/11.%20Elaine.mp3:Elaine
+#DESCRIPTION Elaine
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1980%20-%20Super%20Trouper%20(SHM-CD,%202009)/12.%20Put%20On%20Your%20White%20Sombrero.mp3:Put On Your White Sombrero
+#DESCRIPTION Put On Your White Sombrero
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1981%20-%20The%20Visitors%20(SHM-CD,%202009)/01.%20The%20Visitors.mp3:The Visitors
+#DESCRIPTION The Visitors
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1981%20-%20The%20Visitors%20(SHM-CD,%202009)/02.%20Head%20Over%20Heels.mp3:Head Over Heels
+#DESCRIPTION Head Over Heels
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1981%20-%20The%20Visitors%20(SHM-CD,%202009)/03.%20When%20All%20Is%20Said%20And%20Done.mp3:When All Is Said And Done
+#DESCRIPTION When All Is Said And Done
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1981%20-%20The%20Visitors%20(SHM-CD,%202009)/04.%20Soldiers.mp3:Soldiers
+#DESCRIPTION Soldiers
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1981%20-%20The%20Visitors%20(SHM-CD,%202009)/05.%20I%20Let%20The%20Music%20Speak.mp3:I Let The Music Speak
+#DESCRIPTION I Let The Music Speak
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1981%20-%20The%20Visitors%20(SHM-CD,%202009)/06.%20One%20Of%20Us.mp3:One Of Us
+#DESCRIPTION One Of Us
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1981%20-%20The%20Visitors%20(SHM-CD,%202009)/07.%20Two%20For%20The%20Price%20Of%20One.mp3:Two For The Price Of One
+#DESCRIPTION Two For The Price Of One
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1981%20-%20The%20Visitors%20(SHM-CD,%202009)/08.%20Slipping%20Through%20My%20Fingers.mp3:Slipping Through My Fingers
+#DESCRIPTION Slipping Through My Fingers
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1981%20-%20The%20Visitors%20(SHM-CD,%202009)/09.%20Like%20An%20Angel%20Passing%20Through%20My%20Room.mp3:Like An Angel Passing Through My Room
+#DESCRIPTION Like An Angel Passing Through My Room
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1981%20-%20The%20Visitors%20(SHM-CD,%202009)/10.%20Should%20I%20Laugh%20Or%20Cry.mp3:Should I Laugh Or Cry
+#DESCRIPTION Should I Laugh Or Cry
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1981%20-%20The%20Visitors%20(SHM-CD,%202009)/11.%20The%20Day%20Before%20You%20Came.mp3:The Day Before You Came
+#DESCRIPTION The Day Before You Came
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1981%20-%20The%20Visitors%20(SHM-CD,%202009)/12.%20Cassandra.mp3:Cassandra
+#DESCRIPTION Cassandra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/JAPAN%20SHM-CD/1981%20-%20The%20Visitors%20(SHM-CD,%202009)/13.%20Under%20Attack.mp3:Under Attack
+#DESCRIPTION Under Attack
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1973%20-%20Ring%20Ring/01.%20Ring%20Ring%20(Bara%20Du%20Slog%20En%20Signal).mp3:Ring Ring (Bara Du Slog En Signal)
+#DESCRIPTION Ring Ring (Bara Du Slog En Signal)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1973%20-%20Ring%20Ring/02.%20Another%20Town,%20Another%20Train.mp3:Another Town Another Train
+#DESCRIPTION Another Town Another Train
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1973%20-%20Ring%20Ring/03.%20Disillusion.mp3:Disillusion
+#DESCRIPTION Disillusion
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1973%20-%20Ring%20Ring/04.%20People%20Need%20Love.mp3:People Need Love
+#DESCRIPTION People Need Love
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1973%20-%20Ring%20Ring/05.%20I%20Saw%20It%20In%20The%20Mirror.mp3:I Saw It In The Mirror
+#DESCRIPTION I Saw It In The Mirror
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1973%20-%20Ring%20Ring/06.%20Nina,%20Pretty%20Ballerina.mp3:Nina Pretty Ballerina
+#DESCRIPTION Nina Pretty Ballerina
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1973%20-%20Ring%20Ring/07.%20Love%20Isn't%20Easy%20(But%20It%20Sure%20Is%20Hard%20Enough).mp3:Love Isn't Easy (But It Sure Is Hard Enough)
+#DESCRIPTION Love Isn't Easy (But It Sure Is Hard Enough)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1973%20-%20Ring%20Ring/08.%20Me%20And%20Bobby%20And%20Bobby's%20Brother.mp3:Me And Bobby And Bobby's Brother
+#DESCRIPTION Me And Bobby And Bobby's Brother
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1973%20-%20Ring%20Ring/09.%20He%20Is%20Your%20Brother.mp3:He Is Your Brother
+#DESCRIPTION He Is Your Brother
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1973%20-%20Ring%20Ring/10.%20Ring%20Ring%20(English%20Version).mp3:Ring Ring (English Version)
+#DESCRIPTION Ring Ring (English Version)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1973%20-%20Ring%20Ring/11.%20I%20Am%20Just%20A%20Girl.mp3:I Am Just A Girl
+#DESCRIPTION I Am Just A Girl
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1973%20-%20Ring%20Ring/12.%20Rock%20'n%20Roll%20Band.mp3:Rock 'n Roll Band
+#DESCRIPTION Rock 'n Roll Band
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1974%20-%20Waterloo/01.%20Waterloo.mp3:Waterloo
+#DESCRIPTION Waterloo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1974%20-%20Waterloo/02.%20Sitting%20In%20The%20Palmtree.mp3:Sitting In The Palmtree
+#DESCRIPTION Sitting In The Palmtree
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1974%20-%20Waterloo/03.%20King%20Kong%20Song.mp3:King Kong Song
+#DESCRIPTION King Kong Song
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1974%20-%20Waterloo/04.%20Hasta%20Manana.mp3:Hasta Manana
+#DESCRIPTION Hasta Manana
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1974%20-%20Waterloo/05.%20My%20Mama%20Said.mp3:My Mama Said
+#DESCRIPTION My Mama Said
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1974%20-%20Waterloo/06.%20Dance%20(While%20The%20Music%20Still%20Goes%20On).mp3:Dance (While The Music Still Goes On)
+#DESCRIPTION Dance (While The Music Still Goes On)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1974%20-%20Waterloo/07.%20Honey,%20Honey.mp3:Honey Honey
+#DESCRIPTION Honey Honey
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1974%20-%20Waterloo/08.%20Watch%20Out.mp3:Watch Out
+#DESCRIPTION Watch Out
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1974%20-%20Waterloo/09.%20What%20About%20Livingstone.mp3:What About Livingstone
+#DESCRIPTION What About Livingstone
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1974%20-%20Waterloo/10.%20Gonna%20Sing%20You%20My%20Lovesong.mp3:Gonna Sing You My Lovesong
+#DESCRIPTION Gonna Sing You My Lovesong
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1974%20-%20Waterloo/11.%20Suzy-Hang-Around.mp3:Suzy  Hang  Around
+#DESCRIPTION Suzy  Hang  Around
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1974%20-%20Waterloo/12.%20Waterloo%20(English%20Version).mp3:Waterloo (English Version)
+#DESCRIPTION Waterloo (English Version)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1975%20-%20ABBA/01.%20Mamma%20Mia.mp3:Mamma Mia
+#DESCRIPTION Mamma Mia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1975%20-%20ABBA/02.%20Hey,%20Hey%20Helen.mp3:Hey Hey Helen
+#DESCRIPTION Hey Hey Helen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1975%20-%20ABBA/03.%20Tropical%20Loveland.mp3:Tropical Loveland
+#DESCRIPTION Tropical Loveland
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1975%20-%20ABBA/04.%20SOS.mp3:SOS
+#DESCRIPTION SOS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1975%20-%20ABBA/05.%20Man%20In%20The%20Middle.mp3:Man In The Middle
+#DESCRIPTION Man In The Middle
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1975%20-%20ABBA/06.%20Bang-A-Boomerang.mp3:Bang  A  Boomerang
+#DESCRIPTION Bang  A  Boomerang
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1975%20-%20ABBA/07.%20I%20Do,%20I%20Do,%20I%20Do,%20I%20Do,%20I%20Do.mp3:I Do I Do I Do I Do I Do
+#DESCRIPTION I Do I Do I Do I Do I Do
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1975%20-%20ABBA/08.%20Rock%20Me.mp3:Rock Me
+#DESCRIPTION Rock Me
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1975%20-%20ABBA/09.%20Intermezzo%20No.%201.mp3:Intermezzo No. 1
+#DESCRIPTION Intermezzo No. 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1975%20-%20ABBA/10.%20I've%20Been%20Waiting%20For%20You.mp3:I've Been Waiting For You
+#DESCRIPTION I've Been Waiting For You
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1975%20-%20ABBA/11.%20So%20Long.mp3:So Long
+#DESCRIPTION So Long
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1975%20-%20ABBA/12.%20Waterloo.mp3:Waterloo
+#DESCRIPTION Waterloo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1975%20-%20ABBA/13.%20Hasta%20Manana.mp3:Hasta Manana
+#DESCRIPTION Hasta Manana
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1975%20-%20ABBA/14.%20Honey,%20Honey.mp3:Honey Honey
+#DESCRIPTION Honey Honey
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1975%20-%20ABBA/15.%20Ring%20Ring.mp3:Ring Ring
+#DESCRIPTION Ring Ring
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1975%20-%20ABBA/16.%20Nina,%20Pretty%20Ballerina.mp3:Nina Pretty Ballerina
+#DESCRIPTION Nina Pretty Ballerina
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1976%20-%20Arrival/01.%20When%20I%20Kissed%20The%20Teacher.mp3:When I Kissed The Teacher
+#DESCRIPTION When I Kissed The Teacher
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1976%20-%20Arrival/02.%20Dancing%20Queen.mp3:Dancing Queen
+#DESCRIPTION Dancing Queen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1976%20-%20Arrival/03.%20My%20Love,%20My%20Life.mp3:My Love My Life
+#DESCRIPTION My Love My Life
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1976%20-%20Arrival/04.%20Dum%20Dum%20Diddle.mp3:Dum Dum Diddle
+#DESCRIPTION Dum Dum Diddle
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1976%20-%20Arrival/05.%20Knowing%20Me,%20Knowing%20You.mp3:Knowing Me Knowing You
+#DESCRIPTION Knowing Me Knowing You
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1976%20-%20Arrival/06.%20Money,%20Money,%20Money.mp3:Money Money Money
+#DESCRIPTION Money Money Money
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1976%20-%20Arrival/07.%20That's%20Me.mp3:That's Me
+#DESCRIPTION That's Me
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1976%20-%20Arrival/08.%20Why%20Did%20It%20Have%20To%20Be%20Me.mp3:Why Did It Have To Be Me
+#DESCRIPTION Why Did It Have To Be Me
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1976%20-%20Arrival/09.%20Tiger.mp3:Tiger
+#DESCRIPTION Tiger
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1976%20-%20Arrival/10.%20Arrival.mp3:Arrival
+#DESCRIPTION Arrival
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1977%20-%20The%20Album/01.%20Eagle.mp3:Eagle
+#DESCRIPTION Eagle
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1977%20-%20The%20Album/02.%20Take%20A%20Chance%20On%20Me.mp3:Take A Chance On Me
+#DESCRIPTION Take A Chance On Me
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1977%20-%20The%20Album/03.%20One%20Man,%20One%20Woman.mp3:One Man One Woman
+#DESCRIPTION One Man One Woman
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1977%20-%20The%20Album/04.%20The%20Name%20Of%20The%20Game.mp3:The Name Of The Game
+#DESCRIPTION The Name Of The Game
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1977%20-%20The%20Album/05.%20Move%20On.mp3:Move On
+#DESCRIPTION Move On
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1977%20-%20The%20Album/06.%20Hole%20In%20Your%20Soul.mp3:Hole In Your Soul
+#DESCRIPTION Hole In Your Soul
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1977%20-%20The%20Album/07.%20Thank%20You%20For%20The%20Music.mp3:Thank You For The Music
+#DESCRIPTION Thank You For The Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1977%20-%20The%20Album/08.%20I%20Wonder%20(Departure).mp3:I Wonder (Departure)
+#DESCRIPTION I Wonder (Departure)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1977%20-%20The%20Album/09.%20I'm%20A%20Marionette.mp3:I'm A Marionette
+#DESCRIPTION I'm A Marionette
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1979%20-%20Voulez-Vous/01.%20As%20Good%20As%20New.mp3:As Good As New
+#DESCRIPTION As Good As New
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1979%20-%20Voulez-Vous/02.%20Voulez-Vous.mp3:Voulez  Vous
+#DESCRIPTION Voulez  Vous
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1979%20-%20Voulez-Vous/03.%20I%20Have%20A%20Dream.mp3:I Have A Dream
+#DESCRIPTION I Have A Dream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1979%20-%20Voulez-Vous/04.%20Angeleyes.mp3:Angeleyes
+#DESCRIPTION Angeleyes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1979%20-%20Voulez-Vous/05.%20The%20King%20Has%20Lost%20His%20Crown.mp3:The King Has Lost His Crown
+#DESCRIPTION The King Has Lost His Crown
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1979%20-%20Voulez-Vous/06.%20Does%20Your%20Mother%20Know.mp3:Does Your Mother Know
+#DESCRIPTION Does Your Mother Know
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1979%20-%20Voulez-Vous/07.%20If%20It%20Wasn't%20For%20The%20Nights.mp3:If It Wasn't For The Nights
+#DESCRIPTION If It Wasn't For The Nights
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1979%20-%20Voulez-Vous/08.%20Chiquitita.mp3:Chiquitita
+#DESCRIPTION Chiquitita
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1979%20-%20Voulez-Vous/09.%20Lovers%20(Live%20A%20Little%20Longer).mp3:Lovers (Live A Little Longer)
+#DESCRIPTION Lovers (Live A Little Longer)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1979%20-%20Voulez-Vous/10.%20Kisses%20Of%20Fire.mp3:Kisses Of Fire
+#DESCRIPTION Kisses Of Fire
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1980%20-%20Super%20Trouper/01.%20Super%20Trouper.mp3:Super Trouper
+#DESCRIPTION Super Trouper
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1980%20-%20Super%20Trouper/02.%20The%20Winner%20Takes%20It%20All.mp3:The Winner Takes It All
+#DESCRIPTION The Winner Takes It All
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1980%20-%20Super%20Trouper/03.%20On%20And%20On%20And%20On.mp3:On And On And On
+#DESCRIPTION On And On And On
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1980%20-%20Super%20Trouper/04.%20Andante,%20Andante.mp3:Andante Andante
+#DESCRIPTION Andante Andante
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1980%20-%20Super%20Trouper/05.%20Me%20And%20I.mp3:Me And I
+#DESCRIPTION Me And I
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1980%20-%20Super%20Trouper/06.%20Happy%20New%20Year.mp3:Happy New Year
+#DESCRIPTION Happy New Year
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1980%20-%20Super%20Trouper/07.%20Our%20Last%20Summer.mp3:Our Last Summer
+#DESCRIPTION Our Last Summer
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1980%20-%20Super%20Trouper/08.%20The%20Piper.mp3:The Piper
+#DESCRIPTION The Piper
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1980%20-%20Super%20Trouper/09.%20Lay%20All%20Your%20Love%20On%20Me.mp3:Lay All Your Love On Me
+#DESCRIPTION Lay All Your Love On Me
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1980%20-%20Super%20Trouper/10.%20The%20Way%20Old%20Friends%20Do.mp3:The Way Old Friends Do
+#DESCRIPTION The Way Old Friends Do
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1981%20-%20The%20Visitors/01.%20The%20Visitors.mp3:The Visitors
+#DESCRIPTION The Visitors
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1981%20-%20The%20Visitors/02.%20Head%20Over%20Heels.mp3:Head Over Heels
+#DESCRIPTION Head Over Heels
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1981%20-%20The%20Visitors/03.%20When%20All%20Is%20Said%20And%20Done.mp3:When All Is Said And Done
+#DESCRIPTION When All Is Said And Done
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1981%20-%20The%20Visitors/04.%20Soldiers.mp3:Soldiers
+#DESCRIPTION Soldiers
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1981%20-%20The%20Visitors/05.%20I%20Let%20The%20Music%20Speak.mp3:I Let The Music Speak
+#DESCRIPTION I Let The Music Speak
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1981%20-%20The%20Visitors/06.%20One%20Of%20Us.mp3:One Of Us
+#DESCRIPTION One Of Us
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1981%20-%20The%20Visitors/07.%20Two%20For%20The%20Price%20Of%20One.mp3:Two For The Price Of One
+#DESCRIPTION Two For The Price Of One
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1981%20-%20The%20Visitors/08.%20Slipping%20Through%20My%20Fingers.mp3:Slipping Through My Fingers
+#DESCRIPTION Slipping Through My Fingers
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/ORIGINAL%20CD/1981%20-%20The%20Visitors/09.%20Like%20An%20Angel%20Passing%20Through%20My%20Room.mp3:Like An Angel Passing Through My Room
+#DESCRIPTION Like An Angel Passing Through My Room
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1973%20-%20Ring,%20Ring%20(Vinyl-rip)/01.%20Ring,%20Ring.mp3:Ring Ring
+#DESCRIPTION Ring Ring
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1973%20-%20Ring,%20Ring%20(Vinyl-rip)/02.%20Another%20Town,%20Another%20Train.mp3:Another Town Another Train
+#DESCRIPTION Another Town Another Train
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1973%20-%20Ring,%20Ring%20(Vinyl-rip)/03.%20Disillution.mp3:Disillution
+#DESCRIPTION Disillution
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1973%20-%20Ring,%20Ring%20(Vinyl-rip)/04.%20People%20Need%20Love.mp3:People Need Love
+#DESCRIPTION People Need Love
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1973%20-%20Ring,%20Ring%20(Vinyl-rip)/05.%20I%20Saw%20It%20In%20The%20Mirror.mp3:I Saw It In The Mirror
+#DESCRIPTION I Saw It In The Mirror
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1973%20-%20Ring,%20Ring%20(Vinyl-rip)/06.%20Nina,%20Pretty%20Ballerina%20(B.Andersson%20-%20B.Ulvaeus).mp3:Nina Pretty Ballerina (B.Andersson    B.Ulvaeus)
+#DESCRIPTION Nina Pretty Ballerina (B.Andersson    B.Ulvaeus)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1973%20-%20Ring,%20Ring%20(Vinyl-rip)/07.%20Love%20Isn%60t%20Easy.mp3:Love Isn`t Easy
+#DESCRIPTION Love Isn`t Easy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1973%20-%20Ring,%20Ring%20(Vinyl-rip)/08.%20Me%20And%20Bobby%20And%20Bobby%60s%20Brother.mp3:Me And Bobby And Bobby`s Brother
+#DESCRIPTION Me And Bobby And Bobby`s Brother
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1973%20-%20Ring,%20Ring%20(Vinyl-rip)/09.%20He%20Is%20Your%20Brother.mp3:He Is Your Brother
+#DESCRIPTION He Is Your Brother
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1973%20-%20Ring,%20Ring%20(Vinyl-rip)/10.%20Ring,%20Ring%20-%20Engl.%20ver..mp3:Ring Ring    Engl. ver.
+#DESCRIPTION Ring Ring    Engl. ver.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1973%20-%20Ring,%20Ring%20(Vinyl-rip)/11.%20I%20am%20Just%20A%20Girl.mp3:I am Just A Girl
+#DESCRIPTION I am Just A Girl
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1973%20-%20Ring,%20Ring%20(Vinyl-rip)/12.%20Rock%20%60N%20Roll%20Band.mp3:Rock `N Roll Band
+#DESCRIPTION Rock `N Roll Band
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1974%20-%20Waterloo%20(Vinyl-rip)/01.%20Waterloo.mp3:Waterloo
+#DESCRIPTION Waterloo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1974%20-%20Waterloo%20(Vinyl-rip)/02.%20Sitting%20In%20The%20Palmtree.mp3:Sitting In The Palmtree
+#DESCRIPTION Sitting In The Palmtree
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1974%20-%20Waterloo%20(Vinyl-rip)/03.%20King%20Kong%20Song.mp3:King Kong Song
+#DESCRIPTION King Kong Song
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1974%20-%20Waterloo%20(Vinyl-rip)/04.%20Hasta%20Manana.mp3:Hasta Manana
+#DESCRIPTION Hasta Manana
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1974%20-%20Waterloo%20(Vinyl-rip)/05.%20My%20Mama%20Said.mp3:My Mama Said
+#DESCRIPTION My Mama Said
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1974%20-%20Waterloo%20(Vinyl-rip)/06.%20Dance.mp3:Dance
+#DESCRIPTION Dance
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1974%20-%20Waterloo%20(Vinyl-rip)/07.%20Honey,%20Honey.mp3:Honey Honey
+#DESCRIPTION Honey Honey
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1974%20-%20Waterloo%20(Vinyl-rip)/08.%20Watch%20Out.mp3:Watch Out
+#DESCRIPTION Watch Out
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1974%20-%20Waterloo%20(Vinyl-rip)/09.%20What%20About%20Livingstone.mp3:What About Livingstone
+#DESCRIPTION What About Livingstone
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1974%20-%20Waterloo%20(Vinyl-rip)/10.%20Gonna%20Sing%20You%20My%20Love%20Song.mp3:Gonna Sing You My Love Song
+#DESCRIPTION Gonna Sing You My Love Song
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1974%20-%20Waterloo%20(Vinyl-rip)/11.%20Suzy-Hang-Around.mp3:Suzy  Hang  Around
+#DESCRIPTION Suzy  Hang  Around
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1974%20-%20Waterloo%20(Vinyl-rip)/12.%20Waterloo%20-%20Engl.%20ver..mp3:Waterloo    Engl. ver.
+#DESCRIPTION Waterloo    Engl. ver.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1975%20-%20ABBA%20(Vinyl-rip)/01.%20Mamma%20Mia.mp3:Mamma Mia
+#DESCRIPTION Mamma Mia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1975%20-%20ABBA%20(Vinyl-rip)/02.%20Hey,%20Hey%20Helen.mp3:Hey Hey Helen
+#DESCRIPTION Hey Hey Helen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1975%20-%20ABBA%20(Vinyl-rip)/03.%20Tropical%20Loveland.mp3:Tropical Loveland
+#DESCRIPTION Tropical Loveland
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1975%20-%20ABBA%20(Vinyl-rip)/04.%20SOS.mp3:SOS
+#DESCRIPTION SOS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1975%20-%20ABBA%20(Vinyl-rip)/05.%20Man%20In%20The%20Middle.mp3:Man In The Middle
+#DESCRIPTION Man In The Middle
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1975%20-%20ABBA%20(Vinyl-rip)/06.%20Bang-A-Boomerang.mp3:Bang  A  Boomerang
+#DESCRIPTION Bang  A  Boomerang
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1975%20-%20ABBA%20(Vinyl-rip)/07.%20I%20Do,%20I%20Do,%20I%20Do,%20I%20Do,%20I%20Do.mp3:I Do I Do I Do I Do I Do
+#DESCRIPTION I Do I Do I Do I Do I Do
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1975%20-%20ABBA%20(Vinyl-rip)/08.%20Rock%20Me.mp3:Rock Me
+#DESCRIPTION Rock Me
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1975%20-%20ABBA%20(Vinyl-rip)/09.%20Intermezzo%20No.%201.mp3:Intermezzo No. 1
+#DESCRIPTION Intermezzo No. 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1975%20-%20ABBA%20(Vinyl-rip)/10.%20I've%20Been%20Waiting%20For%20You.mp3:I've Been Waiting For You
+#DESCRIPTION I've Been Waiting For You
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1975%20-%20ABBA%20(Vinyl-rip)/11.%20So%20Long.mp3:So Long
+#DESCRIPTION So Long
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1976%20-%20Arrival%20(Vinyl-rip)/01.%20When%20I%20Kiss%20The%20Teacher.mp3:When I Kiss The Teacher
+#DESCRIPTION When I Kiss The Teacher
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1976%20-%20Arrival%20(Vinyl-rip)/02.%20Dancing%20Queen.mp3:Dancing Queen
+#DESCRIPTION Dancing Queen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1976%20-%20Arrival%20(Vinyl-rip)/03.%20My%20Love,%20My%20Life.mp3:My Love My Life
+#DESCRIPTION My Love My Life
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1976%20-%20Arrival%20(Vinyl-rip)/04.%20Dum%20Dum%20Diddle.mp3:Dum Dum Diddle
+#DESCRIPTION Dum Dum Diddle
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1976%20-%20Arrival%20(Vinyl-rip)/05.%20Knowing%20Me,%20Knowing%20You.mp3:Knowing Me Knowing You
+#DESCRIPTION Knowing Me Knowing You
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1976%20-%20Arrival%20(Vinyl-rip)/06.%20Money,%20Money,%20Money.mp3:Money Money Money
+#DESCRIPTION Money Money Money
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1976%20-%20Arrival%20(Vinyl-rip)/07.%20That%60s%20Me.mp3:That`s Me
+#DESCRIPTION That`s Me
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1976%20-%20Arrival%20(Vinyl-rip)/08.%20Why%20Did%20It%20Have%20To%20Be%20Me.mp3:Why Did It Have To Be Me
+#DESCRIPTION Why Did It Have To Be Me
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1976%20-%20Arrival%20(Vinyl-rip)/09.%20Tiger.mp3:Tiger
+#DESCRIPTION Tiger
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1976%20-%20Arrival%20(Vinyl-rip)/10.%20Arrival.mp3:Arrival
+#DESCRIPTION Arrival
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1977%20-%20The%20Album%20(Vinyl-rip)/01.%20Eagle.mp3:Eagle
+#DESCRIPTION Eagle
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1977%20-%20The%20Album%20(Vinyl-rip)/02.%20Take%20A%20Chance%20On%20Me.mp3:Take A Chance On Me
+#DESCRIPTION Take A Chance On Me
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1977%20-%20The%20Album%20(Vinyl-rip)/03.%20One%20Man,%20One%20Woman.mp3:One Man One Woman
+#DESCRIPTION One Man One Woman
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1977%20-%20The%20Album%20(Vinyl-rip)/04.%20The%20Name%20Of%20The%20Game.mp3:The Name Of The Game
+#DESCRIPTION The Name Of The Game
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1977%20-%20The%20Album%20(Vinyl-rip)/05.%20Move%20On.mp3:Move On
+#DESCRIPTION Move On
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1977%20-%20The%20Album%20(Vinyl-rip)/06.%20Hole%20In%20Your%20Soul.mp3:Hole In Your Soul
+#DESCRIPTION Hole In Your Soul
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1977%20-%20The%20Album%20(Vinyl-rip)/07.%20Thank%20You%20For%20The%20Music.mp3:Thank You For The Music
+#DESCRIPTION Thank You For The Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1977%20-%20The%20Album%20(Vinyl-rip)/08.%20I%20Wonder.mp3:I Wonder
+#DESCRIPTION I Wonder
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1977%20-%20The%20Album%20(Vinyl-rip)/09.%20I%60m%20A%20Marionette.mp3:I`m A Marionette
+#DESCRIPTION I`m A Marionette
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1979%20-%20Voules-Vous%20(Vinyl-rip)/01.%20As%20Good%20As%20New.mp3:As Good As New
+#DESCRIPTION As Good As New
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1979%20-%20Voules-Vous%20(Vinyl-rip)/02.%20Voulez-Vous.mp3:Voulez  Vous
+#DESCRIPTION Voulez  Vous
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1979%20-%20Voules-Vous%20(Vinyl-rip)/03.%20I%20Have%20A%20Dream.mp3:I Have A Dream
+#DESCRIPTION I Have A Dream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1979%20-%20Voules-Vous%20(Vinyl-rip)/04.%20Angeleyes.mp3:Angeleyes
+#DESCRIPTION Angeleyes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1979%20-%20Voules-Vous%20(Vinyl-rip)/05.%20The%20King%20Has%20Lost%20His%20Crown.mp3:The King Has Lost His Crown
+#DESCRIPTION The King Has Lost His Crown
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1979%20-%20Voules-Vous%20(Vinyl-rip)/06.%20Does%20You%20Mother%20Know.mp3:Does You Mother Know
+#DESCRIPTION Does You Mother Know
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1979%20-%20Voules-Vous%20(Vinyl-rip)/07.%20If%20It%20Wasn%60t%20For%20The%20Night.mp3:If It Wasn`t For The Night
+#DESCRIPTION If It Wasn`t For The Night
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1979%20-%20Voules-Vous%20(Vinyl-rip)/08.%20Chiquitita.mp3:Chiquitita
+#DESCRIPTION Chiquitita
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1979%20-%20Voules-Vous%20(Vinyl-rip)/09.%20Lovers.mp3:Lovers
+#DESCRIPTION Lovers
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1979%20-%20Voules-Vous%20(Vinyl-rip)/10.%20Kisses%20Of%20Fire.mp3:Kisses Of Fire
+#DESCRIPTION Kisses Of Fire
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1980%20-%20Super%20Trouper%20(Vinyl-rip)/01.%20Super%20Trouper.mp3:Super Trouper
+#DESCRIPTION Super Trouper
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1980%20-%20Super%20Trouper%20(Vinyl-rip)/02.%20The%20Winner%20Takes%20It%20All.mp3:The Winner Takes It All
+#DESCRIPTION The Winner Takes It All
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1980%20-%20Super%20Trouper%20(Vinyl-rip)/03.%20On%20And%20On%20And%20On.mp3:On And On And On
+#DESCRIPTION On And On And On
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1980%20-%20Super%20Trouper%20(Vinyl-rip)/04.%20Andante,%20Andante.mp3:Andante Andante
+#DESCRIPTION Andante Andante
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1980%20-%20Super%20Trouper%20(Vinyl-rip)/05.%20Me%20And%20I.mp3:Me And I
+#DESCRIPTION Me And I
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1980%20-%20Super%20Trouper%20(Vinyl-rip)/06.%20Happy%20New%20Year.mp3:Happy New Year
+#DESCRIPTION Happy New Year
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1980%20-%20Super%20Trouper%20(Vinyl-rip)/07.%20Our%20Last%20Summer.mp3:Our Last Summer
+#DESCRIPTION Our Last Summer
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1980%20-%20Super%20Trouper%20(Vinyl-rip)/08.%20The%20Piper.mp3:The Piper
+#DESCRIPTION The Piper
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1980%20-%20Super%20Trouper%20(Vinyl-rip)/09.%20Lay%20All%20Your%20Love%20On%20Me.mp3:Lay All Your Love On Me
+#DESCRIPTION Lay All Your Love On Me
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1980%20-%20Super%20Trouper%20(Vinyl-rip)/10.%20The%20Way%20Old%20Friends%20Do.mp3:The Way Old Friends Do
+#DESCRIPTION The Way Old Friends Do
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1981%20-%20The%20Visitors%20(Vinyl-rip)/01.%20The%20Visitors.mp3:The Visitors
+#DESCRIPTION The Visitors
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1981%20-%20The%20Visitors%20(Vinyl-rip)/02.%20Head%20Over%20Heels.mp3:Head Over Heels
+#DESCRIPTION Head Over Heels
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1981%20-%20The%20Visitors%20(Vinyl-rip)/03.%20When%20All%20Is%20Said%20And%20Done.mp3:When All Is Said And Done
+#DESCRIPTION When All Is Said And Done
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1981%20-%20The%20Visitors%20(Vinyl-rip)/04.%20Soldiers.mp3:Soldiers
+#DESCRIPTION Soldiers
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1981%20-%20The%20Visitors%20(Vinyl-rip)/05.%20I%20Let%20The%20Music%20Speak.mp3:I Let The Music Speak
+#DESCRIPTION I Let The Music Speak
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1981%20-%20The%20Visitors%20(Vinyl-rip)/06.%20One%20Of%20Us.mp3:One Of Us
+#DESCRIPTION One Of Us
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1981%20-%20The%20Visitors%20(Vinyl-rip)/07.%20Two%20For%20The%20Price%20Of%20One.mp3:Two For The Price Of One
+#DESCRIPTION Two For The Price Of One
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1981%20-%20The%20Visitors%20(Vinyl-rip)/08.%20Slipping%20Through%20My%20Fingers.mp3:Slipping Through My Fingers
+#DESCRIPTION Slipping Through My Fingers
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/1981%20-%20The%20Visitors%20(Vinyl-rip)/09.%20Like%20An%20Angel%20Passing%20Through%20My%20Room.mp3:Like An Angel Passing Through My Room
+#DESCRIPTION Like An Angel Passing Through My Room
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/2021%20-%20Voyage%20(Vinyl-rip)/01.%20I%20Still%20Have%20Faith%20In%20You.mp3:I Still Have Faith In You
+#DESCRIPTION I Still Have Faith In You
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/2021%20-%20Voyage%20(Vinyl-rip)/02.%20When%20You%20Danced%20With%20Me.mp3:When You Danced With Me
+#DESCRIPTION When You Danced With Me
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/2021%20-%20Voyage%20(Vinyl-rip)/03.%20Little%20Things.mp3:Little Things
+#DESCRIPTION Little Things
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/2021%20-%20Voyage%20(Vinyl-rip)/04.%20Don't%20Shut%20Me%20Down.mp3:Don't Shut Me Down
+#DESCRIPTION Don't Shut Me Down
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/2021%20-%20Voyage%20(Vinyl-rip)/05.%20Just%20A%20Notion.mp3:Just A Notion
+#DESCRIPTION Just A Notion
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/2021%20-%20Voyage%20(Vinyl-rip)/06.%20I%20Can%20Be%20That%20Woman.mp3:I Can Be That Woman
+#DESCRIPTION I Can Be That Woman
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/2021%20-%20Voyage%20(Vinyl-rip)/07.%20Keep%20An%20Eye%20On%20Dan.mp3:Keep An Eye On Dan
+#DESCRIPTION Keep An Eye On Dan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/2021%20-%20Voyage%20(Vinyl-rip)/08.%20Bumblebee.mp3:Bumblebee
+#DESCRIPTION Bumblebee
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/2021%20-%20Voyage%20(Vinyl-rip)/09.%20No%20Doubt%20About%20It.mp3:No Doubt About It
+#DESCRIPTION No Doubt About It
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/ABBA/STUDIO%20ALBUMS/VINYL-RIP/2021%20-%20Voyage%20(Vinyl-rip)/10.%20Ode%20To%20Freedom.mp3:Ode To Freedom
+#DESCRIPTION Ode To Freedom

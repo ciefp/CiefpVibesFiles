@@ -1,0 +1,39 @@
+#NAME CiefpSettings IPTV Bad Boys Blue
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Golden%20Disco%20Hits/2001%20-%20Bad%20Boys%20Blue/01.%20You're%20A%20Woman.mp3:You're A Woman
+#DESCRIPTION You're A Woman
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Golden%20Disco%20Hits/2001%20-%20Bad%20Boys%20Blue/02.%20Show%20Me%20The%20Way.mp3:Show Me The Way
+#DESCRIPTION Show Me The Way
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Golden%20Disco%20Hits/2001%20-%20Bad%20Boys%20Blue/03.%20I'm%20Your%20Believer%20'99.mp3:I'm Your Believer '99
+#DESCRIPTION I'm Your Believer '99
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Golden%20Disco%20Hits/2001%20-%20Bad%20Boys%20Blue/04.%20A%20Train%20To%20Nowere.mp3:A Train To Nowere
+#DESCRIPTION A Train To Nowere
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Golden%20Disco%20Hits/2001%20-%20Bad%20Boys%20Blue/05.%20Lady%20In%20Black.mp3:Lady In Black
+#DESCRIPTION Lady In Black
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Golden%20Disco%20Hits/2001%20-%20Bad%20Boys%20Blue/06.%20Anyway%20Forever.mp3:Anyway Forever
+#DESCRIPTION Anyway Forever
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Golden%20Disco%20Hits/2001%20-%20Bad%20Boys%20Blue/07.%20The%20Power%20Of%20The%20Night.mp3:The Power Of The Night
+#DESCRIPTION The Power Of The Night
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Golden%20Disco%20Hits/2001%20-%20Bad%20Boys%20Blue/08.%20For%20Your%20Love.mp3:For Your Love
+#DESCRIPTION For Your Love
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Golden%20Disco%20Hits/2001%20-%20Bad%20Boys%20Blue/09.%20What%20F%20Feeling.mp3:What F Feeling
+#DESCRIPTION What F Feeling
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Golden%20Disco%20Hits/2001%20-%20Bad%20Boys%20Blue/10.%20Kiss%20You%20All%20Over,%20Baby%20(New%20Version).mp3:Kiss You All Over Baby (New Version)
+#DESCRIPTION Kiss You All Over Baby (New Version)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Golden%20Disco%20Hits/2001%20-%20Bad%20Boys%20Blue/11.%20Do%20What%20You%20Do.mp3:Do What You Do
+#DESCRIPTION Do What You Do
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Golden%20Disco%20Hits/2001%20-%20Bad%20Boys%20Blue/12.%20From%20Heart%20To%20Heart.mp3:From Heart To Heart
+#DESCRIPTION From Heart To Heart
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Golden%20Disco%20Hits/2001%20-%20Bad%20Boys%20Blue/13.%20Jungle%20In%20My%20Heart.mp3:Jungle In My Heart
+#DESCRIPTION Jungle In My Heart
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Golden%20Disco%20Hits/2001%20-%20Bad%20Boys%20Blue/14.%20Thinking%20About%20You.mp3:Thinking About You
+#DESCRIPTION Thinking About You
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Golden%20Disco%20Hits/2001%20-%20Bad%20Boys%20Blue/15.%20Queen%20Of%20Hearts%20'99.mp3:Queen Of Hearts '99
+#DESCRIPTION Queen Of Hearts '99
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Golden%20Disco%20Hits/2001%20-%20Bad%20Boys%20Blue/16.%20A%20World%20Without%20You.mp3:A World Without You
+#DESCRIPTION A World Without You
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Golden%20Disco%20Hits/2001%20-%20Bad%20Boys%20Blue/17.%20I%20'm%20Your%20Believer.mp3:I 'm Your Believer
+#DESCRIPTION I 'm Your Believer
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Golden%20Disco%20Hits/2001%20-%20Bad%20Boys%20Blue/18.%20Why%20(Misty%20Eyes).mp3:Why (Misty Eyes)
+#DESCRIPTION Why (Misty Eyes)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.maslovd.ru/public/mp3/Golden%20Disco%20Hits/2001%20-%20Bad%20Boys%20Blue/19.%20Come%20Back%20To%20Stay%20(New%20Version).mp3:Come Back To Stay (New Version)
+#DESCRIPTION Come Back To Stay (New Version)

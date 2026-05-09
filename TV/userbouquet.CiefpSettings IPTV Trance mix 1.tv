@@ -1,0 +1,229 @@
+#NAME CiefpSettings IPTV Trance mix 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/(Absolom)%20Secret.mp3:Channel 2
+#DESCRIPTION Channel 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/(DJ%20Taucher%20battles%20Talla%202xlc)%20-%20Nightshift.mp3:(DJ Taucher battles Talla 2xlc)    Nightshift
+#DESCRIPTION (DJ Taucher battles Talla 2xlc)    Nightshift
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/(mellow_trax_feat._shaft)-sway.mp3:(mellow trax feat. shaft)  sway
+#DESCRIPTION (mellow trax feat. shaft)  sway
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/-%20DJ%20Taucher%20-%20Winterlove.mp3:DJ Taucher    Winterlove
+#DESCRIPTION DJ Taucher    Winterlove
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/02%20-%20Mellow%20Trax%20-%20Phuture%20Vibes.mp3:Mellow Trax    Phuture Vibes
+#DESCRIPTION Mellow Trax    Phuture Vibes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/05%20-%20500%20Miles.mp3:Miles
+#DESCRIPTION Miles
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/05%20taucher%20-%20bizarre%20(dj%20sakin%20vs%20stenzel%20mix).mp3:taucher    bizarre (dj sakin vs stenzel mix)
+#DESCRIPTION taucher    bizarre (dj sakin vs stenzel mix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/08%20-%20Kai%20Tracid%20-%20Destiny's%20Path%20(Warmduscher%20Remix).mp3:Kai Tracid    Destiny's Path (Warmduscher Remix)
+#DESCRIPTION Kai Tracid    Destiny's Path (Warmduscher Remix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/10.Sosa%20-%20Accelerator%20(dj%20taucher%20remix).mp3:10.Sosa    Accelerator (dj taucher remix)
+#DESCRIPTION 10.Sosa    Accelerator (dj taucher remix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/10_-_U2_-_Sweetest_Thing_(The_Single_Mix).mp3:U   Sweetest Thing (The Single Mix)
+#DESCRIPTION U   Sweetest Thing (The Single Mix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/Antiloop%20-%20In%20my%20Mind%20(Extended).mp3:Antiloop    In my Mind (Extended)
+#DESCRIPTION Antiloop    In my Mind (Extended)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/Arrakis%20-%20The%20Spice.mp3:Arrakis    The Spice
+#DESCRIPTION Arrakis    The Spice
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/Artemis-The-Labyrinth(mp3hamster.net).mp3:Artemis  The  Labyrinth(mp3hamster.net)
+#DESCRIPTION Artemis  The  Labyrinth(mp3hamster.net)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/By%20DyaMoN%20-%20WaRMDuSCHeR%20VS%20DeRB%20-%20TRaCiD%20TRaX.mp3:By DyaMoN    WaRMDuSCHeR VS DeRB    TRaCiD TRaX
+#DESCRIPTION By DyaMoN    WaRMDuSCHeR VS DeRB    TRaCiD TRaX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/Cosmic%20Baby%20-%20Loops%20Of%20Infinity%20(Expressionistic).mp3:Cosmic Baby    Loops Of Infinity (Expressionistic)
+#DESCRIPTION Cosmic Baby    Loops Of Infinity (Expressionistic)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/DJ%20Age%20Bomb%20-%20Face%20the%20Nuclear%20Dust.mp3:DJ Age Bomb    Face the Nuclear Dust
+#DESCRIPTION DJ Age Bomb    Face the Nuclear Dust
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/DJ%20Encore%20-%20Club%20Exit%202000%20Volume%201%20-%20Intense%20energy%20trance%202002.mp3:DJ Encore    Club Exit Volume    Intense energy trance 2002
+#DESCRIPTION DJ Encore    Club Exit Volume    Intense energy trance 2002
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/DJ%20I.C.O.N.%20-%20Voco%20Me.mp3:DJ I.C.O.N.    Voco Me
+#DESCRIPTION DJ I.C.O.N.    Voco Me
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/DJ%20Sakin%20(Protect%20Your%20Mind).mp3:DJ Sakin (Protect Your Mind)
+#DESCRIPTION DJ Sakin (Protect Your Mind)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/DJ%20Taucher%20-%20Bells%20of%20Avalon.mp3:DJ Taucher    Bells of Avalon
+#DESCRIPTION DJ Taucher    Bells of Avalon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/DJ%20Taucher%20-%20Infinity.mp3:DJ Taucher    Infinity
+#DESCRIPTION DJ Taucher    Infinity
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/DJ%20Taucher%20-%20Legend%20B%20-%20Lost%20In%20Love%20Remix%20(Kimball%20Collins%20-%20Generation%20Trance%202000).mp3:DJ Taucher    Legend B    Lost In Love Remix (Kimball Collins    Generation Trance 2000)
+#DESCRIPTION DJ Taucher    Legend B    Lost In Love Remix (Kimball Collins    Generation Trance 2000)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/DJ%20Tiesto%20ft.%20BT%20-%20Love%20Comes%20Again%20(Original%20Mix).mp3:DJ Tiesto ft. BT    Love Comes Again (Original Mix)
+#DESCRIPTION DJ Tiesto ft. BT    Love Comes Again (Original Mix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/DJ%20Wag%20and%20M.R.%20-%20Life%20on%20Mars%20(Electric%20Mix).mp3:DJ Wag and M.R.    Life on Mars (Electric Mix)
+#DESCRIPTION DJ Wag and M.R.    Life on Mars (Electric Mix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/Derb%20-%20In%20Africa%20(Warmduscher%20Rmx).mp3:Derb    In Africa (Warmduscher Rmx)
+#DESCRIPTION Derb    In Africa (Warmduscher Rmx)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/Dj%20Tibby%20-%20Midnight%20(X-static%20Trance%20mix).mp3:Dj Tibby    Midnight (X  static Trance mix)
+#DESCRIPTION Dj Tibby    Midnight (X  static Trance mix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/Franky%20Jones%20-%20My%20Obsession%20%5bMoon%20Project%20Remix%5d.mp3:Franky Jones    My Obsession [Moon Project Remix]
+#DESCRIPTION Franky Jones    My Obsession [Moon Project Remix]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/Goon%20-%20Panic.mp3:Goon    Panic
+#DESCRIPTION Goon    Panic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/Guya%20Reg%20-%20Tribal%20Scream.mp3:Guya Reg    Tribal Scream
+#DESCRIPTION Guya Reg    Tribal Scream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/Heliac%20ft.%20DJ%20Nic%20-%20The%20Candle.mp3:Heliac ft. DJ Nic    The Candle
+#DESCRIPTION Heliac ft. DJ Nic    The Candle
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/Jimmy%20Goldschmitz%20-%20Fargo.mp3:Jimmy Goldschmitz    Fargo
+#DESCRIPTION Jimmy Goldschmitz    Fargo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/K90%20-%20Above%20the%20Clouds%20(Ylem%20Remix).mp3:K   Above the Clouds (Ylem Remix)
+#DESCRIPTION K   Above the Clouds (Ylem Remix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/Kai%20Tracid%20-%20Dance%20For%20Eternity.mp3:Kai Tracid    Dance For Eternity
+#DESCRIPTION Kai Tracid    Dance For Eternity
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/Kai%20Tracid%20-%20Destinys%20Path%20(Warmduscher%20Rmx).mp3:Kai Tracid    Destinys Path (Warmduscher Rmx)
+#DESCRIPTION Kai Tracid    Destinys Path (Warmduscher Rmx)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/Kai%20Tracid%20-%20Outer%20Space.mp3:Kai Tracid    Outer Space
+#DESCRIPTION Kai Tracid    Outer Space
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/Kai%20Tracid%20-%20Ready%20To%20Flow%20(Schiller%20Mix).mp3:Kai Tracid    Ready To Flow (Schiller Mix)
+#DESCRIPTION Kai Tracid    Ready To Flow (Schiller Mix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/Kai%20Tracid%20-%20Too%20Many%20Times.mp3:Kai Tracid    Too Many Times
+#DESCRIPTION Kai Tracid    Too Many Times
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/Kai%20Tracid%20-%20Too%20many%20times%20(Warmduscher%20RMX).mp3:Kai Tracid    Too many times (Warmduscher RMX)
+#DESCRIPTION Kai Tracid    Too many times (Warmduscher RMX)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/Kai%20Tracid%20-%20Trance%20And%20Acid.mp3:Kai Tracid    Trance And Acid
+#DESCRIPTION Kai Tracid    Trance And Acid
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/Kai_Tracid_-_Suicide.mp3:Kai Tracid    Suicide
+#DESCRIPTION Kai Tracid    Suicide
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/Lady%20Dana%20@%20Qlimax%202002%20@%20ID&amp;T%20Radio%20@%20Amsterdam%20%5bWarmduscher,%20Kai%20Tracid,%20Captain%20Tinrib,%20Technoboy,%20Pavo,%20Gary%20D%5d.mp3:Lady Dana @ Qlimax @ ID&T Radio @ Amsterdam [Warmduscher Kai Tracid Captain Tinrib Technoboy Pavo Gary D]
+#DESCRIPTION Lady Dana @ Qlimax @ ID&T Radio @ Amsterdam [Warmduscher Kai Tracid Captain Tinrib Technoboy Pavo Gary D]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/Lady%20Tom%20-%20It's%20a%20Dream%20(The%20Dukes%20Remix).mp3:Lady Tom    It's a Dream (The Dukes Remix)
+#DESCRIPTION Lady Tom    It's a Dream (The Dukes Remix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/Lost%20tribe%20-%20Gamemaster.mp3:Lost tribe    Gamemaster
+#DESCRIPTION Lost tribe    Gamemaster
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/Mellow%20Trax%20-%20Phuture%20Vibes%20(Extented%20Club%20Mix).mp3:Mellow Trax    Phuture Vibes (Extented Club Mix)
+#DESCRIPTION Mellow Trax    Phuture Vibes (Extented Club Mix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/Mike%20Koglin%20-%20The%20Silence.mp3:Mike Koglin    The Silence
+#DESCRIPTION Mike Koglin    The Silence
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/Miss%20Distess%20X%20vs%20Kaylab%20-%20Clubbing%20(extended%20club%20mix).mp3:Miss Distess X vs Kaylab    Clubbing (extended club mix)
+#DESCRIPTION Miss Distess X vs Kaylab    Clubbing (extended club mix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/Miss%20Jane%20-%20It's%20A%20fine%20day%20(ATB%20Radio%20Mix).mp3:Miss Jane    It's A fine day (ATB Radio Mix)
+#DESCRIPTION Miss Jane    It's A fine day (ATB Radio Mix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/Miss%20Peppermint%20-%20Welcome%20To%20Tomorrow.MP3:Miss Peppermint    Welcome To Tomorrow
+#DESCRIPTION Miss Peppermint    Welcome To Tomorrow
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/Miss%20Shiva%20-%20My%20Secrets%20(Tanks%20dreamatic%20Remix).mp3:Miss Shiva    My Secrets (Tanks dreamatic Remix)
+#DESCRIPTION Miss Shiva    My Secrets (Tanks dreamatic Remix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/Nalin%20I.N.C%20-%20Planet%20Violet.mp3:Nalin I.N.C    Planet Violet
+#DESCRIPTION Nalin I.N.C    Planet Violet
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/Niels%20van%20Gogh%20-%20Plastic%20%5bEniac%20Remix%5d.mp3:Niels van Gogh    Plastic [Eniac Remix]
+#DESCRIPTION Niels van Gogh    Plastic [Eniac Remix]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/Nuclear%20Hyde%20-%20Spectral.mp3:Nuclear Hyde    Spectral
+#DESCRIPTION Nuclear Hyde    Spectral
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/Paul%20van%20Dyk%20-%20for%20an%20angel%20(Radio%20Edit).mp3:Paul van Dyk    for an angel (Radio Edit)
+#DESCRIPTION Paul van Dyk    for an angel (Radio Edit)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/Planet%20Fuse%203%20-%20Devotion%20(heavens%20Gate%20mix).mp3:Planet Fuse    Devotion (heavens Gate mix)
+#DESCRIPTION Planet Fuse    Devotion (heavens Gate mix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/Push%20-%20Universal%20Nation%20(Original%20Radio%20Mix).mp3:Push    Universal Nation (Original Radio Mix)
+#DESCRIPTION Push    Universal Nation (Original Radio Mix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/Red%205%20-%20for%20this%20world%20(striking%20man%20remix)_jz.mp3:Red    for this world (striking man remix) jz
+#DESCRIPTION Red    for this world (striking man remix) jz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/Rene%20&amp;%20Da%20Groove%20-%20Let's%20Get%20Movin.mp3:Rene & Da Groove    Let's Get Movin
+#DESCRIPTION Rene & Da Groove    Let's Get Movin
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/Roef-Outthere.mp3:Roef  Outthere
+#DESCRIPTION Roef  Outthere
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/Snitzer%20vs.%20Humate%20-%20Oh%20My%20Darling%20I%20Love%20You%20(Heavy%20Hitter%20M.mp3:Snitzer vs. Humate    Oh My Darling I Love You (Heavy Hitter M
+#DESCRIPTION Snitzer vs. Humate    Oh My Darling I Love You (Heavy Hitter M
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/Southside%20Spinners%20-%20Luvstruck%20%5bMarco%20V%20&amp;%20Benjamin%20RMX%5d.mp3:Southside Spinners    Luvstruck [Marco V & Benjamin RMX]
+#DESCRIPTION Southside Spinners    Luvstruck [Marco V & Benjamin RMX]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/Spellbound%20-%20Universe%20of%20Life.mp3:Spellbound    Universe of Life
+#DESCRIPTION Spellbound    Universe of Life
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/Storm%20Kenneth%20Bager%20-%20Storm%20RMX%20-%20DJ008.mp3:Storm Kenneth Bager    Storm RMX    DJ008
+#DESCRIPTION Storm Kenneth Bager    Storm RMX    DJ008
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/Sunbeam%20-%20Arms%20of%20heaven%20(maxi%20version).mp3:Sunbeam    Arms of heaven (maxi version)
+#DESCRIPTION Sunbeam    Arms of heaven (maxi version)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/System%20F%20-%20Out%20of%20the%20blue.mp3:System F    Out of the blue
+#DESCRIPTION System F    Out of the blue
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/TankRetOfPower!!s.mp3:TankRetOfPower!!s
+#DESCRIPTION TankRetOfPower!!s
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/Taucher%20-%20Infinity%20(Phase%20I).mp3:Taucher    Infinity (Phase I)
+#DESCRIPTION Taucher    Infinity (Phase I)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/Techno%20Rave%20(Get%20Ready%20For%20This).mp3:Techno Rave (Get Ready For This)
+#DESCRIPTION Techno Rave (Get Ready For This)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/Techno%20Rave%20(Rave%20This%20Nation).mp3:Techno Rave (Rave This Nation)
+#DESCRIPTION Techno Rave (Rave This Nation)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/The%20Antidote%20(Oscultation).mp3:The Antidote (Oscultation)
+#DESCRIPTION The Antidote (Oscultation)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/The%20Course%20-%20Ain't%20nobody%20%5bclub%20mix%5d.mp3:The Course    Ain't nobody [club mix]
+#DESCRIPTION The Course    Ain't nobody [club mix]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/Three%20Drives%20on%20Vinyl%20-%20Greece%202000.mp3:Three Drives on Vinyl    Greece 2000
+#DESCRIPTION Three Drives on Vinyl    Greece 2000
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/Trance%20Global%20Nation%20%20%20Progressive%20Techno%20Trance%20-%20Entire%20Al.mp3:Trance Global Nation   Progressive Techno Trance    Entire Al
+#DESCRIPTION Trance Global Nation   Progressive Techno Trance    Entire Al
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/Turture%20Garden-DarkRoom%20Mix.mp3:Turture Garden  DarkRoom Mix
+#DESCRIPTION Turture Garden  DarkRoom Mix
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/U.S.U.R.A.%20-%20Trance-Emotions%20(Quicksilver%20Remix).mp3:U.S.U.R.A.    Trance  Emotions (Quicksilver Remix)
+#DESCRIPTION U.S.U.R.A.    Trance  Emotions (Quicksilver Remix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/Usura%20-%20Open%20Your%20Mind%20'98.mp3:Usura    Open Your Mind '98
+#DESCRIPTION Usura    Open Your Mind '98
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/Van%20Basten%20-%20King%20of%20the%20Death%20Posture%20(Attack%20version).mp3:Van Basten    King of the Death Posture (Attack version)
+#DESCRIPTION Van Basten    King of the Death Posture (Attack version)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/Virtual%20Zone%20-%20Change%20U%20Mind.mp3:Virtual Zone    Change U Mind
+#DESCRIPTION Virtual Zone    Change U Mind
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/Westbam%20(Hard%20Times).mp3:Westbam (Hard Times)
+#DESCRIPTION Westbam (Hard Times)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/XTC%20-%20Music%20For%20The%20Mind.mp3:XTC    Music For The Mind
+#DESCRIPTION XTC    Music For The Mind
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/bnaryfnary-1998_paulvandyk.mp3:bnaryfnary  paulvandyk
+#DESCRIPTION bnaryfnary  paulvandyk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/kai%20tracid%20-%20Meteor.mp3:kai tracid    Meteor
+#DESCRIPTION kai tracid    Meteor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/kai%20tracid%20-%20for%20just%20one%20day%20(blank%20&amp;%20jones%20remix))303.mp3:kai tracid    for just one day (blank & jones remix))303
+#DESCRIPTION kai tracid    for just one day (blank & jones remix))303
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/mellow%20trax%20vs%20shaft%20-%20sway%20(mucho%20mambo)%20(dj%20mellow-d%20vs%20pulsedriver%20remix)-apipe.mp3:mellow trax vs shaft    sway (mucho mambo) (dj mellow  d vs pulsedriver remix)  apipe
+#DESCRIPTION mellow trax vs shaft    sway (mucho mambo) (dj mellow  d vs pulsedriver remix)  apipe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/revisted%20twister%20-%20saturate.mp3:revisted twister    saturate
+#DESCRIPTION revisted twister    saturate
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/the%20course%20-%20ready%20or%20not.mp3:the course    ready or not
+#DESCRIPTION the course    ready or not
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/tunnelz.MP3:tunnelz
+#DESCRIPTION tunnelz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_A/turture%20garden%20(radio%20edit).mp3:turture garden (radio edit)
+#DESCRIPTION turture garden (radio edit)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_B/01-DJ_Tomcraft-Prosac_B1_TC-THC_Mix-BOSSDJ.mp3:DJ Tomcraft  Prosac BTC  THC Mix  BOSSDJ
+#DESCRIPTION DJ Tomcraft  Prosac BTC  THC Mix  BOSSDJ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_B/01-dumonde_-_never_look_back_(promo)-ipz.mp3:dumonde    never look back (promo)  ipz
+#DESCRIPTION dumonde    never look back (promo)  ipz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_B/07-Timo_Maas-Maasmellow_Casseopaya_RMX-DJ008.mp3:Timo Maas  Maasmellow Casseopaya RMX  DJ008
+#DESCRIPTION Timo Maas  Maasmellow Casseopaya RMX  DJ008
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_B/Blaze%20feat%20Palmer%20Brown%20-%20my%20beat%20%20%5badj%5d%20cd%20promo.mp3:Blaze feat Palmer Brown    my beat  [adj] cd promo
+#DESCRIPTION Blaze feat Palmer Brown    my beat  [adj] cd promo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_B/Dario%20G%20-%20Dream%20To%20Me%20(Original%20Mix).mp3:Dario G    Dream To Me (Original Mix)
+#DESCRIPTION Dario G    Dream To Me (Original Mix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_B/Dario%20G.%20-%20Dream%20To%20Me.mp3:Dario G.    Dream To Me
+#DESCRIPTION Dario G.    Dream To Me
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_B/El_B's_-_Get_Her_(Molineux_Mix).mp3:El B's    Get Her (Molineux Mix)
+#DESCRIPTION El B's    Get Her (Molineux Mix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_B/Kristine_W_-_Feel_What_You_Want_2001.mp3:Kristine W    Feel What You Want 2001
+#DESCRIPTION Kristine W    Feel What You Want 2001
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_B/Liquid%20feat.%20Silvy%20-%20Turn%20The%20Tide%20(Airscape%20Remix).mp3:Liquid feat. Silvy    Turn The Tide (Airscape Remix)
+#DESCRIPTION Liquid feat. Silvy    Turn The Tide (Airscape Remix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_B/Liquid%20feat.%20Silvy%20-%20Turn%20the%20tide%20(CJ%20Stone%20remix).mp3:Liquid feat. Silvy    Turn the tide (CJ Stone remix)
+#DESCRIPTION Liquid feat. Silvy    Turn the tide (CJ Stone remix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_B/Liquid%20feat.%20Silvy%20-%20Turn%20the%20tide%20(vinyl%20).mp3:Liquid feat. Silvy    Turn the tide (vinyl )
+#DESCRIPTION Liquid feat. Silvy    Turn the tide (vinyl )
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_B/SNAP%20-%20RYTHM%20IS%20A%20DANCER%202003.mp3:SNAP    RYTHM IS A DANCER 2003
+#DESCRIPTION SNAP    RYTHM IS A DANCER 2003
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_B/Sledgeexpress_-_Sledgeexpress_(Whitelabel).mp3:Sledgeexpress    Sledgeexpress (Whitelabel)
+#DESCRIPTION Sledgeexpress    Sledgeexpress (Whitelabel)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_B/Snap%20-%20Rythm%20is%20a%20dancer%202003%20(1).mp3:Snap    Rythm is a dancer (1)
+#DESCRIPTION Snap    Rythm is a dancer (1)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_B/Snap%20vs%20Run%20DMC%20-%20Rythm%20is%20a%20Dancer%202002%20(Club%20Mix).mp3:Snap vs Run DMC    Rythm is a Dancer (Club Mix)
+#DESCRIPTION Snap vs Run DMC    Rythm is a Dancer (Club Mix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_B/blaze%20-%20my%20beat%20(derrick%20carter%20remix).mp3:blaze    my beat (derrick carter remix)
+#DESCRIPTION blaze    my beat (derrick carter remix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_B/blaze%20f.%20palmer%20brown%20-%20my%20beat%20(jan%20driver%20remix).mp3:blaze f. palmer brown    my beat (jan driver remix)
+#DESCRIPTION blaze f. palmer brown    my beat (jan driver remix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_B/dj%20quicksilver%20-%20Ameno%20(Club%20Mix).mp3:dj quicksilver    Ameno (Club Mix)
+#DESCRIPTION dj quicksilver    Ameno (Club Mix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_B/dj%20quicksilver%20-%20ameno.mp3:dj quicksilver    ameno
+#DESCRIPTION dj quicksilver    ameno
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_B/holy%20men%20-%20On%20The%20Five.mp3:holy men    On The Five
+#DESCRIPTION holy men    On The Five
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_B/holymen%20-%20tanshi%20niko.mp3:holymen    tanshi niko
+#DESCRIPTION holymen    tanshi niko
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_B/humate%20-%20choose%20life%20(trancesetters%20remix).mp3:humate    choose life (trancesetters remix)
+#DESCRIPTION humate    choose life (trancesetters remix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_B/marco%20v%20-%20Blaze%20ft.%20Palmer%20Brown%20-%20My%20Beat(AMbassador%20remix).mp3:marco v    Blaze ft. Palmer Brown    My Beat(AMbassador remix)
+#DESCRIPTION marco v    Blaze ft. Palmer Brown    My Beat(AMbassador remix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_B/my%20beat%20-%20Ambassador%20Extended%20Remix%20(Blaze%20feat.%20Palmer%20Brown).mp3:my beat    Ambassador Extended Remix (Blaze feat. Palmer Brown)
+#DESCRIPTION my beat    Ambassador Extended Remix (Blaze feat. Palmer Brown)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_B/silver%20%20%20dj%20lawyer%20%20%20(sr)%20-%20turn%20the%20tide%20(urban%20promo).mp3:silver   dj lawyer   (sr)    turn the tide (urban promo)
+#DESCRIPTION silver   dj lawyer   (sr)    turn the tide (urban promo)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_B/timo%20maas%20madonna%20-%20don't%20tell%20me%20(remix).mp3:timo maas madonna    don't tell me (remix)
+#DESCRIPTION timo maas madonna    don't tell me (remix)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b1g-arch1ve.buho.ch/trance/_UNSORTED_B/www%20homeofmusic%20com%20-%20(dario%20g)%20dream%20to%20me%20(airscap.mp3:www homeofmusic com    (dario g) dream to me (airscap
+#DESCRIPTION www homeofmusic com    (dario g) dream to me (airscap
