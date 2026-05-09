@@ -1,15 +1,15 @@
 #NAME CiefpVibes – Welcome Demo
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fdance%2f007_Dee%20Robert%20-%20I%20Believe%20(Albert%20Cs%20Breakin%20It%20Up%20radio%20ed.mp3:Welcome to CiefpVibes v2.0 – the ultimate jukebox!
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/09.%20Berlin%20-%20Take%20my%20breath%20away.mp3:Berlin  Take my breath away
 #DESCRIPTION Welcome to CiefpVibes v2.0 – the ultimate jukebox!
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fdance%2f004_ATB%20-%20Ecstasy%20(radio%20cut).mp3:Green button → Choose local .m3u or .tv file
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/01.%20terence_trent_darby_-_sign_your_name-dgn.mp3:terence trent darby  sign your namedgn
 #DESCRIPTION Green button → Local Storrage, Network (Laptop), Online streams, TMP/FTP Files
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fdance%2f005_Magic%20Affair%20-%20Fly%20Away%20(La%20Serenissima%20Yanuo%20remix).mp3:Blue button → Download fresh playlists from GitHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/08.%20Phil%20Colins%20-%20Another%20Day%20In%20Paradise.mp3:Phil Colins  Another Day In Paradise
 #DESCRIPTION Blue button → M3u Plsylist, ,tv Bouquets, Radio Lists, OpenDirectory
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2fdance%2f006_Cappella%20-%20U%20Got%202%20Let%20The%20Music%20(Unreleased%20Original%20re.mp3:Yellow button → Skins, repeat, shuffle, settings
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.ts-index.de/TS-TRACKS/OLDIES/ALPHAVILLE%20-%20BIG%20IN%20JAPAN.m4a:ALPHAVILLE  BIG IN JAPAN.m4a
 #DESCRIPTION Yellow button → Skins, repeat, shuffle,clear cache, settings
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2faa%2fEnya%2fPaint%20the%20sky%20with%20Stars%2f(01)%20[Enya]%20Orinoco%20Flow.mp3:Menu button → Android FTP connection, Laptop SMB, Browse Network, Auto-scan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.ts-index.de/TS-TRACKS/OLDIES/ATC%20-%20AROUND%20THE%20WORLD.m4a:ATC  AROUND THE WORLD.m4a
 #DESCRIPTION Menu button → Android FTP, Laptop SMB, Browse Network, Auto-scan
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2f90%2f90's%20-%20CD4%2f15-%20Emf%20-%20Unbelievable.mp3:Made by ciefp – turn up the volume!
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.ts-index.de/TS-TRACKS/OLDIES/SNAP!%20-%20RHYTHM%20IS%20A%20DANCER.m4a:SNAP!  RHYTHM IS A DANCER.m4a
 #DESCRIPTION Made by ciefp – turn up the volume!
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2fmus%2faa%2fEnya%2fPaint%20the%20sky%20with%20Stars%2f(02)%20[Enya]%20Caribbean%20Blue.mp3:CiefpSettings.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.ts-index.de/TS-TRACKS/OLDIES/MAXX%20-%20GET%20A%20WAY.m4a:MAXX  GET A WAY.m4a
 #DESCRIPTION ¤¤¤ CiefpSettings ¤¤¤.mp3
