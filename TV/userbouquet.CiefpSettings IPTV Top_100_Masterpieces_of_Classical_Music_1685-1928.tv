@@ -1,8 +1,4 @@
 #NAME CiefpSettings IPTV Top_100_Masterpieces_of_Classical_Music_1685-1928
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.softpro.ee/442,903/Guns%20N'%20Roses%20-%20Paradise%20City.mp3:Guns N' Roses    Paradise City
-#DESCRIPTION Guns N' Roses    Paradise City
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.softpro.ee/442,903/Guns%20N'%20Roses%20-%20Paradise%20City%20442,903.mp3:Guns N' Roses    Paradise City 442903
-#DESCRIPTION Guns N' Roses    Paradise City 442903
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.softpro.ee/442,903/Top%20100%20Masterpieces%20of%20Classical%20Music%201685-1928/Disc%201%20-%201685-1730/01%20-%201709%20Bach%20,%20Toccata%20in%20D%20minor.mp3:Bach  Toccata in D minor
 #DESCRIPTION Bach  Toccata in D minor
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.softpro.ee/442,903/Top%20100%20Masterpieces%20of%20Classical%20Music%201685-1928/Disc%201%20-%201685-1730/01%20-%201709%20Bach%20,%20Toccata%20in%20D%20minor442,903.mp3:Bach  Toccata in D minor442903
