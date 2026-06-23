@@ -1,0 +1,233 @@
+#NAME ## ( 80's RADIO ) ##
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streams.radiopsr.de/psr-80er/mp3-192/mediaplayer:Radio PSR - 80er
+#DESCRIPTION Radio PSR - 80er
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/dein80er/mid/stream.aac:Radio Westfalica - Dein 80er Radio
+#DESCRIPTION Radio Westfalica - Dein 80er Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//irmedia.streamabc.net/irm-osw80er-mp3-128-3475358:Ostseewelle - 80er Hits
+#DESCRIPTION Ostseewelle - 80er Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.rsa-sachsen.de/80erdisco/mp3-192/homepage/:R.SA - 80er Disco
+#DESCRIPTION R.SA - 80er Disco
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.rsa-sachsen.de/80erhits/mp3-192/homepage/:R.SA - 80er Hits
+#DESCRIPTION R.SA - 80er Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.rsa-sachsen.de/80er-italo/mp3-192/homepage/:R.SA - Italo Disco Hits
+#DESCRIPTION R.SA - Italo Disco Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.rsa-sachsen.de/80er1000/mp3-192/homepage/:R.SA - 1000 Achtziger
+#DESCRIPTION R.SA - 1000 Achtziger
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//web.radio.hitradio-rtl.de/hrrtl-80er/stream/mp3:HITRADIO RTL - 80er
+#DESCRIPTION HITRADIO RTL - 80er
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//web.radio.hitradio-rtl.de/hrrtl-bis-heute/stream/mp3:HITRADIO RTL - 80er bis heute
+#DESCRIPTION HITRADIO RTL - 80er bis heute
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/italohits/mp3-192/homepage/:80s80s - Italo Disco
+#DESCRIPTION 80s80s - Italo Disco
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/italodiscomix/mp3-192/streams.80s80s.de/:80s80s - Italo Disco in the Mix
+#DESCRIPTION 80s80s - Italo Disco in the Mix
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//radioton.stream29.radiohost.de/radioton-80er_disco_mp3-192:Radio Ton - 80er Disco
+#DESCRIPTION Radio Ton - 80er Disco
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//radioton.stream24.radiohost.de/radioton-80er_rock_mp3-192:Radio Ton - 80er Rock
+#DESCRIPTION Radio Ton - 80er Rock
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//radioton.stream24.radiohost.de/radioton-80er_funky_friday_mp3-192:Radio Ton - 80er Funky Friday
+#DESCRIPTION Radio Ton - 80er Funky Friday
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//radioton.stream26.radiohost.de/radioton-80er_longplayer_mp3-192:Radio Ton - 80er Longplayer
+#DESCRIPTION Radio Ton - 80er Longplayer
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//radioton.stream29.radiohost.de/radioton-80er_workout_mp3-192:Radio Ton - 80er Workout
+#DESCRIPTION Radio Ton - 80er Workout
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//radioton.stream26.radiohost.de/radioton-80er_hollywood_mp3-192:Radio Ton - 80er Hollywood
+#DESCRIPTION Radio Ton - 80er Hollywood
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//radioton.stream26.radiohost.de/radioton-80er_live_mp3-192:Radio Ton - 80er Live
+#DESCRIPTION Radio Ton - 80er Live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//radioton.stream29.radiohost.de/radioton-80er_feelings_mp3-192:Radio Ton - 80er Feelings
+#DESCRIPTION Radio Ton - 80er Feelings
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.radiogroup.de/radiogroup-flashback-80er/mp3-192:Antenne NRW - 80er Hits
+#DESCRIPTION Antenne NRW - 80er Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.antenne.nrw/antenne-nrw-80er-disco-hits/stream/aacp:Antenne NRW - 80er Disco Hits
+#DESCRIPTION Antenne NRW - 80er Disco Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//radiogroup.stream32.radiohost.de/radiogroup-flashback-80er_mp3-192:Antenne NRW - 80er Party
+#DESCRIPTION Antenne NRW - 80er Party
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antennethueringen.de/80er/mp3-192/web/:Antenne Thüringen - 80er Webradio
+#DESCRIPTION Antenne Thüringen - 80er Webradio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/antenne-bayern-80er-disco-hits/stream/mp3:Antenne Bayern - 80er Disco Hits
+#DESCRIPTION Antenne Bayern - 80er Disco Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/80er-kulthits/stream/mp3:Antenne Bayern - 80er Hits
+#DESCRIPTION Antenne Bayern - 80er Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/antenne-bayern-80er-party/stream/mp3:Antenne Bayern - 80er Party
+#DESCRIPTION Antenne Bayern - 80er Party
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/80er-rock/stream/mp3:Antenne Bayern - 80er Rock
+#DESCRIPTION Antenne Bayern - 80er Rock
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//listen.181fm.com/181-awesome80s_128k.mp3:181.fm - Awesome 80's
+#DESCRIPTION 181.fm - Awesome 80's
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.laut.fm/100080er:laut.fm - 1000 80er
+#DESCRIPTION laut.fm - 1000 80er
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.laut.fm/80er-radio:laut.fm - 80er Radio
+#DESCRIPTION laut.fm - 80er Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.laut.fm/80s-mix-radio:laut.fm - 80s Mix Radio
+#DESCRIPTION laut.fm - 80s Mix Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.laut.fm/antenne80:laut.fm - Antenne 80
+#DESCRIPTION laut.fm - Antenne 80
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.laut.fm/best_of_80s:laut.fm - Best of 80s
+#DESCRIPTION laut.fm - Best of 80s
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.laut.fm/hits_80s:laut.fm - Hits 80s
+#DESCRIPTION laut.fm - Hits 80s
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.laut.fm/just80s_maximal:laut.fm - Just 80s Maximal
+#DESCRIPTION laut.fm - Just 80s Maximal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s8-webradio.rockantenne.de/80er-rock/stream:Rock Antenne - 80er Rock
+#DESCRIPTION Rock Antenne - 80er Rock
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne1.de/80er/livestream2.mp3:Hitradio Antenne 1 - 80er
+#DESCRIPTION Hitradio Antenne 1 - 80er
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.saw-musikwelt.de/saw-80er/mp3-192/radioSAW-Musikwelt-Webseite/stream.mp3:Radio SAW - 80er
+#DESCRIPTION Radio SAW - 80er
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.sunshine-live.de/80er/mp3-192/homepage/:Sunshine Live - 80er
+#DESCRIPTION Sunshine Live - 80er
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveradio.swr.de/sw331ch/raka16/play.aac:SWR Radio - SWR1 Die 80er
+#DESCRIPTION SWR Radio - SWR1 Die 80er
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.starfm.de/80srock/mp3-192/iradio:Star FM - 80s Rock
+#DESCRIPTION Star FM - 80s Rock
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.regenbogen2.de/80errock/aac-128:ROCK FM - 80er ROCK
+#DESCRIPTION ROCK FM - 80er ROCK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/ffhplus/hq80er.aac:HIT RADIO FFH - FFH+ 80ER
+#DESCRIPTION HIT RADIO FFH - FFH+ 80ER
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/ffhchannels/hq80er.aac:HIT RADIO FFH - FFH DIE 80ER
+#DESCRIPTION HIT RADIO FFH - FFH DIE 80ER
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mp3.harmonyfm.de/harmonyfm/hqlivestream.mp3:harmony.fm - Alles 80er! live
+#DESCRIPTION harmony.fm - Alles 80er! live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mp3.harmonyfm.de/hrmchannels/hq80erkultnight.mp3:harmony.fm - 80er Kultnight
+#DESCRIPTION harmony.fm - 80er Kultnight
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//frontend.streams.arabella.at/arabella-80er:Radio Arabella AT - Arabella 80er
+#DESCRIPTION Radio Arabella AT - Arabella 80er
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//web.stream.radioarabella.de/radioarabella-80er/stream/mp3:Radio Arabella DE - 80er
+#DESCRIPTION Radio Arabella DE - 80er
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//secureonair.krone.at/super80s.aac:Kronehit - Super 80s
+#DESCRIPTION Kronehit - Super 80s
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//80s-high.rautemusik.fm:RauteMusik - 80s
+#DESCRIPTION RauteMusik - 80s
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//web.live-sm.absolutradio.de/absolut-80er:Absolut Radio - 80er
+#DESCRIPTION Absolut Radio - 80er
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tuner.m1.fm/80er.mp3:M1.FM - 80er
+#DESCRIPTION M1.FM - 80er
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ice2.somafm.com/u80s-128-mp3:SomaFM - Underground 80s
+#DESCRIPTION SomaFM - Underground 80s
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fluxfm.streamabc.net/flx-80er-aacplus-64-7776977:FluxFM - 80er
+#DESCRIPTION FluxFM - 80er
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stric6.streamakaci.com%3a80/4u80s.mp3:Mixed Channels - ABC - Stars 80` USA
+#DESCRIPTION Mixed Channels - ABC - Stars 80` USA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s37.derstream.net/128.mp3:Mixed Channels - Radio fresh80s
+#DESCRIPTION Mixed Channels - Radio fresh80s
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream-176.zeno.fm/qtsv9imdittvv:Mixed Channels - 80s FlashBack Radio (Chile)
+#DESCRIPTION Mixed Channels - 80s FlashBack Radio (Chile)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.ssl-stream.com%3a8050/256.mp3:Mixed Channels - 80s Forever
+#DESCRIPTION Mixed Channels - 80s Forever
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//miledmusic1-cybertec.radioca.st/stream:Miled Music 80s 320kbit/s
+#DESCRIPTION Miled Music 80s 320kbit/s
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.0nlineradio.com/80s-rock:0nlineradio - 80s ROCK
+#DESCRIPTION 0nlineradio - 80s ROCK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.0nlineradio.com/80s:0nlineradio - 80s
+#DESCRIPTION 0nlineradio - 80s
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_80s:RMF - 80s
+#DESCRIPTION RMF - 80s
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_80s_disco:RMF - 80s Disco
+#DESCRIPTION RMF - 80s Disco
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kemoniastreaming2.net%3a8060/stream:Radio Kemonia Italy - 80s and 90s Hits (FLAC)
+#DESCRIPTION Radio Kemonia Italy - 80s and 90s Hits (FLAC)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//66.94.113.88%3a8000/retro_ultra_hq:Sanctuary Radio - 80’s Alternative Channel (FLAC)
+#DESCRIPTION Sanctuary Radio - 80’s Alternative Channel (FLAC)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.radioclub80.cl:Radio Club 80 HiFi (FLAC)
+#DESCRIPTION Radio Club 80 HiFi (FLAC)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//icy.unitedradio.it/VirginRock80.mp3:Virgin Radio Italy - Rock 80
+#DESCRIPTION Virgin Radio Italy - Rock 80
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//zt.cdn.eurozet.pl/ZET080.mp3:Radio ZET - 80
+#DESCRIPTION Radio ZET - 80
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.232.4.33%3a9305/stream:Radio 80
+#DESCRIPTION Radio 80
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//25243.live.streamtheworld.com/SRGSTR04.mp3:Sky Radio - 80´s Hits
+#DESCRIPTION Sky Radio - 80´s Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//25283.live.streamtheworld.com/TLPSTR20.mp3:Radio 10 - 80's Hits
+#DESCRIPTION Radio 10 - 80's Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//28573.live.streamtheworld.com/DAB01_AAC.aac:Veronica De beste 80s
+#DESCRIPTION Veronica De beste 80s
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream1.evasionfm.com/cf-80:Chante France 80s
+#DESCRIPTION Chante France 80s
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.rfm.fr/rfm-wr4.aac:RFM - 80s
+#DESCRIPTION RFM - 80s
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//paradisode.streamabc.net/para-80er-mp3-192-9891797:Radio Paradiso - 80er
+#DESCRIPTION Radio Paradiso - 80er
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1980/icecast.audio:Tick Tock Radio - 1980
+#DESCRIPTION Tick Tock Radio - 1980
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//eu9.fastcast4u.com%3a5068/1:70s 80s Music Fashion
+#DESCRIPTION 70s 80s Music Fashion
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.laut.fm/80er-zone:80er Zone
+#DESCRIPTION 80er Zone
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.studiopiu.net%3a8005:Radio 60 70 80 - Italy
+#DESCRIPTION Radio 60 70 80 - Italy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ais-sa2.cdnstream1.com/2281_128.mp3:America's Greatest 80s Hits
+#DESCRIPTION America's Greatest 80s Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//pureplay.cdnstream1.com/6009_64.aac:Got Radio - The 80´s
+#DESCRIPTION Got Radio - The 80´s
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.nexuscast.com%3a8135/:Heart Beat Radio - Back To The 80's Radio
+#DESCRIPTION Heart Beat Radio - Back To The 80's Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ais-edge101-live365-dal02.cdnstream.com/a79417:Magic 80s Florida
+#DESCRIPTION Magic 80s Florida
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.powerhitz.com/ultimate80s?aw_0_req.gdpr=true:Powerhitz - Ultimate 80's
+#DESCRIPTION Powerhitz - Ultimate 80's
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//80er-90er.stream.laut.fm/80er-90er:Radio Summernight - Radio 80er-90er
+#DESCRIPTION Radio Summernight - Radio 80er-90er
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-feierfreund80er5127529-mp3-192-1587531:Feierfreund - 80er Partyhits
+#DESCRIPTION Feierfreund - 80er Partyhits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ffn.stream41.radiohost.de/ffn-80er_mp3-192:Radio ffn - ffn 80er
+#DESCRIPTION Radio ffn - ffn 80er
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-80erdance-mp3-192-3240131:Radio 7 - 80er Dance
+#DESCRIPTION Radio 7 - 80er Dance
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-80erdinner-mp3-192-8185197:Radio 7 - 80er Dinner
+#DESCRIPTION Radio 7 - 80er Dinner
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-80erhits-mp3-192-5676602:Radio 7 - 80er Hits
+#DESCRIPTION Radio 7 - 80er Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-80erparty-mp3-192-7743259:Radio 7 - 80er Party
+#DESCRIPTION Radio 7 - 80er Party
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-80errock-mp3-192-8620050:Radio 7 - 80er Rock
+#DESCRIPTION Radio 7 - 80er Rock
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-80ersommer-mp3-192-8685858:Radio 7 - 80er Sommer
+#DESCRIPTION Radio 7 - 80er Sommer
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//webradio.radio-seefunk.de/80er:Radio Seefunk - 80er pur
+#DESCRIPTION Radio Seefunk - 80er pur
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.spreeradio.de/spree-80er/mp3-128:105'5 Spreeradio - 80er
+#DESCRIPTION 105'5 Spreeradio - 80er
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media-ice.musicradio.com/Heart80s:Heart 80s
+#DESCRIPTION Heart 80s
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//str3.openstream.co/651:Awesome 80s
+#DESCRIPTION Awesome 80s
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream1.hippynet.co.uk%3a8009/stream:Mearns 80s
+#DESCRIPTION Mearns 80s
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/rt1-ch11/stream/mp3:RT1 - 80er
+#DESCRIPTION RT1 - 80er
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-80s-fr-mp3:HotMix - 80´s
+#DESCRIPTION HotMix - 80´s
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//2.mystreaming.net/uber-app/boomerang1980s/icecast.audio:YouRadio Greatest Hits - 1980
+#DESCRIPTION YouRadio Greatest Hits - 1980
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//web.radio.radiolausitz.de/radiolausitz-80er/stream/mp3:Radio Lausitz - 80er Kulthits
+#DESCRIPTION Radio Lausitz - 80er Kulthits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//irmedia.streamabc.net/irm-bbradioplus80er-mp3-128-5626890:BB Radio - Plus 80er
+#DESCRIPTION BB Radio - Plus 80er
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bb-radio.api.radiosphere.io/channels/80er/stream.aac?quality=10:BB Radio - 80er
+#DESCRIPTION BB Radio - 80er
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//topradio-stream03.radiohost.de/brf-80er_mp3-192:Berliner Rundfunk 91.4 - 80er
+#DESCRIPTION Berliner Rundfunk 91.4 - 80er
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//topradio-stream08.radiohost.de/brf-80er-party_mp3-128:Berliner Rundfunk 91.4 - 80er Party
+#DESCRIPTION Berliner Rundfunk 91.4 - 80er Party
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/nostalgie-80er/stream/mp3:Nostalgie Radio - 80er
+#DESCRIPTION Nostalgie Radio - 80er
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//strm112.1.fm/back280s_mobile_mp3:1.FM - A List 80s
+#DESCRIPTION 1.FM - A List 80s
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//strm112.1.fm/80s_90s_mobile_mp3:1.FM - All Euro 80's Radio
+#DESCRIPTION 1.FM - All Euro 80's Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//strm112.1.fm/disco_mobile_mp3:1.FM - Disco Ball 70's-80's Radio
+#DESCRIPTION 1.FM - Disco Ball 70's-80's Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//strm112.1.fm/magic80_mobile_mp3:1.FM - Magic 80 Radio
+#DESCRIPTION 1.FM - Magic 80 Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.liferadio.tirol/80s/mp3-192/link:Life Radio Tirol - 80er
+#DESCRIPTION Life Radio Tirol - 80er
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bigrradio.cdnstream1.com/5115_128:AceRadio - The 80s Soft Channel
+#DESCRIPTION AceRadio - The 80s Soft Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bigrradio.cdnstream1.com/5117_128:AceRadio - The Awesome 80s Channel
+#DESCRIPTION AceRadio - The Awesome 80s Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//triggerfmmax.ice.infomaniak.ch/triggerfmmax-256.mp3:Trigger.FM - 80er & 90er Max
+#DESCRIPTION Trigger.FM - 80er & 90er Max
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//icecast-qmusicbe-cdp.triple-it.nl/joe_80s_90s.aac?aw_0_1st.skey=1718788807:Joe - 80's & 90'
+#DESCRIPTION Joe - 80's & 90'

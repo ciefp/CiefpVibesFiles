@@ -1,0 +1,949 @@
+#NAME ## ( ARTISTS RADIO ) ##
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/10cc/icecast.audio
+#DESCRIPTION 10cc
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/2pac/icecast.audio
+#DESCRIPTION 2pac
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/50cent/icecast.audio
+#DESCRIPTION 50 cent
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/aha/icecast.audio
+#DESCRIPTION A-Ha
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/abba/icecast.audio
+#DESCRIPTION ABBA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/abbahits/icecast.audio
+#DESCRIPTION ABBA Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/acdc/icecast.audio
+#DESCRIPTION AC/DC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/acdchits/icecast.audio
+#DESCRIPTION AC/DC Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/adamlambert/icecast.audio
+#DESCRIPTION Adam Lambert
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/adele/icecast.audio
+#DESCRIPTION Adele
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/aerosmith/icecast.audio
+#DESCRIPTION Aerosmith
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/aerosmithhits/icecast.audio
+#DESCRIPTION Aerosmith Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/algreen/icecast.audio
+#DESCRIPTION Al Green
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/alabama/icecast.audio
+#DESCRIPTION Alabama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/alanismorissette/icecast.audio
+#DESCRIPTION Alanis Morissette
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/alicecooper/icecast.audio
+#DESCRIPTION Alice Cooper
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/alicecooperhits/icecast.audio
+#DESCRIPTION Alice Cooper Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/alisonmoyet/icecast.audio
+#DESCRIPTION Alison Moyet
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/allmanbrothers/icecast.audio
+#DESCRIPTION Allman Brothers Band
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/america/icecast.audio
+#DESCRIPTION America
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/amywinehouse/icecast.audio
+#DESCRIPTION Amy Winehouse
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/andreabocelli/icecast.audio
+#DESCRIPTION Andrea Bocelli
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/andywilliams/icecast.audio
+#DESCRIPTION Andy Williams
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/andywilliamshits/icecast.audio
+#DESCRIPTION Andy Williams Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/annielennox/icecast.audio
+#DESCRIPTION Annie Lennox
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/arethafranklin/icecast.audio
+#DESCRIPTION Aretha Franklin
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/arethafranklinhits/icecast.audio
+#DESCRIPTION Aretha Franklin Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/arianagrande/icecast.audio
+#DESCRIPTION Ariana Grande
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/arianagrandehits/icecast.audio
+#DESCRIPTION Ariana Grande Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/avicii/icecast.audio
+#DESCRIPTION Avicii
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/avrillavigne/icecast.audio
+#DESCRIPTION Avril Lavigne
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/backstreetboys/icecast.audio
+#DESCRIPTION Backstreet Boys
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/badbunny/icecast.audio
+#DESCRIPTION Bad Bunny
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/badcompany/icecast.audio
+#DESCRIPTION Bad Company
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/streisand/icecast.audio
+#DESCRIPTION Barbra Streisand
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/streisandhits/icecast.audio
+#DESCRIPTION Barbra Streisand Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/barrymanilow/icecast.audio
+#DESCRIPTION Barry Manilow
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/barrywhite/icecast.audio
+#DESCRIPTION Barry White
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/barrywhitehits/icecast.audio
+#DESCRIPTION Barry White Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/bbking/icecast.audio
+#DESCRIPTION B.B. King
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/beachboys/icecast.audio
+#DESCRIPTION Beach Boys
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/beachboyshits/icecast.audio
+#DESCRIPTION Beach Boys Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/beastieboys/icecast.audio
+#DESCRIPTION Beastie Boys
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/beatles/icecast.audio
+#DESCRIPTION Beatles
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/thebeatleshits/icecast.audio
+#DESCRIPTION Beatles Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/beegees/icecast.audio
+#DESCRIPTION Bee Gees
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/belindacarlisle/icecast.audio
+#DESCRIPTION Belinda Carlisle
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/beyonce/icecast.audio
+#DESCRIPTION Beyonce
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/beyoncehits/icecast.audio
+#DESCRIPTION Beyonce Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/bigcountry/icecast.audio
+#DESCRIPTION Big Country
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/billwithers/icecast.audio
+#DESCRIPTION Bill Withers
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/billyeilish/icecast.audio
+#DESCRIPTION Billie Eilish
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/billyidol/icecast.audio
+#DESCRIPTION Billy Idol
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/billyjoel/icecast.audio
+#DESCRIPTION Billy Joel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/bingcrosby/icecast.audio
+#DESCRIPTION Bing Crosby
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/theblackcrowes/icecast.audio
+#DESCRIPTION Black Crowes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/blacksabbath/icecast.audio
+#DESCRIPTION Black Sabbath
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/blackuhuru/icecast.audio
+#DESCRIPTION Black Uhuru
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/blondie/icecast.audio
+#DESCRIPTION Blondie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/blondiehits/icecast.audio
+#DESCRIPTION Blondie Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/blur/icecast.audio
+#DESCRIPTION Blur
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/bodiddley/icecast.audio
+#DESCRIPTION Bo Diddley
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/bobdylan/icecast.audio
+#DESCRIPTION Bob Dylan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/bobdylanhits/icecast.audio
+#DESCRIPTION Bob Dylan Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/bobmarley/icecast.audio
+#DESCRIPTION Bob Marley
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/bobmarleyhits/icecast.audio
+#DESCRIPTION Bob Marley Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/bobseger/icecast.audio
+#DESCRIPTION Bob Seger
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/bonjovi/icecast.audio
+#DESCRIPTION Bon Jovi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/bonjovihits/icecast.audio
+#DESCRIPTION Bon Jovi Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/bookert/icecast.audio
+#DESCRIPTION Booker T & The MG's
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/boston/icecast.audio
+#DESCRIPTION Boston
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/bradpaisley/icecast.audio
+#DESCRIPTION Brad Paisley
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/brantleygilbert/icecast.audio
+#DESCRIPTION Brantley Gilbert
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/bread/icecast.audio
+#DESCRIPTION Bread
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/britney/icecast.audio
+#DESCRIPTION Britney Spears
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/britneyspearshits/icecast.audio
+#DESCRIPTION Britney Spears Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/brooksanddunn/icecast.audio
+#DESCRIPTION Brooks & Dunn
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/springsteen/icecast.audio
+#DESCRIPTION Bruce Springsteen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/springsteenhits/icecast.audio
+#DESCRIPTION Bruce Springsteen Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/brunomars/icecast.audio
+#DESCRIPTION Bruno Mars
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/bryanadams/icecast.audio
+#DESCRIPTION Bryan Adams
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/bryanadamshits/icecast.audio
+#DESCRIPTION Bryan Adams Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/bryanferry/icecast.audio
+#DESCRIPTION Bryan Ferry
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/bts/icecast.audio
+#DESCRIPTION BTS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/buddyguy/icecast.audio
+#DESCRIPTION Buddy Guy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/buddyholly/icecast.audio
+#DESCRIPTION Buddy Holly
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/buddyhollyhits/icecast.audio
+#DESCRIPTION Buddy Holly Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/burnaboy/icecast.audio
+#DESCRIPTION Burna Boy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/burningspear/icecast.audio
+#DESCRIPTION Burning Spear
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/thebyrds/icecast.audio
+#DESCRIPTION Byrds
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/calvinharris/icecast.audio
+#DESCRIPTION Calvin Harris
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/camilacabello/icecast.audio
+#DESCRIPTION Camilla Cabello
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/cardib/icecast.audio
+#DESCRIPTION Cardi B
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/carlysimon/icecast.audio
+#DESCRIPTION Carly Simon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/caroleking/icecast.audio
+#DESCRIPTION Carole King
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/carpenters/icecast.audio
+#DESCRIPTION Carpenters
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/thecars/icecast.audio
+#DESCRIPTION Cars
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/catstevens/icecast.audio
+#DESCRIPTION Cat Stevens
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/celinedion/icecast.audio
+#DESCRIPTION Celine Dion
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/charleypride/icecast.audio
+#DESCRIPTION Charley Pride
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/charlixcx/icecast.audio
+#DESCRIPTION Charli XCX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/charlieputh/icecast.audio
+#DESCRIPTION Charlie Puth
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/charlieparker/icecast.audio
+#DESCRIPTION Charlie Parker
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/cher/icecast.audio
+#DESCRIPTION Cher
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/chic/icecast.audio
+#DESCRIPTION Chic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/chichits/icecast.audio
+#DESCRIPTION Chic Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/chicago/icecast.audio
+#DESCRIPTION Chicago
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/chicagohits/icecast.audio
+#DESCRIPTION Chicago Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/chrisrea/icecast.audio
+#DESCRIPTION Chris Rea
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/christinaaguilera/icecast.audio
+#DESCRIPTION Christina Aguilera
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/chuckberry/icecast.audio
+#DESCRIPTION Chuck Berry
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/chuckberryhits/icecast.audio
+#DESCRIPTION Chuck Berry Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/theclash/icecast.audio
+#DESCRIPTION Clash
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/cliffrichard/icecast.audio
+#DESCRIPTION Cliff Richard
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/cliffrichardhits/icecast.audio
+#DESCRIPTION Cliff Richard Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/coldplay/icecast.audio
+#DESCRIPTION Coldplay
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/coldplayhits/icecast.audio
+#DESCRIPTION Coldplay Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/cream/icecast.audio
+#DESCRIPTION Cream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/creedence/icecast.audio
+#DESCRIPTION Creedence Clearwater Revival
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/csny/icecast.audio
+#DESCRIPTION Crosby Stills Nash and Young
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/crowdedhouse/icecast.audio
+#DESCRIPTION Crowded House
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/curtismayfield/icecast.audio
+#DESCRIPTION Curtis Mayfield
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/daftpunk/icecast.audio
+#DESCRIPTION Daft Punk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/davebrubeck/icecast.audio
+#DESCRIPTION Dave Brubeck
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/davidbowie/icecast.audio
+#DESCRIPTION David Bowie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/davidbowiehits/icecast.audio
+#DESCRIPTION David Bowie Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/deanmartin/icecast.audio
+#DESCRIPTION Dean Martin
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/deeppurple/icecast.audio
+#DESCRIPTION Deep Purple
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/defleppard/icecast.audio
+#DESCRIPTION Def Leppard
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/depechemode/icecast.audio
+#DESCRIPTION Depeche Mode
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/dianakrall/icecast.audio
+#DESCRIPTION Diana Krall
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/dianaross/icecast.audio
+#DESCRIPTION Diana Ross
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/dionnewarwick/icecast.audio
+#DESCRIPTION Dionne Warwick
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/direstraits/icecast.audio
+#DESCRIPTION Dire Straits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/direstraitshits/icecast.audio
+#DESCRIPTION Dire Straits Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/dojacat/icecast.audio
+#DESCRIPTION Doja Cat
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/dollyparton/icecast.audio
+#DESCRIPTION Dolly Parton
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/dollypartonhits/icecast.audio
+#DESCRIPTION Dolly Parton Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/donnasummer/icecast.audio
+#DESCRIPTION Donna Summer
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/doobiebrothers/icecast.audio
+#DESCRIPTION Doobie Brothers
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/doors/icecast.audio
+#DESCRIPTION Doors
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/drdre/icecast.audio
+#DESCRIPTION Dr. Dre
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/drhook/icecast.audio
+#DESCRIPTION Dr Hook
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/drake/icecast.audio
+#DESCRIPTION Drake
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/drifters/icecast.audio
+#DESCRIPTION Drifters
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/dualipa/icecast.audio
+#DESCRIPTION Dua Lipa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/thedubliners/icecast.audio
+#DESCRIPTION Dubliners
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/dukeellington/icecast.audio
+#DESCRIPTION Duke Ellington
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/duranduran/icecast.audio
+#DESCRIPTION Duran Duran
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/duranduranhits/icecast.audio
+#DESCRIPTION Duran Duran Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/eagles/icecast.audio
+#DESCRIPTION Eagles
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/eagleshits/icecast.audio
+#DESCRIPTION Eagles Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/earthwindandfire/icecast.audio
+#DESCRIPTION Earth Wind and Fire
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/earthwindandfirehits/icecast.audio
+#DESCRIPTION Earth Wind and Fire Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/edsheeran/icecast.audio
+#DESCRIPTION Ed Sheeran
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/edsheeranhits/icecast.audio
+#DESCRIPTION Ed Sheeran Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/ellafitzgerald/icecast.audio
+#DESCRIPTION Ella Fitzgerald
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/elo/icecast.audio
+#DESCRIPTION ELO Electric Light Orchestra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/elohits/icecast.audio
+#DESCRIPTION ELO Electric Light Orchestra Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/eltonjohn/icecast.audio
+#DESCRIPTION Elton John
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/eltonjohnhits/icecast.audio
+#DESCRIPTION Elton John Omly Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/elvispresley/icecast.audio
+#DESCRIPTION Elvis Presley
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/emersonlakepalmer/icecast.audio
+#DESCRIPTION Emerson Lake and Palmer
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/eminem/icecast.audio
+#DESCRIPTION Eminem
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/engelberthumperdinck/icecast.audio
+#DESCRIPTION Engelbert Humperdinck
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/enriqueiglesias/icecast.audio
+#DESCRIPTION Enrique Iglesias
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/erasure/icecast.audio
+#DESCRIPTION Erasure
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/ericclapton/icecast.audio
+#DESCRIPTION Eric Clapton
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/ericclaptonhits/icecast.audio
+#DESCRIPTION Eric Clapton Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/ettajames/icecast.audio
+#DESCRIPTION Etta James
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/eurythmics/icecast.audio
+#DESCRIPTION Eurythmics
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/eurythmicshits/icecast.audio
+#DESCRIPTION Eurythmics Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/everlybrothers/icecast.audio
+#DESCRIPTION Everly Brothers
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/everlybrothershits/icecast.audio
+#DESCRIPTION Everly Brothers Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/fatsdomino/icecast.audio
+#DESCRIPTION Fats Domino
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/fleetwoodmac/icecast.audio
+#DESCRIPTION Fleetwood Mac
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/fleetwoodmachits/icecast.audio
+#DESCRIPTION Fleetwood Mac Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/floridageorgialine/icecast.audio
+#DESCRIPTION Florida Georgia Line
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/foofighters/icecast.audio
+#DESCRIPTION Foo Fighters
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/foreigner/icecast.audio
+#DESCRIPTION Foreigner
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/fourtops/icecast.audio
+#DESCRIPTION Four Tops
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/franksinatra/icecast.audio
+#DESCRIPTION Frank Sinatra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/franksinatrahits/icecast.audio
+#DESCRIPTION Frank Sinatra Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/garthbrooks/icecast.audio
+#DESCRIPTION Garth Brooks
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/garymoore/icecast.audio
+#DESCRIPTION Gary Moore
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/genesis/icecast.audio
+#DESCRIPTION Genesis
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/georgebenson/icecast.audio
+#DESCRIPTION George Benson
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/georgeezra/icecast.audio
+#DESCRIPTION George Ezra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/georgeharrison/icecast.audio
+#DESCRIPTION George Harrison
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/georgejones/icecast.audio
+#DESCRIPTION George Jones
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/georgemichael/icecast.audio
+#DESCRIPTION George Michael
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/georgestrait/icecast.audio
+#DESCRIPTION George Strait
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/glencampbell/icecast.audio
+#DESCRIPTION Glen Campbell
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/glennmiller/icecast.audio
+#DESCRIPTION Glenn Miller
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/gloriaestefan/icecast.audio
+#DESCRIPTION Gloria Estefan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/gordonlightfoot/icecast.audio
+#DESCRIPTION Gordon Lightfoot
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/gratefuldead/icecast.audio
+#DESCRIPTION Grateful Dead
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/greenday/icecast.audio
+#DESCRIPTION Green Day
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/gregoryporter/icecast.audio
+#DESCRIPTION Gregory Porter
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/gunsnroses/icecast.audio
+#DESCRIPTION Guns N' Roses
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/hallandoateshits/icecast.audio
+#DESCRIPTION Hall & Oates Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/hankwilliams/icecast.audio
+#DESCRIPTION Hank Williams
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/harrystyles/icecast.audio
+#DESCRIPTION Harry Styles
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/herbiehancock/icecast.audio
+#DESCRIPTION Herbie Hancock
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/thehollies/icecast.audio
+#DESCRIPTION Hollies
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/howlinwolf/icecast.audio
+#DESCRIPTION Howlin Wolf
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/hueylewis/icecast.audio
+#DESCRIPTION Huey Lewis & The News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/humanleague/icecast.audio
+#DESCRIPTION Human League
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/imaginedragons/icecast.audio
+#DESCRIPTION Imagine Dragons
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/INXS/icecast.audio
+#DESCRIPTION INXS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/ironmaiden/icecast.audio
+#DESCRIPTION Iron Maiden
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/jackjohnson/icecast.audio
+#DESCRIPTION Jack Johnson
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/jacksonbrowne/icecast.audio
+#DESCRIPTION Jackson Browne
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/jamesblunt/icecast.audio
+#DESCRIPTION James Blunt
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/jamesbrown/icecast.audio
+#DESCRIPTION James Brown
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/jamesbrownhits/icecast.audio
+#DESCRIPTION James Brown Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/jamestaylor/icecast.audio
+#DESCRIPTION James Taylor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/jamestaylorhits/icecast.audio
+#DESCRIPTION James Taylor Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/jamiecullum/icecast.audio
+#DESCRIPTION Jamie Cullum
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/janetjackson/icecast.audio
+#DESCRIPTION Janet Jackson
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/jaquesloussier/icecast.audio
+#DESCRIPTION Jaques Loussier
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/jasonderulo/icecast.audio
+#DESCRIPTION Jason Derulo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/jay-z/icecast.audio
+#DESCRIPTION JAY-Z
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/jeffersonairplane/icecast.audio
+#DESCRIPTION Jefferson Airplane
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/jenniferlopez/icecast.audio
+#DESCRIPTION Jennifer Lopez
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/jerryleelewis/icecast.audio
+#DESCRIPTION Jerry Lee Lewis
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/jethrotull/icecast.audio
+#DESCRIPTION Jethro Tull
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/jimreeves/icecast.audio
+#DESCRIPTION Jim Reeves
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/hendrix/icecast.audio
+#DESCRIPTION Jimi Hendrix
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/jimmycliff/icecast.audio
+#DESCRIPTION Jimmy Cliff
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/jjcale/icecast.audio
+#DESCRIPTION JJ Cale
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/joanbaez/icecast.audio
+#DESCRIPTION Joan Baez
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/joanjett/icecast.audio
+#DESCRIPTION Joan Jett
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/joebonamassa/icecast.audio
+#DESCRIPTION Joe Bonamassa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/joesatriani/icecast.audio
+#DESCRIPTION Joe Satriani
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/johncoltrane/icecast.audio
+#DESCRIPTION John Coltrane
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/johndenver/icecast.audio
+#DESCRIPTION John Denver
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/johnleehooker/icecast.audio
+#DESCRIPTION John Lee Hooker
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/lennon/icecast.audio
+#DESCRIPTION John Lennon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/johnlennonhits/icecast.audio
+#DESCRIPTION John Lennon Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/johnmayall/icecast.audio
+#DESCRIPTION John Mayall
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/johnnycash/icecast.audio
+#DESCRIPTION Johnny Cash
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/johnnycashhits/icecast.audio
+#DESCRIPTION Johnny Cash Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/johnnymathis/icecast.audio
+#DESCRIPTION Johnny Mathis
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/johnnynash/icecast.audio
+#DESCRIPTION Johnny Nash
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/jonasbrothers/icecast.audio
+#DESCRIPTION Jonas Brothers
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/jonimitchell/icecast.audio
+#DESCRIPTION Joni Mitchell
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/joshgroban/icecast.audio
+#DESCRIPTION Josh Groban
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/journey/icecast.audio
+#DESCRIPTION Journey
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/juicewrld/icecast.audio
+#DESCRIPTION Juice WRLD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/justinbieber/icecast.audio
+#DESCRIPTION Justin Bieber
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/justinbieberhits/icecast.audio
+#DESCRIPTION Justin Bieber Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/justintimberlake/icecast.audio
+#DESCRIPTION Justin Timberlake
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/kanyewest/icecast.audio
+#DESCRIPTION Kanye West
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/kasabian/icecast.audio
+#DESCRIPTION Kasabian
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/katebush/icecast.audio
+#DESCRIPTION Kate Bush
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/katyperry/icecast.audio
+#DESCRIPTION Katy Perry
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/keane/icecast.audio
+#DESCRIPTION Keane
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/keithurban/icecast.audio
+#DESCRIPTION Keith Urban
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/kellyclarkson/icecast.audio
+#DESCRIPTION Kelly Clarkson
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/kendricklamar/icecast.audio
+#DESCRIPTION Kendrick Lamar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/kennychesney/icecast.audio
+#DESCRIPTION Kenny Chesney
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/kennyg/icecast.audio
+#DESCRIPTION Kenny G
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/kennyrogers/icecast.audio
+#DESCRIPTION Kenny Rogers
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/thekillers/icecast.audio
+#DESCRIPTION Killers
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/kingsofleon/icecast.audio
+#DESCRIPTION Kings Of Leon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/thekinks/icecast.audio
+#DESCRIPTION The Kinks
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/kiss/icecast.audio
+#DESCRIPTION KISS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/kraftwerk/icecast.audio
+#DESCRIPTION Kraftwerk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/kylie/icecast.audio
+#DESCRIPTION Kylie Minogue
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/ladyantebellum/icecast.audio
+#DESCRIPTION Lady A
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/ladygaga/icecast.audio
+#DESCRIPTION Lady Gaga
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/lanadelrey/icecast.audio
+#DESCRIPTION Lana Del Rey
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/ledzeppelin/icecast.audio
+#DESCRIPTION Led Zeppelin
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/ledzeppelinhits/icecast.audio
+#DESCRIPTION Led Zeppelin Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/leonardcohen/icecast.audio
+#DESCRIPTION Leonard Cohen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/level42/icecast.audio
+#DESCRIPTION Level 42
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/lewiscapaldi/icecast.audio
+#DESCRIPTION Lewis Capaldi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/liamgallagher/icecast.audio
+#DESCRIPTION Liam Gallagher
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/lindaronstadt/icecast.audio
+#DESCRIPTION Linda Ronstadt
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/lionelrichie/icecast.audio
+#DESCRIPTION Lionel Richie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/lionelrichiehits/icecast.audio
+#DESCRIPTION Lionel Richie Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/littlefeat/icecast.audio
+#DESCRIPTION Little Feat
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/littlemix/icecast.audio
+#DESCRIPTION Little Mix
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/littlerichardhits/icecast.audio
+#DESCRIPTION Little Richard Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/lorde/icecast.audio
+#DESCRIPTION Lorde
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/lorettalynn/icecast.audio
+#DESCRIPTION Loretta Lynn
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/louisarmstrong/icecast.audio
+#DESCRIPTION Louis Armstrong
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/lukebryan/icecast.audio
+#DESCRIPTION Luke Bryan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/lynyrdskynyrd/icecast.audio
+#DESCRIPTION Lynyrd Skynyrd
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/mabel/icecast.audio
+#DESCRIPTION Mabel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/madness/icecast.audio
+#DESCRIPTION Madness
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/madonna/icecast.audio
+#DESCRIPTION Madonna
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/madonnahits/icecast.audio
+#DESCRIPTION Madonna Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/mariahcarey/icecast.audio
+#DESCRIPTION Mariah Carey
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/mariahcareyhits/icecast.audio
+#DESCRIPTION Mariah Carey Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/maroon5/icecast.audio
+#DESCRIPTION Maroon 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/marvingaye/icecast.audio
+#DESCRIPTION Marvin Gaye
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/marvingayehits/icecast.audio
+#DESCRIPTION Marvin Gaye Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/maryjblige/icecast.audio
+#DESCRIPTION Mary J. Blige
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/mattmonro/icecast.audio
+#DESCRIPTION Matt Monro
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/themavericks/icecast.audio
+#DESCRIPTION Mavericks
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/meatloaf/icecast.audio
+#DESCRIPTION Meat Loaf
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/merlehaggard/icecast.audio
+#DESCRIPTION Merle Haggard
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/metallica/icecast.audio
+#DESCRIPTION Metallica
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/michaelbolton/icecast.audio
+#DESCRIPTION Michael Bolton
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/michaelbuble/icecast.audio
+#DESCRIPTION Michael Buble
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/michaeljackson/icecast.audio
+#DESCRIPTION Michael Jackson
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/michaeljacksonhits/icecast.audio
+#DESCRIPTION Michael Jackson Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/mikeandthemechanics/icecast.audio
+#DESCRIPTION Mike And The Mechanics
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/mikeoldfield/icecast.audio
+#DESCRIPTION Mike Oldfield
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/milesdavis/icecast.audio
+#DESCRIPTION Miles Davis
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/mileycyrus/icecast.audio
+#DESCRIPTION Miley Cyrus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/moby/icecast.audio
+#DESCRIPTION Moby
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/themonkees/icecast.audio
+#DESCRIPTION Monkees
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/moodyblues/icecast.audio
+#DESCRIPTION Moody Blues
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/motleycrue/icecast.audio
+#DESCRIPTION Mötley Crüe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/motorhead/icecast.audio
+#DESCRIPTION Motörhead
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/muddywaters/icecast.audio
+#DESCRIPTION Muddy Waters
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/muse/icecast.audio
+#DESCRIPTION Muse
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/natkingcole/icecast.audio
+#DESCRIPTION Nat King Cole
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/natkingcolehits/icecast.audio
+#DESCRIPTION Nat King Cole Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/neildiamond/icecast.audio
+#DESCRIPTION Neil Diamond
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/neildiamondhits/icecast.audio
+#DESCRIPTION Neil Diamond Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/neilyoung/icecast.audio
+#DESCRIPTION Neil Young
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/neworder/icecast.audio
+#DESCRIPTION New Order
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/niallhoran/icecast.audio
+#DESCRIPTION Niall Horan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/nickelback/icecast.audio
+#DESCRIPTION Nickelback
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/nickiminaj/icecast.audio
+#DESCRIPTION Nicki Minaj
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/ninasimone/icecast.audio
+#DESCRIPTION Nina Simone
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/nirvana/icecast.audio
+#DESCRIPTION Nirvana
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/noelgallagher/icecast.audio
+#DESCRIPTION Noel Gallagher
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/norahjones/icecast.audio
+#DESCRIPTION Norah Jones
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/oasis/icecast.audio
+#DESCRIPTION Oasis
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/oasishits/icecast.audio
+#DESCRIPTION Oasis Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/onj/icecast.audio
+#DESCRIPTION Olivia Newton John
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/oliviarodrigo/icecast.audio
+#DESCRIPTION Olivia Rodrigo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/onedirection/icecast.audio
+#DESCRIPTION One Direction
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/onerepublic/icecast.audio
+#DESCRIPTION One Republic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/omd/icecast.audio
+#DESCRIPTION Orchestral Manoeuvres in the Dark
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/otisredding/icecast.audio
+#DESCRIPTION Otis Redding
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/otisreddinghits/icecast.audio
+#DESCRIPTION Otis Redding Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/pink/icecast.audio
+#DESCRIPTION P!nk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/patsycline/icecast.audio
+#DESCRIPTION Patsy Cline
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/pattismith/icecast.audio
+#DESCRIPTION Patti Smith
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/paulmccartney/icecast.audio
+#DESCRIPTION Paul McCartney
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/paulweller/icecast.audio
+#DESCRIPTION Paul Weller
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/perrycomo/icecast.audio
+#DESCRIPTION Perry Como
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/petshopboys/icecast.audio
+#DESCRIPTION Pet Shop Boys
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/petshopboyshits/icecast.audio
+#DESCRIPTION Pet Shop Boys Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/peteseeger/icecast.audio
+#DESCRIPTION Pete Seeger
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/peterframpton/icecast.audio
+#DESCRIPTION Peter Frampton
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/petergabriel/icecast.audio
+#DESCRIPTION Peter Gabriel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/pgfleetwood/icecast.audio
+#DESCRIPTION Peter Green's Fleetwood Mac
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/petertosh/icecast.audio
+#DESCRIPTION Peter Tosh
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/philcollins/icecast.audio
+#DESCRIPTION Phil Collins
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/philcollinshits/icecast.audio
+#DESCRIPTION Phil Collins Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/pinkfloyd/icecast.audio
+#DESCRIPTION Pink Floyd
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/pinkfloydhits/icecast.audio
+#DESCRIPTION Pink Floyd Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/pixies/icecast.audio
+#DESCRIPTION Pixies
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/postmalone/icecast.audio
+#DESCRIPTION Post Malone
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/pretenders/icecast.audio
+#DESCRIPTION Pretenders
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/prince/icecast.audio
+#DESCRIPTION Prince
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/princehits/icecast.audio
+#DESCRIPTION Prince Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/pussycatdolls/icecast.audio
+#DESCRIPTION Pussycat Dolls
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/queen/icecast.audio
+#DESCRIPTION Queen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/queenhits/icecast.audio
+#DESCRIPTION Queen Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/rem/icecast.audio
+#DESCRIPTION R.E.M.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/remhits/icecast.audio
+#DESCRIPTION R.E.M. Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/radiohead/icecast.audio
+#DESCRIPTION Radiohead
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/ramones/icecast.audio
+#DESCRIPTION Ramones
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/randytravis/icecast.audio
+#DESCRIPTION Randy Travis
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/raycharles/icecast.audio
+#DESCRIPTION Ray Charles
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/raycharleshits/icecast.audio
+#DESCRIPTION Ray Charles Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/rebamcentire/icecast.audio
+#DESCRIPTION Reba McEntire
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/chilipeppers/icecast.audio
+#DESCRIPTION Red Hot Chili Peppers
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/rihanna/icecast.audio
+#DESCRIPTION Rihanna
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/rihannahits/icecast.audio
+#DESCRIPTION Rihanna Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/ritaora/icecast.audio
+#DESCRIPTION Rita Ora
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/robbiewilliams/icecast.audio
+#DESCRIPTION Robbie Williams
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/robbiewilliamshits/icecast.audio
+#DESCRIPTION Robbie Williams Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/robertcray/icecast.audio
+#DESCRIPTION Robert Cray
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/robertpalmer/icecast.audio
+#DESCRIPTION Robert Palmer
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/rodstewart/icecast.audio
+#DESCRIPTION Rod Stewart
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/rodstewarthits/icecast.audio
+#DESCRIPTION Rod Stewart Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/rollingstones/icecast.audio
+#DESCRIPTION Rolling Stones
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/rollingstoneshits/icecast.audio
+#DESCRIPTION Rolling Stones Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/rorygallagher/icecast.audio
+#DESCRIPTION Rory Gallagher
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/roxette/icecast.audio
+#DESCRIPTION Roxette
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/royorbison/icecast.audio
+#DESCRIPTION Roy Orbison
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/royorbisonhits/icecast.audio
+#DESCRIPTION Roy Orbison Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/rundmc/icecast.audio
+#DESCRIPTION Run-DMC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/rush/icecast.audio
+#DESCRIPTION Rush
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/sade/icecast.audio
+#DESCRIPTION Sade
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/samcooke/icecast.audio
+#DESCRIPTION Sam Cooke
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/samsmith/icecast.audio
+#DESCRIPTION Sam Smith
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/santana/icecast.audio
+#DESCRIPTION Santana
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/savagegarden/icecast.audio
+#DESCRIPTION Savage Garden
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/scorpions/icecast.audio
+#DESCRIPTION Scorpions
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/shaggy/icecast.audio
+#DESCRIPTION Shaggy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/shakira/icecast.audio
+#DESCRIPTION Shakira
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/shaniatwain/icecast.audio
+#DESCRIPTION Shania Twain
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/shawnmendes/icecast.audio
+#DESCRIPTION Shawn Mendes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/sherylcrow/icecast.audio
+#DESCRIPTION Sheryl Crow
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/sia/icecast.audio
+#DESCRIPTION Sia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/simongarfunkle/icecast.audio
+#DESCRIPTION Simon & Garfunkel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/simongarfunklehits/icecast.audio
+#DESCRIPTION Simon & Garfunkel Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/simpleminds/icecast.audio
+#DESCRIPTION Simple Minds
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/simplyred/icecast.audio
+#DESCRIPTION Simply Red
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/slade/icecast.audio
+#DESCRIPTION Slade
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/smallfaces/icecast.audio
+#DESCRIPTION Small Faces
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/smokeyrobinson/icecast.audio
+#DESCRIPTION Smokey Robinson
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/snowpatrol/icecast.audio
+#DESCRIPTION Snow Patrol
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/spandauballet/icecast.audio
+#DESCRIPTION Spandau Ballet
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/steeleyespan/icecast.audio
+#DESCRIPTION Steeleye Span
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/steelydan/icecast.audio
+#DESCRIPTION Steely Dan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/steelydanhits/icecast.audio
+#DESCRIPTION Steely Dan Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/stevemillerband/icecast.audio
+#DESCRIPTION Steve Miller Band
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/stevewinwood/icecast.audio
+#DESCRIPTION Steve Winwood
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/stevierayvaughan/icecast.audio
+#DESCRIPTION Stevie Ray Vaughan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/steviewonder/icecast.audio
+#DESCRIPTION Stevie Wonder
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/steviewonderhits/icecast.audio
+#DESCRIPTION Stevie Wonder Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/sting/icecast.audio
+#DESCRIPTION Sting
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/stinghits/icecast.audio
+#DESCRIPTION Sting Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/stonetemplepilots/icecast.audio
+#DESCRIPTION Stone Temple Pilots
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/styx/icecast.audio
+#DESCRIPTION Styx
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/supertramp/icecast.audio
+#DESCRIPTION Supertramp
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/suzannevega/icecast.audio
+#DESCRIPTION Suzanne Vega
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/trex/icecast.audio
+#DESCRIPTION T-Rex
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/takethat/icecast.audio
+#DESCRIPTION Take That
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/talkingheads/icecast.audio
+#DESCRIPTION Talking Heads
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/tammywynette/icecast.audio
+#DESCRIPTION Tammy Wynette
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/taylorswift/icecast.audio
+#DESCRIPTION Taylor Swift
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/taylorswifthits/icecast.audio
+#DESCRIPTION Taylor Swift Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/tearsforfears/icecast.audio
+#DESCRIPTION Tears For Fears
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/thetemptations/icecast.audio
+#DESCRIPTION Temptations
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/texas/icecast.audio
+#DESCRIPTION Texas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/the1975/icecast.audio
+#DESCRIPTION The 1975
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/theb52s/icecast.audio
+#DESCRIPTION The B-52's
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/theband/icecast.audio
+#DESCRIPTION The Band
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/thecure/icecast.audio
+#DESCRIPTION The Cure
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/police/icecast.audio
+#DESCRIPTION The Police
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/policehits/icecast.audio
+#DESCRIPTION The Police Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/theweeknd/icecast.audio
+#DESCRIPTION The Weeknd
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/thewho/icecast.audio
+#DESCRIPTION The Who
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/thinlizzy/icecast.audio
+#DESCRIPTION Thin Lizzy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/timmcgraw/icecast.audio
+#DESCRIPTION Tim McGraw
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/tinaturner/icecast.audio
+#DESCRIPTION Tina Turner
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/tinaturnerhits/icecast.audio
+#DESCRIPTION Tina Turner Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/tobykeith/icecast.audio
+#DESCRIPTION Toby Keith
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/tomjones/icecast.audio
+#DESCRIPTION Tom Jones
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/tompetty/icecast.audio
+#DESCRIPTION Tom Petty
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/tomwaits/icecast.audio
+#DESCRIPTION Tom Waits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/tonybennett/icecast.audio
+#DESCRIPTION Tony Bennett
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/tootsandthemaytals/icecast.audio
+#DESCRIPTION Toots And The Maytals
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/toto/icecast.audio
+#DESCRIPTION Toto
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/travisscott/icecast.audio
+#DESCRIPTION Travis Scott
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/twentyonepilots/icecast.audio
+#DESCRIPTION Twenty One Pilots
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/u2/icecast.audio
+#DESCRIPTION U2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/u2hits/icecast.audio
+#DESCRIPTION U2 Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/ub40/icecast.audio
+#DESCRIPTION UB40
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/vanhalen/icecast.audio
+#DESCRIPTION Van Halen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/vanmorrison/icecast.audio
+#DESCRIPTION Van Morrison
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/vanmorrisonhits/icecast.audio
+#DESCRIPTION Van Morrison Only Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/velvetunderground/icecast.audio
+#DESCRIPTION Velvet Underground
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/waylonjennings/icecast.audio
+#DESCRIPTION Waylon Jennings
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/wham/icecast.audio
+#DESCRIPTION Wham!
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/whitesnake/icecast.audio
+#DESCRIPTION Whitesnake
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/whitneyhouston/icecast.audio
+#DESCRIPTION Whitney Houston
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/willienelson/icecast.audio
+#DESCRIPTION Willie Nelson
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/theyardbirds/icecast.audio
+#DESCRIPTION Yardbirds
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/yes/icecast.audio
+#DESCRIPTION Yes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/ziggymarley/icecast.audio
+#DESCRIPTION Ziggy Marley
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/zztop/icecast.audio
+#DESCRIPTION ZZ Top
