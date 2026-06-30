@@ -1,6 +1,6 @@
 #NAME CiefpVibes – Welcome Demo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/09.%20Berlin%20-%20Take%20my%20breath%20away.mp3:Welcome to CiefpVibes v2.2 – the ultimate jukebox!
-#DESCRIPTION Welcome to CiefpVibes v2.2 – the ultimate jukebox!
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/09.%20Berlin%20-%20Take%20my%20breath%20away.mp3:Welcome to CiefpVibes v2.3 – the ultimate jukebox!
+#DESCRIPTION Welcome to CiefpVibes v2.3 – the ultimate jukebox!
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/01.%20terence_trent_darby_-_sign_your_name-dgn.mp3:Green button → Local Storrage, Network (Laptop), Online streams, TMP/FTP Files
 #DESCRIPTION Green button → Local Storrage, Network (Laptop), Online streams, TMP/FTP Files
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.191.178%3a5555/Music/Lobby/Romantic/08.%20Phil%20Colins%20-%20Another%20Day%20In%20Paradise.mp3:Blue button → M3u Plsylist, ,tv Bouquets, Radio Lists, OpenDirectory
